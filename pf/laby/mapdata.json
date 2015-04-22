@@ -1,0 +1,154 @@
+{
+    "meta": {
+        "caption": "Лабиринт Й",
+        "navigator": "AS_Super",
+        "date": "28.02.2011",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        },
+        "drop": [
+            "81_61",
+            "81_42",
+            "81_41",
+            "82_18",
+            "81_62"
+        ]
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    265,
+                    -172
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 265,
+                "y": 172,
+                "caption": "Логово Нарушителей Всего",
+                "class": "logovo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    392,
+                    -549
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 392,
+                "y": 549,
+                "caption": "Логово Нарушителей Всего",
+                "class": "logovo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    315,
+                    -368
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 315,
+                "y": 368,
+                "caption": "Логово Нарушителей Всего",
+                "class": "logovo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    723,
+                    -478
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 723,
+                "y": 478,
+                "caption": "Усиленная Цитадель",
+                "class": "tsitadel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    885,
+                    -164
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 885,
+                "y": 164,
+                "region": "pf",
+                "map": "labr",
+                "caption": "Лабиринт Р",
+                "goto": {
+                    "x": 884,
+                    "y": 628
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    512,
+                    -870
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 512,
+                "y": 870,
+                "region": "pf",
+                "map": "labl",
+                "caption": "Лабиринт Л",
+                "goto": {
+                    "x": 874,
+                    "y": 611
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    160,
+                    -577
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 160,
+                "y": 577,
+                "region": "pf",
+                "map": "labi",
+                "caption": "Лабиринт И",
+                "goto": {
+                    "x": 887,
+                    "y": 111
+                }
+            }
+        }
+    ]
+}

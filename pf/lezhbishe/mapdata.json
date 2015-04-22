@@ -1,0 +1,84 @@
+{
+    "meta": {
+        "caption": "Лежбище злобоежей",
+        "navigator": "AS_Super",
+        "date": "22.02.2011",
+        "size": {
+            "width": 1000,
+            "height": 700
+        },
+        "drop": [
+            "81_42",
+            "81_41",
+            "81_13",
+            "81_12",
+            "81_11"
+        ]
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    194,
+                    -194
+                ]
+            },
+            "properties": {
+                "type": "station",
+                "x": 194,
+                "y": 194,
+                "caption": "\"Слава Бургомистра\"",
+                "list": [
+                    {
+                        "caption": "Вышино",
+                        "region": "pf",
+                        "map": "index",
+                        "x": 1585,
+                        "y": 743
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    490,
+                    -330
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 490,
+                "y": 330,
+                "region": "pf",
+                "map": "index",
+                "caption": "Периферия",
+                "goto": {
+                    "x": 1147,
+                    "y": 1119
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    724,
+                    -279
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 724,
+                "y": 279,
+                "caption": "Редкий мегаёж",
+                "class": "zloboezh"
+            }
+        }
+    ]
+}

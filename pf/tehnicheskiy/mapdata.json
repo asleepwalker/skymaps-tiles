@@ -1,0 +1,206 @@
+{
+    "meta": {
+        "caption": "Ратный, Технический уровень",
+        "navigator": "Pentesiliya",
+        "date": "01.08.2014",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        },
+        "center": {
+            "x": 570,
+            "y": 500
+        }
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    477,
+                    -225
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 477,
+                "y": 225,
+                "caption": "Мегапиявка",
+                "class": "leech"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    499,
+                    -182
+                ]
+            },
+            "properties": {
+                "type": "label",
+                "x": 499,
+                "y": 182,
+                "text": "Здесь спаунится Мегапиявка. НР меньше, чем у обычных, но дроп как с босса."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    709,
+                    -171
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 709,
+                "y": 171,
+                "caption": "Мощный Летанк",
+                "class": "letank"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    337,
+                    -698
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 337,
+                "y": 698,
+                "caption": "Редкий Мегаёж",
+                "class": "zloboezh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    283,
+                    -819
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 283,
+                "y": 819,
+                "caption": "Мегамусорог-губитель",
+                "class": "musorog"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    212,
+                    -681
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 212,
+                "y": 681,
+                "caption": "Усиленная Цитадель",
+                "class": "tsitadel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    909,
+                    -354
+                ]
+            },
+            "properties": {
+                "type": "maphole",
+                "x": 909,
+                "y": 354,
+                "region": "pf",
+                "map": "zhiloy",
+                "caption": "Ратный, Жилой уровень",
+                "goto": {
+                    "x": 711,
+                    "y": 910
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    904,
+                    -140
+                ]
+            },
+            "properties": {
+                "type": "maphole",
+                "x": 904,
+                "y": 140,
+                "region": "pf",
+                "map": "zhiloy",
+                "caption": "Ратный, Жилой уровень",
+                "goto": {
+                    "x": 880,
+                    "y": 227
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    522,
+                    -92
+                ]
+            },
+            "properties": {
+                "type": "maphole",
+                "x": 522,
+                "y": 92,
+                "region": "pf",
+                "map": "zhiloy",
+                "caption": "Ратный, Жилой уровень",
+                "goto": {
+                    "x": 204,
+                    "y": 109
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    348,
+                    -275
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 348,
+                "y": 275,
+                "region": "pf",
+                "map": "acropol",
+                "caption": "Ратный, Акрополь",
+                "goto": {
+                    "x": 866,
+                    "y": 660
+                }
+            }
+        }
+    ]
+}

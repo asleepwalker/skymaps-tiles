@@ -1,0 +1,57 @@
+{
+    "meta": {
+        "caption": "НПК, КПП",
+        "navigator": "neo_max",
+        "date": "03.06.2012",
+        "size": {
+            "width": 1000,
+            "height": 1300
+        }
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    481,
+                    -139
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 481,
+                "y": 139,
+                "region": "pf",
+                "map": "npkcenter",
+                "caption": "НПК, Центр разработки",
+                "goto": {
+                    "x": 861,
+                    "y": 886
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    492,
+                    -1121
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 492,
+                "y": 1121,
+                "region": "pf",
+                "map": "npk2",
+                "caption": "НПК, Производственный уровень 2",
+                "goto": {
+                    "x": 814,
+                    "y": 107
+                }
+            }
+        }
+    ]
+}

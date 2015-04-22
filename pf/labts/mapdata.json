@@ -1,0 +1,217 @@
+{
+    "meta": {
+        "caption": "Лабиринт Ц",
+        "navigator": "AS_Super",
+        "date": "26.02.2011",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        },
+        "drop": [
+            "82_18",
+            "81_15",
+            "81_13",
+            "81_12",
+            "81_32",
+            "81_31"
+        ]
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    824,
+                    -630
+                ]
+            },
+            "properties": {
+                "type": "label",
+                "x": 824,
+                "y": 630,
+                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
+                "link": "library\/coins\/rimland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    223,
+                    -841
+                ]
+            },
+            "properties": {
+                "type": "master",
+                "x": 223,
+                "y": 841,
+                "list": [
+                    "Сломанное орудие"
+                ],
+                "link": "library\/masters\/rimland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    281,
+                    -151
+                ]
+            },
+            "properties": {
+                "type": "master",
+                "x": 281,
+                "y": 151,
+                "list": [
+                    "Сломанное орудие"
+                ],
+                "link": "library\/masters\/rimland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    221,
+                    -210
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 221,
+                "y": 210,
+                "caption": "Особый Мегаёж",
+                "class": "zloboezh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138,
+                    -115
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 138,
+                "y": 115,
+                "caption": "Таверна алконавтов-зомби",
+                "class": "taverna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    220,
+                    -876
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 220,
+                "y": 876,
+                "caption": "Особый Мегаёж",
+                "class": "zloboezh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    176,
+                    -729
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 176,
+                "y": 729,
+                "caption": "Боевая Цитадель",
+                "class": "tsitadel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    703,
+                    -722
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 703,
+                "y": 722,
+                "caption": "Таверна алконавтов-монстров",
+                "class": "taverna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    710,
+                    -248
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 710,
+                "y": 248,
+                "caption": "Усиленная Цитадель",
+                "class": "tsitadel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    866,
+                    -341
+                ]
+            },
+            "properties": {
+                "type": "flager",
+                "x": 866,
+                "y": 341,
+                "easy": "Золотой Бот (22)",
+                "hard": "Цитаделус"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    479,
+                    -492
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 479,
+                "y": 492,
+                "region": "pf",
+                "map": "labt",
+                "caption": "Лабиринт Т",
+                "goto": {
+                    "x": 876,
+                    "y": 511
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,188 @@
+{
+    "meta": {
+        "caption": "Лабиринт Х",
+        "navigator": "AS_Super",
+        "date": "26.02.2011",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        },
+        "drop": [
+            "81_11",
+            "81_31",
+            "81_12",
+            "82_14",
+            "82_13",
+            "82_17",
+            "81_32",
+            "81_13"
+        ]
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    156,
+                    -785
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 156,
+                "y": 785,
+                "caption": "Усиленная цитадель",
+                "class": "tsitadel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    123,
+                    -126
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 123,
+                "y": 126,
+                "caption": "Небесный Блудотворец Барон",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    761,
+                    -100
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 761,
+                "y": 100,
+                "caption": "Небесный Блудотворец Барон",
+                "class": "default"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    450,
+                    -397
+                ]
+            },
+            "properties": {
+                "type": "master",
+                "x": 450,
+                "y": 397,
+                "list": [
+                    "Механизм подачи снарядов"
+                ],
+                "link": "library\/masters\/rimland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    769,
+                    -481
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 769,
+                "y": 481,
+                "caption": "Небесный Блудотворец Барон",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    420,
+                    -487
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 420,
+                "y": 487,
+                "caption": "Редкий Мегаёж",
+                "class": "zloboezh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    570,
+                    -197
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 570,
+                "y": 197,
+                "caption": "Логово бандитов",
+                "class": "logovo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    637,
+                    -859
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 637,
+                "y": 859,
+                "region": "pf",
+                "map": "labch",
+                "caption": "Лабиринт Ч",
+                "goto": {
+                    "x": 297,
+                    "y": 79
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    432,
+                    -778
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 432,
+                "y": 778,
+                "region": "pf",
+                "map": "labt",
+                "caption": "Лабиринт Т",
+                "goto": {
+                    "x": 95,
+                    "y": 97
+                }
+            }
+        }
+    ]
+}

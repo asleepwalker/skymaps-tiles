@@ -1,0 +1,229 @@
+{
+    "meta": {
+        "caption": "Лабиринт Л",
+        "navigator": "AS_Super",
+        "date": "01.03.2011",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        },
+        "drop": [
+            "81_15",
+            "81_61",
+            "81_11",
+            "82_6",
+            "81_12",
+            "81_13",
+            "81_62"
+        ]
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136,
+                    -126
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 136,
+                "y": 126,
+                "caption": "Небесный Блудотворец",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    799,
+                    -136
+                ]
+            },
+            "properties": {
+                "type": "station",
+                "x": 799,
+                "y": 136,
+                "caption": "\"Радость Труда\"",
+                "list": [
+                    {
+                        "caption": "\"Летучий Богатырь\"",
+                        "region": "pf",
+                        "map": "labi",
+                        "x": 761,
+                        "y": 197
+                    },
+                    {
+                        "caption": "Станция добытчиков",
+                        "region": "pf",
+                        "map": "labe",
+                        "x": 145,
+                        "y": 808
+                    },
+                    {
+                        "caption": "\"Честный Чиновник\"",
+                        "region": "pf",
+                        "map": "labs",
+                        "x": 799,
+                        "y": 802
+                    },
+                    {
+                        "caption": "Чкаловская",
+                        "region": "pf",
+                        "map": "labo",
+                        "x": 551,
+                        "y": 818
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107,
+                    -375
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 107,
+                "y": 375,
+                "caption": "Таверна алконавтов-монстров",
+                "class": "taverna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    582,
+                    -865
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 582,
+                "y": 865,
+                "caption": "Усиленная Цитадель",
+                "class": "tsitadel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    877,
+                    -882
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 877,
+                "y": 882,
+                "region": "pf",
+                "map": "index",
+                "caption": "Периферия",
+                "goto": {
+                    "x": 1388,
+                    "y": 522
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    382,
+                    -619
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 382,
+                "y": 619,
+                "region": "pf",
+                "map": "labm",
+                "caption": "Лабиринт М",
+                "goto": {
+                    "x": 532,
+                    "y": 839
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    125,
+                    -888
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 125,
+                "y": 888,
+                "region": "pf",
+                "map": "labs",
+                "caption": "Лабиринт С",
+                "goto": {
+                    "x": 98,
+                    "y": 866
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83,
+                    -665
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 83,
+                "y": 665,
+                "region": "pf",
+                "map": "labz",
+                "caption": "Лабиринт З",
+                "goto": {
+                    "x": 873,
+                    "y": 634
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    874,
+                    -611
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 874,
+                "y": 611,
+                "region": "pf",
+                "map": "laby",
+                "caption": "Лабиринт Й",
+                "goto": {
+                    "x": 512,
+                    "y": 870
+                }
+            }
+        }
+    ]
+}

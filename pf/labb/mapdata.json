@@ -1,0 +1,115 @@
+{
+    "meta": {
+        "caption": "Лабиринт Б",
+        "navigator": "AS_Super",
+        "date": "26.02.2011",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        },
+        "drop": [
+            "81_42",
+            "81_41",
+            "81_32",
+            "81_31",
+            "82_18"
+        ]
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    218,
+                    -818
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 218,
+                "y": 818,
+                "caption": "Логово бандитов ",
+                "class": "logovo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    728,
+                    -590
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 728,
+                "y": 590,
+                "caption": "Небесный Блудотворец Барон",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    154,
+                    -129
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 154,
+                "y": 129,
+                "caption": "Логово бандитов",
+                "class": "logovo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81,
+                    -796
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 81,
+                "y": 796,
+                "region": "pf",
+                "map": "labg",
+                "caption": "Лабиринт Г",
+                "goto": {
+                    "x": 176,
+                    "y": 97
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    454,
+                    -534
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 454,
+                "y": 534,
+                "region": "pf",
+                "map": "laba",
+                "caption": "Лабиринт А",
+                "goto": {
+                    "x": 80,
+                    "y": 118
+                }
+            }
+        }
+    ]
+}

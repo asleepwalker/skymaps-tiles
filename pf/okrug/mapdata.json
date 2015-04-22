@@ -1,0 +1,60 @@
+{
+    "meta": {
+        "caption": "Особый Муниципальный Округ 4",
+        "navigator": "AS_Super",
+        "date": "15.04.2011",
+        "size": {
+            "width": 1000,
+            "height": 750
+        }
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    226,
+                    -376
+                ]
+            },
+            "properties": {
+                "type": "station",
+                "x": 226,
+                "y": 376,
+                "caption": "Казенная платформа",
+                "list": [
+                    {
+                        "caption": "Вышино",
+                        "region": "pf",
+                        "map": "index",
+                        "x": 1585,
+                        "y": 743
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    591,
+                    -127
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 591,
+                "y": 127,
+                "region": "pf",
+                "map": "svalka",
+                "caption": "Свалка",
+                "goto": {
+                    "x": 127,
+                    "y": 327
+                }
+            }
+        }
+    ]
+}

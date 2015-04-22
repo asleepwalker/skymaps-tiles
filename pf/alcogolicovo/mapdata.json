@@ -1,0 +1,83 @@
+{
+    "meta": {
+        "caption": "Алкоголиково",
+        "navigator": "AS_Super",
+        "date": "22.02.2011",
+        "size": {
+            "width": 1000,
+            "height": 700
+        },
+        "drop": [
+            "81_61",
+            "81_51",
+            "81_50",
+            "81_62"
+        ]
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    701,
+                    -226
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 701,
+                "y": 226,
+                "caption": "Таверна алконавтов",
+                "class": "taverna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178,
+                    -473
+                ]
+            },
+            "properties": {
+                "type": "station",
+                "x": 178,
+                "y": 473,
+                "caption": "\"Радушная\"",
+                "list": [
+                    {
+                        "caption": "Вышино",
+                        "region": "pf",
+                        "map": "index",
+                        "x": 1585,
+                        "y": 743
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    493,
+                    -368
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 493,
+                "y": 368,
+                "region": "pf",
+                "map": "index",
+                "caption": "Периферия",
+                "goto": {
+                    "x": 1101,
+                    "y": 540
+                }
+            }
+        }
+    ]
+}

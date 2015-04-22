@@ -1,0 +1,223 @@
+{
+    "meta": {
+        "caption": "Лабиринт П",
+        "navigator": "AS_Super",
+        "date": "27.02.2011",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        },
+        "drop": [
+            "81_11",
+            "81_31",
+            "81_12",
+            "82_14",
+            "82_13",
+            "82_17",
+            "81_32",
+            "81_13"
+        ]
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    156,
+                    -632
+                ]
+            },
+            "properties": {
+                "type": "label",
+                "x": 156,
+                "y": 632,
+                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
+                "link": "library\/coins\/rimland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    598,
+                    -432
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 598,
+                "y": 432,
+                "caption": "Логово Нарушителей Всего",
+                "class": "logovo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112,
+                    -781
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 112,
+                "y": 781,
+                "caption": "Небесный Блудотворец Барон",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    822,
+                    -267
+                ]
+            },
+            "properties": {
+                "type": "master",
+                "x": 822,
+                "y": 267,
+                "list": [
+                    "Александрит"
+                ],
+                "link": "library\/masters\/rimland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    440,
+                    -454
+                ]
+            },
+            "properties": {
+                "type": "flager",
+                "x": 440,
+                "y": 454,
+                "easy": "Крокус (21)",
+                "hard": "Бешеный Мегаеж",
+                "link": "library\/flagers\/rimland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    338,
+                    -563
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 338,
+                "y": 563,
+                "caption": "Логово жестоких бандитов",
+                "class": "logovo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    759,
+                    -394
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 759,
+                "y": 394,
+                "caption": "Логово жестоких бандитов",
+                "class": "logovo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    748,
+                    -151
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 748,
+                "y": 151,
+                "caption": "Небесный Блудотворец Барон",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    803,
+                    -311
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 803,
+                "y": 311,
+                "caption": "Редкий Мегаёж",
+                "class": "zloboezh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    874,
+                    -868
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 874,
+                "y": 868,
+                "region": "pf",
+                "map": "labch",
+                "caption": "Лабиринт Ч",
+                "goto": {
+                    "x": 539,
+                    "y": 500
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    94,
+                    -94
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 94,
+                "y": 94,
+                "region": "pf",
+                "map": "labsh",
+                "caption": "Лабиринт Ш",
+                "goto": {
+                    "x": 84,
+                    "y": 523
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,304 @@
+{
+    "meta": {
+        "caption": "Лабиринт под Буреломом, ур.2",
+        "navigator": "AS_Super",
+        "date": "26.02.2011",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        },
+        "drop": [
+            "82_8",
+            "81_61",
+            "81_42",
+            "81_41",
+            "81_62"
+        ]
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    873,
+                    -502
+                ]
+            },
+            "properties": {
+                "type": "label",
+                "x": 873,
+                "y": 502,
+                "text": "Зона для выполнения квеста \"Истребление Дровосеков-убийц\". Вам предстоит проверить свои нервы и убить 1000 дровосеков."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    817,
+                    -780
+                ]
+            },
+            "properties": {
+                "type": "label",
+                "x": 817,
+                "y": 780,
+                "text": "Зона для выполнения квеста \"Истребление Дровосеков-убийц\". Вам предстоит проверить свои нервы и убить 1000 дровосеков."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    196,
+                    -790
+                ]
+            },
+            "properties": {
+                "type": "label",
+                "x": 196,
+                "y": 790,
+                "text": "Зона для выполнения квеста \"Истребление Дровосеков-убийц\". Вам предстоит проверить свои нервы и убить 1000 дровосеков."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109,
+                    -343
+                ]
+            },
+            "properties": {
+                "type": "label",
+                "x": 109,
+                "y": 343,
+                "text": "Зона для выполнения квеста \"Истребление Дровосеков-убийц\". Вам предстоит проверить свои нервы и убить 1000 дровосеков."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    543,
+                    -407
+                ]
+            },
+            "properties": {
+                "type": "instance",
+                "x": 543,
+                "y": 407,
+                "region": "pf",
+                "map": "woodcutters",
+                "caption": "Деревня Дровосеков",
+                "goX": 0,
+                "goY": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    851,
+                    -447
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 851,
+                "y": 447,
+                "caption": "Цитадель",
+                "class": "tsitadel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90,
+                    -450
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 90,
+                "y": 450,
+                "caption": "Цитадель",
+                "class": "tsitadel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    349,
+                    -388
+                ]
+            },
+            "properties": {
+                "type": "flager",
+                "x": 349,
+                "y": 388,
+                "easy": "Крокус (14)",
+                "hard": "Безбожный гриболёт",
+                "link": "library\/flagers\/rimland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    467,
+                    -319
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 467,
+                "y": 319,
+                "region": "pf",
+                "map": "burelom3",
+                "caption": "Лабиринт под Буреломом, ур.3",
+                "goto": {
+                    "x": 483,
+                    "y": 484
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    382,
+                    -324
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 382,
+                "y": 324,
+                "region": "pf",
+                "map": "index",
+                "caption": "Периферия",
+                "goto": {
+                    "x": 1669,
+                    "y": 474
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    645,
+                    -405
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 645,
+                "y": 405,
+                "region": "pf",
+                "map": "index",
+                "caption": "Периферия",
+                "goto": {
+                    "x": 1691,
+                    "y": 1022
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    585,
+                    -329
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 585,
+                "y": 329,
+                "region": "pf",
+                "map": "index",
+                "caption": "Периферия",
+                "goto": {
+                    "x": 1388,
+                    "y": 522
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    887,
+                    -190
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 887,
+                "y": 190,
+                "region": "pf",
+                "map": "laba",
+                "caption": "Лабиринт А",
+                "goto": {
+                    "x": 84,
+                    "y": 444
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    468,
+                    -73
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 468,
+                "y": 73,
+                "region": "pf",
+                "map": "burelom1",
+                "caption": "Лабиринт под Буреломом, ур.1",
+                "goto": {
+                    "x": 886,
+                    "y": 884
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    476,
+                    -672
+                ]
+            },
+            "properties": {
+                "type": "label",
+                "x": 476,
+                "y": 672,
+                "text": "Огромное количество безумных дровосеков с рекламными ботами так и рвутся сделать из вас органическую древесину."
+            }
+        }
+    ]
+}

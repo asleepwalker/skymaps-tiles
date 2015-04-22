@@ -1,0 +1,180 @@
+{
+    "meta": {
+        "caption": "Ратный, Жилой уровень",
+        "navigator": "AS_Super",
+        "date": "31.07.2014",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        },
+        "center": {
+            "x": 500,
+            "y": 500
+        }
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    258,
+                    -849
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 258,
+                "y": 849,
+                "region": "pf",
+                "map": "index",
+                "caption": "Периферия",
+                "goto": {
+                    "x": 1388,
+                    "y": 522
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    268,
+                    -342
+                ]
+            },
+            "properties": {
+                "type": "label",
+                "x": 268,
+                "y": 342,
+                "text": "В бункерах на этой карте можно получить чертежи, использовав «Смарт-Карту»."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133,
+                    -169
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 133,
+                "y": 169,
+                "caption": "Редкий Мегаёж",
+                "class": "zloboezh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    850,
+                    -887
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 850,
+                "y": 887,
+                "caption": "Сквард Свирепый",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    711,
+                    -910
+                ]
+            },
+            "properties": {
+                "type": "maphole",
+                "x": 711,
+                "y": 910,
+                "region": "pf",
+                "map": "tehnicheskiy",
+                "caption": "Ратный, Технический уровень",
+                "goto": {
+                    "x": 909,
+                    "y": 354
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    880,
+                    -227
+                ]
+            },
+            "properties": {
+                "type": "maphole",
+                "x": 880,
+                "y": 227,
+                "region": "pf",
+                "map": "tehnicheskiy",
+                "caption": "Ратный, Технический уровень",
+                "goto": {
+                    "x": 904,
+                    "y": 140
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    204,
+                    -109
+                ]
+            },
+            "properties": {
+                "type": "maphole",
+                "x": 204,
+                "y": 109,
+                "region": "pf",
+                "map": "tehnicheskiy",
+                "caption": "Ратный, Технический уровень",
+                "goto": {
+                    "x": 522,
+                    "y": 92
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    479,
+                    -464
+                ]
+            },
+            "properties": {
+                "type": "station",
+                "x": 479,
+                "y": 464,
+                "caption": "Исследовательская платформа",
+                "list": [
+                    {
+                        "caption": "Вышино",
+                        "region": "pf",
+                        "map": "index",
+                        "x": 1585,
+                        "y": 743
+                    }
+                ]
+            }
+        }
+    ]
+}

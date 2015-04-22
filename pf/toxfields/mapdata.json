@@ -1,0 +1,57 @@
+{
+    "meta": {
+        "caption": "Токсичные Поля",
+        "navigator": "AS_Super",
+        "date": "27.02.2011",
+        "size": {
+            "width": 1000,
+            "height": 300
+        },
+        "drop": [
+            "82_4"
+        ]
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    875,
+                    -237
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 875,
+                "y": 237,
+                "list": [
+                    "Тропический центропиг",
+                    "Игольчатый марлин"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90,
+                    -230
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 90,
+                "y": 230,
+                "region": "pf",
+                "map": "index",
+                "caption": "Периферия",
+                "goto": {
+                    "x": 2550,
+                    "y": 422
+                }
+            }
+        }
+    ]
+}

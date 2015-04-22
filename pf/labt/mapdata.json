@@ -1,0 +1,267 @@
+{
+    "meta": {
+        "caption": "Лабиринт Т",
+        "navigator": "AS_Super",
+        "date": "26.02.2011",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        },
+        "drop": [
+            "82_18",
+            "81_15",
+            "81_13",
+            "81_12",
+            "81_32",
+            "81_31"
+        ]
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    161,
+                    -795
+                ]
+            },
+            "properties": {
+                "type": "station",
+                "x": 161,
+                "y": 795,
+                "caption": "\"Триумф Старателей\"",
+                "list": [
+                    {
+                        "caption": "\"Небесная Жесть\"",
+                        "region": "pf",
+                        "map": "labch",
+                        "x": 144,
+                        "y": 172
+                    },
+                    {
+                        "caption": "\"Летучий Богатырь\"",
+                        "region": "pf",
+                        "map": "labi",
+                        "x": 761,
+                        "y": 197
+                    },
+                    {
+                        "caption": "Платформа 47 км",
+                        "region": "pf",
+                        "map": "labu",
+                        "x": 164,
+                        "y": 776
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    635,
+                    -302
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 635,
+                "y": 302,
+                "caption": "Таверна алконавтов-монстров",
+                "class": "taverna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117,
+                    -401
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 117,
+                "y": 401,
+                "caption": "Мусорог-губитель Капитан",
+                "class": "musorog"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    755,
+                    -705
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 755,
+                "y": 705,
+                "caption": "Мусорог-потрошитель Капитан",
+                "class": "musorog"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    589,
+                    -803
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 589,
+                "y": 803,
+                "caption": "Мусорог-потрошитель Капитан",
+                "class": "musorog"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    355,
+                    -845
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 355,
+                "y": 845,
+                "caption": "Мусорог Капитан",
+                "class": "musorog"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105,
+                    -609
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 105,
+                "y": 609,
+                "caption": "Мусорог Капитан",
+                "class": "musorog"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    240,
+                    -215
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 240,
+                "y": 215,
+                "caption": "Мусорог-губитель Капитан",
+                "class": "musorog"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    670,
+                    -128
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 670,
+                "y": 128,
+                "region": "pf",
+                "map": "index",
+                "caption": "Периферия",
+                "goto": {
+                    "x": 1388,
+                    "y": 522
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    876,
+                    -511
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 876,
+                "y": 511,
+                "region": "pf",
+                "map": "labts",
+                "caption": "Лабиринт Ц",
+                "goto": {
+                    "x": 479,
+                    "y": 492
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    868,
+                    -91
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 868,
+                "y": 91,
+                "region": "pf",
+                "map": "labk",
+                "caption": "Лабиринт К",
+                "goto": {
+                    "x": 715,
+                    "y": 833
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    95,
+                    -97
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 95,
+                "y": 97,
+                "region": "pf",
+                "map": "labh",
+                "caption": "Лабиринт Х",
+                "goto": {
+                    "x": 432,
+                    "y": 778
+                }
+            }
+        }
+    ]
+}

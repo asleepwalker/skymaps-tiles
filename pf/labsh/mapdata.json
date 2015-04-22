@@ -1,0 +1,245 @@
+{
+    "meta": {
+        "caption": "Лабиринт Ш",
+        "navigator": "AS_Super",
+        "date": "27.02.2011",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        },
+        "drop": [
+            "81_50",
+            "81_11",
+            "82_6",
+            "81_15",
+            "81_12",
+            "81_13",
+            "82_17",
+            "81_51"
+        ]
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    579,
+                    -97
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 579,
+                "y": 97,
+                "caption": "Таверна алконавтов-зомби",
+                "class": "taverna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    851,
+                    -561
+                ]
+            },
+            "properties": {
+                "type": "flager",
+                "x": 851,
+                "y": 561,
+                "easy": "Огнянка (10)",
+                "hard": "Бешенный мегаеж",
+                "link": "library\/flagers\/rimland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    595,
+                    -815
+                ]
+            },
+            "properties": {
+                "type": "master",
+                "x": 595,
+                "y": 815,
+                "list": [
+                    "Часовой механизм"
+                ],
+                "link": "library\/masters\/rimland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    589,
+                    -772
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 589,
+                "y": 772,
+                "caption": "Особый Мегаёж",
+                "class": "zloboezh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    456,
+                    -879
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 456,
+                "y": 879,
+                "caption": "Редкий Мегаёж",
+                "class": "zloboezh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    193,
+                    -809
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 193,
+                "y": 809,
+                "caption": "Особый Мегаёж",
+                "class": "zloboezh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140,
+                    -772
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 140,
+                "y": 772,
+                "caption": "Особый Мегаёж",
+                "class": "zloboezh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    657,
+                    -352
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 657,
+                "y": 352,
+                "caption": "Особый Мегаёж",
+                "class": "zloboezh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    791,
+                    -297
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 791,
+                "y": 297,
+                "caption": "Редкий Мегаёж",
+                "class": "zloboezh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    876,
+                    -702
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 876,
+                "y": 702,
+                "region": "pf",
+                "map": "labs",
+                "caption": "Лабиринт С",
+                "goto": {
+                    "x": 404,
+                    "y": 608
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84,
+                    -523
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 84,
+                "y": 523,
+                "region": "pf",
+                "map": "labp",
+                "caption": "Лабиринт П",
+                "goto": {
+                    "x": 94,
+                    "y": 94
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83,
+                    -83
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 83,
+                "y": 83,
+                "region": "pf",
+                "map": "labf",
+                "caption": "Лабиринт Ф",
+                "goto": {
+                    "x": 176,
+                    "y": 855
+                }
+            }
+        }
+    ]
+}
