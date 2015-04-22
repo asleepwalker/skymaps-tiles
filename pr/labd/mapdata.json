@@ -1,0 +1,151 @@
+{
+    "meta": {
+        "caption": "Лабиринт Д",
+        "navigator": "AS_Super",
+        "date": "17.03.2011",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        },
+        "drop": [
+            "81_52",
+            "81_51",
+            "81_64",
+            "81_63",
+            "81_62",
+            "82_21"
+        ]
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    683,
+                    -862
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 683,
+                "y": 862,
+                "caption": "Усиленная Цитадель Механоидов",
+                "class": "tsitadel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    744,
+                    -567
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 744,
+                "y": 567,
+                "caption": "Усиленная Цитадель Механоидов",
+                "class": "tsitadel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    566,
+                    -413
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 566,
+                "y": 413,
+                "caption": "Мусорог полковник",
+                "class": "musorog"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108,
+                    -386
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 108,
+                "y": 386,
+                "caption": "Матка",
+                "class": "matka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    569,
+                    -837
+                ]
+            },
+            "properties": {
+                "type": "flager",
+                "x": 569,
+                "y": 837,
+                "easy": "Сапер (9)",
+                "hard": "Осьминог Томми",
+                "link": "library\/flagers\/reef"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    852,
+                    -109
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 852,
+                "y": 109,
+                "region": "pr",
+                "map": "labl",
+                "caption": "Лабиринт Л",
+                "goto": {
+                    "x": 354,
+                    "y": 344
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    432,
+                    -635
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 432,
+                "y": 635,
+                "region": "pr",
+                "map": "labb",
+                "caption": "Лабиринт Б",
+                "goto": {
+                    "x": 883,
+                    "y": 460
+                }
+            }
+        }
+    ]
+}

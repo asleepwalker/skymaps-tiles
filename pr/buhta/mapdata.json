@@ -1,0 +1,67 @@
+{
+    "meta": {
+        "caption": "Бухта Барахта",
+        "navigator": "AS_Super",
+        "date": "16.04.2011",
+        "size": {
+            "width": 2000,
+            "height": 1500
+        },
+        "drop": [
+            "81_12",
+            "81_71",
+            "81_52",
+            "81_51",
+            "81_33",
+            "81_32",
+            "81_62",
+            "81_42",
+            "81_63",
+            "81_13"
+        ]
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    917,
+                    -355
+                ]
+            },
+            "properties": {
+                "type": "npc",
+                "x": 917,
+                "y": 355,
+                "caption": "Отель &quot;Голубая Жемчужина&quot;",
+                "npc": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    361,
+                    -1141
+                ]
+            },
+            "properties": {
+                "type": "station",
+                "x": 361,
+                "y": 1141,
+                "caption": "\"Барракуда\"",
+                "list": [
+                    {
+                        "caption": "Лагуна",
+                        "region": "pr",
+                        "map": "index",
+                        "x": 996,
+                        "y": 976
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,181 @@
+{
+    "meta": {
+        "caption": "Лабиринт И",
+        "navigator": "AS_Super",
+        "date": "18.03.2011",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        },
+        "drop": [
+            "81_14",
+            "81_12",
+            "82_21",
+            "81_32",
+            "82_22",
+            "81_33",
+            "81_13"
+        ]
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    299,
+                    -640
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 299,
+                "y": 640,
+                "caption": "Редкий мегаёж",
+                "class": "zloboezh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124,
+                    -640
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 124,
+                "y": 640,
+                "caption": "Древний мегаёж ",
+                "class": "zloboezh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    830,
+                    -275
+                ]
+            },
+            "properties": {
+                "type": "station",
+                "x": 830,
+                "y": 275,
+                "caption": "\"Изабель\"",
+                "list": [
+                    {
+                        "caption": "Пирасикаба",
+                        "region": "pr",
+                        "map": "labv",
+                        "x": 780,
+                        "y": 340
+                    },
+                    {
+                        "caption": "\"Пелотас\"",
+                        "region": "pr",
+                        "map": "labr",
+                        "x": 185,
+                        "y": 486
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    788,
+                    -594
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 788,
+                "y": 594,
+                "caption": "Цитадель механоидов",
+                "class": "tsitadel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    377,
+                    -383
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 377,
+                "y": 383,
+                "caption": "Мусорог полковник",
+                "class": "musorog"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    387,
+                    -889
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 387,
+                "y": 889
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75,
+                    -756
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 75,
+                "y": 756,
+                "region": "pr",
+                "map": "labe",
+                "caption": "Лабиринт Е",
+                "goto": {
+                    "x": 320,
+                    "y": 771
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    449,
+                    -77
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 449,
+                "y": 77,
+                "region": "pr",
+                "map": "laby",
+                "caption": "Лабиринт Й",
+                "goto": {
+                    "x": 880,
+                    "y": 98
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,152 @@
+{
+    "meta": {
+        "caption": "Лабиринт Й",
+        "navigator": "AS_Super",
+        "date": "11.03.2011",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        },
+        "drop": [
+            "82_21",
+            "81_12",
+            "81_14",
+            "81_33",
+            "81_32",
+            "82_9",
+            "81_13",
+            "82_22"
+        ]
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122,
+                    -156
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 122,
+                "y": 156,
+                "caption": "Великий Кроволёт-Король",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    517,
+                    -435
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 517,
+                "y": 435,
+                "caption": "Усиленная Цитадель Механоидов",
+                "class": "tsitadel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    779,
+                    -808
+                ]
+            },
+            "properties": {
+                "type": "label",
+                "x": 779,
+                "y": 808,
+                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
+                "link": "library\/coins\/reef"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    656,
+                    -114
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 656,
+                "y": 114,
+                "caption": "Мусорог-губитель Полковник",
+                "class": "musorog"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    229,
+                    -414
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 229,
+                "y": 414,
+                "caption": "Матка",
+                "class": "matka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    616,
+                    -601
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 616,
+                "y": 601,
+                "region": "pr",
+                "map": "labt",
+                "caption": "Лабиринт Т",
+                "goto": {
+                    "x": 884,
+                    "y": 88
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    880,
+                    -98
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 880,
+                "y": 98,
+                "region": "pr",
+                "map": "labi",
+                "caption": "Лабиринт И",
+                "goto": {
+                    "x": 449,
+                    "y": 77
+                }
+            }
+        }
+    ]
+}

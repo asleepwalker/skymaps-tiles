@@ -1,0 +1,217 @@
+{
+    "meta": {
+        "caption": "Горелый омут, ур.2",
+        "navigator": "AS_Super",
+        "date": "06.03.2011",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        },
+        "drop": [
+            "81_33",
+            "81_32",
+            "81_63",
+            "81_62"
+        ]
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    626,
+                    -383
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 626,
+                "y": 383,
+                "caption": "Редкий Мегаёж",
+                "class": "zloboezh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    313,
+                    -146
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 313,
+                "y": 146,
+                "caption": "Мусорог Полковник",
+                "class": "musorog"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    339,
+                    -93
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 339,
+                "y": 93,
+                "caption": "Мусорог Полковник",
+                "class": "musorog"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    720,
+                    -699
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 720,
+                "y": 699,
+                "caption": "Мусорог-оборотень",
+                "class": "musorog",
+                "mode": "rare"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    483,
+                    -808
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 483,
+                "y": 808,
+                "caption": "Матка Босха",
+                "class": "matka",
+                "mode": "rare"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    857,
+                    -149
+                ]
+            },
+            "properties": {
+                "type": "label",
+                "x": 857,
+                "y": 149,
+                "text": "Тут у нас импровизированное минное поле.) Удобное место для тренировок с ускорителями."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    875,
+                    -848
+                ]
+            },
+            "properties": {
+                "type": "quest",
+                "x": 875,
+                "y": 848,
+                "caption": "\"Рыбы-рыбы-рыбоньки\"",
+                "link": "quests\/fish",
+                "tip": "Здесь ловится ветряный жерех!"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    863,
+                    -861
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 863,
+                "y": 861
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    538,
+                    -861
+                ]
+            },
+            "properties": {
+                "type": "flager",
+                "x": 538,
+                "y": 861,
+                "easy": "Коньки-воришки (25)",
+                "hard": "Цитадель негодяев",
+                "link": "library\/flagers\/reef"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    222,
+                    -876
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 222,
+                "y": 876,
+                "region": "pr",
+                "map": "goreliy3",
+                "caption": "Горелый омут, ур.3",
+                "goto": {
+                    "x": 81,
+                    "y": 163
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78,
+                    -99
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 78,
+                "y": 99,
+                "region": "pr",
+                "map": "goreliy1",
+                "caption": "Горелый омут, ур.1",
+                "goto": {
+                    "x": 592,
+                    "y": 125
+                }
+            }
+        }
+    ]
+}

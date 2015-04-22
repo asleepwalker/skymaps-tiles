@@ -1,0 +1,295 @@
+{
+    "meta": {
+        "caption": "Лабиринт П",
+        "navigator": "AS_Super",
+        "date": "18.03.2011",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        },
+        "drop": [
+            "81_71",
+            "81_14",
+            "81_12",
+            "82_24",
+            "82_22",
+            "81_13",
+            "81_42"
+        ]
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    485,
+                    -527
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 485,
+                "y": 527,
+                "caption": "Великий кроволёт",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    785,
+                    -735
+                ]
+            },
+            "properties": {
+                "type": "station",
+                "x": 785,
+                "y": 735,
+                "caption": "\"Жара\"",
+                "list": [
+                    {
+                        "caption": "\"Касильда\"",
+                        "region": "pr",
+                        "map": "labk",
+                        "x": 606,
+                        "y": 144
+                    },
+                    {
+                        "caption": "Папайа Джус",
+                        "region": "pr",
+                        "map": "labl",
+                        "x": 244,
+                        "y": 751
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    111,
+                    -873
+                ]
+            },
+            "properties": {
+                "type": "master",
+                "x": 111,
+                "y": 873,
+                "list": [
+                    "Сломанный прибор"
+                ],
+                "link": "library\/masters\/reef"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    848,
+                    -235
+                ]
+            },
+            "properties": {
+                "type": "master",
+                "x": 848,
+                "y": 235,
+                "list": [
+                    "Маховик"
+                ],
+                "link": "library\/masters\/reef"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143,
+                    -379
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 143,
+                "y": 379,
+                "caption": "Древний мегаёж",
+                "class": "zloboezh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130,
+                    -410
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 130,
+                "y": 410,
+                "caption": "Древний мегаёж",
+                "class": "zloboezh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90,
+                    -843
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 90,
+                "y": 843,
+                "caption": "Редкий Мегаёж",
+                "class": "zloboezh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    644,
+                    -86
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 644,
+                "y": 86,
+                "caption": "Мусорог-губитель Полковник",
+                "class": "musorog"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    820,
+                    -209
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 820,
+                "y": 209,
+                "caption": "Редкий Мегаёж",
+                "class": "zloboezh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    788,
+                    -508
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 788,
+                "y": 508,
+                "caption": "Логово жестоких бандитов",
+                "class": "logovo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    866,
+                    -87
+                ]
+            },
+            "properties": {
+                "type": "flager",
+                "x": 866,
+                "y": 87,
+                "easy": "Желтая поднебная лотка (13)",
+                "hard": "Любимец Пита",
+                "link": "library\/flagers\/reef"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    763,
+                    -884
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 763,
+                "y": 884,
+                "region": "pr",
+                "map": "labn",
+                "caption": "Лабиринт Н",
+                "goto": {
+                    "x": 492,
+                    "y": 869
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    625,
+                    -518
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 625,
+                "y": 518,
+                "region": "pr",
+                "map": "labu",
+                "caption": "Лабиринт У",
+                "goto": {
+                    "x": 90,
+                    "y": 129
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    208,
+                    -81
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 208,
+                "y": 81,
+                "region": "pr",
+                "map": "labm",
+                "caption": "Лабиринт М",
+                "goto": {
+                    "x": 722,
+                    "y": 94
+                }
+            }
+        }
+    ]
+}

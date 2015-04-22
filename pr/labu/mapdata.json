@@ -1,0 +1,268 @@
+{
+    "meta": {
+        "caption": "Лабиринт У",
+        "navigator": "AS_Super",
+        "date": "18.03.2011",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        },
+        "drop": [
+            "81_71",
+            "81_14",
+            "81_12",
+            "82_24",
+            "82_22",
+            "81_13",
+            "81_42"
+        ]
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    551,
+                    -125
+                ]
+            },
+            "properties": {
+                "type": "label",
+                "x": 551,
+                "y": 125,
+                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
+                "link": "library\/coins\/reef"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    790,
+                    -286
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 790,
+                "y": 286,
+                "caption": "Редкий Мегаёж",
+                "class": "zloboezh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    700,
+                    -859
+                ]
+            },
+            "properties": {
+                "type": "master",
+                "x": 700,
+                "y": 859,
+                "list": [
+                    "Паровой узел"
+                ],
+                "link": "library\/masters\/reef"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    242,
+                    -819
+                ]
+            },
+            "properties": {
+                "type": "master",
+                "x": 242,
+                "y": 819,
+                "list": [
+                    "Масло небесных незабудок"
+                ],
+                "link": "library\/masters\/reef"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    519,
+                    -165
+                ]
+            },
+            "properties": {
+                "type": "label",
+                "x": 519,
+                "y": 165,
+                "text": "Бродячие ежи - это очень опасно. Особенно если они бродят в толпе медуз и по обьему в разы превышают обьем кораблей."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    623,
+                    -550
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 623,
+                "y": 550,
+                "caption": "Мусорог-губитель Полковник",
+                "class": "musorog"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    562,
+                    -584
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 562,
+                "y": 584,
+                "caption": "Мусорог-губитель Полковник",
+                "class": "musorog"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    673,
+                    -832
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 673,
+                "y": 832,
+                "caption": "Особый мегаёж",
+                "class": "zloboezh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    218,
+                    -793
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 218,
+                "y": 793,
+                "caption": "Особый мегаёж",
+                "class": "zloboezh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    365,
+                    -607
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 365,
+                "y": 607,
+                "caption": "Редкий Мегаёж",
+                "class": "zloboezh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    333,
+                    -568
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 333,
+                "y": 568,
+                "caption": "Редкий Мегаёж",
+                "class": "zloboezh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    524,
+                    -227
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 524,
+                "y": 227,
+                "caption": "Особый Мегаёж",
+                "class": "zloboezh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    291,
+                    -150
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 291,
+                "y": 150,
+                "caption": "Редкий Мегаёж",
+                "class": "zloboezh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90,
+                    -129
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 90,
+                "y": 129,
+                "region": "pr",
+                "map": "labp",
+                "caption": "Лабиринт П",
+                "goto": {
+                    "x": 625,
+                    "y": 518
+                }
+            }
+        }
+    ]
+}

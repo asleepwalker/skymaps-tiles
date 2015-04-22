@@ -1,0 +1,47 @@
+{
+    "meta": {
+        "caption": "Чавча",
+        "navigator": "Barif",
+        "date": "07.03.2011",
+        "size": {
+            "width": 800,
+            "height": 360
+        }
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    152,
+                    -162
+                ]
+            },
+            "properties": {
+                "type": "label",
+                "x": 152,
+                "y": 162,
+                "text": "Здесь растут лакомые цветы небесных незабудок."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    562,
+                    -165
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 562,
+                "y": 165,
+                "caption": "Чавча",
+                "class": "chavcha",
+                "mode": "quest"
+            }
+        }
+    ]
+}

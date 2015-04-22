@@ -1,0 +1,208 @@
+{
+    "meta": {
+        "caption": "Горелый омут, ур.5",
+        "navigator": "AS_Super",
+        "date": "07.03.2011",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        },
+        "drop": [
+            "81_33",
+            "81_32",
+            "81_63",
+            "81_62"
+        ]
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118,
+                    -453
+                ]
+            },
+            "properties": {
+                "type": "label",
+                "x": 118,
+                "y": 453,
+                "text": "Здесь обитают редкие медузы. С Premium Gold у вас есть большой шанс получить низаракт."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    860,
+                    -742
+                ]
+            },
+            "properties": {
+                "type": "label",
+                "x": 860,
+                "y": 742,
+                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
+                "link": "library\/coins\/reef"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80,
+                    -61
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 80,
+                "y": 61,
+                "caption": "Великий кроволёт",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    692,
+                    -506
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 692,
+                "y": 506,
+                "caption": "Мусорог-губитель Полковник",
+                "class": "musorog"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    664,
+                    -149
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 664,
+                "y": 149,
+                "caption": "Бета-матка",
+                "class": "matka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88,
+                    -729
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 88,
+                "y": 729,
+                "caption": "Великий кроволёт",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    810,
+                    -832
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 810,
+                "y": 832,
+                "caption": "Великий кроволёт",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    844,
+                    -712
+                ]
+            },
+            "properties": {
+                "type": "label",
+                "x": 844,
+                "y": 712,
+                "text": "Мусорки все пустые. Абсолютно. Можете даже и не рыться. Нет, правда пустые. И не ройтесь даже, слышите!"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171,
+                    -71
+                ]
+            },
+            "properties": {
+                "type": "flager",
+                "x": 171,
+                "y": 71,
+                "easy": "Тигровый червь (17)",
+                "hard": "Осьминог Томми",
+                "link": "library\/flagers\/reef"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    904,
+                    -659
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 904,
+                "y": 659
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    478,
+                    -495
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 478,
+                "y": 495,
+                "region": "pr",
+                "map": "goreliy4",
+                "caption": "Горелый омут, ур.4",
+                "goto": {
+                    "x": 280,
+                    "y": 127
+                }
+            }
+        }
+    ]
+}

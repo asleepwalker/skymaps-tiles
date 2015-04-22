@@ -1,0 +1,65 @@
+{
+    "meta": {
+        "caption": "Проверка навыков",
+        "navigator": "Hiteihime",
+        "date": "10.09.2013",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        }
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    718,
+                    -838
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 718,
+                "y": 838,
+                "caption": "Пирастат",
+                "class": "airship",
+                "mode": "quest"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    534,
+                    -379
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 534,
+                "y": 379,
+                "caption": "Логово Нарушителей Всего",
+                "class": "logovo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    225,
+                    -476
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 225,
+                "y": 476,
+                "caption": "Великий Кроволёт Барон",
+                "class": "airship"
+            }
+        }
+    ]
+}

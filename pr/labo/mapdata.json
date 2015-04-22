@@ -1,0 +1,151 @@
+{
+    "meta": {
+        "caption": "Лабиринт О",
+        "navigator": "AS_Super",
+        "date": "13.03.2011",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        },
+        "drop": [
+            "81_64",
+            "82_21",
+            "81_51",
+            "81_62",
+            "81_63",
+            "81_52",
+            "81_62"
+        ]
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    447,
+                    -296
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 447,
+                "y": 296,
+                "caption": "Редкий мегаёж",
+                "class": "zloboezh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    284,
+                    -130
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 284,
+                "y": 130,
+                "caption": "Особый мегаёж",
+                "class": "zloboezh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    467,
+                    -125
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 467,
+                "y": 125,
+                "caption": "Редкий мегаёж",
+                "class": "zloboezh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    658,
+                    -485
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 658,
+                "y": 485,
+                "caption": "Логово бандитов",
+                "class": "logovo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    336,
+                    -562
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 336,
+                "y": 562,
+                "caption": "Великий Кроволёт Барон",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99,
+                    -732
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 99,
+                "y": 732,
+                "region": "pr",
+                "map": "labzh",
+                "caption": "Лабиринт Ж",
+                "goto": {
+                    "x": 805,
+                    "y": 853
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    861,
+                    -344
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 861,
+                "y": 344,
+                "region": "pr",
+                "map": "labs",
+                "caption": "Лабиринт С",
+                "goto": {
+                    "x": 554,
+                    "y": 497
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,195 @@
+{
+    "meta": {
+        "caption": "Лабиринт Л",
+        "navigator": "AS_Super",
+        "date": "17.03.2011",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        },
+        "drop": [
+            "81_64",
+            "82_23",
+            "81_51",
+            "81_62",
+            "81_63",
+            "81_52",
+            "82_22"
+        ]
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    814,
+                    -632
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 814,
+                "y": 632,
+                "caption": "Великий кроволёт",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    491,
+                    -101
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 491,
+                "y": 101,
+                "caption": "Логово Нарушителей Всего",
+                "class": "logovo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    244,
+                    -751
+                ]
+            },
+            "properties": {
+                "type": "station",
+                "x": 244,
+                "y": 751,
+                "caption": "Папайа Джус",
+                "list": [
+                    {
+                        "caption": "\"Голубая Даль\"",
+                        "region": "pr",
+                        "map": "bezdna2",
+                        "x": 289,
+                        "y": 299
+                    },
+                    {
+                        "caption": "Фейра-ди-Сантана",
+                        "region": "pr",
+                        "map": "labb",
+                        "x": 473,
+                        "y": 747
+                    },
+                    {
+                        "caption": "\"Жара\"",
+                        "region": "pr",
+                        "map": "labp",
+                        "x": 785,
+                        "y": 735
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    806,
+                    -420
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 806,
+                "y": 420,
+                "caption": "Великий Кроволёт Барон",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59,
+                    -402
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 59,
+                "y": 402,
+                "caption": "Цитадель механоидов",
+                "class": "tsitadel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    596,
+                    -341
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 596,
+                "y": 341,
+                "region": "pr",
+                "map": "bezdna3",
+                "caption": "Бездна, ур.3",
+                "goto": {
+                    "x": 430,
+                    "y": 49
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    859,
+                    -880
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 859,
+                "y": 880,
+                "region": "pr",
+                "map": "labn",
+                "caption": "Лабиринт Н",
+                "goto": {
+                    "x": 135,
+                    "y": 859
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    354,
+                    -344
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 354,
+                "y": 344,
+                "region": "pr",
+                "map": "labd",
+                "caption": "Лабиринт Д",
+                "goto": {
+                    "x": 852,
+                    "y": 109
+                }
+            }
+        }
+    ]
+}

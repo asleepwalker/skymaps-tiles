@@ -1,0 +1,170 @@
+{
+    "meta": {
+        "caption": "Лабиринт Н",
+        "navigator": "AS_Super",
+        "date": "18.03.2011",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        },
+        "drop": [
+            "82_23",
+            "81_63",
+            "81_62",
+            "81_64",
+            "81_33",
+            "81_32",
+            "82_19"
+        ]
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    255,
+                    -183
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 255,
+                "y": 183,
+                "caption": "Логово Нарушителей Всего",
+                "class": "logovo",
+                "mode": "rare"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    795,
+                    -628
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 795,
+                "y": 628,
+                "caption": "Логово жестоких Бандитов",
+                "class": "logovo",
+                "mode": "rare"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    784,
+                    -658
+                ]
+            },
+            "properties": {
+                "type": "label",
+                "x": 784,
+                "y": 658,
+                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
+                "link": "library\/coins\/reef"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    378,
+                    -408
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 378,
+                "y": 408,
+                "caption": "Мусорог-губитель Полковник",
+                "class": "musorog"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    610,
+                    -448
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 610,
+                "y": 448,
+                "caption": "Бета-Матка",
+                "class": "matka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    454,
+                    -566
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 454,
+                "y": 566,
+                "caption": "Редкий Мегаёж",
+                "class": "zloboezh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    492,
+                    -869
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 492,
+                "y": 869,
+                "region": "pr",
+                "map": "labp",
+                "caption": "Лабиринт П",
+                "goto": {
+                    "x": 763,
+                    "y": 884
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135,
+                    -859
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 135,
+                "y": 859,
+                "region": "pr",
+                "map": "labl",
+                "caption": "Лабиринт Л",
+                "goto": {
+                    "x": 859,
+                    "y": 880
+                }
+            }
+        }
+    ]
+}

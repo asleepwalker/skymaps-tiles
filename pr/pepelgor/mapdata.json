@@ -1,0 +1,145 @@
+{
+    "meta": {
+        "caption": "Пепельная горелка",
+        "navigator": "Hiteihime",
+        "date": "10.09.2013",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        }
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118,
+                    -714
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 118,
+                "y": 714,
+                "caption": "Великий кроволёт",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118,
+                    -323
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 118,
+                "y": 323,
+                "caption": "Древний мегаёж",
+                "class": "zloboezh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    801,
+                    -142
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 801,
+                "y": 142,
+                "caption": "Великий Кроволёт Король",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    502,
+                    -567
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 502,
+                "y": 567,
+                "caption": "Боевая Цитадель Механоидов",
+                "class": "tsitadel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    370,
+                    -475
+                ]
+            },
+            "properties": {
+                "type": "label",
+                "x": 370,
+                "y": 475,
+                "text": "На всех островах, кроме мусорных, можно найти чертежи (от обычных до редких), МФ-комплекты (от зеленых до черных), редкие ресурсы (масло, пары, топазы), техустройства и опыт."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    111,
+                    -275
+                ]
+            },
+            "properties": {
+                "type": "label",
+                "x": 111,
+                "y": 275,
+                "text": "Вылет из Пепельной горелки к Сквиду."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    827,
+                    -845
+                ]
+            },
+            "properties": {
+                "type": "instance",
+                "x": 827,
+                "y": 845,
+                "caption": "Инстансы Пирастата",
+                "list": [
+                    {
+                        "caption": "Проверка навыков",
+                        "region": "pr",
+                        "map": "proverka",
+                        "goX": 0,
+                        "goY": 0
+                    },
+                    {
+                        "caption": "Коварный путь",
+                        "region": "pr",
+                        "map": "kovarnyput",
+                        "goX": 0,
+                        "goY": 0
+                    }
+                ]
+            }
+        }
+    ]
+}

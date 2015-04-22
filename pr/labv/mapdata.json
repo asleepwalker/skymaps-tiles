@@ -1,0 +1,130 @@
+{
+    "meta": {
+        "caption": "Лабиринт В",
+        "navigator": "AS_Super",
+        "date": "14.03.2011",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        },
+        "drop": [
+            "81_71",
+            "81_42",
+            "81_33",
+            "81_32",
+            "82_24"
+        ]
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    567,
+                    -299
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 567,
+                "y": 299,
+                "caption": "Матка",
+                "class": "matka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    442,
+                    -708
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 442,
+                "y": 708,
+                "caption": "Древний мегаёж",
+                "class": "zloboezh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    780,
+                    -340
+                ]
+            },
+            "properties": {
+                "type": "station",
+                "x": 780,
+                "y": 340,
+                "caption": "Пирасикаба",
+                "list": [
+                    {
+                        "caption": "Лагуна",
+                        "region": "pr",
+                        "map": "index",
+                        "x": 996,
+                        "y": 976
+                    },
+                    {
+                        "caption": "\"Изабель\"",
+                        "region": "pr",
+                        "map": "labi",
+                        "x": 830,
+                        "y": 275
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    881,
+                    -205
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 881,
+                "y": 205,
+                "region": "pr",
+                "map": "labe",
+                "caption": "Лабиринт Е",
+                "goto": {
+                    "x": 192,
+                    "y": 319
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166,
+                    -145
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 166,
+                "y": 145,
+                "region": "pr",
+                "map": "laba",
+                "caption": "Лабиринт А",
+                "goto": {
+                    "x": 566,
+                    "y": 624
+                }
+            }
+        }
+    ]
+}

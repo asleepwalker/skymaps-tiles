@@ -1,0 +1,148 @@
+{
+    "meta": {
+        "caption": "Горелый омут, ур.4",
+        "navigator": "AS_Super",
+        "date": "07.03.2011",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        },
+        "drop": [
+            "81_33",
+            "81_32",
+            "81_63",
+            "81_62"
+        ]
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82,
+                    -299
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 82,
+                "y": 299,
+                "caption": "Бета-матка",
+                "class": "matka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    783,
+                    -210
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 783,
+                "y": 210,
+                "caption": "Великий Кроволёт Барон",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    278,
+                    -532
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 278,
+                "y": 532,
+                "caption": "Матка Босха",
+                "class": "matka",
+                "mode": "rare"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    557,
+                    -476
+                ]
+            },
+            "properties": {
+                "type": "quest",
+                "x": 557,
+                "y": 476,
+                "caption": "\"Рыбы-рыбы-рыбоньки\"",
+                "link": "quests\/fish",
+                "tip": "Здесь ловится залетный хариус!"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    559,
+                    -480
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 559,
+                "y": 480
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    280,
+                    -127
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 280,
+                "y": 127,
+                "region": "pr",
+                "map": "goreliy5",
+                "caption": "Горелый омут, ур.5",
+                "goto": {
+                    "x": 478,
+                    "y": 495
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    528,
+                    -116
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 528,
+                "y": 116,
+                "region": "pr",
+                "map": "goreliy3",
+                "caption": "Горелый омут, ур.3",
+                "goto": {
+                    "x": 712,
+                    "y": 142
+                }
+            }
+        }
+    ]
+}
