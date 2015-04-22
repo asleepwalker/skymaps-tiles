@@ -1,0 +1,50 @@
+{
+    "meta": {
+        "caption": "Малый Медовый лабиринт",
+        "navigator": "OrangeHerald",
+        "date": "04.06.2012",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        }
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    704,
+                    -558
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 704,
+                "y": 558,
+                "region": "tg",
+                "map": "prostranstvo",
+                "caption": "Пространство Вариантов",
+                "goto": {
+                    "x": 401,
+                    "y": 412
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131,
+                    -166
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 131,
+                "y": 166
+            }
+        }
+    ]
+}

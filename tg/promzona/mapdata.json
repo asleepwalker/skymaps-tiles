@@ -1,0 +1,153 @@
+{
+    "meta": {
+        "caption": "Старая промзона",
+        "navigator": "AS_Super",
+        "date": "29.03.2013",
+        "size": {
+            "width": 1000,
+            "height": 700
+        }
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175,
+                    -174
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 175,
+                "y": 174,
+                "list": [
+                    "Коралловый сиган",
+                    "Золотой летринус"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    765,
+                    -379
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 765,
+                "y": 379,
+                "list": [
+                    "Коралловый сиган",
+                    "Золотой летринус"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    813,
+                    -207
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 813,
+                "y": 207,
+                "list": [
+                    "Коралловый сиган",
+                    "Золотой летринус"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    517,
+                    -442
+                ]
+            },
+            "properties": {
+                "type": "station",
+                "x": 517,
+                "y": 442,
+                "caption": "Платформа №13",
+                "list": [
+                    {
+                        "caption": "Кроссвинд",
+                        "region": "tg",
+                        "map": "index",
+                        "x": 528,
+                        "y": 363
+                    },
+                    {
+                        "caption": "Платформа Новогвинеево",
+                        "region": "tg",
+                        "map": "index",
+                        "x": 1857,
+                        "y": 723
+                    },
+                    {
+                        "caption": "Старая платформа",
+                        "region": "tg",
+                        "map": "labirint2",
+                        "x": 492,
+                        "y": 531
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    195,
+                    -476
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 195,
+                "y": 476,
+                "region": "tg",
+                "map": "index",
+                "caption": "Тихая Гавань",
+                "goto": {
+                    "x": 1884,
+                    "y": 268
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    816,
+                    -429
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 816,
+                "y": 429,
+                "region": "tg",
+                "map": "labirint1",
+                "caption": "Лабиринт Облаков, ур.1",
+                "goto": {
+                    "x": 87,
+                    "y": 101
+                }
+            }
+        }
+    ]
+}

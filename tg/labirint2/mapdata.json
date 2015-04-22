@@ -1,0 +1,146 @@
+{
+    "meta": {
+        "caption": "Лабиринт Облаков, ур.2",
+        "navigator": "AS_Super",
+        "date": "17.02.2011",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        },
+        "drop": [
+            "81_40"
+        ]
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    648,
+                    -103
+                ]
+            },
+            "properties": {
+                "type": "label",
+                "x": 648,
+                "y": 103,
+                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
+                "link": "library\/coins\/gavane"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    335,
+                    -264
+                ]
+            },
+            "properties": {
+                "type": "",
+                "x": 335,
+                "y": 264
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    492,
+                    -531
+                ]
+            },
+            "properties": {
+                "type": "station",
+                "x": 492,
+                "y": 531,
+                "caption": "Старая платформа",
+                "list": [
+                    {
+                        "caption": "Платформа №13",
+                        "region": "tg",
+                        "map": "promzona",
+                        "x": 517,
+                        "y": 442
+                    },
+                    {
+                        "caption": "Платформа Ветеранов",
+                        "region": "tg",
+                        "map": "labirint4",
+                        "x": 565,
+                        "y": 173
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    882,
+                    -87
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 882,
+                "y": 87,
+                "region": "tg",
+                "map": "index",
+                "caption": "Тихая Гавань",
+                "goto": {
+                    "x": 1891,
+                    "y": 508
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    514,
+                    -880
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 514,
+                "y": 880,
+                "region": "tg",
+                "map": "labirint3",
+                "caption": "Лабиринт Облаков, ур.3",
+                "goto": {
+                    "x": 181,
+                    "y": 82
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    89,
+                    -867
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 89,
+                "y": 867,
+                "region": "tg",
+                "map": "labirint1",
+                "caption": "Лабиринт Облаков, ур.1",
+                "goto": {
+                    "x": 883,
+                    "y": 528
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "meta": {
+        "caption": "Опасный Район",
+        "navigator": "AS_Super",
+        "date": "17.02.2011",
+        "size": {
+            "width": 700,
+            "height": 700
+        }
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    359,
+                    -93
+                ]
+            },
+            "properties": {
+                "type": "label",
+                "x": 359,
+                "y": 93,
+                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
+                "link": "library\/coins\/gavane"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    566,
+                    -397
+                ]
+            },
+            "properties": {
+                "type": "label",
+                "x": 566,
+                "y": 397,
+                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
+                "link": "library\/coins\/gavane"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    314,
+                    -195
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 314,
+                "y": 195,
+                "list": [
+                    "Рыба-зигзаг",
+                    "Лазурная пеламида"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    363,
+                    -433
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 363,
+                "y": 433,
+                "list": [
+                    "Тропический центропиг",
+                    "Игольчатый марлин"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    379,
+                    -292
+                ]
+            },
+            "properties": {
+                "type": "station",
+                "x": 379,
+                "y": 292,
+                "caption": "Жестяная платформа",
+                "list": [
+                    {
+                        "caption": "Кроссвинд",
+                        "region": "tg",
+                        "map": "index",
+                        "x": 528,
+                        "y": 363
+                    }
+                ]
+            }
+        }
+    ]
+}

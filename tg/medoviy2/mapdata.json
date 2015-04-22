@@ -1,0 +1,105 @@
+{
+    "meta": {
+        "caption": "Большой Медовый лабиринт, ур.2",
+        "navigator": "OrangeHerald",
+        "date": "04.06.2012",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        }
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    429,
+                    -128
+                ]
+            },
+            "properties": {
+                "type": "station",
+                "x": 429,
+                "y": 128,
+                "caption": "Медовая Платформа",
+                "list": [
+                    {
+                        "caption": "Кроссвинд",
+                        "region": "tg",
+                        "map": "index",
+                        "x": 528,
+                        "y": 363
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    363,
+                    -869
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 363,
+                "y": 869,
+                "region": "tg",
+                "map": "derevnya",
+                "caption": "Деревня отшельников",
+                "goto": {
+                    "x": 153,
+                    "y": 810
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    864,
+                    -781
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 864,
+                "y": 781
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    401,
+                    -483
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 401,
+                "y": 483
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    885,
+                    -280
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 885,
+                "y": 280
+            }
+        }
+    ]
+}
