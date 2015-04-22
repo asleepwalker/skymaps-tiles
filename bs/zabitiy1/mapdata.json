@@ -21,6 +21,40 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    111,
+                    -156
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 111,
+                "y": 156,
+                "caption": "Цербер",
+                "class": "tserber"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    398,
+                    -901
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 398,
+                "y": 901,
+                "caption": "Цербер",
+                "class": "tserber"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     430,
                     -837
                 ]
