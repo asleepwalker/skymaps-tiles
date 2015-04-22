@@ -1,0 +1,151 @@
+{
+    "meta": {
+        "caption": "Кровавый лаз, ур.1",
+        "navigator": "AS_Super",
+        "date": "23.03.2011",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        },
+        "drop": [
+            "81_53",
+            "82_27",
+            "81_52",
+            "81_34",
+            "81_33"
+        ]
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    359,
+                    -517
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 359,
+                "y": 517,
+                "caption": "Штурм-фактория",
+                "class": "faka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    726,
+                    -912
+                ]
+            },
+            "properties": {
+                "type": "quest",
+                "x": 726,
+                "y": 912,
+                "caption": "Сбор тайны Блюм Брахниус",
+                "link": "quests\/blum",
+                "tip": "Здесь есть записка сумасшедшего!"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    369,
+                    -60
+                ]
+            },
+            "properties": {
+                "type": "quest",
+                "x": 369,
+                "y": 60,
+                "caption": "План низушников",
+                "link": "quests\/plan",
+                "tip": "В бортовом компьютере подбитой машины низушников содержится часть секретного плана!"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    339,
+                    -296
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 339,
+                "y": 296,
+                "caption": "Цитадель низушников",
+                "class": "tsitadel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28,
+                    -369
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 28,
+                "y": 369,
+                "caption": "Предатель Небес",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    67,
+                    -647
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 67,
+                "y": 647,
+                "region": "bs",
+                "map": "krovaviy2",
+                "caption": "Кровавый лаз, ур.2",
+                "goto": {
+                    "x": 928,
+                    "y": 459
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    539,
+                    -171
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 539,
+                "y": 171,
+                "region": "bs",
+                "map": "index",
+                "caption": "Бастион",
+                "goto": {
+                    "x": 1052,
+                    "y": 1240
+                }
+            }
+        }
+    ]
+}

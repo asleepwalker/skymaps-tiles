@@ -1,0 +1,88 @@
+{
+    "meta": {
+        "caption": "Рубиновые прииски",
+        "navigator": "Vanyok",
+        "date": "24.04.2011",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        },
+        "drop": [
+            "82_11"
+        ]
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    491,
+                    -555
+                ]
+            },
+            "properties": {
+                "type": "label",
+                "x": 491,
+                "y": 555,
+                "text": "Кроме тех рубинов, что будет давать мастерская, мы получаем рубины с контейнеров (после каждой волны) и с мобов (предпочтительно боссы)."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    497,
+                    -474
+                ]
+            },
+            "properties": {
+                "type": "master",
+                "x": 497,
+                "y": 474,
+                "list": [
+                    "Рубин"
+                ],
+                "link": "library\/masters\/bastion"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    489,
+                    -826
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 489,
+                "y": 826
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    484,
+                    -141
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 484,
+                "y": 141,
+                "region": "bs",
+                "map": "index",
+                "caption": "Бастион",
+                "goto": {
+                    "x": 304,
+                    "y": 661
+                }
+            }
+        }
+    ]
+}

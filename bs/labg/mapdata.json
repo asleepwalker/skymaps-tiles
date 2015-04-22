@@ -1,0 +1,270 @@
+{
+    "meta": {
+        "caption": "Лабиринт Г",
+        "navigator": "Pentesiliya",
+        "date": "26.04.2011",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        },
+        "drop": [
+            "82_26",
+            "81_43",
+            "81_16",
+            "81_42",
+            "81_14",
+            "82_32"
+        ]
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    418,
+                    -695
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 418,
+                "y": 695,
+                "caption": "Кишкодав-мститель",
+                "class": "kishkodav"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    126,
+                    -875
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 126,
+                "y": 875,
+                "caption": "Кишкодав-страж",
+                "class": "kishkodav"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    810,
+                    -279
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 810,
+                "y": 279,
+                "caption": "Предатель Небес Барон",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134,
+                    -275
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 134,
+                "y": 275,
+                "caption": "Предатель Небес Барон",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    354,
+                    -117
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 354,
+                "y": 117,
+                "caption": "Предатель Небес Король",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    417,
+                    -650
+                ]
+            },
+            "properties": {
+                "type": "label",
+                "x": 417,
+                "y": 650,
+                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
+                "link": "library\/coins\/bastion"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    593,
+                    -664
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 593,
+                "y": 664,
+                "caption": "Штурм-кишкодав",
+                "class": "kishkodav"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    560,
+                    -620
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 560,
+                "y": 620,
+                "caption": "Штурм-кишкодав",
+                "class": "kishkodav"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    443,
+                    -397
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 443,
+                "y": 397,
+                "caption": "Предатель Небес",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    210,
+                    -742
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 210,
+                "y": 742,
+                "caption": "Убер-фактория",
+                "class": "faka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    575,
+                    -642
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 575,
+                "y": 642,
+                "caption": "Штурм-кишкодав",
+                "class": "kishkodav"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    612,
+                    -685
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 612,
+                "y": 685,
+                "caption": "Кишкодав",
+                "class": "kishkodav"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    887,
+                    -693
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 887,
+                "y": 693
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    442,
+                    -884
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 442,
+                "y": 884
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    498,
+                    -141
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 498,
+                "y": 141
+            }
+        }
+    ]
+}

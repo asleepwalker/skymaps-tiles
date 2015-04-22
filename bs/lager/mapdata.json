@@ -1,0 +1,94 @@
+{
+    "meta": {
+        "caption": "Лагерь Низушников",
+        "navigator": "AS_Super",
+        "date": "08.07.2011",
+        "size": {
+            "width": 1000,
+            "height": 870
+        }
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175,
+                    -147
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 175,
+                "y": 147,
+                "caption": "Убер-кишкодав",
+                "class": "kishkodav"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    724,
+                    -690
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 724,
+                "y": 690,
+                "caption": "Штурм-кишкодав",
+                "class": "kishkodav"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    728,
+                    -189
+                ]
+            },
+            "properties": {
+                "type": "station",
+                "x": 728,
+                "y": 189,
+                "caption": "Покинутая платформа",
+                "list": [
+                    {
+                        "caption": "Твердыня",
+                        "region": "bs",
+                        "map": "index",
+                        "x": 141,
+                        "y": 659
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    418,
+                    -154
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 418,
+                "y": 154,
+                "region": "bs",
+                "map": "index",
+                "caption": "Бастион",
+                "goto": {
+                    "x": 1225,
+                    "y": 654
+                }
+            }
+        }
+    ]
+}

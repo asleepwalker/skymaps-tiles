@@ -1,0 +1,31 @@
+{
+    "meta": {
+        "caption": "Низверг (легкий)",
+        "navigator": "AS_Super",
+        "date": "15.04.2011",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        }
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    460,
+                    -482
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 460,
+                "y": 482,
+                "caption": "Низверг",
+                "class": "nizverg",
+                "mode": "quest"
+            }
+        }
+    ]
+}

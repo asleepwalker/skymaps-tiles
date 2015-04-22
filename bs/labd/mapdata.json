@@ -1,0 +1,477 @@
+{
+    "meta": {
+        "caption": "Лабиринт Д",
+        "navigator": "AS_Super",
+        "date": "23.03.2011",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        },
+        "drop": [
+            "82_26",
+            "81_43",
+            "81_16",
+            "81_42",
+            "81_14",
+            "82_32"
+        ]
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104,
+                    -260
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 104,
+                "y": 260,
+                "caption": "Мухоносец-мститель",
+                "class": "muh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    854,
+                    -697
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 854,
+                "y": 697,
+                "caption": "Мухоносец-мститель",
+                "class": "muh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    111,
+                    -853
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 111,
+                "y": 853,
+                "caption": "Штурм-мухоносец",
+                "class": "muh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    728,
+                    -106
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 728,
+                "y": 106,
+                "caption": "Штурм-мухоносец",
+                "class": "muh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    542,
+                    -872
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 542,
+                "y": 872,
+                "caption": "Мухоносец",
+                "class": "muh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    459,
+                    -475
+                ]
+            },
+            "properties": {
+                "type": "station",
+                "x": 459,
+                "y": 475,
+                "caption": "\"Оплот Святости\"",
+                "list": [
+                    {
+                        "caption": "Твердыня",
+                        "region": "bs",
+                        "map": "index",
+                        "x": 141,
+                        "y": 659
+                    },
+                    {
+                        "caption": "Равелин Праведниц",
+                        "region": "bs",
+                        "map": "chervinie2",
+                        "x": 461,
+                        "y": 514
+                    },
+                    {
+                        "caption": "Платформа Чарли",
+                        "region": "bs",
+                        "map": "krovaviy2",
+                        "x": 165,
+                        "y": 780
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    847,
+                    -866
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 847,
+                "y": 866,
+                "caption": "Штурм-крейсер",
+                "class": "kreiser"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    219,
+                    -504
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 219,
+                "y": 504
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    219,
+                    -491
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 219,
+                "y": 491
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    749,
+                    -504
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 749,
+                "y": 504
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    749,
+                    -491
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 749,
+                "y": 491
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    749,
+                    -491
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 749,
+                "y": 491
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    717,
+                    -779
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 717,
+                "y": 779
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    503,
+                    -779
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 503,
+                "y": 779
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    493,
+                    -779
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 493,
+                "y": 779
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    247,
+                    -779
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 247,
+                "y": 779
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103,
+                    -111
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 103,
+                "y": 111,
+                "caption": "Штурм-крейсер",
+                "class": "kreiser"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    719,
+                    -217
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 719,
+                "y": 217
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    503,
+                    -217
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 503,
+                "y": 217
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    493,
+                    -217
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 493,
+                "y": 217
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    247,
+                    -217
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 247,
+                "y": 217
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    247,
+                    -217
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 247,
+                "y": 217
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    887,
+                    -482
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 887,
+                "y": 482,
+                "region": "bs",
+                "map": "labe",
+                "caption": "Лабиринт Е",
+                "goto": {
+                    "x": 879,
+                    "y": 85
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    469,
+                    -896
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 469,
+                "y": 896,
+                "region": "bs",
+                "map": "labz",
+                "caption": "Лабиринт З",
+                "goto": {
+                    "x": 514,
+                    "y": 837
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    97,
+                    -489
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 97,
+                "y": 489,
+                "region": "bs",
+                "map": "labg",
+                "caption": "Лабиринт Г",
+                "goto": {
+                    "x": 887,
+                    "y": 693
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    464,
+                    -81
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 464,
+                "y": 81,
+                "region": "bs",
+                "map": "labb",
+                "caption": "Лабиринт Б",
+                "goto": {
+                    "x": 880,
+                    "y": 878
+                }
+            }
+        }
+    ]
+}

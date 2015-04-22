@@ -1,0 +1,254 @@
+{
+    "meta": {
+        "caption": "Забытый вихрь, ур.2",
+        "navigator": "AS_Super",
+        "date": "24.03.2011",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        },
+        "drop": [
+            "82_28",
+            "81_53",
+            "81_52",
+            "81_65",
+            "81_63"
+        ]
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    783,
+                    -66
+                ]
+            },
+            "properties": {
+                "type": "label",
+                "x": 783,
+                "y": 66,
+                "text": "Россыпь ремонтных наборов."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    903,
+                    -921
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 903,
+                "y": 921,
+                "caption": "Мухоносец",
+                "class": "muh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    833,
+                    -397
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 833,
+                "y": 397,
+                "caption": "Мухоносец",
+                "class": "muh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    899,
+                    -167
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 899,
+                "y": 167,
+                "caption": "Мухоносец",
+                "class": "muh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    257,
+                    -148
+                ]
+            },
+            "properties": {
+                "type": "station",
+                "x": 257,
+                "y": 148,
+                "caption": "Святых Заступниц",
+                "list": [
+                    {
+                        "caption": "Твердыня",
+                        "region": "bs",
+                        "map": "index",
+                        "x": 141,
+                        "y": 659
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    435,
+                    -381
+                ]
+            },
+            "properties": {
+                "type": "label",
+                "x": 435,
+                "y": 381,
+                "text": "Россыпь ремонтных наборов."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    559,
+                    -890
+                ]
+            },
+            "properties": {
+                "type": "label",
+                "x": 559,
+                "y": 890,
+                "text": "Россыпь ремонтных наборов."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    738,
+                    -89
+                ]
+            },
+            "properties": {
+                "type": "label",
+                "x": 738,
+                "y": 89,
+                "text": "Россыпь ремонтных наборов."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    903,
+                    -371
+                ]
+            },
+            "properties": {
+                "type": "label",
+                "x": 903,
+                "y": 371,
+                "text": "На складе для вас припасен обсидиан!"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    897,
+                    -220
+                ]
+            },
+            "properties": {
+                "type": "label",
+                "x": 897,
+                "y": 220,
+                "text": "На складе для вас припасен рубин!"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    909,
+                    -880
+                ]
+            },
+            "properties": {
+                "type": "quest",
+                "x": 909,
+                "y": 880,
+                "caption": "Сбор тайны Блюм Брахниус",
+                "link": "quests\/blum",
+                "tip": "Здесь есть записка сумасшедшего!"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    269,
+                    -64
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 269,
+                "y": 64,
+                "region": "bs",
+                "map": "zabitiy3",
+                "caption": "Забытый вихрь, ур.3",
+                "goto": {
+                    "x": 377,
+                    "y": 230
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    421,
+                    -646
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 421,
+                "y": 646,
+                "region": "bs",
+                "map": "zabitiy1",
+                "caption": "Забытый вихрь, ур.1",
+                "goto": {
+                    "x": 917,
+                    "y": 915
+                }
+            }
+        }
+    ]
+}

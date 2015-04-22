@@ -1,0 +1,518 @@
+{
+    "meta": {
+        "caption": "Червиные норы, ур.9",
+        "navigator": "Pentesiliya",
+        "date": "27.04.2011",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        },
+        "drop": [
+            "82_31",
+            "81_43",
+            "81_16",
+            "81_42",
+            "81_14",
+            "82_33"
+        ]
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    457,
+                    -250
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 457,
+                "y": 250,
+                "caption": "Мусорог-генерал",
+                "class": "musorog"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    668,
+                    -264
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 668,
+                "y": 264,
+                "caption": "Мусорог-генерал",
+                "class": "musorog"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    693,
+                    -318
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 693,
+                "y": 318,
+                "caption": "Мусорог-генерал",
+                "class": "musorog"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    796,
+                    -841
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 796,
+                "y": 841,
+                "caption": "Мусорог-генерал",
+                "class": "musorog"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    838,
+                    -883
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 838,
+                "y": 883,
+                "caption": "Мусорог-генерал",
+                "class": "musorog"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    507,
+                    -281
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 507,
+                "y": 281,
+                "caption": "Мусорог-генерал",
+                "class": "musorog"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    490,
+                    -649
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 490,
+                "y": 649,
+                "caption": "Мусорог-генерал",
+                "class": "musorog"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    521,
+                    -695
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 521,
+                "y": 695,
+                "caption": "Мусорог-генерал",
+                "class": "musorog"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    479,
+                    -905
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 479,
+                "y": 905,
+                "caption": "Мусорог-генерал",
+                "class": "musorog"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    286,
+                    -613
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 286,
+                "y": 613,
+                "caption": "Мусорог-генерал",
+                "class": "musorog"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    329,
+                    -637
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 329,
+                "y": 637,
+                "caption": "Мусорог-генерал",
+                "class": "musorog"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    844,
+                    -563
+                ]
+            },
+            "properties": {
+                "type": "label",
+                "x": 844,
+                "y": 563,
+                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
+                "link": "library\/coins\/bastion"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    242,
+                    -872
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 242,
+                "y": 872,
+                "caption": "Мусорог-генерал",
+                "class": "musorog"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    87,
+                    -868
+                ]
+            },
+            "properties": {
+                "type": "station",
+                "x": 87,
+                "y": 868,
+                "caption": "\"Святой Заслон\"",
+                "list": [
+                    {
+                        "caption": "Св.Кападастины",
+                        "region": "bs",
+                        "map": "chervinie4",
+                        "x": 195,
+                        "y": 549
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    658,
+                    -94
+                ]
+            },
+            "properties": {
+                "type": "quest",
+                "x": 658,
+                "y": 94,
+                "caption": "Сведение счетов",
+                "link": "quests\/scores",
+                "tip": "Здесь живет Арсатарак."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    913,
+                    -745
+                ]
+            },
+            "properties": {
+                "type": "quest",
+                "x": 913,
+                "y": 745,
+                "caption": "План низушников",
+                "link": "quests\/plan",
+                "tip": "В бортовом компьютере подбитой машины низушников содержится часть секретного плана!"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    701,
+                    -109
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 701,
+                "y": 109,
+                "caption": "Штурм-цербер",
+                "class": "tserber"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    860,
+                    -242
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 860,
+                "y": 242,
+                "caption": "Убер-фактория",
+                "class": "faka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    850,
+                    -531
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 850,
+                "y": 531,
+                "caption": "Убер-фактория",
+                "class": "faka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    864,
+                    -772
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 864,
+                "y": 772,
+                "caption": "Штурм-кадавр",
+                "class": "kadavr"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110,
+                    -282
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 110,
+                "y": 282,
+                "caption": "Штурм-фактория",
+                "class": "faka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130,
+                    -632
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 130,
+                "y": 632,
+                "caption": "Убер-фактория",
+                "class": "faka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    918,
+                    -910
+                ]
+            },
+            "properties": {
+                "type": "wormhole",
+                "x": 918,
+                "y": 910,
+                "goto": {
+                    "x": 344,
+                    "y": 41
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    344,
+                    -41
+                ]
+            },
+            "properties": {
+                "type": "wormhole",
+                "x": 344,
+                "y": 41,
+                "goto": {
+                    "x": 918,
+                    "y": 910
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    646,
+                    -911
+                ]
+            },
+            "properties": {
+                "type": "wormhole",
+                "x": 646,
+                "y": 911,
+                "goto": {
+                    "x": 66,
+                    "y": 49
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    66,
+                    -49
+                ]
+            },
+            "properties": {
+                "type": "wormhole",
+                "x": 66,
+                "y": 49,
+                "goto": {
+                    "x": 646,
+                    "y": 911
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    809,
+                    -45
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 809,
+                "y": 45,
+                "region": "bs",
+                "map": "chervinie5",
+                "caption": "Червиные норы, ур.5",
+                "goto": {
+                    "x": 604,
+                    "y": 658
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46,
+                    -920
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 46,
+                "y": 920
+            }
+        }
+    ]
+}

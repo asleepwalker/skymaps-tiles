@@ -1,0 +1,1157 @@
+{
+    "meta": {
+        "caption": "Бастион",
+        "navigator": "AS_Super",
+        "date": "22.03.2011",
+        "size": {
+            "width": 2000,
+            "height": 1333
+        },
+        "center": {
+            "x": 164,
+            "y": 679
+        },
+        "drop": [
+            "81_16",
+            "81_52",
+            "81_33",
+            "81_14",
+            "81_53",
+            "81_34",
+            "81_63",
+            "81_65",
+            "81_43",
+            "81_42"
+        ]
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1802,
+                    -348
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 1802,
+                "y": 348,
+                "caption": "Цербер-генерал",
+                "class": "tserber",
+                "mode": "rare"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1644,
+                    -83
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 1644,
+                "y": 83,
+                "list": [
+                    "Залётный хариус",
+                    "Ветряной жерех"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    538,
+                    -84
+                ]
+            },
+            "properties": {
+                "type": "npc",
+                "x": 538,
+                "y": 84,
+                "caption": "Склад Милоша",
+                "npc": "Брат Милош"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    557,
+                    -1205
+                ]
+            },
+            "properties": {
+                "type": "npc",
+                "x": 557,
+                "y": 1205,
+                "caption": "Аэродром Валькирий",
+                "npc": "Сестра Аврора"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    359,
+                    -1194
+                ]
+            },
+            "properties": {
+                "type": "npc",
+                "x": 359,
+                "y": 1194,
+                "caption": "Хижина Блюма Брахниуса",
+                "npc": "Блюм Брахниус"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81,
+                    -1210
+                ]
+            },
+            "properties": {
+                "type": "npc",
+                "x": 81,
+                "y": 1210,
+                "caption": "Музей славы",
+                "npc": "Брат Альфред"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1213,
+                    -281
+                ]
+            },
+            "properties": {
+                "type": "label",
+                "x": 1213,
+                "y": 281,
+                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
+                "link": "library\/coins\/bastion"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    673,
+                    -495
+                ]
+            },
+            "properties": {
+                "type": "label",
+                "x": 673,
+                "y": 495,
+                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
+                "link": "library\/coins\/bastion"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1653,
+                    -718
+                ]
+            },
+            "properties": {
+                "type": "label",
+                "x": 1653,
+                "y": 718,
+                "text": "Здесь башенки MK2 очень любят съедать заживо всех подряд. Будьте острожны."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1832,
+                    -1218
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 1832,
+                "y": 1218,
+                "caption": "Штурм-цербер",
+                "class": "tserber"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1841,
+                    -1173
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 1841,
+                "y": 1173,
+                "caption": "Штурм-цербер",
+                "class": "tserber"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    732,
+                    -1108
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 732,
+                "y": 1108,
+                "list": [
+                    "Рыба-печень",
+                    "Скудный лосось"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    964,
+                    -777
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 964,
+                "y": 777,
+                "list": [
+                    "Рыба-печень",
+                    "Скудный лосось"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81,
+                    -1105
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 81,
+                "y": 1105,
+                "list": [
+                    "Коралловый сиган",
+                    "Золотой летринус"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1525,
+                    -305
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 1525,
+                "y": 305,
+                "list": [
+                    "Залётный хариус",
+                    "Ветряной жерех"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1291,
+                    -789
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 1291,
+                "y": 789,
+                "list": [
+                    "Залётный хариус",
+                    "Ветряной жерех"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141,
+                    -659
+                ]
+            },
+            "properties": {
+                "type": "station",
+                "x": 141,
+                "y": 659,
+                "caption": "Твердыня",
+                "list": [
+                    {
+                        "caption": "Тыл",
+                        "region": "bs",
+                        "map": "til",
+                        "x": 333,
+                        "y": 329
+                    },
+                    {
+                        "caption": "Форпост Сульрата",
+                        "region": "bs",
+                        "map": "chervinie5",
+                        "x": 876,
+                        "y": 922
+                    },
+                    {
+                        "caption": "Равелин Праведниц",
+                        "region": "bs",
+                        "map": "chervinie2",
+                        "x": 461,
+                        "y": 514
+                    },
+                    {
+                        "caption": "Платформа Чарли",
+                        "region": "bs",
+                        "map": "krovaviy2",
+                        "x": 165,
+                        "y": 780
+                    },
+                    {
+                        "caption": "\"Благодать\"",
+                        "region": "bs",
+                        "map": "razriv3",
+                        "x": 602,
+                        "y": 593
+                    },
+                    {
+                        "caption": "Святых Заступниц",
+                        "region": "bs",
+                        "map": "zabitiy2",
+                        "x": 257,
+                        "y": 148
+                    },
+                    {
+                        "caption": "\"Оплот Святости\"",
+                        "region": "bs",
+                        "map": "labd",
+                        "x": 459,
+                        "y": 475
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1521,
+                    -721
+                ]
+            },
+            "properties": {
+                "type": "instance",
+                "x": 1521,
+                "y": 721,
+                "caption": "Низверг",
+                "list": [
+                    {
+                        "caption": "\"Низверг\" (лёгкий)",
+                        "region": "bs",
+                        "map": "nizverg_easy",
+                        "goX": 0,
+                        "goY": 0
+                    },
+                    {
+                        "caption": "\"Низверг\" (сложный)",
+                        "region": "bs",
+                        "map": "nizverg_hard",
+                        "goX": 0,
+                        "goY": 0
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    634,
+                    -1145
+                ]
+            },
+            "properties": {
+                "type": "instance",
+                "x": 634,
+                "y": 1145,
+                "caption": "Валькирии",
+                "list": [
+                    {
+                        "caption": "\"Валькирии\" (лёгкий)",
+                        "region": "bs",
+                        "map": "valkirie_easy",
+                        "goX": 0,
+                        "goY": 0
+                    },
+                    {
+                        "caption": "\"Валькирии\" (сложный)",
+                        "region": "bs",
+                        "map": "valkirie_hard",
+                        "goX": 0,
+                        "goY": 0
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    650,
+                    -1037
+                ]
+            },
+            "properties": {
+                "type": "label",
+                "x": 650,
+                "y": 1037,
+                "text": "Здесь всплывают \"муляжи\" мухолётов, без дропа."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    738,
+                    -510
+                ]
+            },
+            "properties": {
+                "type": "label",
+                "x": 738,
+                "y": 510,
+                "text": "Из вихря плодятся \"муляжи\" мобов, которые затем летят на убой к башням у буйков."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    725,
+                    -841
+                ]
+            },
+            "properties": {
+                "type": "label",
+                "x": 725,
+                "y": 841,
+                "text": "Из вихря плодятся \"муляжи\" мобов, которые затем летят на убой к башням у буйков."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    375,
+                    -961
+                ]
+            },
+            "properties": {
+                "type": "label",
+                "x": 375,
+                "y": 961,
+                "text": "Из вихря плодятся \"муляжи\" мобов, которые затем летят на убой к Твердыне."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    314,
+                    -277
+                ]
+            },
+            "properties": {
+                "type": "label",
+                "x": 314,
+                "y": 277,
+                "text": "Из вихря плодятся \"муляжи\" мобов, которые затем летят на убой к Твердыне."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1417,
+                    -585
+                ]
+            },
+            "properties": {
+                "type": "label",
+                "x": 1417,
+                "y": 585,
+                "text": "Крейсер - \"муляж\": опыт падает, а дропа нету. Псины рядом точно такие же."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1376,
+                    -616
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 1376,
+                "y": 616,
+                "caption": "Крейсер",
+                "class": "kreiser"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1299,
+                    -186
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 1299,
+                "y": 186,
+                "caption": "Фактория",
+                "class": "faka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1626,
+                    -1240
+                ]
+            },
+            "properties": {
+                "type": "quest",
+                "x": 1626,
+                "y": 1240,
+                "caption": "Сбор тайны Блюм Брахниус",
+                "link": "quests\/blum",
+                "tip": "Здесь есть записка сумасшедшего!"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1890,
+                    -716
+                ]
+            },
+            "properties": {
+                "type": "quest",
+                "x": 1890,
+                "y": 716,
+                "caption": "Сбор тайны Блюм Брахниус",
+                "link": "quests\/blum",
+                "tip": "Здесь есть записка сумасшедшего!"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1373,
+                    -964
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 1373,
+                "y": 964,
+                "caption": "Фактория",
+                "class": "faka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1639,
+                    -66
+                ]
+            },
+            "properties": {
+                "type": "quest",
+                "x": 1639,
+                "y": 66,
+                "caption": "Сбор тайны Блюм Брахниус",
+                "link": "quests\/blum",
+                "tip": "Здесь есть записка сумасшедшего!"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1430,
+                    -258
+                ]
+            },
+            "properties": {
+                "type": "quest",
+                "x": 1430,
+                "y": 258,
+                "caption": "Сбор тайны Блюм Брахниус",
+                "link": "quests\/blum",
+                "tip": "Здесь есть записка сумасшедшего!"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1257,
+                    -576
+                ]
+            },
+            "properties": {
+                "type": "quest",
+                "x": 1257,
+                "y": 576,
+                "caption": "Сбор тайны Блюм Брахниус",
+                "link": "quests\/blum",
+                "tip": "Здесь есть записка сумасшедшего!"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1233,
+                    -758
+                ]
+            },
+            "properties": {
+                "type": "quest",
+                "x": 1233,
+                "y": 758,
+                "caption": "Сбор тайны Блюм Брахниус",
+                "link": "quests\/blum",
+                "tip": "Здесь есть записка сумасшедшего!"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1256,
+                    -1226
+                ]
+            },
+            "properties": {
+                "type": "quest",
+                "x": 1256,
+                "y": 1226,
+                "caption": "Сбор тайны Блюм Брахниус",
+                "link": "quests\/blum",
+                "tip": "Здесь есть записка сумасшедшего!"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    953,
+                    -706
+                ]
+            },
+            "properties": {
+                "type": "quest",
+                "x": 953,
+                "y": 706,
+                "caption": "Сбор тайны Блюм Брахниус",
+                "link": "quests\/blum",
+                "tip": "Здесь есть записка сумасшедшего!"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    888,
+                    -71
+                ]
+            },
+            "properties": {
+                "type": "quest",
+                "x": 888,
+                "y": 71,
+                "caption": "Сбор тайны Блюм Брахниус",
+                "link": "quests\/blum",
+                "tip": "Здесь есть записка сумасшедшего!"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    148,
+                    -408
+                ]
+            },
+            "properties": {
+                "type": "quest",
+                "x": 148,
+                "y": 408,
+                "caption": "Сбор тайны Блюм Брахниус",
+                "link": "quests\/blum",
+                "tip": "Здесь есть записка сумасшедшего!"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1225,
+                    -654
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 1225,
+                "y": 654,
+                "region": "bs",
+                "map": "lager",
+                "caption": "Лагерь Низушников",
+                "goto": {
+                    "x": 418,
+                    "y": 154
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    61,
+                    -60
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 61,
+                "y": 60,
+                "region": "bs",
+                "map": "zabitiy1",
+                "caption": "Забытый вихрь, ур.1",
+                "goto": {
+                    "x": 47,
+                    "y": 356
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    964,
+                    -104
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 964,
+                "y": 104,
+                "region": "bs",
+                "map": "chervinie1",
+                "caption": "Червиные норы, ур.1",
+                "goto": {
+                    "x": 889,
+                    "y": 90
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1760,
+                    -703
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 1760,
+                "y": 703,
+                "region": "bs",
+                "map": "razriv1",
+                "caption": "Разрыв, ур.1",
+                "goto": {
+                    "x": 910,
+                    "y": 793
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1052,
+                    -1240
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 1052,
+                "y": 1240,
+                "region": "bs",
+                "map": "krovaviy1",
+                "caption": "Кровавый лаз, ур.1",
+                "goto": {
+                    "x": 539,
+                    "y": 171
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1199,
+                    -1233
+                ]
+            },
+            "properties": {
+                "type": "flager",
+                "x": 1199,
+                "y": 1233,
+                "easy": "Психолет (9)",
+                "hard": "Громолай",
+                "link": "library\/flagers\/bastion"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1911,
+                    -331
+                ]
+            },
+            "properties": {
+                "type": "flager",
+                "x": 1911,
+                "y": 331,
+                "easy": "Гриф-падальщик (10)",
+                "hard": "Белая ярость",
+                "link": "library\/flagers\/bastion"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1508,
+                    -199
+                ]
+            },
+            "properties": {
+                "type": "flager",
+                "x": 1508,
+                "y": 199,
+                "easy": "Шестеренщик (8)",
+                "hard": "Призрак в ракушке",
+                "link": "library\/flagers\/bastion"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1769,
+                    -528
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 1769,
+                "y": 528,
+                "caption": "Штурм-фактория",
+                "class": "faka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1666,
+                    -575
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 1666,
+                "y": 575,
+                "caption": "Штурм-фактория",
+                "class": "faka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1665,
+                    -817
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 1665,
+                "y": 817,
+                "caption": "Штурм-фактория",
+                "class": "faka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1773,
+                    -839
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 1773,
+                "y": 839,
+                "caption": "Штурм-фактория",
+                "class": "faka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1755,
+                    -1076
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 1755,
+                "y": 1076,
+                "caption": "Штурм-фактория",
+                "class": "faka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1823,
+                    -692
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 1823,
+                "y": 692,
+                "caption": "Штурм-мухоносец",
+                "class": "muh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1683,
+                    -209
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 1683,
+                "y": 209,
+                "caption": "Штурм-фактория",
+                "class": "faka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1418,
+                    -445
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 1418,
+                "y": 445,
+                "caption": "Фактория",
+                "class": "faka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1324,
+                    -1133
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 1324,
+                "y": 1133,
+                "caption": "Фактория",
+                "class": "faka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    934,
+                    -947
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 934,
+                "y": 947,
+                "caption": "Фактория",
+                "class": "faka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    939,
+                    -508
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 939,
+                "y": 508,
+                "caption": "Фактория",
+                "class": "faka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    946,
+                    -246
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 946,
+                "y": 246,
+                "caption": "Фактория",
+                "class": "faka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82,
+                    -358
+                ]
+            },
+            "properties": {
+                "type": "quest",
+                "x": 82,
+                "y": 358,
+                "caption": "Тайна Эльны",
+                "link": "library\/myst\/eln",
+                "tip": "Здесь вы можете приобрести Тайну Эльны за 30 000 дублонов."
+            }
+        }
+    ]
+}

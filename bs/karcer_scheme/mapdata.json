@@ -1,0 +1,293 @@
+{
+    "meta": {
+        "caption": "Карцер (схемы крейсеров)",
+        "navigator": "AS_Super",
+        "date": "04.08.2011",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        }
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    845,
+                    -110
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 845,
+                "y": 110,
+                "caption": "Крейсер охраны",
+                "class": "kreiser",
+                "mode": "quest"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29,
+                    -105
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 29,
+                "y": 105,
+                "caption": "Крейсер охраны",
+                "class": "kreiser",
+                "mode": "quest"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    226,
+                    -394
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 226,
+                "y": 394,
+                "caption": "Крейсер охраны",
+                "class": "kreiser",
+                "mode": "quest"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    663,
+                    -394
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 663,
+                "y": 394,
+                "caption": "Крейсер охраны",
+                "class": "kreiser",
+                "mode": "quest"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    836,
+                    -576
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 836,
+                "y": 576,
+                "caption": "Крейсер охраны",
+                "class": "kreiser",
+                "mode": "quest"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    579,
+                    -575
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 579,
+                "y": 575,
+                "caption": "Крейсер охраны",
+                "class": "kreiser",
+                "mode": "quest"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    296,
+                    -578
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 296,
+                "y": 578,
+                "caption": "Крейсер охраны",
+                "class": "kreiser",
+                "mode": "quest"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38,
+                    -579
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 38,
+                "y": 579,
+                "caption": "Крейсер охраны",
+                "class": "kreiser",
+                "mode": "quest"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    837,
+                    -236
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 837,
+                "y": 236,
+                "caption": "Штурм-мухоносец",
+                "class": "muh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33,
+                    -236
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 33,
+                "y": 236,
+                "caption": "Штурм-мухоносец",
+                "class": "muh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    440,
+                    -865
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 440,
+                "y": 865,
+                "caption": "Штурм-цербер",
+                "class": "tserber"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    837,
+                    -750
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 837,
+                "y": 750,
+                "caption": "Мусорог-генерал",
+                "class": "musorog"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36,
+                    -737
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 36,
+                "y": 737,
+                "caption": "Мусорог-генерал",
+                "class": "musorog"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    419,
+                    -614
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 419,
+                "y": 614,
+                "caption": "Цитадель низушников",
+                "class": "tsitadel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    470,
+                    -442
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 470,
+                "y": 442,
+                "caption": "Цербер",
+                "class": "tserber"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    468,
+                    -470
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 468,
+                "y": 470,
+                "caption": "Цербер",
+                "class": "tserber"
+            }
+        }
+    ]
+}

@@ -1,0 +1,258 @@
+{
+    "meta": {
+        "caption": "Лабиринт А",
+        "navigator": "Pentesiliya",
+        "date": "26.04.2011",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        },
+        "drop": [
+            "82_27",
+            "81_53",
+            "81_52",
+            "81_34",
+            "81_33",
+            "82_33"
+        ]
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    755,
+                    -667
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 755,
+                "y": 667,
+                "caption": "Предатель Небес Король",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    689,
+                    -466
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 689,
+                "y": 466,
+                "caption": "Предатель Небес Король",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    564,
+                    -610
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 564,
+                "y": 610,
+                "caption": "Предатель Небес Барон",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    718,
+                    -800
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 718,
+                "y": 800,
+                "caption": " Предатель Небес Король",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    471,
+                    -878
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 471,
+                "y": 878,
+                "caption": "Кишкодав-мститель",
+                "class": "kishkodav"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112,
+                    -876
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 112,
+                "y": 876,
+                "caption": "Убер-кишкодав",
+                "class": "kishkodav"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    761,
+                    -596
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 761,
+                "y": 596,
+                "caption": "Белая ярость",
+                "class": "kreiser",
+                "mode": "rare"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    760,
+                    -202
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 760,
+                "y": 202,
+                "caption": "Штурм-фактория",
+                "class": "faka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    773,
+                    -425
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 773,
+                "y": 425,
+                "caption": "Кадавр",
+                "class": "kadavr"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170,
+                    -392
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 170,
+                "y": 392,
+                "caption": "Предатель Небес",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    875,
+                    -879
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 875,
+                "y": 879,
+                "region": "bs",
+                "map": "labb",
+                "caption": "Лабиринт Б",
+                "goto": {
+                    "x": 81,
+                    "y": 552
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85,
+                    -549
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 85,
+                "y": 549,
+                "region": "bs",
+                "map": "labg",
+                "caption": "Лабиринт Г",
+                "goto": {
+                    "x": 498,
+                    "y": 141
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96,
+                    -90
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 96,
+                "y": 90,
+                "region": "bs",
+                "map": "krovaviy2",
+                "caption": "Кровавый лаз, ур.2",
+                "goto": {
+                    "x": 42,
+                    "y": 37
+                }
+            }
+        }
+    ]
+}

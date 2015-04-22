@@ -1,0 +1,211 @@
+{
+    "meta": {
+        "caption": "Разрыв, ур.5",
+        "navigator": "Pentesiliya",
+        "date": "16.04.2011",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        },
+        "drop": [
+            "82_27",
+            "81_53",
+            "81_52",
+            "81_65",
+            "81_63",
+            "82_32"
+        ]
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    831,
+                    -210
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 831,
+                "y": 210,
+                "caption": "Кишкодав-страж",
+                "class": "kishkodav"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    567,
+                    -73
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 567,
+                "y": 73,
+                "caption": "Штурм-кишкодав",
+                "class": "kishkodav"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    363,
+                    -871
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 363,
+                "y": 871,
+                "caption": "Кишкодав-мститель",
+                "class": "kishkodav"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    531,
+                    -659
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 531,
+                "y": 659,
+                "caption": "Кишкодав-мститель",
+                "class": "kishkodav"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    484,
+                    -162
+                ]
+            },
+            "properties": {
+                "type": "label",
+                "x": 484,
+                "y": 162,
+                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
+                "link": "library\/coins\/bastion"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    810,
+                    -352
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 810,
+                "y": 352,
+                "caption": "Убер-фактория",
+                "class": "faka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    820,
+                    -832
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 820,
+                "y": 832,
+                "caption": "Убер-фактория",
+                "class": "faka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    250,
+                    -712
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 250,
+                "y": 712,
+                "caption": "Штурм-кадавр",
+                "class": "kadavr"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    190,
+                    -272
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 190,
+                "y": 272,
+                "caption": "Штурм-кадавр",
+                "class": "kadavr"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    331,
+                    -433
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 331,
+                "y": 433
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119,
+                    -150
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 119,
+                "y": 150,
+                "region": "bs",
+                "map": "razriv6",
+                "caption": "Разрыв, ур.6",
+                "goto": {
+                    "x": 94,
+                    "y": 620
+                }
+            }
+        }
+    ]
+}

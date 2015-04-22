@@ -1,0 +1,373 @@
+{
+    "meta": {
+        "caption": "Разрыв, ур.2",
+        "navigator": "Pentesiliya",
+        "date": "14.04.2011",
+        "size": {
+            "width": 1000,
+            "height": 250
+        },
+        "drop": [
+            "82_29",
+            "81_14",
+            "81_16",
+            "81_34",
+            "81_33",
+            "82_33"
+        ]
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    74,
+                    -117
+                ]
+            },
+            "properties": {
+                "type": "label",
+                "x": 74,
+                "y": 117,
+                "text": "Отличное место для дрифта. Здесь очень скользкое небо."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    703,
+                    -110
+                ]
+            },
+            "properties": {
+                "type": "quest",
+                "x": 703,
+                "y": 110,
+                "caption": "Сбор тайны Блюм Брахниус",
+                "link": "quests\/blum",
+                "tip": "Здесь есть записка сумасшедшего!"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    360,
+                    -102
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 360,
+                "y": 102,
+                "caption": "Убер-мухоносец",
+                "class": "muh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    680,
+                    -87
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 680,
+                "y": 87,
+                "caption": "Штурм-кадавр",
+                "class": "kadavr"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    310,
+                    -50
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 310,
+                "y": 50
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    220,
+                    -48
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 220,
+                "y": 48
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120,
+                    -50
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 120,
+                "y": 50
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130,
+                    -202
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 130,
+                "y": 202
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    210,
+                    -205
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 210,
+                "y": 205
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    360,
+                    -138
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 360,
+                "y": 138
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    430,
+                    -138
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 430,
+                "y": 138
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    500,
+                    -105
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 500,
+                "y": 105
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    560,
+                    -53
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 560,
+                "y": 53
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    610,
+                    -128
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 610,
+                "y": 128
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    670,
+                    -202
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 670,
+                "y": 202
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    870,
+                    -58
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 870,
+                "y": 58
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    770,
+                    -65
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 770,
+                "y": 65
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    730,
+                    -138
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 730,
+                "y": 138
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    770,
+                    -200
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 770,
+                "y": 200
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    880,
+                    -200
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 880,
+                "y": 200
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    941,
+                    -111
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 941,
+                "y": 111,
+                "region": "bs",
+                "map": "razriv3",
+                "caption": "Разрыв, ур.3",
+                "goto": {
+                    "x": 396,
+                    "y": 883
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22,
+                    -117
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 22,
+                "y": 117,
+                "region": "bs",
+                "map": "razriv1",
+                "caption": "Разрыв, ур.1",
+                "goto": {
+                    "x": 70,
+                    "y": 54
+                }
+            }
+        }
+    ]
+}

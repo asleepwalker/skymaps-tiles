@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "caption": "Монолит (сложный)",
+        "navigator": "AS_Super",
+        "date": "30.06.2011",
+        "size": {
+            "width": 700,
+            "height": 320
+        }
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    515,
+                    -171
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 515,
+                "y": 171,
+                "caption": "Убер-монолит",
+                "class": "monolit",
+                "mode": "quest"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    349,
+                    -92
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 349,
+                "y": 92,
+                "caption": "Крейсер мстителей",
+                "class": "kreiser"
+            }
+        }
+    ]
+}

@@ -1,0 +1,230 @@
+{
+    "meta": {
+        "caption": "Кровавый лаз, ур.2",
+        "navigator": "AS_Super",
+        "date": "23.03.2011",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        },
+        "drop": [
+            "81_53",
+            "82_27",
+            "81_52",
+            "81_34",
+            "81_33"
+        ]
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    67,
+                    -452
+                ]
+            },
+            "properties": {
+                "type": "label",
+                "x": 67,
+                "y": 452,
+                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
+                "link": "library\/coins\/bastion"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    527,
+                    -160
+                ]
+            },
+            "properties": {
+                "type": "label",
+                "x": 527,
+                "y": 160,
+                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
+                "link": "library\/coins\/bastion"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    445,
+                    -859
+                ]
+            },
+            "properties": {
+                "type": "label",
+                "x": 445,
+                "y": 859,
+                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
+                "link": "library\/coins\/bastion"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    248,
+                    -869
+                ]
+            },
+            "properties": {
+                "type": "label",
+                "x": 248,
+                "y": 869,
+                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
+                "link": "library\/coins\/bastion"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    864,
+                    -68
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 864,
+                "y": 68,
+                "caption": "Крейсер",
+                "class": "kreiser"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    165,
+                    -780
+                ]
+            },
+            "properties": {
+                "type": "station",
+                "x": 165,
+                "y": 780,
+                "caption": "Платформа Чарли",
+                "list": [
+                    {
+                        "caption": "Твердыня",
+                        "region": "bs",
+                        "map": "index",
+                        "x": 141,
+                        "y": 659
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    314,
+                    -124
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 314,
+                "y": 124,
+                "caption": "Мусорог-генерал",
+                "class": "musorog"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    512,
+                    -565
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 512,
+                "y": 565,
+                "caption": "Цитадель низушников",
+                "class": "tsitadel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    157,
+                    -654
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 157,
+                "y": 654,
+                "region": "bs",
+                "map": "krovaviy3",
+                "caption": "Кровавый лаз, ур.3",
+                "goto": {
+                    "x": 914,
+                    "y": 286
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42,
+                    -37
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 42,
+                "y": 37,
+                "region": "bs",
+                "map": "laba",
+                "caption": "Лабиринт А",
+                "goto": {
+                    "x": 96,
+                    "y": 90
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    928,
+                    -459
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 928,
+                "y": 459,
+                "region": "bs",
+                "map": "krovaviy1",
+                "caption": "Кровавый лаз, ур.1",
+                "goto": {
+                    "x": 67,
+                    "y": 647
+                }
+            }
+        }
+    ]
+}

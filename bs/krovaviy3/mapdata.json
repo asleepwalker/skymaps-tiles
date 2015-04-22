@@ -1,0 +1,247 @@
+{
+    "meta": {
+        "caption": "Кровавый лаз, ур.3",
+        "navigator": "AS_Super",
+        "date": "23.03.2011",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        },
+        "drop": [
+            "81_53",
+            "82_27",
+            "81_52",
+            "81_34",
+            "81_33"
+        ]
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    619,
+                    -255
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 619,
+                "y": 255,
+                "caption": "Убер-кишкодав",
+                "class": "kishkodav"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    675,
+                    -161
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 675,
+                "y": 161,
+                "caption": "Предатель Небес Барон",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    471,
+                    -102
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 471,
+                "y": 102,
+                "caption": "Предатель Небес Барон",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124,
+                    -179
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 124,
+                "y": 179,
+                "caption": "Предатель Небес Король",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    260,
+                    -812
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 260,
+                "y": 812,
+                "caption": "Предатель Небес Барон",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101,
+                    -681
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 101,
+                "y": 681,
+                "caption": "Убер-кишкодав",
+                "class": "kishkodav"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    266,
+                    -575
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 266,
+                "y": 575,
+                "caption": "Предатель Небес Король",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    720,
+                    -903
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 720,
+                "y": 903,
+                "list": [
+                    "Коралловый сиган",
+                    "Золотой летринус"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    260,
+                    -58
+                ]
+            },
+            "properties": {
+                "type": "flager",
+                "x": 260,
+                "y": 58,
+                "easy": "Шестеренщик (8)",
+                "hard": "Призрак в ракушке",
+                "link": "library\/flagers\/bastion"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    686,
+                    -663
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 686,
+                "y": 663,
+                "caption": "Предатель Небес",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    92,
+                    -753
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 92,
+                "y": 753,
+                "caption": "Штурм-крейсер",
+                "class": "kreiser"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    295,
+                    -872
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 295,
+                "y": 872
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    914,
+                    -286
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 914,
+                "y": 286,
+                "region": "bs",
+                "map": "krovaviy2",
+                "caption": "Кровавый лаз, ур.2",
+                "goto": {
+                    "x": 157,
+                    "y": 654
+                }
+            }
+        }
+    ]
+}

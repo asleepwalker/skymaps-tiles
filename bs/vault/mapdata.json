@@ -1,0 +1,77 @@
+{
+    "meta": {
+        "caption": "Убежище Ксении",
+        "navigator": "AS_Super",
+        "date": "21.04.2011",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        }
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    486,
+                    -492
+                ]
+            },
+            "properties": {
+                "type": "instance",
+                "x": 486,
+                "y": 492,
+                "caption": "Техлорд Нангум",
+                "list": [
+                    {
+                        "caption": "\"Техлорд Нангум\" (лёгкий)",
+                        "region": "bs",
+                        "map": "tehlord_easy",
+                        "goX": 0,
+                        "goY": 0
+                    },
+                    {
+                        "caption": "\"Техлорд Нангум\" (сложный)",
+                        "region": "bs",
+                        "map": "tehlord_hard",
+                        "goX": 0,
+                        "goY": 0
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    474,
+                    -477
+                ]
+            },
+            "properties": {
+                "type": "station",
+                "x": 474,
+                "y": 477,
+                "caption": "Убежище Ксении",
+                "list": [
+                    {
+                        "caption": "Твердыня",
+                        "region": "bs",
+                        "map": "index",
+                        "x": 141,
+                        "y": 659
+                    },
+                    {
+                        "caption": "\"Благодать\"",
+                        "region": "bs",
+                        "map": "razriv3",
+                        "x": 602,
+                        "y": 593
+                    }
+                ]
+            }
+        }
+    ]
+}

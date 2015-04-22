@@ -1,0 +1,414 @@
+{
+    "meta": {
+        "caption": "Червиные норы, ур.10",
+        "navigator": "Pentesiliya",
+        "date": "01.05.2011",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        },
+        "drop": [
+            "82_28",
+            "81_14",
+            "81_16",
+            "81_34",
+            "81_33",
+            "82_32"
+        ]
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121,
+                    -386
+                ]
+            },
+            "properties": {
+                "type": "label",
+                "x": 121,
+                "y": 386,
+                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
+                "link": "library\/coins\/bastion"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    793,
+                    -618
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 793,
+                "y": 618,
+                "caption": "Кишкодав",
+                "class": "kishkodav"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    474,
+                    -440
+                ]
+            },
+            "properties": {
+                "type": "station",
+                "x": 474,
+                "y": 440,
+                "caption": "\"Dies Irae\"",
+                "list": [
+                    {
+                        "caption": "Св.Кападастины",
+                        "region": "bs",
+                        "map": "chervinie4",
+                        "x": 195,
+                        "y": 549
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    679,
+                    -615
+                ]
+            },
+            "properties": {
+                "type": "wormhole",
+                "x": 679,
+                "y": 615,
+                "goto": {
+                    "x": 838,
+                    "y": 427
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    838,
+                    -427
+                ]
+            },
+            "properties": {
+                "type": "wormhole",
+                "x": 838,
+                "y": 427,
+                "goto": {
+                    "x": 679,
+                    "y": 615
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    640,
+                    -281
+                ]
+            },
+            "properties": {
+                "type": "wormhole",
+                "x": 640,
+                "y": 281,
+                "goto": {
+                    "x": 318,
+                    "y": 436
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    318,
+                    -436
+                ]
+            },
+            "properties": {
+                "type": "wormhole",
+                "x": 318,
+                "y": 436,
+                "goto": {
+                    "x": 640,
+                    "y": 281
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    315,
+                    -258
+                ]
+            },
+            "properties": {
+                "type": "wormhole",
+                "x": 315,
+                "y": 258,
+                "goto": {
+                    "x": 457,
+                    "y": 692
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    457,
+                    -692
+                ]
+            },
+            "properties": {
+                "type": "wormhole",
+                "x": 457,
+                "y": 692,
+                "goto": {
+                    "x": 315,
+                    "y": 258
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    224,
+                    -348
+                ]
+            },
+            "properties": {
+                "type": "wormhole",
+                "x": 224,
+                "y": 348,
+                "goto": {
+                    "x": 640,
+                    "y": 281
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    270,
+                    -556
+                ]
+            },
+            "properties": {
+                "type": "wormhole",
+                "x": 270,
+                "y": 556,
+                "goto": {
+                    "x": 456,
+                    "y": 313
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    456,
+                    -313
+                ]
+            },
+            "properties": {
+                "type": "wormhole",
+                "x": 456,
+                "y": 313,
+                "goto": {
+                    "x": 270,
+                    "y": 556
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    580,
+                    -872
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 580,
+                "y": 872,
+                "caption": "Штурм-крейсер",
+                "class": "kreiser"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    359,
+                    -176
+                ]
+            },
+            "properties": {
+                "type": "flager",
+                "x": 359,
+                "y": 176,
+                "easy": "Техночервь (12)",
+                "hard": "Инкубатор",
+                "link": "library\/flagers\/bastion"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    622,
+                    -844
+                ]
+            },
+            "properties": {
+                "type": "quest",
+                "x": 622,
+                "y": 844,
+                "caption": "Сведение счетов",
+                "link": "quests\/scores",
+                "tip": "Здесь живет Лакасс."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    739,
+                    -673
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 739,
+                "y": 673,
+                "caption": "Кишкодав",
+                "class": "kishkodav"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    768,
+                    -646
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 768,
+                "y": 646,
+                "caption": "Кишкодав",
+                "class": "kishkodav"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    650,
+                    -910
+                ]
+            },
+            "properties": {
+                "type": "bos",
+                "x": 650,
+                "y": 910
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    400,
+                    -72
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 400,
+                "y": 72,
+                "caption": "Цитадель низушников",
+                "class": "tsitadel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    448,
+                    -914
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 448,
+                "y": 914,
+                "region": "bs",
+                "map": "chervinie5",
+                "caption": "Червиные норы, ур.5",
+                "goto": {
+                    "x": 604,
+                    "y": 658
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    594,
+                    -515
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 594,
+                "y": 515,
+                "region": "bs",
+                "map": "chervinie7",
+                "caption": "Червиные норы, ур.7",
+                "goto": {
+                    "x": 938,
+                    "y": 48
+                }
+            }
+        }
+    ]
+}

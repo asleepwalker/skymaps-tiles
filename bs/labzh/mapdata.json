@@ -1,0 +1,172 @@
+{
+    "meta": {
+        "caption": "Лабиринт Ж",
+        "navigator": "Pentesiliya",
+        "date": "26.04.2011",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        },
+        "drop": [
+            "82_33",
+            "81_14",
+            "81_16",
+            "81_34",
+            "81_33",
+            "82_29"
+        ]
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    466,
+                    -476
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 466,
+                "y": 476,
+                "caption": "Убер-цербер",
+                "class": "tserber"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    770,
+                    -522
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 770,
+                "y": 522,
+                "caption": "Убер-кадавр",
+                "class": "kadavr"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    401,
+                    -649
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 401,
+                "y": 649,
+                "caption": "Барбазоид",
+                "class": "kishkodav"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    220,
+                    -652
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 220,
+                "y": 652,
+                "caption": "Убер-мухоносец",
+                "class": "muh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104,
+                    -403
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 104,
+                "y": 403,
+                "caption": "Кадавр",
+                "class": "kadavr"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    881,
+                    -145
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 881,
+                "y": 145,
+                "region": "bs",
+                "map": "labz",
+                "caption": "Лабиринт З",
+                "goto": {
+                    "x": 246,
+                    "y": 248
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    502,
+                    -96
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 502,
+                "y": 96,
+                "region": "bs",
+                "map": "labg",
+                "caption": "Лабиринт Г",
+                "goto": {
+                    "x": 442,
+                    "y": 884
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77,
+                    -150
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 77,
+                "y": 150,
+                "region": "bs",
+                "map": "razriv3",
+                "caption": "Разрыв, ур.3",
+                "goto": {
+                    "x": 55,
+                    "y": 51
+                }
+            }
+        }
+    ]
+}
