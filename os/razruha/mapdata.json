@@ -1,0 +1,486 @@
+{
+    "meta": {
+        "caption": "Разруха",
+        "navigator": "AS_Super",
+        "date": "29.07.2011",
+        "size": {
+            "width": 1000,
+            "height": 750
+        },
+        "drop": [
+            "81_16",
+            "81_17",
+            "81_66",
+            "81_65"
+        ]
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    285,
+                    -215
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 285,
+                "y": 215,
+                "caption": "Гипнобосс",
+                "class": "gipno"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    566,
+                    -401
+                ]
+            },
+            "properties": {
+                "type": "npc",
+                "x": 566,
+                "y": 401,
+                "caption": "Археологическая экспедиция Ивы",
+                "npc": "Ива"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    519,
+                    -175
+                ]
+            },
+            "properties": {
+                "type": "label",
+                "x": 519,
+                "y": 175,
+                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
+                "link": "library\/coins\/oskolki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    824,
+                    -317
+                ]
+            },
+            "properties": {
+                "type": "master",
+                "x": 824,
+                "y": 317,
+                "list": [
+                    "Электрические угри"
+                ],
+                "link": "library\/masters\/oskolki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    344,
+                    -148
+                ]
+            },
+            "properties": {
+                "type": "master",
+                "x": 344,
+                "y": 148,
+                "list": [
+                    "Молоко небесных коров"
+                ],
+                "link": "library\/masters\/oskolki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    250,
+                    -331
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 250,
+                "y": 331,
+                "caption": "Гипнобосс",
+                "class": "gipno"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    895,
+                    -603
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 895,
+                "y": 603,
+                "list": [
+                    "Рыба-печень",
+                    "Скудный лосось"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    128,
+                    -605
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 128,
+                "y": 605,
+                "list": [
+                    "Залётный хариус",
+                    "Ветряной жерех"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    292,
+                    -260
+                ]
+            },
+            "properties": {
+                "type": "flager",
+                "x": 292,
+                "y": 260,
+                "easy": "Осины",
+                "hard": "Гнездо Осиланов",
+                "link": "library\/flagers\/oskolki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    602,
+                    -121
+                ]
+            },
+            "properties": {
+                "type": "factory",
+                "x": 602,
+                "y": 121,
+                "caption": "Ракетный завод Осколков",
+                "production": [
+                    "Медуза I-IV",
+                    "Коготь I-IV",
+                    "Арахна I-IV"
+                ],
+                "link": "library\/factories\/oskolki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50,
+                    -97
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 50,
+                "y": 97,
+                "caption": "Биоспора",
+                "class": "spore"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100,
+                    -415
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 100,
+                "y": 415,
+                "caption": "Гипнобосс",
+                "class": "gipno"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    205,
+                    -416
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 205,
+                "y": 416,
+                "list": [
+                    "Коралловый сиган",
+                    "Золотой летринус"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    606,
+                    -587
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 606,
+                "y": 587,
+                "caption": "Древняя рекламная цитадель",
+                "class": "tsitadel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    810,
+                    -625
+                ]
+            },
+            "properties": {
+                "type": "maphole",
+                "x": 810,
+                "y": 625,
+                "region": "os",
+                "map": "dremuchie",
+                "caption": "Дремучье",
+                "goto": {
+                    "x": 768,
+                    "y": 43
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    480,
+                    -626
+                ]
+            },
+            "properties": {
+                "type": "maphole",
+                "x": 480,
+                "y": 626,
+                "region": "os",
+                "map": "dremuchie",
+                "caption": "Дремучье",
+                "goto": {
+                    "x": 490,
+                    "y": 43
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    286,
+                    -619
+                ]
+            },
+            "properties": {
+                "type": "maphole",
+                "x": 286,
+                "y": 619,
+                "region": "os",
+                "map": "dremuchie",
+                "caption": "Дремучье",
+                "goto": {
+                    "x": 199,
+                    "y": 42
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45,
+                    -532
+                ]
+            },
+            "properties": {
+                "type": "maphole",
+                "x": 45,
+                "y": 532,
+                "region": "os",
+                "map": "index",
+                "caption": "Центр",
+                "goto": {
+                    "x": 922,
+                    "y": 496
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38,
+                    -341
+                ]
+            },
+            "properties": {
+                "type": "maphole",
+                "x": 38,
+                "y": 341,
+                "region": "os",
+                "map": "index",
+                "caption": "Центр",
+                "goto": {
+                    "x": 925,
+                    "y": 324
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45,
+                    -145
+                ]
+            },
+            "properties": {
+                "type": "maphole",
+                "x": 45,
+                "y": 145
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    787,
+                    -44
+                ]
+            },
+            "properties": {
+                "type": "maphole",
+                "x": 787,
+                "y": 44,
+                "region": "os",
+                "map": "goriruhladi",
+                "caption": "Горы рухляди",
+                "goto": {
+                    "x": 837,
+                    "y": 616
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    588,
+                    -43
+                ]
+            },
+            "properties": {
+                "type": "maphole",
+                "x": 588,
+                "y": 43,
+                "region": "os",
+                "map": "goriruhladi",
+                "caption": "Горы рухляди",
+                "goto": {
+                    "x": 610,
+                    "y": 620
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    425,
+                    -44
+                ]
+            },
+            "properties": {
+                "type": "maphole",
+                "x": 425,
+                "y": 44,
+                "region": "os",
+                "map": "goriruhladi",
+                "caption": "Горы рухляди",
+                "goto": {
+                    "x": 486,
+                    "y": 623
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    217,
+                    -49
+                ]
+            },
+            "properties": {
+                "type": "maphole",
+                "x": 217,
+                "y": 49,
+                "region": "os",
+                "map": "goriruhladi",
+                "caption": "Горы рухляди",
+                "goto": {
+                    "x": 183,
+                    "y": 622
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,171 @@
+{
+    "meta": {
+        "caption": "Осиное гнездо",
+        "navigator": "AS_Super",
+        "date": "23.08.2011",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        }
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    750,
+                    -572
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 750,
+                "y": 572,
+                "caption": "Осиный улей",
+                "class": "uley"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    520,
+                    -712
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 520,
+                "y": 712,
+                "caption": "Осиный улей",
+                "class": "uley"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    180,
+                    -732
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 180,
+                "y": 732,
+                "caption": "Дельта-улей",
+                "class": "uley"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    480,
+                    -492
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 480,
+                "y": 492,
+                "caption": "Дельта-улей",
+                "class": "uley"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    240,
+                    -472
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 240,
+                "y": 472,
+                "caption": "Гамма-улей",
+                "class": "uley"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    480,
+                    -262
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 480,
+                "y": 262,
+                "caption": "Гамма-улей",
+                "class": "uley"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    740,
+                    -232
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 740,
+                "y": 232,
+                "caption": "Бета-улей",
+                "class": "uley"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    200,
+                    -232
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 200,
+                "y": 232,
+                "caption": "Альфа-улей",
+                "class": "uley"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    830,
+                    -830
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 830,
+                "y": 830,
+                "region": "os",
+                "map": "zarosli2",
+                "caption": "Заросли, ур.2",
+                "goto": {
+                    "x": 176,
+                    "y": 390
+                }
+            }
+        }
+    ]
+}

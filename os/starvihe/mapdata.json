@@ -1,0 +1,161 @@
+{
+    "meta": {
+        "caption": "Старый вихрь Е",
+        "navigator": "AS_Super",
+        "date": "11.08.2011",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        }
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    490,
+                    -692
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 490,
+                "y": 692,
+                "caption": "Хламкистодоры",
+                "class": "hlamk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    350,
+                    -672
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 350,
+                "y": 672,
+                "caption": "Хламкистодоры",
+                "class": "hlamk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    660,
+                    -742
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 660,
+                "y": 742,
+                "caption": "Хламкистодоры",
+                "class": "hlamk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    710,
+                    -702
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 710,
+                "y": 702,
+                "caption": "Жестокий хламкистодор",
+                "class": "hlamk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    710,
+                    -162
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 710,
+                "y": 162,
+                "caption": "Бета-гипнобосс",
+                "class": "gipno"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115,
+                    -865
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 115,
+                "y": 865,
+                "list": [
+                    "Залётный хариус",
+                    "Ветряной жерех"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    535,
+                    -774
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 535,
+                "y": 774,
+                "region": "os",
+                "map": "hramhlama",
+                "caption": "Храм Хлама",
+                "goto": {
+                    "x": 113,
+                    "y": 773
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    453,
+                    -205
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 453,
+                "y": 205,
+                "region": "os",
+                "map": "starvihd",
+                "caption": "Старый вихрь Д",
+                "goto": {
+                    "x": 881,
+                    "y": 878
+                }
+            }
+        }
+    ]
+}

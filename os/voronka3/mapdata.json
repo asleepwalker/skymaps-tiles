@@ -1,0 +1,102 @@
+{
+    "meta": {
+        "caption": "Воронка, ур.3",
+        "navigator": "AS_Super",
+        "date": "02.08.2011",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        }
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    474,
+                    -514
+                ]
+            },
+            "properties": {
+                "type": "label",
+                "x": 474,
+                "y": 514,
+                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
+                "link": "library\/coins\/oskolki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    347,
+                    -470
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 347,
+                "y": 470,
+                "caption": "Борзый хламкистадор",
+                "class": "hlamk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    289,
+                    -507
+                ]
+            },
+            "properties": {
+                "type": "flager",
+                "x": 289,
+                "y": 507,
+                "easy": "Осколки",
+                "hard": "Шмель-Бомбус",
+                "link": "library\/flagers\/oskolki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    402,
+                    -491
+                ]
+            },
+            "properties": {
+                "type": "seyatel",
+                "x": 402,
+                "y": 491
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    414,
+                    -310
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 414,
+                "y": 310,
+                "region": "os",
+                "map": "rudniykray",
+                "caption": "Рудный край",
+                "goto": {
+                    "x": 769,
+                    "y": 421
+                }
+            }
+        }
+    ]
+}

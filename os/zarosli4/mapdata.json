@@ -1,0 +1,199 @@
+{
+    "meta": {
+        "caption": "Заросли, ур.4",
+        "navigator": "AS_Super",
+        "date": "23.08.2011",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        }
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    715,
+                    -676
+                ]
+            },
+            "properties": {
+                "type": "instance",
+                "x": 715,
+                "y": 676,
+                "region": "os",
+                "map": "lightblue",
+                "caption": "Голубая грядка",
+                "goX": 0,
+                "goY": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    229,
+                    -531
+                ]
+            },
+            "properties": {
+                "type": "instance",
+                "x": 229,
+                "y": 531,
+                "region": "os",
+                "map": "blue",
+                "caption": "Синяя грядка",
+                "goX": 0,
+                "goY": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    305,
+                    -161
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 305,
+                "y": 161,
+                "caption": "Бета-гипнобосс",
+                "class": "gipno"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    323,
+                    -636
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 323,
+                "y": 636,
+                "caption": "Гамма-гипнобосс",
+                "class": "gipno"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    857,
+                    -631
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 857,
+                "y": 631,
+                "caption": "Бета-шмель",
+                "class": "shmel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    520,
+                    -592
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 520,
+                "y": 592,
+                "caption": "Бета-гипнобосс",
+                "class": "gipno"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    831,
+                    -129
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 831,
+                "y": 129,
+                "caption": "Бета-шмель",
+                "class": "shmel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    376,
+                    -306
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 376,
+                "y": 306,
+                "caption": "Бета-биоспора",
+                "class": "spore"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84,
+                    -813
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 84,
+                "y": 813,
+                "region": "os",
+                "map": "zarosli5",
+                "caption": "Заросли, ур.5",
+                "goto": {
+                    "x": 519,
+                    "y": 844
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    892,
+                    -891
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 892,
+                "y": 891,
+                "region": "os",
+                "map": "zarosli3",
+                "caption": "Заросли, ур.3",
+                "goto": {
+                    "x": 579,
+                    "y": 886
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "meta": {
+        "caption": "Зелёная грядка",
+        "navigator": "падший77",
+        "date": "17.02.2013",
+        "size": {
+            "width": 700,
+            "height": 700
+        }
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    319,
+                    -377
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 319,
+                "y": 377,
+                "caption": "Зелёный",
+                "class": "flower",
+                "mode": "quest"
+            }
+        }
+    ]
+}

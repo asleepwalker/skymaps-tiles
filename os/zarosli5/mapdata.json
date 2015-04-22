@@ -1,0 +1,215 @@
+{
+    "meta": {
+        "caption": "Заросли, ур.5",
+        "navigator": "AS_Super",
+        "date": "23.08.2011",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        }
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    658,
+                    -401
+                ]
+            },
+            "properties": {
+                "type": "label",
+                "x": 658,
+                "y": 401,
+                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
+                "link": "library\/coins\/oskolki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    760,
+                    -780
+                ]
+            },
+            "properties": {
+                "type": "instance",
+                "x": 760,
+                "y": 780,
+                "region": "os",
+                "map": "hot",
+                "caption": "Горячая грядка",
+                "goX": 1000,
+                "goY": 1000
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    236,
+                    -329
+                ]
+            },
+            "properties": {
+                "type": "instance",
+                "x": 236,
+                "y": 329,
+                "region": "os",
+                "map": "purple",
+                "caption": "Фиолетовая грядка",
+                "goX": 0,
+                "goY": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107,
+                    -450
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 107,
+                "y": 450,
+                "caption": "Бета-шмель",
+                "class": "shmel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    540,
+                    -131
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 540,
+                "y": 131,
+                "caption": "Бета-шмель",
+                "class": "shmel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    577,
+                    -491
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 577,
+                "y": 491,
+                "caption": "Бета-шмель",
+                "class": "shmel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    690,
+                    -372
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 690,
+                "y": 372,
+                "caption": "Бета-улей",
+                "class": "uley"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    416,
+                    -243
+                ]
+            },
+            "properties": {
+                "type": "flager",
+                "x": 416,
+                "y": 243,
+                "easy": "Мозгоглоты",
+                "hard": "Капитан Трешак",
+                "link": "library\/flagers\/oskolki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    630,
+                    -390
+                ]
+            },
+            "properties": {
+                "type": "seyatel",
+                "x": 630,
+                "y": 390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    126,
+                    -494
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 126,
+                "y": 494,
+                "region": "os",
+                "map": "zarosli6",
+                "caption": "Заросли, ур.6",
+                "goto": {
+                    "x": 79,
+                    "y": 79
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    519,
+                    -844
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 519,
+                "y": 844,
+                "region": "os",
+                "map": "zarosli4",
+                "caption": "Заросли, ур.4",
+                "goto": {
+                    "x": 84,
+                    "y": 813
+                }
+            }
+        }
+    ]
+}

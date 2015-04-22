@@ -1,0 +1,411 @@
+{
+    "meta": {
+        "caption": "Горы рухляди",
+        "navigator": "AS_Super",
+        "date": "29.07.2011",
+        "size": {
+            "width": 1000,
+            "height": 750
+        },
+        "drop": [
+            "81_54",
+            "81_53",
+            "81_43"
+        ]
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    218,
+                    -522
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 218,
+                "y": 522,
+                "caption": "Хламкистодоры",
+                "class": "hlamk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    580,
+                    -82
+                ]
+            },
+            "properties": {
+                "type": "npc",
+                "x": 580,
+                "y": 82,
+                "caption": "Рухлядь-маркет Мамуны",
+                "npc": "Мамуна"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    401,
+                    -291
+                ]
+            },
+            "properties": {
+                "type": "label",
+                "x": 401,
+                "y": 291,
+                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
+                "link": "library\/coins\/oskolki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36,
+                    -165
+                ]
+            },
+            "properties": {
+                "type": "maphole",
+                "x": 36,
+                "y": 165,
+                "region": "os",
+                "map": "rudniykray",
+                "caption": "Рудный край",
+                "goto": {
+                    "x": 917,
+                    "y": 53
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    559,
+                    -540
+                ]
+            },
+            "properties": {
+                "type": "master",
+                "x": 559,
+                "y": 540,
+                "list": [
+                    "Молоко небесных коров"
+                ],
+                "link": "library\/masters\/oskolki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    275,
+                    -141
+                ]
+            },
+            "properties": {
+                "type": "master",
+                "x": 275,
+                "y": 141,
+                "list": [
+                    "Электрические угри"
+                ],
+                "link": "library\/masters\/oskolki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166,
+                    -215
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 166,
+                "y": 215,
+                "caption": "Хламкистодоры",
+                "class": "hlamk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28,
+                    -537
+                ]
+            },
+            "properties": {
+                "type": "maphole",
+                "x": 28,
+                "y": 537,
+                "region": "os",
+                "map": "rudniykray",
+                "caption": "Рудный край",
+                "goto": {
+                    "x": 922,
+                    "y": 519
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    605,
+                    -532
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 605,
+                "y": 532,
+                "list": [
+                    "Залётный хариус",
+                    "Ветряной жерех"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    64,
+                    -78
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 64,
+                "y": 78,
+                "caption": "Хламкистодоры",
+                "class": "hlamk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    87,
+                    -387
+                ]
+            },
+            "properties": {
+                "type": "station",
+                "x": 87,
+                "y": 387,
+                "caption": "Северо-Восточная",
+                "list": [
+                    {
+                        "caption": "Кавардак",
+                        "region": "os",
+                        "map": "index",
+                        "x": 450,
+                        "y": 315
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    427,
+                    -198
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 427,
+                "y": 198,
+                "caption": "Хламкистодоры",
+                "class": "hlamk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    827,
+                    -308
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 827,
+                "y": 308,
+                "caption": "Кадавр",
+                "class": "kadavr"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    233,
+                    -554
+                ]
+            },
+            "properties": {
+                "type": "factory",
+                "x": 233,
+                "y": 554,
+                "caption": "Второй МФ-завод Осколков",
+                "production": [
+                    "Зеленый МФ комплект V",
+                    "Оранжевый МФ комплект V",
+                    "Розовый МФ комплект V",
+                    "Черный МФ комплект V"
+                ],
+                "link": "library\/factories\/oskolki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    872,
+                    -114
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 872,
+                "y": 114,
+                "region": "os",
+                "map": "ikarsa",
+                "caption": "Лабиринт икаров А",
+                "goto": {
+                    "x": 438,
+                    "y": 69
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    837,
+                    -616
+                ]
+            },
+            "properties": {
+                "type": "maphole",
+                "x": 837,
+                "y": 616,
+                "region": "os",
+                "map": "razruha",
+                "caption": "Разруха",
+                "goto": {
+                    "x": 787,
+                    "y": 44
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    610,
+                    -620
+                ]
+            },
+            "properties": {
+                "type": "maphole",
+                "x": 610,
+                "y": 620,
+                "region": "os",
+                "map": "razruha",
+                "caption": "Разруха",
+                "goto": {
+                    "x": 588,
+                    "y": 43
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    486,
+                    -623
+                ]
+            },
+            "properties": {
+                "type": "maphole",
+                "x": 486,
+                "y": 623,
+                "region": "os",
+                "map": "razruha",
+                "caption": "Разруха",
+                "goto": {
+                    "x": 425,
+                    "y": 44
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    183,
+                    -622
+                ]
+            },
+            "properties": {
+                "type": "maphole",
+                "x": 183,
+                "y": 622,
+                "region": "os",
+                "map": "razruha",
+                "caption": "Разруха",
+                "goto": {
+                    "x": 217,
+                    "y": 49
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43,
+                    -351
+                ]
+            },
+            "properties": {
+                "type": "maphole",
+                "x": 43,
+                "y": 351
+            }
+        }
+    ]
+}

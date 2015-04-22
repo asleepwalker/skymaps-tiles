@@ -1,0 +1,219 @@
+{
+    "meta": {
+        "caption": "Старый вихрь Г",
+        "navigator": "AS_Super",
+        "date": "11.08.2011",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        }
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    671,
+                    -710
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 671,
+                "y": 710,
+                "caption": "Гамма-шмель",
+                "class": "shmel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    507,
+                    -247
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 507,
+                "y": 247,
+                "caption": "Дельта-гипнобосс",
+                "class": "gipno"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    128,
+                    -857
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 128,
+                "y": 857,
+                "caption": "Гамма-гипнобосс",
+                "class": "gipno"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    453,
+                    -871
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 453,
+                "y": 871,
+                "caption": "Гамма-улей",
+                "class": "uley"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140,
+                    -142
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 140,
+                "y": 142,
+                "caption": "Дельта-улей",
+                "class": "uley"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    650,
+                    -522
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 650,
+                "y": 522,
+                "caption": "Гамма-гипнобосс",
+                "class": "gipno"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    528,
+                    -646
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 528,
+                "y": 646,
+                "list": [
+                    "Рыба-печень",
+                    "Скудный лосось"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115,
+                    -185
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 115,
+                "y": 185,
+                "list": [
+                    "Коралловый сиган",
+                    "Золотой летринус"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    878,
+                    -882
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 878,
+                "y": 882,
+                "region": "os",
+                "map": "starvihv",
+                "caption": "Старый вихрь В",
+                "goto": {
+                    "x": 81,
+                    "y": 885
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76,
+                    -433
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 76,
+                "y": 433,
+                "region": "os",
+                "map": "starvihd",
+                "caption": "Старый вихрь Д",
+                "goto": {
+                    "x": 81,
+                    "y": 87
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    882,
+                    -88
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 882,
+                "y": 88,
+                "region": "os",
+                "map": "starvihy",
+                "caption": "Старый вихрь Й",
+                "goto": {
+                    "x": 93,
+                    "y": 876
+                }
+            }
+        }
+    ]
+}

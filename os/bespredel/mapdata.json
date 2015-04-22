@@ -1,0 +1,513 @@
+{
+    "meta": {
+        "caption": "Беспредельщина",
+        "navigator": "AS_Super",
+        "date": "29.07.2011",
+        "size": {
+            "width": 1000,
+            "height": 750
+        },
+        "drop": [
+            "81_54",
+            "81_53",
+            "81_76"
+        ]
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104,
+                    -97
+                ]
+            },
+            "properties": {
+                "type": "npc",
+                "x": 104,
+                "y": 97,
+                "caption": "Бандитский притон Аллера Анрича",
+                "npc": "Аллер Анрич"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    391,
+                    -325
+                ]
+            },
+            "properties": {
+                "type": "label",
+                "x": 391,
+                "y": 325,
+                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
+                "link": "library\/coins\/oskolki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    302,
+                    -285
+                ]
+            },
+            "properties": {
+                "type": "master",
+                "x": 302,
+                "y": 285,
+                "list": [
+                    "Молоко летающих коров"
+                ],
+                "link": "library\/masters\/oskolki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    462,
+                    -114
+                ]
+            },
+            "properties": {
+                "type": "master",
+                "x": 462,
+                "y": 114,
+                "list": [
+                    "Электрические угри"
+                ],
+                "link": "library\/masters\/oskolki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    755,
+                    -619
+                ]
+            },
+            "properties": {
+                "type": "quest",
+                "x": 755,
+                "y": 619,
+                "caption": "Тайна Эльны",
+                "link": "library\/myst\/eln",
+                "tip": "Здесь вы можете приобрести Тайну Эльны за 30 000 дублонов."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    422,
+                    -134
+                ]
+            },
+            "properties": {
+                "type": "station",
+                "x": 422,
+                "y": 134,
+                "caption": "Северо-Западная",
+                "list": [
+                    {
+                        "caption": "Кавардак",
+                        "region": "os",
+                        "map": "index",
+                        "x": 450,
+                        "y": 315
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    282,
+                    -243
+                ]
+            },
+            "properties": {
+                "type": "factory",
+                "x": 282,
+                "y": 243,
+                "caption": "Первый МФ-завод Осколков",
+                "production": [
+                    "Зеленый МФ комплект V",
+                    "Оранжевый МФ комплект V",
+                    "Розовый МФ комплект V",
+                    "Черный МФ комплект V"
+                ],
+                "link": "library\/factories\/oskolki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77,
+                    -490
+                ]
+            },
+            "properties": {
+                "type": "master",
+                "x": 77,
+                "y": 490,
+                "list": [
+                    "Золотые пушинки"
+                ],
+                "link": "library\/masters\/oskolki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    155,
+                    -449
+                ]
+            },
+            "properties": {
+                "type": "master",
+                "x": 155,
+                "y": 449,
+                "list": [
+                    "Редкие детали"
+                ],
+                "link": "library\/masters\/oskolki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    264,
+                    -443
+                ]
+            },
+            "properties": {
+                "type": "master",
+                "x": 264,
+                "y": 443,
+                "list": [
+                    "Экзотические реагенты"
+                ],
+                "link": "library\/masters\/oskolki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122,
+                    -567
+                ]
+            },
+            "properties": {
+                "type": "master",
+                "x": 122,
+                "y": 567,
+                "list": [
+                    "Молоко летающих коров"
+                ],
+                "link": "library\/masters\/oskolki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    217,
+                    -595
+                ]
+            },
+            "properties": {
+                "type": "master",
+                "x": 217,
+                "y": 595,
+                "list": [
+                    "Электрические угри"
+                ],
+                "link": "library\/masters\/oskolki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    384,
+                    -422
+                ]
+            },
+            "properties": {
+                "type": "master",
+                "x": 384,
+                "y": 422,
+                "list": [
+                    "Победит"
+                ],
+                "link": "library\/masters\/oskolki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    341,
+                    -601
+                ]
+            },
+            "properties": {
+                "type": "master",
+                "x": 341,
+                "y": 601,
+                "list": [
+                    "Эво-древо"
+                ],
+                "link": "library\/masters\/oskolki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    433,
+                    -515
+                ]
+            },
+            "properties": {
+                "type": "master",
+                "x": 433,
+                "y": 515,
+                "list": [
+                    "Алые пушинки"
+                ],
+                "link": "library\/masters\/oskolki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    822,
+                    -77
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 822,
+                "y": 77,
+                "caption": "Осиный улей",
+                "class": "uley"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    450,
+                    -482
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 450,
+                "y": 482,
+                "caption": "Вестник Пита",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    428,
+                    -440
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 428,
+                "y": 440,
+                "caption": "Вестник Пита",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    163,
+                    -622
+                ]
+            },
+            "properties": {
+                "type": "maphole",
+                "x": 163,
+                "y": 622,
+                "region": "os",
+                "map": "ogorodes",
+                "caption": "Огороды",
+                "goto": {
+                    "x": 168,
+                    "y": 44
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    472,
+                    -619
+                ]
+            },
+            "properties": {
+                "type": "maphole",
+                "x": 472,
+                "y": 619,
+                "region": "os",
+                "map": "ogorodes",
+                "caption": "Огороды",
+                "goto": {
+                    "x": 464,
+                    "y": 39
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    629,
+                    -621
+                ]
+            },
+            "properties": {
+                "type": "maphole",
+                "x": 629,
+                "y": 621,
+                "region": "os",
+                "map": "ogorodes",
+                "caption": "Огороды",
+                "goto": {
+                    "x": 627,
+                    "y": 45
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    921,
+                    -617
+                ]
+            },
+            "properties": {
+                "type": "maphole",
+                "x": 921,
+                "y": 617,
+                "region": "os",
+                "map": "index",
+                "caption": "Центр",
+                "goto": {
+                    "x": 43,
+                    "y": 44
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    924,
+                    -521
+                ]
+            },
+            "properties": {
+                "type": "maphole",
+                "x": 924,
+                "y": 521,
+                "region": "os",
+                "map": "rudniykray",
+                "caption": "Рудный край",
+                "goto": {
+                    "x": 38,
+                    "y": 552
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    922,
+                    -256
+                ]
+            },
+            "properties": {
+                "type": "maphole",
+                "x": 922,
+                "y": 256,
+                "region": "os",
+                "map": "rudniykray",
+                "caption": "Рудный край",
+                "goto": {
+                    "x": 53,
+                    "y": 252
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    923,
+                    -120
+                ]
+            },
+            "properties": {
+                "type": "maphole",
+                "x": 923,
+                "y": 120,
+                "region": "os",
+                "map": "rudniykray",
+                "caption": "Рудный край",
+                "goto": {
+                    "x": 46,
+                    "y": 92
+                }
+            }
+        }
+    ]
+}

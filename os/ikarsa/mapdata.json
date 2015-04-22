@@ -1,0 +1,161 @@
+{
+    "meta": {
+        "caption": "Лабиринт икаров А",
+        "navigator": "AS_Super",
+        "date": "15.08.2011",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        }
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    668,
+                    -798
+                ]
+            },
+            "properties": {
+                "type": "label",
+                "x": 668,
+                "y": 798,
+                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
+                "link": "library\/coins\/oskolki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    807,
+                    -403
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 807,
+                "y": 403,
+                "caption": "Осиный улей",
+                "class": "uley"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    203,
+                    -679
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 203,
+                "y": 679,
+                "caption": "Шмель",
+                "class": "shmel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    475,
+                    -330
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 475,
+                "y": 330,
+                "caption": "Шмель",
+                "class": "shmel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120,
+                    -232
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 120,
+                "y": 232,
+                "caption": "Дельта-улей",
+                "class": "uley"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    255,
+                    -835
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 255,
+                "y": 835,
+                "list": [
+                    "Рыба-печень",
+                    "Скудный лосось"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    63,
+                    -576
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 63,
+                "y": 576,
+                "region": "os",
+                "map": "ikarsb",
+                "caption": "Лабиринт икаров Б",
+                "goto": {
+                    "x": 139,
+                    "y": 899
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    438,
+                    -69
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 438,
+                "y": 69,
+                "region": "os",
+                "map": "goriruhladi",
+                "caption": "Горы рухляди",
+                "goto": {
+                    "x": 872,
+                    "y": 114
+                }
+            }
+        }
+    ]
+}

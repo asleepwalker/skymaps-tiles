@@ -1,0 +1,161 @@
+{
+    "meta": {
+        "caption": "Воронка, ур.1",
+        "navigator": "AS_Super",
+        "date": "31.07.2011",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        }
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    332,
+                    -103
+                ]
+            },
+            "properties": {
+                "type": "label",
+                "x": 332,
+                "y": 103,
+                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
+                "link": "library\/coins\/oskolki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    128,
+                    -744
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 128,
+                "y": 744,
+                "caption": "Гамма-гипнобосс",
+                "class": "gipno"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134,
+                    -148
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 134,
+                "y": 148,
+                "caption": "Гамма-гипнобосс",
+                "class": "gipno"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    591,
+                    -327
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 591,
+                "y": 327,
+                "list": [
+                    "Рыба-зигзаг",
+                    "Лазурная пеламида"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    690,
+                    -822
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 690,
+                "y": 822,
+                "caption": "Хламкистодоры",
+                "class": "hlamk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    280,
+                    -532
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 280,
+                "y": 532,
+                "caption": "Гамма-гипнобосс",
+                "class": "gipno"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    518,
+                    -393
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 518,
+                "y": 393,
+                "region": "os",
+                "map": "voronka2",
+                "caption": "Воронка, ур.2",
+                "goto": {
+                    "x": 367,
+                    "y": 880
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    493,
+                    -882
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 493,
+                "y": 882,
+                "region": "os",
+                "map": "rudniykray",
+                "caption": "Рудный край",
+                "goto": {
+                    "x": 769,
+                    "y": 421
+                }
+            }
+        }
+    ]
+}
