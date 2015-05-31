@@ -14,6 +14,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    74,
+                    -75
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 74,
+                "y": 75
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     566,
                     -669
                 ]
@@ -73,23 +88,6 @@
                 "y": 658,
                 "caption": "Гамма-гипнобосс",
                 "class": "gipno"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    68,
-                    -67
-                ]
-            },
-            "properties": {
-                "type": "label",
-                "x": 68,
-                "y": 67,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/oskolki"
             }
         },
         {

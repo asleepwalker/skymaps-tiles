@@ -24,6 +24,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    351,
+                    -532
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 351,
+                "y": 532
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     806,
                     -152
                 ]
@@ -51,23 +66,6 @@
                 "y": 513,
                 "caption": "Великий Кроволёт Король",
                 "class": "airship"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    342,
-                    -532
-                ]
-            },
-            "properties": {
-                "type": "label",
-                "x": 342,
-                "y": 532,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/reef"
             }
         },
         {

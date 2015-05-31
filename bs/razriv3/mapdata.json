@@ -22,6 +22,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    578,
+                    -840
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 578,
+                "y": 840
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     100,
                     -603
                 ]
@@ -74,23 +89,6 @@
                 "type": "Point",
                 "coordinates": [
                     575,
-                    -831
-                ]
-            },
-            "properties": {
-                "type": "label",
-                "x": 575,
-                "y": 831,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/bastion"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    575,
                     -105
                 ]
             },
@@ -123,15 +121,15 @@
                         "caption": "Твердыня",
                         "region": "bs",
                         "map": "index",
-                        "x": 141,
+                        "x": 142,
                         "y": 659
                     },
                     {
                         "caption": "Убежище Ксении",
                         "region": "bs",
                         "map": "vault",
-                        "x": 474,
-                        "y": 477
+                        "x": 473,
+                        "y": 475
                     },
                     {
                         "caption": "\"Луч Света\"",
@@ -163,14 +161,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    113,
-                    -465
+                    157,
+                    -322
                 ]
             },
             "properties": {
                 "type": "quest",
-                "x": 113,
-                "y": 465,
+                "x": 157,
+                "y": 322,
                 "caption": "Сбор тайны Блюм Брахниус",
                 "link": "quests\/blum",
                 "tip": "Здесь есть записка сумасшедшего!"

@@ -21,16 +21,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    67,
-                    -452
+                    555,
+                    -609
                 ]
             },
             "properties": {
-                "type": "label",
-                "x": 67,
-                "y": 452,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/bastion"
+                "type": "boss",
+                "x": 555,
+                "y": 609,
+                "caption": "Штурм-цербер",
+                "class": "tserber"
             }
         },
         {
@@ -38,16 +38,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    527,
-                    -160
+                    533,
+                    -168
                 ]
             },
             "properties": {
-                "type": "label",
-                "x": 527,
-                "y": 160,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/bastion"
+                "type": "beacon",
+                "x": 533,
+                "y": 168
             }
         },
         {
@@ -55,33 +53,112 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    445,
-                    -859
-                ]
-            },
-            "properties": {
-                "type": "label",
-                "x": 445,
-                "y": 859,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/bastion"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    248,
+                    453,
                     -869
                 ]
             },
             "properties": {
-                "type": "label",
-                "x": 248,
-                "y": 869,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/bastion"
+                "type": "beacon",
+                "x": 453,
+                "y": 869
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    255,
+                    -877
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 255,
+                "y": 877
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71,
+                    -463
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 71,
+                "y": 463
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69,
+                    -284
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 69,
+                "y": 284,
+                "caption": "Предатель Небес Король",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    902,
+                    -646
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 902,
+                "y": 646,
+                "caption": "Предатель Небес Барон",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    805,
+                    -806
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 805,
+                "y": 806,
+                "caption": "Предатель Небес",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    325,
+                    -852
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 325,
+                "y": 852,
+                "caption": "Предатель Небес Барон",
+                "class": "airship"
             }
         },
         {
@@ -120,7 +197,7 @@
                         "caption": "Твердыня",
                         "region": "bs",
                         "map": "index",
-                        "x": 141,
+                        "x": 142,
                         "y": 659
                     }
                 ]
@@ -148,14 +225,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    512,
-                    -565
+                    502,
+                    -756
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 512,
-                "y": 565,
+                "x": 502,
+                "y": 756,
                 "caption": "Цитадель низушников",
                 "class": "tsitadel"
             }

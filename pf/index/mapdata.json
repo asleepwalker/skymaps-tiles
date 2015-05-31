@@ -32,6 +32,85 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    0,
+                    0
+                ]
+            },
+            "properties": {
+                "type": "npc",
+                "x": 0,
+                "y": 0,
+                "caption": "",
+                "npc": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1592,
+                    -740
+                ]
+            },
+            "properties": {
+                "type": "npc",
+                "x": 1592,
+                "y": 740,
+                "caption": "Вышино",
+                "npc": "Бургомистр Памфри"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2645,
+                    -568
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 2645,
+                "y": 568
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1547,
+                    -1529
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 1547,
+                "y": 1529
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    835,
+                    -533
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 835,
+                "y": 533
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     86,
                     -1931
                 ]
@@ -155,65 +234,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2639,
-                    -565
-                ]
-            },
-            "properties": {
-                "type": "label",
-                "x": 2639,
-                "y": 565,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/rimland"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1542,
-                    -1526
-                ]
-            },
-            "properties": {
-                "type": "label",
-                "x": 1542,
-                "y": 1526,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/rimland"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    829,
-                    -528
-                ]
-            },
-            "properties": {
-                "type": "label",
-                "x": 829,
-                "y": 528,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/rimland"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     2267,
-                    -1773
+                    -1772
                 ]
             },
             "properties": {
                 "type": "instance",
                 "x": 2267,
-                "y": 1773,
+                "y": 1772,
                 "region": "pf",
                 "map": "vinzavod",
                 "caption": "инстанс \"Не винный завод\"",
@@ -247,13 +275,13 @@
                 "type": "Point",
                 "coordinates": [
                     1581,
-                    -1269
+                    -1268
                 ]
             },
             "properties": {
                 "type": "instance",
                 "x": 1581,
-                "y": 1269,
+                "y": 1268,
                 "region": "pf",
                 "map": "hlopoty",
                 "caption": "инстанс \"Таможенные хлопоты\"",
@@ -1022,7 +1050,7 @@
                         "caption": "Вышино",
                         "region": "pf",
                         "map": "index",
-                        "x": 1585,
+                        "x": 1586,
                         "y": 743
                     },
                     {
@@ -1054,7 +1082,7 @@
                         "caption": "Вышино",
                         "region": "pf",
                         "map": "index",
-                        "x": 1585,
+                        "x": 1586,
                         "y": 743
                     },
                     {
@@ -1072,13 +1100,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1585,
+                    1586,
                     -743
                 ]
             },
             "properties": {
                 "type": "station",
-                "x": 1585,
+                "x": 1586,
                 "y": 743,
                 "caption": "Вышино",
                 "list": [
@@ -1136,7 +1164,7 @@
                         "region": "pf",
                         "map": "zhiloy",
                         "x": 479,
-                        "y": 464
+                        "y": 463
                     }
                 ]
             }
@@ -1186,14 +1214,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2679,
-                    -1047
+                    2646,
+                    -980
                 ]
             },
             "properties": {
                 "type": "factory",
-                "x": 2679,
-                "y": 1047,
+                "x": 2646,
+                "y": 980,
                 "caption": "Фабрика Умных Вооружений",
                 "production": [
                     "Умницы I-V"

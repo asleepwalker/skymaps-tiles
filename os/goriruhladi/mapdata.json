@@ -19,6 +19,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    407,
+                    -299
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 407,
+                "y": 299
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     218,
                     -522
                 ]
@@ -46,23 +61,6 @@
                 "y": 82,
                 "caption": "Рухлядь-маркет Мамуны",
                 "npc": "Мамуна"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    401,
-                    -291
-                ]
-            },
-            "properties": {
-                "type": "label",
-                "x": 401,
-                "y": 291,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/oskolki"
             }
         },
         {
@@ -220,7 +218,7 @@
                         "region": "os",
                         "map": "index",
                         "x": 450,
-                        "y": 315
+                        "y": 314
                     }
                 ]
             }

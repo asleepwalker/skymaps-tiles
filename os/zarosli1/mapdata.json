@@ -14,16 +14,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    510,
-                    -406
+                    501,
+                    -399
                 ]
             },
             "properties": {
-                "type": "label",
-                "x": 510,
-                "y": 406,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/oskolki"
+                "type": "beacon",
+                "x": 501,
+                "y": 399
             }
         },
         {

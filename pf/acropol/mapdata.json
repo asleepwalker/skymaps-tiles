@@ -18,6 +18,38 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    220,
+                    -154
+                ]
+            },
+            "properties": {
+                "type": "npc",
+                "x": 220,
+                "y": 154,
+                "caption": "Бункер",
+                "npc": "Робот Марк IV"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    333,
+                    -291
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 333,
+                "y": 291
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     315,
                     -550
                 ]
@@ -33,22 +65,6 @@
                     "x": 473,
                     "y": 359
                 }
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    260,
-                    -170
-                ]
-            },
-            "properties": {
-                "type": "label",
-                "x": 260,
-                "y": 170,
-                "text": "Здесь находится бункер с NPC."
             }
         },
         {

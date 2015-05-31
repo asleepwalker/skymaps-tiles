@@ -14,14 +14,31 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    479,
+                    -480
+                ]
+            },
+            "properties": {
+                "type": "npc",
+                "x": 479,
+                "y": 480,
+                "caption": "Убежище Ксении",
+                "npc": "Ксения"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     486,
-                    -492
+                    -490
                 ]
             },
             "properties": {
                 "type": "instance",
                 "x": 486,
-                "y": 492,
+                "y": 490,
                 "caption": "Техлорд Нангум",
                 "list": [
                     {
@@ -46,21 +63,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    474,
-                    -477
+                    473,
+                    -475
                 ]
             },
             "properties": {
                 "type": "station",
-                "x": 474,
-                "y": 477,
+                "x": 473,
+                "y": 475,
                 "caption": "Убежище Ксении",
                 "list": [
                     {
                         "caption": "Твердыня",
                         "region": "bs",
                         "map": "index",
-                        "x": 141,
+                        "x": 142,
                         "y": 659
                     },
                     {

@@ -14,6 +14,23 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    210,
+                    -120
+                ]
+            },
+            "properties": {
+                "type": "npc",
+                "x": 210,
+                "y": 120,
+                "caption": "Дом Хранителя Вихря",
+                "npc": "Хранитель Лабиринта"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     704,
                     -558
                 ]

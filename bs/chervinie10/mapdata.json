@@ -22,16 +22,50 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121,
-                    -386
+                    128,
+                    -394
                 ]
             },
             "properties": {
-                "type": "label",
-                "x": 121,
-                "y": 386,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/bastion"
+                "type": "beacon",
+                "x": 128,
+                "y": 394
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    341,
+                    -87
+                ]
+            },
+            "properties": {
+                "type": "quest",
+                "x": 341,
+                "y": 87,
+                "caption": "Сбор тайны Блюм Брахниус",
+                "link": "quests\/blum",
+                "tip": "Здесь есть записка сумасшедшего!"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112,
+                    -693
+                ]
+            },
+            "properties": {
+                "type": "quest",
+                "x": 112,
+                "y": 693,
+                "caption": "Сбор тайны Блюм Брахниус",
+                "link": "quests\/blum",
+                "tip": "Здесь есть записка сумасшедшего!"
             }
         },
         {

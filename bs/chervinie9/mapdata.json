@@ -22,6 +22,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    857,
+                    -563
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 857,
+                "y": 563
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     457,
                     -250
                 ]
@@ -202,23 +217,6 @@
                 "y": 637,
                 "caption": "Мусорог-генерал",
                 "class": "musorog"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    844,
-                    -563
-                ]
-            },
-            "properties": {
-                "type": "label",
-                "x": 844,
-                "y": 563,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/bastion"
             }
         },
         {

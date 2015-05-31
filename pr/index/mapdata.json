@@ -30,15 +30,241 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    558,
-                    -534
+                    1002,
+                    -979
                 ]
             },
             "properties": {
-                "type": "label",
-                "x": 558,
-                "y": 534,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты."
+                "type": "npc",
+                "x": 1002,
+                "y": 979,
+                "caption": "Лагуна",
+                "npc": "Марина"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1421,
+                    -931
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 1421,
+                "y": 931
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1791,
+                    -662
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 1791,
+                "y": 662
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1584,
+                    -181
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 1584,
+                "y": 181
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1438,
+                    -560
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 1438,
+                "y": 560
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1365,
+                    -1414
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 1365,
+                "y": 1414
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1254,
+                    -968
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 1254,
+                "y": 968
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1106,
+                    -1093
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 1106,
+                "y": 1093
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1000,
+                    -1234
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 1000,
+                "y": 1234
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    998,
+                    -1129
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 998,
+                "y": 1129
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1009,
+                    -752
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 1009,
+                "y": 752
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    894,
+                    -1091
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 894,
+                "y": 1091
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    750,
+                    -989
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 750,
+                "y": 989
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    646,
+                    -1583
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 646,
+                "y": 1583
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    629,
+                    -1107
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 629,
+                "y": 1107
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    567,
+                    -541
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 567,
+                "y": 541
             }
         },
         {
@@ -80,14 +306,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1306,
-                    -1363
+                    1305,
+                    -1364
                 ]
             },
             "properties": {
                 "type": "npc",
-                "x": 1306,
-                "y": 1363,
+                "x": 1305,
+                "y": 1364,
                 "caption": "Кабачок",
                 "npc": "Мурана и Винтана"
             }
@@ -131,251 +357,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1429,
-                    -916
-                ]
-            },
-            "properties": {
-                "type": "label",
-                "x": 1429,
-                "y": 916,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/reef"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1360,
-                    -1406
-                ]
-            },
-            "properties": {
-                "type": "label",
-                "x": 1360,
-                "y": 1406,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/reef"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1435,
-                    -548
-                ]
-            },
-            "properties": {
-                "type": "label",
-                "x": 1435,
-                "y": 548,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/reef"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1576,
-                    -173
-                ]
-            },
-            "properties": {
-                "type": "label",
-                "x": 1576,
-                "y": 173,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/reef"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    995,
-                    -1226
-                ]
-            },
-            "properties": {
-                "type": "label",
-                "x": 995,
-                "y": 1226,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/reef"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    622,
-                    -1096
-                ]
-            },
-            "properties": {
-                "type": "label",
-                "x": 622,
-                "y": 1096,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/reef"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1784,
-                    -655
-                ]
-            },
-            "properties": {
-                "type": "label",
-                "x": 1784,
-                "y": 655,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/reef"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1004,
-                    -746
-                ]
-            },
-            "properties": {
-                "type": "label",
-                "x": 1004,
-                "y": 746,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/reef"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    744,
-                    -980
-                ]
-            },
-            "properties": {
-                "type": "label",
-                "x": 744,
-                "y": 980,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/reef"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    885,
-                    -1084
-                ]
-            },
-            "properties": {
-                "type": "label",
-                "x": 885,
-                "y": 1084,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/reef"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1100,
-                    -1083
-                ]
-            },
-            "properties": {
-                "type": "label",
-                "x": 1100,
-                "y": 1083,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/reef"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1246,
-                    -959
-                ]
-            },
-            "properties": {
-                "type": "label",
-                "x": 1246,
-                "y": 959,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/reef"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    990,
-                    -1121
-                ]
-            },
-            "properties": {
-                "type": "label",
-                "x": 990,
-                "y": 1121,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/reef"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    639,
-                    -1574
-                ]
-            },
-            "properties": {
-                "type": "label",
-                "x": 639,
-                "y": 1574,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/reef"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    701,
+                    698,
                     -1373
                 ]
             },
             "properties": {
                 "type": "instance",
-                "x": 701,
+                "x": 698,
                 "y": 1373,
                 "caption": "Инстансы Сквида",
                 "list": [
@@ -786,14 +774,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    996,
-                    -976
+                    997,
+                    -977
                 ]
             },
             "properties": {
                 "type": "station",
-                "x": 996,
-                "y": 976,
+                "x": 997,
+                "y": 977,
                 "caption": "Лагуна",
                 "list": [
                     {

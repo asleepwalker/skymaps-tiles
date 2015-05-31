@@ -68,14 +68,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    337,
-                    -698
+                    339,
+                    -687
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 337,
-                "y": 698,
+                "x": 339,
+                "y": 687,
                 "caption": "Редкий Мегаёж",
                 "class": "zloboezh"
             }
@@ -85,14 +85,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    283,
-                    -819
+                    291,
+                    -844
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 283,
-                "y": 819,
+                "x": 291,
+                "y": 844,
                 "caption": "Мегамусорог-губитель",
                 "class": "musorog"
             }
@@ -102,14 +102,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    212,
-                    -681
+                    204,
+                    -647
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 212,
-                "y": 681,
+                "x": 204,
+                "y": 647,
                 "caption": "Усиленная Цитадель",
                 "class": "tsitadel"
             }

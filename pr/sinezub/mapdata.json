@@ -13,6 +13,23 @@
         }
     },
     "objects": [
-
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    942,
+                    -980
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 942,
+                "y": 980,
+                "caption": "Синезуб",
+                "class": "bluetooth",
+                "mode": "quest"
+            }
+        }
     ]
 }

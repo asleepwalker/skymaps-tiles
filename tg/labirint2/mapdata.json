@@ -17,16 +17,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    648,
-                    -103
+                    671,
+                    -123
                 ]
             },
             "properties": {
-                "type": "label",
-                "x": 648,
-                "y": 103,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/gavane"
+                "type": "beacon",
+                "x": 671,
+                "y": 123
             }
         },
         {

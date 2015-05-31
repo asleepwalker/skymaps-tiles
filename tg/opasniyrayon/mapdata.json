@@ -14,16 +14,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    359,
-                    -93
+                    574,
+                    -411
                 ]
             },
             "properties": {
-                "type": "label",
-                "x": 359,
-                "y": 93,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/gavane"
+                "type": "beacon",
+                "x": 574,
+                "y": 411
             }
         },
         {
@@ -31,16 +29,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    566,
-                    -397
+                    378,
+                    -107
                 ]
             },
             "properties": {
-                "type": "label",
-                "x": 566,
-                "y": 397,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/gavane"
+                "type": "beacon",
+                "x": 378,
+                "y": 107
             }
         },
         {
@@ -101,7 +97,7 @@
                         "region": "tg",
                         "map": "index",
                         "x": 528,
-                        "y": 363
+                        "y": 361
                     }
                 ]
             }

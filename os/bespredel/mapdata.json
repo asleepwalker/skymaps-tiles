@@ -19,6 +19,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    400,
+                    -285
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 400,
+                "y": 285
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     104,
                     -97
                 ]
@@ -29,23 +44,6 @@
                 "y": 97,
                 "caption": "Бандитский притон Аллера Анрича",
                 "npc": "Аллер Анрич"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    391,
-                    -325
-                ]
-            },
-            "properties": {
-                "type": "label",
-                "x": 391,
-                "y": 325,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/oskolki"
             }
         },
         {
@@ -124,7 +122,7 @@
                         "region": "os",
                         "map": "index",
                         "x": 450,
-                        "y": 315
+                        "y": 314
                     }
                 ]
             }

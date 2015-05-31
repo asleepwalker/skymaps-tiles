@@ -26,6 +26,85 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    1646,
+                    -121
+                ]
+            },
+            "properties": {
+                "type": "npc",
+                "x": 1646,
+                "y": 121,
+                "caption": "Лилия",
+                "npc": "Ляля-Дюймовочка"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    534,
+                    -364
+                ]
+            },
+            "properties": {
+                "type": "npc",
+                "x": 534,
+                "y": 364,
+                "caption": "Кроссвинд",
+                "npc": "Милента"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1427,
+                    -1313
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 1427,
+                "y": 1313
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    853,
+                    -1384
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 853,
+                "y": 1384
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    553,
+                    -1333
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 553,
+                "y": 1333
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     1272,
                     -1270
                 ]
@@ -284,57 +363,6 @@
                     "Коралловый сиган",
                     "Золотой летринус"
                 ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1411,
-                    -1291
-                ]
-            },
-            "properties": {
-                "type": "label",
-                "x": 1411,
-                "y": 1291,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/gavane"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    835,
-                    -1357
-                ]
-            },
-            "properties": {
-                "type": "label",
-                "x": 835,
-                "y": 1357,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/gavane"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    547,
-                    -1309
-                ]
-            },
-            "properties": {
-                "type": "label",
-                "x": 547,
-                "y": 1309,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/gavane"
             }
         },
         {
@@ -663,7 +691,7 @@
                         "region": "tg",
                         "map": "index",
                         "x": 528,
-                        "y": 363
+                        "y": 361
                     },
                     {
                         "caption": "Платформа №13",
@@ -681,13 +709,13 @@
                 "type": "Point",
                 "coordinates": [
                     528,
-                    -363
+                    -361
                 ]
             },
             "properties": {
                 "type": "station",
                 "x": 528,
-                "y": 363,
+                "y": 361,
                 "caption": "Кроссвинд",
                 "list": [
                     {

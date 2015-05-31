@@ -24,16 +24,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    156,
-                    -632
+                    163,
+                    -642
                 ]
             },
             "properties": {
-                "type": "label",
-                "x": 156,
-                "y": 632,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/rimland"
+                "type": "beacon",
+                "x": 163,
+                "y": 642
             }
         },
         {

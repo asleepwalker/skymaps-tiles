@@ -18,6 +18,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    160,
+                    -870
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 160,
+                "y": 870
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     320,
                     -532
                 ]
@@ -27,23 +42,6 @@
                 "x": 320,
                 "y": 532,
                 "text": "Чаще всего тут можно встретить исследовательский зонд."
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    136,
-                    -850
-                ]
-            },
-            "properties": {
-                "type": "label",
-                "x": 136,
-                "y": 850,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/gavane"
             }
         },
         {

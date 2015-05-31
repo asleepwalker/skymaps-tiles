@@ -19,6 +19,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    454,
+                    -340
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 454,
+                "y": 340
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     485,
                     -169
                 ]
@@ -29,23 +44,6 @@
                 "y": 169,
                 "caption": "Хламкистодоры",
                 "class": "hlamk"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    444,
-                    -331
-                ]
-            },
-            "properties": {
-                "type": "label",
-                "x": 444,
-                "y": 331,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/oskolki"
             }
         },
         {

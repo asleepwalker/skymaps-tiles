@@ -20,6 +20,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    527,
+                    -185
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 527,
+                "y": 185
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     285,
                     -215
                 ]
@@ -47,23 +62,6 @@
                 "y": 401,
                 "caption": "Археологическая экспедиция Ивы",
                 "npc": "Ива"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    519,
-                    -175
-                ]
-            },
-            "properties": {
-                "type": "label",
-                "x": 519,
-                "y": 175,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/oskolki"
             }
         },
         {

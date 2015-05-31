@@ -22,6 +22,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    623,
+                    -149
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 623,
+                "y": 149
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     744,
                     -138
                 ]
@@ -32,23 +47,6 @@
                 "y": 138,
                 "caption": "Логово жестоких бандитов",
                 "class": "logovo"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    620,
-                    -161
-                ]
-            },
-            "properties": {
-                "type": "label",
-                "x": 620,
-                "y": 161,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/reef"
             }
         },
         {

@@ -30,6 +30,53 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    147,
+                    -664
+                ]
+            },
+            "properties": {
+                "type": "npc",
+                "x": 147,
+                "y": 664,
+                "caption": "Твердыня",
+                "npc": "Сестра Брис"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1219,
+                    -289
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 1219,
+                "y": 289
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    682,
+                    -507
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 682,
+                "y": 507
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     1802,
                     -348
                 ]
@@ -48,13 +95,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1644,
+                    1642,
                     -83
                 ]
             },
             "properties": {
                 "type": "fish",
-                "x": 1644,
+                "x": 1642,
                 "y": 83,
                 "list": [
                     "Залётный хариус",
@@ -135,40 +182,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1213,
-                    -281
-                ]
-            },
-            "properties": {
-                "type": "label",
-                "x": 1213,
-                "y": 281,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/bastion"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    673,
-                    -495
-                ]
-            },
-            "properties": {
-                "type": "label",
-                "x": 673,
-                "y": 495,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/bastion"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     1653,
                     -718
                 ]
@@ -219,13 +232,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    732,
+                    735,
                     -1108
                 ]
             },
             "properties": {
                 "type": "fish",
-                "x": 732,
+                "x": 735,
                 "y": 1108,
                 "list": [
                     "Рыба-печень",
@@ -238,14 +251,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    964,
-                    -777
+                    965,
+                    -780
                 ]
             },
             "properties": {
                 "type": "fish",
-                "x": 964,
-                "y": 777,
+                "x": 965,
+                "y": 780,
                 "list": [
                     "Рыба-печень",
                     "Скудный лосось"
@@ -276,14 +289,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1525,
-                    -305
+                    1526,
+                    -297
                 ]
             },
             "properties": {
                 "type": "fish",
-                "x": 1525,
-                "y": 305,
+                "x": 1526,
+                "y": 297,
                 "list": [
                     "Залётный хариус",
                     "Ветряной жерех"
@@ -295,13 +308,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1291,
+                    1295,
                     -789
                 ]
             },
             "properties": {
                 "type": "fish",
-                "x": 1291,
+                "x": 1295,
                 "y": 789,
                 "list": [
                     "Залётный хариус",
@@ -314,13 +327,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    141,
+                    142,
                     -659
                 ]
             },
             "properties": {
                 "type": "station",
-                "x": 141,
+                "x": 142,
                 "y": 659,
                 "caption": "Твердыня",
                 "list": [
@@ -647,13 +660,13 @@
                 "type": "Point",
                 "coordinates": [
                     1430,
-                    -258
+                    -261
                 ]
             },
             "properties": {
                 "type": "quest",
                 "x": 1430,
-                "y": 258,
+                "y": 261,
                 "caption": "Сбор тайны Блюм Брахниус",
                 "link": "quests\/blum",
                 "tip": "Здесь есть записка сумасшедшего!"
@@ -683,13 +696,13 @@
                 "type": "Point",
                 "coordinates": [
                     1233,
-                    -758
+                    -753
                 ]
             },
             "properties": {
                 "type": "quest",
                 "x": 1233,
-                "y": 758,
+                "y": 753,
                 "caption": "Сбор тайны Блюм Брахниус",
                 "link": "quests\/blum",
                 "tip": "Здесь есть записка сумасшедшего!"

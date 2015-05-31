@@ -14,6 +14,23 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    348,
+                    -555
+                ]
+            },
+            "properties": {
+                "type": "npc",
+                "x": 348,
+                "y": 555,
+                "caption": "Деревня икаров",
+                "npc": "Икары"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     82,
                     -447
                 ]

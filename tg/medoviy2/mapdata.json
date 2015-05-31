@@ -14,6 +14,23 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    837,
+                    -850
+                ]
+            },
+            "properties": {
+                "type": "npc",
+                "x": 837,
+                "y": 850,
+                "caption": "Дом Безумного Механика",
+                "npc": "Гениальный Механик"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     429,
                     -128
                 ]
@@ -29,7 +46,7 @@
                         "region": "tg",
                         "map": "index",
                         "x": 528,
-                        "y": 363
+                        "y": 361
                     }
                 ]
             }

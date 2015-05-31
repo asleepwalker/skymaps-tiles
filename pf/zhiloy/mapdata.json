@@ -18,6 +18,38 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    127,
+                    -554
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 127,
+                "y": 554
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    484,
+                    -469
+                ]
+            },
+            "properties": {
+                "type": "npc",
+                "x": 484,
+                "y": 469,
+                "caption": "Исследовательская платформа",
+                "npc": "Ирэн Розенкрауцер"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     258,
                     -849
                 ]
@@ -157,20 +189,20 @@
                 "type": "Point",
                 "coordinates": [
                     479,
-                    -464
+                    -463
                 ]
             },
             "properties": {
                 "type": "station",
                 "x": 479,
-                "y": 464,
+                "y": 463,
                 "caption": "Исследовательская платформа",
                 "list": [
                     {
                         "caption": "Вышино",
                         "region": "pf",
                         "map": "index",
-                        "x": 1585,
+                        "x": 1586,
                         "y": 743
                     }
                 ]

@@ -21,6 +21,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    294,
+                    -804
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 294,
+                "y": 804
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     244,
                     -213
                 ]
@@ -99,23 +114,6 @@
                 "y": 414,
                 "caption": "Штурм-цербер",
                 "class": "tserber"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    302,
-                    -803
-                ]
-            },
-            "properties": {
-                "type": "label",
-                "x": 302,
-                "y": 803,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/bastion"
             }
         },
         {

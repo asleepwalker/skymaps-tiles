@@ -20,6 +20,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    865,
+                    -749
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 865,
+                "y": 749
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     118,
                     -453
                 ]
@@ -29,23 +44,6 @@
                 "x": 118,
                 "y": 453,
                 "text": "Здесь обитают редкие медузы. С Premium Gold у вас есть большой шанс получить низаракт."
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    860,
-                    -742
-                ]
-            },
-            "properties": {
-                "type": "label",
-                "x": 860,
-                "y": 742,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/reef"
             }
         },
         {

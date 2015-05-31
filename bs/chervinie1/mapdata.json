@@ -21,6 +21,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    685,
+                    -143
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 685,
+                "y": 143
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     101,
                     -753
                 ]
@@ -31,23 +46,6 @@
                 "y": 753,
                 "caption": "Мухоносец",
                 "class": "musorog"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    688,
-                    -114
-                ]
-            },
-            "properties": {
-                "type": "label",
-                "x": 688,
-                "y": 114,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/bastion"
             }
         },
         {

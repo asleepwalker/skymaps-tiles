@@ -22,6 +22,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    452,
+                    -623
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 452,
+                "y": 623
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     194,
                     -114
                 ]
@@ -33,23 +48,6 @@
                 "list": [
                     "Производит: Кокосовое молоко."
                 ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    443,
-                    -615
-                ]
-            },
-            "properties": {
-                "type": "label",
-                "x": 443,
-                "y": 615,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/reef"
             }
         },
         {

@@ -22,6 +22,36 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    856,
+                    -217
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 856,
+                "y": 217
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    623,
+                    -96
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 623,
+                "y": 96
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     914,
                     -55
                 ]
@@ -175,40 +205,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    852,
-                    -212
-                ]
-            },
-            "properties": {
-                "type": "label",
-                "x": 852,
-                "y": 212,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/bastion"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    616,
-                    -92
-                ]
-            },
-            "properties": {
-                "type": "label",
-                "x": 616,
-                "y": 92,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/bastion"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     767,
                     -191
                 ]
@@ -228,14 +224,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    881,
-                    -885
+                    882,
+                    -886
                 ]
             },
             "properties": {
                 "type": "instance",
-                "x": 881,
-                "y": 885,
+                "x": 882,
+                "y": 886,
                 "caption": "Плодильщики и Финальный удар",
                 "list": [
                     {

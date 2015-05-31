@@ -24,16 +24,31 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    779,
-                    -388
+                    455,
+                    -317
                 ]
             },
             "properties": {
-                "type": "label",
-                "x": 779,
-                "y": 388,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/oskolki"
+                "type": "npc",
+                "x": 455,
+                "y": 317,
+                "caption": "Кавардак",
+                "npc": "Искандер"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    784,
+                    -395
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 784,
+                "y": 395
             }
         },
         {
@@ -80,13 +95,13 @@
                 "type": "Point",
                 "coordinates": [
                     450,
-                    -315
+                    -314
                 ]
             },
             "properties": {
                 "type": "station",
                 "x": 450,
-                "y": 315,
+                "y": 314,
                 "caption": "Кавардак",
                 "list": [
                     {

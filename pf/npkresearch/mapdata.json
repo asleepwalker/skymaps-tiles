@@ -14,16 +14,48 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    796,
-                    -76
+                    848,
+                    -232
                 ]
             },
             "properties": {
-                "type": "label",
-                "x": 796,
-                "y": 76,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/rimland"
+                "type": "npc",
+                "x": 848,
+                "y": 232,
+                "caption": "Робот Брендер",
+                "npc": "Робот Брендер"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79,
+                    -334
+                ]
+            },
+            "properties": {
+                "type": "npc",
+                "x": 79,
+                "y": 334,
+                "caption": "Дом Гальвани",
+                "npc": "Профессор Гальвани"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    810,
+                    -121
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 810,
+                "y": 121
             }
         },
         {

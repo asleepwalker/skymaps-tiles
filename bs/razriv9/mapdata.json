@@ -22,6 +22,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    369,
+                    -687
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 369,
+                "y": 687
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     130,
                     -613
                 ]
@@ -73,23 +88,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    365,
-                    -681
-                ]
-            },
-            "properties": {
-                "type": "label",
-                "x": 365,
-                "y": 681,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/bastion"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     821,
                     -845
                 ]
@@ -104,7 +102,7 @@
                         "caption": "Твердыня",
                         "region": "bs",
                         "map": "index",
-                        "x": 141,
+                        "x": 142,
                         "y": 659
                     }
                 ]

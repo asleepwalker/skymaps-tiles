@@ -17,6 +17,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    531,
+                    -333
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 531,
+                "y": 333
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     504,
                     -505
                 ]
@@ -30,23 +45,6 @@
                 "caption": "Рубиновые прииски",
                 "goX": 0,
                 "goY": 0
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    525,
-                    -325
-                ]
-            },
-            "properties": {
-                "type": "label",
-                "x": 525,
-                "y": 325,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/bastion"
             }
         },
         {
