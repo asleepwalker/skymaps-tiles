@@ -9,6 +9,7 @@
 	$query = "SELECT * FROM `as_maps_index`";
 	$data = as_database_query($query);
 	while ($map = mysql_fetch_assoc($data)) {
+		echo 'Processing '.$map['region'].'/'.$map['map'].'...'."\n";
 		$update = $map['update'];
 		$date = explode('-', $map['date']);
 
@@ -78,7 +79,13 @@
 				}
 				else if ($object['type'] == 'npc') {
 					$line['caption'] = $object['var3'];
-					$line['npc'] = $object['var4'];
+					if ($object['var4']) $line['npc'] = $object['var4'];
+					if ($object['var5']) $line['link'] = $object['var5'];
+				}
+				else if ($object['type'] == 'beacon') {
+					if ($object['var3']) $line['mobs'] = $object['var3'];
+					if ($object['var4'] != '0') $line['coins'] = $object['var4'];
+					if ($object['var5']) $line['link'] = $object['var5'];
 				}
 
 			} else if (($object['type'] != 'station') && ($object['type'] != 'instance')) {
@@ -143,6 +150,7 @@
 
 				if (count($streams) > 1)
 				{
+					$line['type'] = 'instances';
 					$line['caption'] = $object['var3'];
 					foreach ($streams as $stream)
 					{
@@ -152,21 +160,21 @@
 						if ($target = mysql_fetch_assoc($data2))
 						{
 							if (count($tags) == 1) { $caption = $target['caption']; }
-							else if (count($tags) == 2) { $caption = html_entity_decode($tags[1]); }
-
+							else if (count($tags) == 2) { $caption = $tags[1]; }
 							$item = array();
 							$item['caption'] = $caption;
 							$item['region'] = $target['region'];
 							$item['map'] = $target['map'];
-							$item['goX'] = (int)$target['goX'];
-							$item['goY'] = (int)$target['goY'];
+							$item['x'] = (int)$target['goX'];
+							$item['y'] = (int)$target['goY'];
 							$items[] = $item;
 						}
 					}
 					$line['list'] = $items;
 				}
-				else
+				elseif (count($streams) == 1)
 				{
+					$line['type'] = 'instance';
 					$tags = explode('_',$streams[0]);
 					$query = "SELECT * FROM `as_maps_index` WHERE `id` = '".$tags[0]."'";
 					$data2 = as_database_query($query);
@@ -200,7 +208,11 @@
 			'objects' => $objects
 		);
 
-		$file = $workdir.$map['region'].'/'.$map['map'].'/mapdata.json';
+		$mapdir = $workdir.$map['region'].'/'.$map['map'];
+		$file = $mapdir.'/mapdata.json';
+		if (!is_dir($mapdir)) {
+			mkdir($mapdir, 0777, true);
+		}
 		file_put_contents($file, json_encode($mapdata, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
 
 		$query = "UPDATE `as_maps_index` SET `update` = '".$update."' WHERE `id` = '".$map['id']."'";
@@ -208,8 +220,8 @@
 		$updates[] = $map['region'].'/'.$map['map'].'_'.$update;
 	}
 	file_put_contents($workdir.'updates.txt', implode('&',$updates));
+	echo 'Map data processed successfully.'."\n";
 
 	as_database_disconnect();
-	echo '0';
 
 ?>

@@ -29,7 +29,8 @@
             "properties": {
                 "type": "beacon",
                 "x": 426,
-                "y": 657
+                "y": 657,
+                "link": "library\/coins\/bastion"
             }
         },
         {

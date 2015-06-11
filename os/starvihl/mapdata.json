@@ -21,7 +21,10 @@
             "properties": {
                 "type": "beacon",
                 "x": 602,
-                "y": 140
+                "y": 140,
+                "mobs": "Пиявка 5",
+                "coins": "4",
+                "link": "library\/coins\/oskolki"
             }
         },
         {

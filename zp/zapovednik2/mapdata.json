@@ -1,8 +1,8 @@
 {
     "meta": {
-        "caption": "Старый вихрь З",
-        "navigator": "AS_Super",
-        "date": "12.08.2011",
+        "caption": "Заповедник, уровень 2",
+        "navigator": "neo_max",
+        "date": "30.04.2015",
         "size": {
             "width": 1000,
             "height": 1000
@@ -14,15 +14,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    392,
-                    -85
+                    400,
+                    -793
                 ]
             },
             "properties": {
                 "type": "beacon",
-                "x": 392,
-                "y": 85,
-                "link": "library\/coins\/oskolki"
+                "x": 400,
+                "y": 793,
+                "link": "library\/coins\/zapovednik"
             }
         },
         {
@@ -30,14 +30,47 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    96,
-                    -94
+                    711,
+                    -130
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 711,
+                "y": 130,
+                "link": "library\/coins\/zapovednik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    66,
+                    -198
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 66,
+                "y": 198,
+                "mobs": "Кусачий панцерник (5)",
+                "link": "library\/coins\/zapovednik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    799,
+                    -368
                 ]
             },
             "properties": {
                 "type": "fish",
-                "x": 96,
-                "y": 94
+                "x": 799,
+                "y": 368
             }
         },
         {
@@ -45,16 +78,91 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    203,
-                    -349
+                    749,
+                    -381
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 749,
+                "y": 381
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    258,
+                    -316
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 258,
+                "y": 316
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    389,
+                    -695
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 389,
+                "y": 695
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    344,
+                    -676
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 344,
+                "y": 676
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    388,
+                    -640
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 388,
+                "y": 640
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    513,
+                    -539
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 203,
-                "y": 349,
-                "caption": "Кишкодав-разведчик",
-                "class": "kishkodav"
+                "x": 513,
+                "y": 539,
+                "caption": "Редкий Мегаёж",
+                "class": "zloboezh"
             }
         },
         {
@@ -62,68 +170,17 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    850,
-                    -852
+                    207,
+                    -484
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 850,
-                "y": 852,
-                "caption": "Гамма-шмель",
-                "class": "shmel"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    632,
-                    -109
-                ]
-            },
-            "properties": {
-                "type": "quest",
-                "x": 632,
-                "y": 109,
-                "caption": "\"Редкостные твари\"",
-                "tip": "Здесь обитает Мегавольт."
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    253,
-                    -733
-                ]
-            },
-            "properties": {
-                "type": "flager",
-                "x": 253,
-                "y": 733,
-                "easy": "Лютые Плютики",
-                "hard": "Шестерейдер",
-                "link": "library\/flagers\/oskolki"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    90,
-                    -452
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 90,
-                "y": 452,
-                "caption": "Кадавр",
-                "class": "kadavr"
+                "x": 207,
+                "y": 484,
+                "caption": "Патриах-панцирник",
+                "class": "panzer",
+                "mode": "quest"
             }
         },
         {
@@ -132,13 +189,16 @@
                 "type": "Point",
                 "coordinates": [
                     700,
-                    -760
+                    -795
                 ]
             },
             "properties": {
-                "type": "seyatel",
+                "type": "boss",
                 "x": 700,
-                "y": 760
+                "y": 795,
+                "caption": "Флагман браконьеров",
+                "class": "airship",
+                "mode": "quest"
             }
         },
         {
@@ -146,129 +206,20 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    616,
-                    -663
-                ]
-            },
-            "properties": {
-                "type": "fish",
-                "x": 616,
-                "y": 663,
-                "list": [
-                    "Тропический центропиг",
-                    "Игольчатый марлин"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    400,
-                    -120
-                ]
-            },
-            "properties": {
-                "type": "barrier",
-                "x": 400,
-                "y": 120
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    470,
-                    -120
-                ]
-            },
-            "properties": {
-                "type": "barrier",
-                "x": 470,
-                "y": 120
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    530,
-                    -120
-                ]
-            },
-            "properties": {
-                "type": "barrier",
-                "x": 530,
-                "y": 120
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    400,
-                    -880
-                ]
-            },
-            "properties": {
-                "type": "barrier",
-                "x": 400,
-                "y": 880
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    470,
-                    -880
-                ]
-            },
-            "properties": {
-                "type": "barrier",
-                "x": 470,
-                "y": 880
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    530,
-                    -880
-                ]
-            },
-            "properties": {
-                "type": "barrier",
-                "x": 530,
-                "y": 880
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    602,
-                    -337
+                    401,
+                    -906
                 ]
             },
             "properties": {
                 "type": "hole",
-                "x": 602,
-                "y": 337,
-                "region": "os",
-                "map": "starvihi",
-                "caption": "Старый вихрь И",
+                "x": 401,
+                "y": 906,
+                "region": "zp",
+                "map": "zapovednik3",
+                "caption": "Заповедник, уровень 3",
                 "goto": {
-                    "x": 201,
-                    "y": 86
+                    "x": 554,
+                    "y": 38
                 }
             }
         },
@@ -277,21 +228,80 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    283,
-                    -652
+                    378,
+                    -246
                 ]
             },
             "properties": {
                 "type": "hole",
-                "x": 283,
-                "y": 652,
-                "region": "os",
-                "map": "starvihzh",
-                "caption": "Старый вихрь Ж",
+                "x": 378,
+                "y": 246,
+                "region": "zp",
+                "map": "zapovednik3",
+                "caption": "Заповедник, уровень 3",
                 "goto": {
-                    "x": 453,
-                    "y": 74
+                    "x": 554,
+                    "y": 38
                 }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45,
+                    -435
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 45,
+                "y": 435,
+                "region": "zp",
+                "map": "zapovednik1",
+                "caption": "Заповедник, уровень 1",
+                "goto": {
+                    "x": 254,
+                    "y": 908
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    690,
+                    -307
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 690,
+                "y": 307,
+                "region": "zp",
+                "map": "zapovednik1",
+                "caption": "Заповедник, уровень 1",
+                "goto": {
+                    "x": 490,
+                    "y": 406
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    186,
+                    -395
+                ]
+            },
+            "properties": {
+                "type": "",
+                "x": 186,
+                "y": 395
             }
         }
     ]

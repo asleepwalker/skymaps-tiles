@@ -29,7 +29,8 @@
             "properties": {
                 "type": "beacon",
                 "x": 672,
-                "y": 841
+                "y": 841,
+                "link": "library\/coins\/bastion"
             }
         },
         {
@@ -127,7 +128,7 @@
                 ]
             },
             "properties": {
-                "type": "instance",
+                "type": "instances",
                 "x": 801,
                 "y": 104,
                 "caption": "Карцер",
@@ -136,15 +137,15 @@
                         "caption": "\"Карцер\"",
                         "region": "bs",
                         "map": "karcer",
-                        "goX": 0,
-                        "goY": 0
+                        "x": 0,
+                        "y": 0
                     },
                     {
-                        "caption": "\"Карцер\" (схемы охраны)",
+                        "caption": "&quot;Карцер&quot; (схемы охраны)",
                         "region": "bs",
                         "map": "karcer_scheme",
-                        "goX": 0,
-                        "goY": 0
+                        "x": 0,
+                        "y": 0
                     }
                 ]
             }

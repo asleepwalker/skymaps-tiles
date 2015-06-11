@@ -26,7 +26,8 @@
             "properties": {
                 "type": "beacon",
                 "x": 466,
-                "y": 170
+                "y": 170,
+                "link": "library\/coins\/oskolki"
             }
         },
         {

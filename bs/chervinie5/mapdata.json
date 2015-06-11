@@ -29,7 +29,9 @@
             "properties": {
                 "type": "beacon",
                 "x": 856,
-                "y": 217
+                "y": 217,
+                "mobs": "Чёрный пират (7)",
+                "link": "library\/coins\/bastion"
             }
         },
         {
@@ -44,7 +46,9 @@
             "properties": {
                 "type": "beacon",
                 "x": 623,
-                "y": 96
+                "y": 96,
+                "mobs": "Псина (4)",
+                "link": "library\/coins\/bastion"
             }
         },
         {
@@ -197,7 +201,8 @@
                 "x": 874,
                 "y": 874,
                 "caption": "Форпост Сульрата",
-                "npc": "Сульрат"
+                "npc": "Сульрат",
+                "link": "library\/npc\/bs\/sulrath"
             }
         },
         {
@@ -229,7 +234,7 @@
                 ]
             },
             "properties": {
-                "type": "instance",
+                "type": "instances",
                 "x": 882,
                 "y": 886,
                 "caption": "Плодильщики и Финальный удар",
@@ -238,29 +243,29 @@
                         "caption": "Плодильщики (лёгкий)",
                         "region": "bs",
                         "map": "plods_easy",
-                        "goX": 0,
-                        "goY": 0
+                        "x": 0,
+                        "y": 0
                     },
                     {
                         "caption": "Плодильщики (сложный)",
                         "region": "bs",
                         "map": "plods_hard",
-                        "goX": 0,
-                        "goY": 0
+                        "x": 0,
+                        "y": 0
                     },
                     {
                         "caption": "Монолит (лёгкий)",
                         "region": "bs",
                         "map": "monolit_easy",
-                        "goX": 0,
-                        "goY": 0
+                        "x": 0,
+                        "y": 0
                     },
                     {
                         "caption": "Монолит (сложный)",
                         "region": "bs",
                         "map": "monolit_hard",
-                        "goX": 0,
-                        "goY": 0
+                        "x": 0,
+                        "y": 0
                     }
                 ]
             }

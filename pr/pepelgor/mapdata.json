@@ -23,7 +23,8 @@
                 "x": 822,
                 "y": 830,
                 "caption": "Командование Пирастата",
-                "npc": "Командование Пирастата"
+                "npc": "Командование Пирастата",
+                "link": "library\/npc\/pr\/pirastat"
             }
         },
         {
@@ -136,7 +137,7 @@
                 ]
             },
             "properties": {
-                "type": "instance",
+                "type": "instances",
                 "x": 829,
                 "y": 839,
                 "caption": "Инстансы Пирастата",
@@ -145,15 +146,15 @@
                         "caption": "Проверка навыков",
                         "region": "pr",
                         "map": "proverka",
-                        "goX": 0,
-                        "goY": 0
+                        "x": 0,
+                        "y": 0
                     },
                     {
                         "caption": "Коварный путь",
                         "region": "pr",
                         "map": "kovarnyput",
-                        "goX": 0,
-                        "goY": 0
+                        "x": 0,
+                        "y": 0
                     }
                 ]
             }

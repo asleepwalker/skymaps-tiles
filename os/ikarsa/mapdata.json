@@ -23,7 +23,8 @@
                 "x": 417,
                 "y": 330,
                 "caption": "Деревня икаров",
-                "npc": "Икары"
+                "npc": "Икары",
+                "link": "library\/npc\/os\/ikar"
             }
         },
         {
@@ -38,7 +39,8 @@
             "properties": {
                 "type": "beacon",
                 "x": 672,
-                "y": 813
+                "y": 813,
+                "link": "library\/coins\/oskolki"
             }
         },
         {

@@ -21,7 +21,8 @@
             "properties": {
                 "type": "beacon",
                 "x": 168,
-                "y": 475
+                "y": 475,
+                "link": "library\/coins\/rimland"
             }
         },
         {

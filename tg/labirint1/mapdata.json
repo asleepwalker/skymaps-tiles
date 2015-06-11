@@ -25,7 +25,8 @@
             "properties": {
                 "type": "beacon",
                 "x": 160,
-                "y": 870
+                "y": 870,
+                "link": "library\/coins\/gavane"
             }
         },
         {

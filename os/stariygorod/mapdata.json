@@ -27,7 +27,8 @@
             "properties": {
                 "type": "beacon",
                 "x": 456,
-                "y": 310
+                "y": 310,
+                "link": "library\/coins\/oskolki"
             }
         },
         {
@@ -90,14 +91,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    255,
-                    -667
+                    261,
+                    -619
                 ]
             },
             "properties": {
                 "type": "fish",
-                "x": 255,
-                "y": 667,
+                "x": 261,
+                "y": 619,
                 "list": [
                     "Залётный хариус",
                     "Ветряной жерех"

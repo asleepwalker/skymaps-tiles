@@ -26,7 +26,8 @@
             "properties": {
                 "type": "beacon",
                 "x": 407,
-                "y": 299
+                "y": 299,
+                "link": "library\/coins\/oskolki"
             }
         },
         {
@@ -60,7 +61,8 @@
                 "x": 580,
                 "y": 82,
                 "caption": "Рухлядь-маркет Мамуны",
-                "npc": "Мамуна"
+                "npc": "Мамуна",
+                "link": "library\/npc\/os\/mamuna"
             }
         },
         {
@@ -167,14 +169,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    605,
-                    -532
+                    559,
+                    -488
                 ]
             },
             "properties": {
                 "type": "fish",
-                "x": 605,
-                "y": 532,
+                "x": 559,
+                "y": 488,
                 "list": [
                     "Залётный хариус",
                     "Ветряной жерех"

@@ -27,7 +27,8 @@
             "properties": {
                 "type": "beacon",
                 "x": 527,
-                "y": 185
+                "y": 185,
+                "link": "library\/coins\/oskolki"
             }
         },
         {
@@ -61,7 +62,8 @@
                 "x": 566,
                 "y": 401,
                 "caption": "Археологическая экспедиция Ивы",
-                "npc": "Ива"
+                "npc": "Ива",
+                "link": "library\/npc\/os\/iva"
             }
         },
         {

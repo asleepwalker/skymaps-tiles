@@ -39,7 +39,8 @@
                 "x": 147,
                 "y": 664,
                 "caption": "Твердыня",
-                "npc": "Сестра Брис"
+                "npc": "Сестра Брис",
+                "link": "library\/npc\/bs\/bris"
             }
         },
         {
@@ -54,7 +55,9 @@
             "properties": {
                 "type": "beacon",
                 "x": 1219,
-                "y": 289
+                "y": 289,
+                "mobs": "Чёрная поднёбка (5)",
+                "link": "library\/coins\/bastion"
             }
         },
         {
@@ -69,7 +72,9 @@
             "properties": {
                 "type": "beacon",
                 "x": 682,
-                "y": 507
+                "y": 507,
+                "mobs": "Чёрный пират (7)",
+                "link": "library\/coins\/bastion"
             }
         },
         {
@@ -123,7 +128,8 @@
                 "x": 538,
                 "y": 84,
                 "caption": "Склад Милоша",
-                "npc": "Брат Милош"
+                "npc": "Брат Милош",
+                "link": "library\/npc\/bs\/milosh"
             }
         },
         {
@@ -140,7 +146,8 @@
                 "x": 557,
                 "y": 1205,
                 "caption": "Аэродром Валькирий",
-                "npc": "Сестра Аврора"
+                "npc": "Сестра Аврора",
+                "link": "library\/npc\/bs\/avrora"
             }
         },
         {
@@ -157,7 +164,8 @@
                 "x": 359,
                 "y": 1194,
                 "caption": "Хижина Блюма Брахниуса",
-                "npc": "Блюм Брахниус"
+                "npc": "Блюм Брахниус",
+                "link": "library\/npc\/bs\/blum"
             }
         },
         {
@@ -174,7 +182,8 @@
                 "x": 81,
                 "y": 1210,
                 "caption": "Музей славы",
-                "npc": "Брат Альфред"
+                "npc": "Брат Альфред",
+                "link": "library\/npc\/bs\/alfred"
             }
         },
         {
@@ -399,24 +408,24 @@
                 ]
             },
             "properties": {
-                "type": "instance",
+                "type": "instances",
                 "x": 1521,
                 "y": 721,
                 "caption": "Низверг",
                 "list": [
                     {
-                        "caption": "\"Низверг\" (лёгкий)",
+                        "caption": "&quot;Низверг&quot; (лёгкий)",
                         "region": "bs",
                         "map": "nizverg_easy",
-                        "goX": 0,
-                        "goY": 0
+                        "x": 0,
+                        "y": 0
                     },
                     {
-                        "caption": "\"Низверг\" (сложный)",
+                        "caption": "&quot;Низверг&quot; (сложный)",
                         "region": "bs",
                         "map": "nizverg_hard",
-                        "goX": 0,
-                        "goY": 0
+                        "x": 0,
+                        "y": 0
                     }
                 ]
             }
@@ -431,24 +440,24 @@
                 ]
             },
             "properties": {
-                "type": "instance",
+                "type": "instances",
                 "x": 634,
                 "y": 1145,
                 "caption": "Валькирии",
                 "list": [
                     {
-                        "caption": "\"Валькирии\" (лёгкий)",
+                        "caption": "&quot;Валькирии&quot; (лёгкий)",
                         "region": "bs",
                         "map": "valkirie_easy",
-                        "goX": 0,
-                        "goY": 0
+                        "x": 0,
+                        "y": 0
                     },
                     {
-                        "caption": "\"Валькирии\" (сложный)",
+                        "caption": "&quot;Валькирии&quot; (сложный)",
                         "region": "bs",
                         "map": "valkirie_hard",
-                        "goX": 0,
-                        "goY": 0
+                        "x": 0,
+                        "y": 0
                     }
                 ]
             }

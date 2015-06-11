@@ -45,7 +45,8 @@
             "properties": {
                 "type": "beacon",
                 "x": 533,
-                "y": 168
+                "y": 168,
+                "link": "library\/coins\/bastion"
             }
         },
         {
@@ -60,7 +61,8 @@
             "properties": {
                 "type": "beacon",
                 "x": 453,
-                "y": 869
+                "y": 869,
+                "link": "library\/coins\/bastion"
             }
         },
         {
@@ -75,7 +77,8 @@
             "properties": {
                 "type": "beacon",
                 "x": 255,
-                "y": 877
+                "y": 877,
+                "link": "library\/coins\/bastion"
             }
         },
         {
@@ -90,7 +93,8 @@
             "properties": {
                 "type": "beacon",
                 "x": 71,
-                "y": 463
+                "y": 463,
+                "link": "library\/coins\/bastion"
             }
         },
         {

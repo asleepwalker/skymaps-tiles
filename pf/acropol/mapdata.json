@@ -27,7 +27,8 @@
                 "x": 220,
                 "y": 154,
                 "caption": "Бункер",
-                "npc": "Робот Марк IV"
+                "npc": "Робот Марк IV",
+                "link": "library\/npc\/pf\/mark4"
             }
         },
         {

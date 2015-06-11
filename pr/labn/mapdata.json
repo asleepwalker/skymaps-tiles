@@ -30,7 +30,8 @@
             "properties": {
                 "type": "beacon",
                 "x": 789,
-                "y": 648
+                "y": 648,
+                "link": "library\/coins\/reef"
             }
         },
         {

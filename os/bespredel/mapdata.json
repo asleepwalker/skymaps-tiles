@@ -26,7 +26,8 @@
             "properties": {
                 "type": "beacon",
                 "x": 400,
-                "y": 285
+                "y": 285,
+                "link": "library\/coins\/oskolki"
             }
         },
         {
@@ -43,7 +44,8 @@
                 "x": 104,
                 "y": 97,
                 "caption": "Бандитский притон Аллера Анрича",
-                "npc": "Аллер Анрич"
+                "npc": "Аллер Анрич",
+                "link": "library\/npc\/os\/aller"
             }
         },
         {

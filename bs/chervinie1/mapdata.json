@@ -28,7 +28,9 @@
             "properties": {
                 "type": "beacon",
                 "x": 685,
-                "y": 143
+                "y": 143,
+                "mobs": "Убер-шестероид (4)",
+                "link": "library\/coins\/bastion"
             }
         },
         {

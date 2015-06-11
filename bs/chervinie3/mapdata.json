@@ -28,7 +28,9 @@
             "properties": {
                 "type": "beacon",
                 "x": 294,
-                "y": 804
+                "y": 804,
+                "mobs": "Чёрная поднёбка (7)",
+                "link": "library\/coins\/bastion"
             }
         },
         {

@@ -39,7 +39,8 @@
                 "x": 1002,
                 "y": 979,
                 "caption": "Лагуна",
-                "npc": "Марина"
+                "npc": "Марина",
+                "link": "library\/npc\/pr\/marina"
             }
         },
         {
@@ -54,7 +55,9 @@
             "properties": {
                 "type": "beacon",
                 "x": 1421,
-                "y": 931
+                "y": 931,
+                "coins": "",
+                "link": "library\/coins\/reef"
             }
         },
         {
@@ -69,7 +72,8 @@
             "properties": {
                 "type": "beacon",
                 "x": 1791,
-                "y": 662
+                "y": 662,
+                "link": "library\/coins\/reef"
             }
         },
         {
@@ -84,7 +88,8 @@
             "properties": {
                 "type": "beacon",
                 "x": 1584,
-                "y": 181
+                "y": 181,
+                "link": "library\/coins\/reef"
             }
         },
         {
@@ -99,7 +104,8 @@
             "properties": {
                 "type": "beacon",
                 "x": 1438,
-                "y": 560
+                "y": 560,
+                "link": "library\/coins\/reef"
             }
         },
         {
@@ -114,7 +120,8 @@
             "properties": {
                 "type": "beacon",
                 "x": 1365,
-                "y": 1414
+                "y": 1414,
+                "link": "library\/coins\/reef"
             }
         },
         {
@@ -129,7 +136,8 @@
             "properties": {
                 "type": "beacon",
                 "x": 1254,
-                "y": 968
+                "y": 968,
+                "link": "library\/coins\/reef"
             }
         },
         {
@@ -144,7 +152,8 @@
             "properties": {
                 "type": "beacon",
                 "x": 1106,
-                "y": 1093
+                "y": 1093,
+                "link": "library\/coins\/reef"
             }
         },
         {
@@ -159,7 +168,8 @@
             "properties": {
                 "type": "beacon",
                 "x": 1000,
-                "y": 1234
+                "y": 1234,
+                "link": "library\/coins\/reef"
             }
         },
         {
@@ -174,7 +184,8 @@
             "properties": {
                 "type": "beacon",
                 "x": 998,
-                "y": 1129
+                "y": 1129,
+                "link": "library\/coins\/reef"
             }
         },
         {
@@ -189,7 +200,8 @@
             "properties": {
                 "type": "beacon",
                 "x": 1009,
-                "y": 752
+                "y": 752,
+                "link": "library\/coins\/reef"
             }
         },
         {
@@ -204,7 +216,8 @@
             "properties": {
                 "type": "beacon",
                 "x": 894,
-                "y": 1091
+                "y": 1091,
+                "link": "library\/coins\/reef"
             }
         },
         {
@@ -219,7 +232,8 @@
             "properties": {
                 "type": "beacon",
                 "x": 750,
-                "y": 989
+                "y": 989,
+                "link": "library\/coins\/reef"
             }
         },
         {
@@ -234,7 +248,8 @@
             "properties": {
                 "type": "beacon",
                 "x": 646,
-                "y": 1583
+                "y": 1583,
+                "link": "library\/coins\/reef"
             }
         },
         {
@@ -249,7 +264,8 @@
             "properties": {
                 "type": "beacon",
                 "x": 629,
-                "y": 1107
+                "y": 1107,
+                "link": "library\/coins\/reef"
             }
         },
         {
@@ -264,7 +280,8 @@
             "properties": {
                 "type": "beacon",
                 "x": 567,
-                "y": 541
+                "y": 541,
+                "link": "library\/coins\/reef"
             }
         },
         {
@@ -298,7 +315,8 @@
                 "x": 1296,
                 "y": 640,
                 "caption": "Лаборатория Густо",
-                "npc": "Капитан Густо"
+                "npc": "Капитан Густо",
+                "link": "library\/npc\/pr\/gusto"
             }
         },
         {
@@ -315,7 +333,8 @@
                 "x": 1305,
                 "y": 1364,
                 "caption": "Кабачок",
-                "npc": "Мурана и Винтана"
+                "npc": "Мурана и Винтана",
+                "link": "library\/npc\/pr\/muranavintana"
             }
         },
         {
@@ -332,7 +351,8 @@
                 "x": 689,
                 "y": 1365,
                 "caption": "Дом Доктора Сквида",
-                "npc": "Доктор Сквид"
+                "npc": "Доктор Сквид",
+                "link": "library\/npc\/pr\/squid"
             }
         },
         {
@@ -349,7 +369,8 @@
                 "x": 488,
                 "y": 936,
                 "caption": "Дом капитана Гормана",
-                "npc": "Капитан Горман"
+                "npc": "Капитан Горман",
+                "link": "library\/npc\/pr\/gorman"
             }
         },
         {
@@ -362,7 +383,7 @@
                 ]
             },
             "properties": {
-                "type": "instance",
+                "type": "instances",
                 "x": 698,
                 "y": 1373,
                 "caption": "Инстансы Сквида",
@@ -371,22 +392,22 @@
                         "caption": "Потайная тропа",
                         "region": "pr",
                         "map": "tropa",
-                        "goX": 0,
-                        "goY": 0
+                        "x": 0,
+                        "y": 0
                     },
                     {
                         "caption": "Пепельная горелка",
                         "region": "pr",
                         "map": "pepelgor",
-                        "goX": 0,
-                        "goY": 0
+                        "x": 0,
+                        "y": 0
                     },
                     {
                         "caption": "Логово Синезуба",
                         "region": "pr",
                         "map": "sinezub",
-                        "goX": 1000,
-                        "goY": 1000
+                        "x": 1000,
+                        "y": 1000
                     }
                 ]
             }

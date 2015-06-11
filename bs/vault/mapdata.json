@@ -23,7 +23,8 @@
                 "x": 479,
                 "y": 480,
                 "caption": "Убежище Ксении",
-                "npc": "Ксения"
+                "npc": "Ксения",
+                "link": "library\/npc\/bs\/xenia"
             }
         },
         {
@@ -36,7 +37,7 @@
                 ]
             },
             "properties": {
-                "type": "instance",
+                "type": "instances",
                 "x": 486,
                 "y": 490,
                 "caption": "Техлорд Нангум",
@@ -45,15 +46,15 @@
                         "caption": "\"Техлорд Нангум\" (лёгкий)",
                         "region": "bs",
                         "map": "tehlord_easy",
-                        "goX": 0,
-                        "goY": 0
+                        "x": 0,
+                        "y": 0
                     },
                     {
                         "caption": "\"Техлорд Нангум\" (сложный)",
                         "region": "bs",
                         "map": "tehlord_hard",
-                        "goX": 0,
-                        "goY": 0
+                        "x": 0,
+                        "y": 0
                     }
                 ]
             }
