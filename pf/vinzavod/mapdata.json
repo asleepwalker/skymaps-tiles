@@ -57,7 +57,7 @@
                 ]
             },
             "properties": {
-                "type": "label",
+                "type": "note",
                 "x": 1341,
                 "y": 1062,
                 "text": "Голубая токс-рыба."
@@ -73,7 +73,7 @@
                 ]
             },
             "properties": {
-                "type": "label",
+                "type": "note",
                 "x": 393,
                 "y": 1056,
                 "text": "Зелёная токс-рыба."

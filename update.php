@@ -51,6 +51,7 @@
 					if ($object['var5']) $line['mode'] = $object['var5'];
 				}
 				else if ($object['type'] == 'label') {
+					$line['type'] = 'note';
 					$line['text'] = $object['var3'];
 					if ($object['var4']) $line['link'] = $object['var4'];
 				}
@@ -106,8 +107,8 @@
 						}
 					}
 					$line['goto'] = array(
-						'x' => (int)$exit['var1'],
-						'y' => (int)$exit['var2']
+						'x' => (int)$exit['var1'] + 20,
+						'y' => (int)$exit['var2'] + 20
 					);
 
 					if ($object['type'] == 'blackhole') $line['type'] = 'wormhole';
@@ -165,8 +166,8 @@
 							$item['caption'] = $caption;
 							$item['region'] = $target['region'];
 							$item['map'] = $target['map'];
-							$item['x'] = (int)$target['goX'];
-							$item['y'] = (int)$target['goY'];
+							$item['x'] = (int)$target['goX'] + 20;
+							$item['y'] = (int)$target['goY'] + 20;
 							$items[] = $item;
 						}
 					}
@@ -186,8 +187,8 @@
 						$line['region'] = $target['region'];
 						$line['map'] = $target['map'];
 						$line['caption'] = $caption;
-						$line['goX'] = (int)$target['goX'];
-						$line['goY'] = (int)$target['goY'];
+						$line['goX'] = (int)$target['goX'] + 20;
+						$line['goY'] = (int)$target['goY'] + 20;
 					}
 				}
 			}
