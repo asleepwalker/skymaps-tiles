@@ -20,6 +20,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    527,
+                    -185
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 527,
+                "y": 185,
+                "link": "library\/coins\/oskolki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     285,
                     -215
                 ]
@@ -46,24 +62,8 @@
                 "x": 566,
                 "y": 401,
                 "caption": "Археологическая экспедиция Ивы",
-                "npc": "Ива"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    519,
-                    -175
-                ]
-            },
-            "properties": {
-                "type": "label",
-                "x": 519,
-                "y": 175,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/oskolki"
+                "npc": "Ива",
+                "link": "library\/npc\/os\/iva"
             }
         },
         {
@@ -286,8 +286,8 @@
                 "map": "dremuchie",
                 "caption": "Дремучье",
                 "goto": {
-                    "x": 768,
-                    "y": 43
+                    "x": 788,
+                    "y": 63
                 }
             }
         },
@@ -308,8 +308,8 @@
                 "map": "dremuchie",
                 "caption": "Дремучье",
                 "goto": {
-                    "x": 490,
-                    "y": 43
+                    "x": 510,
+                    "y": 63
                 }
             }
         },
@@ -330,8 +330,8 @@
                 "map": "dremuchie",
                 "caption": "Дремучье",
                 "goto": {
-                    "x": 199,
-                    "y": 42
+                    "x": 219,
+                    "y": 62
                 }
             }
         },
@@ -352,8 +352,8 @@
                 "map": "index",
                 "caption": "Центр",
                 "goto": {
-                    "x": 922,
-                    "y": 496
+                    "x": 942,
+                    "y": 516
                 }
             }
         },
@@ -374,8 +374,8 @@
                 "map": "index",
                 "caption": "Центр",
                 "goto": {
-                    "x": 925,
-                    "y": 324
+                    "x": 945,
+                    "y": 344
                 }
             }
         },
@@ -411,8 +411,8 @@
                 "map": "goriruhladi",
                 "caption": "Горы рухляди",
                 "goto": {
-                    "x": 837,
-                    "y": 616
+                    "x": 857,
+                    "y": 636
                 }
             }
         },
@@ -433,8 +433,8 @@
                 "map": "goriruhladi",
                 "caption": "Горы рухляди",
                 "goto": {
-                    "x": 610,
-                    "y": 620
+                    "x": 630,
+                    "y": 640
                 }
             }
         },
@@ -455,8 +455,8 @@
                 "map": "goriruhladi",
                 "caption": "Горы рухляди",
                 "goto": {
-                    "x": 486,
-                    "y": 623
+                    "x": 506,
+                    "y": 643
                 }
             }
         },
@@ -477,8 +477,8 @@
                 "map": "goriruhladi",
                 "caption": "Горы рухляди",
                 "goto": {
-                    "x": 183,
-                    "y": 622
+                    "x": 203,
+                    "y": 642
                 }
             }
         }

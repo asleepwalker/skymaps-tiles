@@ -22,6 +22,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    426,
+                    -657
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 426,
+                "y": 657,
+                "link": "library\/coins\/bastion"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     418,
                     -695
                 ]
@@ -100,23 +116,6 @@
                 "y": 117,
                 "caption": "Предатель Небес Король",
                 "class": "airship"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    417,
-                    -650
-                ]
-            },
-            "properties": {
-                "type": "label",
-                "x": 417,
-                "y": 650,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/bastion"
             }
         },
         {

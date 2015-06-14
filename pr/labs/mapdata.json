@@ -22,6 +22,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    172,
+                    -807
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 172,
+                "y": 807,
+                "link": "library\/coins\/reef"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     107,
                     -842
                 ]
@@ -83,23 +99,6 @@
                 "y": 139,
                 "caption": "Альфа-матка",
                 "class": "matka"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    138,
-                    -789
-                ]
-            },
-            "properties": {
-                "type": "label",
-                "x": 138,
-                "y": 789,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/reef"
             }
         },
         {
@@ -189,8 +188,8 @@
                 "map": "labr",
                 "caption": "Лабиринт Р",
                 "goto": {
-                    "x": 612,
-                    "y": 122
+                    "x": 632,
+                    "y": 142
                 }
             }
         },
@@ -211,8 +210,8 @@
                 "map": "labo",
                 "caption": "Лабиринт О",
                 "goto": {
-                    "x": 861,
-                    "y": 344
+                    "x": 881,
+                    "y": 364
                 }
             }
         }

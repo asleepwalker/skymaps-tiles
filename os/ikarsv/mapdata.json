@@ -14,15 +14,32 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    662,
-                    -759
+                    179,
+                    -709
                 ]
             },
             "properties": {
-                "type": "label",
-                "x": 662,
-                "y": 759,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
+                "type": "npc",
+                "x": 179,
+                "y": 709,
+                "caption": "Деревня икаров",
+                "npc": "Икары",
+                "link": "library\/npc\/os\/ikar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    314,
+                    -307
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 314,
+                "y": 307,
                 "link": "library\/coins\/oskolki"
             }
         },
@@ -183,8 +200,8 @@
                 "map": "ikarsg",
                 "caption": "Лабиринт икаров Г",
                 "goto": {
-                    "x": 58,
-                    "y": 899
+                    "x": 78,
+                    "y": 919
                 }
             }
         },
@@ -205,8 +222,8 @@
                 "map": "ikarsb",
                 "caption": "Лабиринт икаров Б",
                 "goto": {
-                    "x": 82,
-                    "y": 77
+                    "x": 102,
+                    "y": 97
                 }
             }
         }

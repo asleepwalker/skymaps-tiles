@@ -22,6 +22,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    578,
+                    -840
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 578,
+                "y": 840,
+                "link": "library\/coins\/bastion"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     100,
                     -603
                 ]
@@ -73,31 +89,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    575,
-                    -831
-                ]
-            },
-            "properties": {
-                "type": "label",
-                "x": 575,
-                "y": 831,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/bastion"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    575,
-                    -105
+                    585,
+                    -87
                 ]
             },
             "properties": {
                 "type": "fish",
-                "x": 575,
-                "y": 105,
+                "x": 585,
+                "y": 87,
                 "list": [
                     "Коралловый сиган",
                     "Золотой летринус"
@@ -123,15 +122,15 @@
                         "caption": "Твердыня",
                         "region": "bs",
                         "map": "index",
-                        "x": 141,
+                        "x": 142,
                         "y": 659
                     },
                     {
                         "caption": "Убежище Ксении",
                         "region": "bs",
                         "map": "vault",
-                        "x": 474,
-                        "y": 477
+                        "x": 473,
+                        "y": 475
                     },
                     {
                         "caption": "\"Луч Света\"",
@@ -163,14 +162,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    113,
-                    -465
+                    157,
+                    -277
                 ]
             },
             "properties": {
                 "type": "quest",
-                "x": 113,
-                "y": 465,
+                "x": 157,
+                "y": 277,
                 "caption": "Сбор тайны Блюм Брахниус",
                 "link": "quests\/blum",
                 "tip": "Здесь есть записка сумасшедшего!"
@@ -277,14 +276,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    180,
-                    -72
+                    148,
+                    -87
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 180,
-                "y": 72,
+                "x": 148,
+                "y": 87,
                 "caption": "Убер-цербер",
                 "class": "tserber"
             }
@@ -408,8 +407,8 @@
                 "map": "labzh",
                 "caption": "Лабиринт Ж",
                 "goto": {
-                    "x": 77,
-                    "y": 150
+                    "x": 97,
+                    "y": 170
                 }
             }
         },
@@ -430,8 +429,8 @@
                 "map": "razriv4",
                 "caption": "Разрыв, ур.4",
                 "goto": {
-                    "x": 507,
-                    "y": 581
+                    "x": 527,
+                    "y": 601
                 }
             }
         },
@@ -452,8 +451,8 @@
                 "map": "razriv2",
                 "caption": "Разрыв, ур.2",
                 "goto": {
-                    "x": 941,
-                    "y": 111
+                    "x": 961,
+                    "y": 131
                 }
             }
         }

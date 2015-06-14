@@ -23,6 +23,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    141,
+                    -127
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 141,
+                "y": 127,
+                "link": "library\/coins\/rimland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     655,
                     -149
                 ]
@@ -33,23 +49,6 @@
                 "y": 149,
                 "caption": "Небесный Блудотворец Король",
                 "class": "airship"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    134,
-                    -121
-                ]
-            },
-            "properties": {
-                "type": "label",
-                "x": 134,
-                "y": 121,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/rimland"
             }
         },
         {
@@ -191,8 +190,8 @@
                 "map": "labl",
                 "caption": "Лабиринт Л",
                 "goto": {
-                    "x": 382,
-                    "y": 619
+                    "x": 402,
+                    "y": 639
                 }
             }
         }

@@ -14,6 +14,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    210,
+                    -120
+                ]
+            },
+            "properties": {
+                "type": "npc",
+                "x": 210,
+                "y": 120,
+                "caption": "Дом Хранителя Вихря",
+                "npc": "Хранитель Лабиринта",
+                "link": "library\/npc\/tg\/hranitel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     704,
                     -558
                 ]
@@ -26,8 +44,8 @@
                 "map": "prostranstvo",
                 "caption": "Пространство Вариантов",
                 "goto": {
-                    "x": 401,
-                    "y": 412
+                    "x": 421,
+                    "y": 432
                 }
             }
         },

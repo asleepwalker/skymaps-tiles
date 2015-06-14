@@ -21,6 +21,108 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    414,
+                    -842
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 414,
+                "y": 842,
+                "caption": "Убер-Цербер",
+                "class": "tserber"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    563,
+                    -914
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 563,
+                "y": 914,
+                "caption": "Предатель Небес",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    861,
+                    -655
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 861,
+                "y": 655,
+                "caption": "Предатель Небес",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    808,
+                    -816
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 808,
+                "y": 816,
+                "caption": "Предатель Небес Король",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    866,
+                    -171
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 866,
+                "y": 171,
+                "caption": "Предатель Небес Барон",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    759,
+                    -98
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 759,
+                "y": 98,
+                "caption": "Предатель Небес Барон",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     359,
                     -517
                 ]
@@ -120,8 +222,8 @@
                 "map": "krovaviy2",
                 "caption": "Кровавый лаз, ур.2",
                 "goto": {
-                    "x": 928,
-                    "y": 459
+                    "x": 948,
+                    "y": 479
                 }
             }
         },
@@ -142,8 +244,8 @@
                 "map": "index",
                 "caption": "Бастион",
                 "goto": {
-                    "x": 1052,
-                    "y": 1240
+                    "x": 1072,
+                    "y": 1260
                 }
             }
         }

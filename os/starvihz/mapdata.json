@@ -14,6 +14,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    392,
+                    -85
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 392,
+                "y": 85,
+                "link": "library\/coins\/oskolki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     96,
                     -94
                 ]
@@ -39,23 +55,6 @@
                 "y": 349,
                 "caption": "Кишкодав-разведчик",
                 "class": "kishkodav"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    384,
-                    -75
-                ]
-            },
-            "properties": {
-                "type": "label",
-                "x": 384,
-                "y": 75,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/oskolki"
             }
         },
         {
@@ -268,8 +267,8 @@
                 "map": "starvihi",
                 "caption": "Старый вихрь И",
                 "goto": {
-                    "x": 201,
-                    "y": 86
+                    "x": 221,
+                    "y": 106
                 }
             }
         },
@@ -290,8 +289,8 @@
                 "map": "starvihzh",
                 "caption": "Старый вихрь Ж",
                 "goto": {
-                    "x": 453,
-                    "y": 74
+                    "x": 473,
+                    "y": 94
                 }
             }
         }

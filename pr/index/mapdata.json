@@ -30,15 +30,258 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    558,
-                    -534
+                    1002,
+                    -979
                 ]
             },
             "properties": {
-                "type": "label",
-                "x": 558,
-                "y": 534,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты."
+                "type": "npc",
+                "x": 1002,
+                "y": 979,
+                "caption": "Лагуна",
+                "npc": "Марина",
+                "link": "library\/npc\/pr\/marina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1421,
+                    -931
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 1421,
+                "y": 931,
+                "coins": "",
+                "link": "library\/coins\/reef"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1791,
+                    -662
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 1791,
+                "y": 662,
+                "link": "library\/coins\/reef"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1584,
+                    -181
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 1584,
+                "y": 181,
+                "link": "library\/coins\/reef"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1438,
+                    -560
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 1438,
+                "y": 560,
+                "link": "library\/coins\/reef"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1365,
+                    -1414
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 1365,
+                "y": 1414,
+                "link": "library\/coins\/reef"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1254,
+                    -968
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 1254,
+                "y": 968,
+                "link": "library\/coins\/reef"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1106,
+                    -1093
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 1106,
+                "y": 1093,
+                "link": "library\/coins\/reef"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1000,
+                    -1234
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 1000,
+                "y": 1234,
+                "link": "library\/coins\/reef"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    998,
+                    -1129
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 998,
+                "y": 1129,
+                "link": "library\/coins\/reef"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1009,
+                    -752
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 1009,
+                "y": 752,
+                "link": "library\/coins\/reef"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    894,
+                    -1091
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 894,
+                "y": 1091,
+                "link": "library\/coins\/reef"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    750,
+                    -989
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 750,
+                "y": 989,
+                "link": "library\/coins\/reef"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    646,
+                    -1583
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 646,
+                "y": 1583,
+                "link": "library\/coins\/reef"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    629,
+                    -1107
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 629,
+                "y": 1107,
+                "link": "library\/coins\/reef"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    567,
+                    -541
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 567,
+                "y": 541,
+                "link": "library\/coins\/reef"
             }
         },
         {
@@ -72,7 +315,8 @@
                 "x": 1296,
                 "y": 640,
                 "caption": "Лаборатория Густо",
-                "npc": "Капитан Густо"
+                "npc": "Капитан Густо",
+                "link": "library\/npc\/pr\/gusto"
             }
         },
         {
@@ -80,16 +324,17 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1306,
-                    -1363
+                    1305,
+                    -1364
                 ]
             },
             "properties": {
                 "type": "npc",
-                "x": 1306,
-                "y": 1363,
+                "x": 1305,
+                "y": 1364,
                 "caption": "Кабачок",
-                "npc": "Мурана и Винтана"
+                "npc": "Мурана и Винтана",
+                "link": "library\/npc\/pr\/muranavintana"
             }
         },
         {
@@ -106,7 +351,8 @@
                 "x": 689,
                 "y": 1365,
                 "caption": "Дом Доктора Сквида",
-                "npc": "Доктор Сквид"
+                "npc": "Доктор Сквид",
+                "link": "library\/npc\/pr\/squid"
             }
         },
         {
@@ -123,7 +369,8 @@
                 "x": 488,
                 "y": 936,
                 "caption": "Дом капитана Гормана",
-                "npc": "Капитан Горман"
+                "npc": "Капитан Горман",
+                "link": "library\/npc\/pr\/gorman"
             }
         },
         {
@@ -131,251 +378,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1429,
-                    -916
-                ]
-            },
-            "properties": {
-                "type": "label",
-                "x": 1429,
-                "y": 916,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/reef"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1360,
-                    -1406
-                ]
-            },
-            "properties": {
-                "type": "label",
-                "x": 1360,
-                "y": 1406,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/reef"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1435,
-                    -548
-                ]
-            },
-            "properties": {
-                "type": "label",
-                "x": 1435,
-                "y": 548,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/reef"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1576,
-                    -173
-                ]
-            },
-            "properties": {
-                "type": "label",
-                "x": 1576,
-                "y": 173,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/reef"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    995,
-                    -1226
-                ]
-            },
-            "properties": {
-                "type": "label",
-                "x": 995,
-                "y": 1226,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/reef"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    622,
-                    -1096
-                ]
-            },
-            "properties": {
-                "type": "label",
-                "x": 622,
-                "y": 1096,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/reef"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1784,
-                    -655
-                ]
-            },
-            "properties": {
-                "type": "label",
-                "x": 1784,
-                "y": 655,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/reef"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1004,
-                    -746
-                ]
-            },
-            "properties": {
-                "type": "label",
-                "x": 1004,
-                "y": 746,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/reef"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    744,
-                    -980
-                ]
-            },
-            "properties": {
-                "type": "label",
-                "x": 744,
-                "y": 980,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/reef"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    885,
-                    -1084
-                ]
-            },
-            "properties": {
-                "type": "label",
-                "x": 885,
-                "y": 1084,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/reef"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1100,
-                    -1083
-                ]
-            },
-            "properties": {
-                "type": "label",
-                "x": 1100,
-                "y": 1083,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/reef"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1246,
-                    -959
-                ]
-            },
-            "properties": {
-                "type": "label",
-                "x": 1246,
-                "y": 959,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/reef"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    990,
-                    -1121
-                ]
-            },
-            "properties": {
-                "type": "label",
-                "x": 990,
-                "y": 1121,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/reef"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    639,
-                    -1574
-                ]
-            },
-            "properties": {
-                "type": "label",
-                "x": 639,
-                "y": 1574,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/reef"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    701,
+                    698,
                     -1373
                 ]
             },
             "properties": {
-                "type": "instance",
-                "x": 701,
+                "type": "instances",
+                "x": 698,
                 "y": 1373,
                 "caption": "Инстансы Сквида",
                 "list": [
@@ -383,22 +392,22 @@
                         "caption": "Потайная тропа",
                         "region": "pr",
                         "map": "tropa",
-                        "goX": 0,
-                        "goY": 0
+                        "x": 20,
+                        "y": 20
                     },
                     {
                         "caption": "Пепельная горелка",
                         "region": "pr",
                         "map": "pepelgor",
-                        "goX": 0,
-                        "goY": 0
+                        "x": 20,
+                        "y": 20
                     },
                     {
                         "caption": "Логово Синезуба",
                         "region": "pr",
                         "map": "sinezub",
-                        "goX": 1000,
-                        "goY": 1000
+                        "x": 1020,
+                        "y": 1020
                     }
                 ]
             }
@@ -436,8 +445,8 @@
                 "region": "pr",
                 "map": "chavcha",
                 "caption": "инстанс \"Чавча\"",
-                "goX": 0,
-                "goY": 0
+                "goX": 20,
+                "goY": 20
             }
         },
         {
@@ -456,8 +465,8 @@
                 "region": "pr",
                 "map": "generator",
                 "caption": "инстанс \"Генератор тоннелей ветров\"",
-                "goX": 0,
-                "goY": 0
+                "goX": 20,
+                "goY": 20
             }
         },
         {
@@ -786,14 +795,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    996,
-                    -976
+                    997,
+                    -977
                 ]
             },
             "properties": {
                 "type": "station",
-                "x": 996,
-                "y": 976,
+                "x": 997,
+                "y": 977,
                 "caption": "Лагуна",
                 "list": [
                     {
@@ -1167,7 +1176,7 @@
                 ]
             },
             "properties": {
-                "type": "label",
+                "type": "note",
                 "x": 202,
                 "y": 1245,
                 "text": "Удобное место для сбора алюминиевой руды, а через коридор севернее можно быстро добраться до камнедробилки."
@@ -1225,8 +1234,8 @@
                 "map": "bezdna1",
                 "caption": "Бездна, ур.1",
                 "goto": {
-                    "x": 628,
-                    "y": 184
+                    "x": 648,
+                    "y": 204
                 }
             }
         },
@@ -1247,8 +1256,8 @@
                 "map": "zhemchuzhniy",
                 "caption": "Жемчужный омут",
                 "goto": {
-                    "x": 235,
-                    "y": 762
+                    "x": 255,
+                    "y": 782
                 }
             }
         },
@@ -1269,8 +1278,8 @@
                 "map": "goreliy1",
                 "caption": "Горелый омут, ур.1",
                 "goto": {
-                    "x": 78,
-                    "y": 891
+                    "x": 98,
+                    "y": 911
                 }
             }
         },
@@ -1291,8 +1300,8 @@
                 "map": "laba",
                 "caption": "Лабиринт А",
                 "goto": {
-                    "x": 82,
-                    "y": 79
+                    "x": 102,
+                    "y": 99
                 }
             }
         }

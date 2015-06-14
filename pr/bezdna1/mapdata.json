@@ -21,6 +21,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    180,
+                    -111
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 180,
+                "y": 111,
+                "link": "library\/coins\/reef"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     235,
                     -198
                 ]
@@ -33,23 +49,6 @@
                     "Кокосовое молоко"
                 ],
                 "link": "library\/masters\/reef"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    175,
-                    -104
-                ]
-            },
-            "properties": {
-                "type": "label",
-                "x": 175,
-                "y": 104,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/reef"
             }
         },
         {
@@ -221,8 +220,8 @@
                 "map": "bezdna2",
                 "caption": "Бездна, ур.2",
                 "goto": {
-                    "x": 95,
-                    "y": 903
+                    "x": 115,
+                    "y": 923
                 }
             }
         },
@@ -243,8 +242,8 @@
                 "map": "index",
                 "caption": "Поющий Риф",
                 "goto": {
-                    "x": 126,
-                    "y": 1835
+                    "x": 146,
+                    "y": 1855
                 }
             }
         }

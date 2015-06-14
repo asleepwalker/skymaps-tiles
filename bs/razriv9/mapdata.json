@@ -22,6 +22,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    369,
+                    -687
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 369,
+                "y": 687,
+                "link": "library\/coins\/bastion"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     130,
                     -613
                 ]
@@ -73,23 +89,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    365,
-                    -681
-                ]
-            },
-            "properties": {
-                "type": "label",
-                "x": 365,
-                "y": 681,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/bastion"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     821,
                     -845
                 ]
@@ -104,7 +103,7 @@
                         "caption": "Твердыня",
                         "region": "bs",
                         "map": "index",
-                        "x": 141,
+                        "x": 142,
                         "y": 659
                     }
                 ]
@@ -212,8 +211,8 @@
                 "map": "razriv10",
                 "caption": "Разрыв, ур.10",
                 "goto": {
-                    "x": 884,
-                    "y": 905
+                    "x": 904,
+                    "y": 925
                 }
             }
         },
@@ -234,8 +233,8 @@
                 "map": "razriv8",
                 "caption": "Разрыв, ур.8",
                 "goto": {
-                    "x": 899,
-                    "y": 882
+                    "x": 919,
+                    "y": 902
                 }
             }
         }

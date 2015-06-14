@@ -23,6 +23,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    789,
+                    -648
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 789,
+                "y": 648,
+                "link": "library\/coins\/reef"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     255,
                     -183
                 ]
@@ -52,23 +68,6 @@
                 "caption": "Логово жестоких Бандитов",
                 "class": "logovo",
                 "mode": "rare"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    784,
-                    -658
-                ]
-            },
-            "properties": {
-                "type": "label",
-                "x": 784,
-                "y": 658,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/reef"
             }
         },
         {
@@ -139,8 +138,8 @@
                 "map": "labp",
                 "caption": "Лабиринт П",
                 "goto": {
-                    "x": 763,
-                    "y": 884
+                    "x": 783,
+                    "y": 904
                 }
             }
         },
@@ -161,8 +160,8 @@
                 "map": "labl",
                 "caption": "Лабиринт Л",
                 "goto": {
-                    "x": 859,
-                    "y": 880
+                    "x": 879,
+                    "y": 900
                 }
             }
         }

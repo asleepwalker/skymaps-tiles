@@ -17,6 +17,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    531,
+                    -333
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 531,
+                "y": 333,
+                "link": "library\/coins\/bastion"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     504,
                     -505
                 ]
@@ -28,25 +44,8 @@
                 "region": "bs",
                 "map": "priiski",
                 "caption": "Рубиновые прииски",
-                "goX": 0,
-                "goY": 0
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    525,
-                    -325
-                ]
-            },
-            "properties": {
-                "type": "label",
-                "x": 525,
-                "y": 325,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/bastion"
+                "goX": 20,
+                "goY": 20
             }
         },
         {
@@ -65,8 +64,8 @@
                 "region": "bs",
                 "map": "priiski",
                 "caption": "Рубиновые прииски",
-                "goX": 0,
-                "goY": 0
+                "goX": 20,
+                "goY": 20
             }
         },
         {
@@ -85,8 +84,8 @@
                 "region": "bs",
                 "map": "priiski",
                 "caption": "Рубиновые прииски",
-                "goX": 0,
-                "goY": 0
+                "goX": 20,
+                "goY": 20
             }
         },
         {
@@ -105,8 +104,8 @@
                 "region": "bs",
                 "map": "priiski",
                 "caption": "Рубиновые прииски",
-                "goX": 0,
-                "goY": 0
+                "goX": 20,
+                "goY": 20
             }
         },
         {
@@ -126,8 +125,8 @@
                 "map": "labd",
                 "caption": "Лабиринт Д",
                 "goto": {
-                    "x": 469,
-                    "y": 896
+                    "x": 489,
+                    "y": 916
                 }
             }
         },
@@ -148,8 +147,8 @@
                 "map": "labi",
                 "caption": "Лабиринт И",
                 "goto": {
-                    "x": 230,
-                    "y": 887
+                    "x": 250,
+                    "y": 907
                 }
             }
         },
@@ -170,8 +169,8 @@
                 "map": "labzh",
                 "caption": "Лабиринт Ж",
                 "goto": {
-                    "x": 881,
-                    "y": 145
+                    "x": 901,
+                    "y": 165
                 }
             }
         }

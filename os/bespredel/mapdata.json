@@ -19,6 +19,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    400,
+                    -285
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 400,
+                "y": 285,
+                "link": "library\/coins\/oskolki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     104,
                     -97
                 ]
@@ -28,24 +44,8 @@
                 "x": 104,
                 "y": 97,
                 "caption": "Бандитский притон Аллера Анрича",
-                "npc": "Аллер Анрич"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    391,
-                    -325
-                ]
-            },
-            "properties": {
-                "type": "label",
-                "x": 391,
-                "y": 325,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/oskolki"
+                "npc": "Аллер Анрич",
+                "link": "library\/npc\/os\/aller"
             }
         },
         {
@@ -124,7 +124,7 @@
                         "region": "os",
                         "map": "index",
                         "x": 450,
-                        "y": 315
+                        "y": 314
                     }
                 ]
             }
@@ -372,8 +372,8 @@
                 "map": "ogorodes",
                 "caption": "Огороды",
                 "goto": {
-                    "x": 168,
-                    "y": 44
+                    "x": 188,
+                    "y": 64
                 }
             }
         },
@@ -394,8 +394,8 @@
                 "map": "ogorodes",
                 "caption": "Огороды",
                 "goto": {
-                    "x": 464,
-                    "y": 39
+                    "x": 484,
+                    "y": 59
                 }
             }
         },
@@ -416,8 +416,8 @@
                 "map": "ogorodes",
                 "caption": "Огороды",
                 "goto": {
-                    "x": 627,
-                    "y": 45
+                    "x": 647,
+                    "y": 65
                 }
             }
         },
@@ -438,8 +438,8 @@
                 "map": "index",
                 "caption": "Центр",
                 "goto": {
-                    "x": 43,
-                    "y": 44
+                    "x": 63,
+                    "y": 64
                 }
             }
         },
@@ -460,8 +460,8 @@
                 "map": "rudniykray",
                 "caption": "Рудный край",
                 "goto": {
-                    "x": 38,
-                    "y": 552
+                    "x": 58,
+                    "y": 572
                 }
             }
         },
@@ -482,8 +482,8 @@
                 "map": "rudniykray",
                 "caption": "Рудный край",
                 "goto": {
-                    "x": 53,
-                    "y": 252
+                    "x": 73,
+                    "y": 272
                 }
             }
         },
@@ -504,8 +504,8 @@
                 "map": "rudniykray",
                 "caption": "Рудный край",
                 "goto": {
-                    "x": 46,
-                    "y": 92
+                    "x": 66,
+                    "y": 112
                 }
             }
         }

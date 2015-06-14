@@ -24,6 +24,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    784,
+                    -836
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 784,
+                "y": 836,
+                "link": "library\/coins\/reef"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     122,
                     -156
                 ]
@@ -51,23 +67,6 @@
                 "y": 435,
                 "caption": "Усиленная Цитадель Механоидов",
                 "class": "tsitadel"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    779,
-                    -808
-                ]
-            },
-            "properties": {
-                "type": "label",
-                "x": 779,
-                "y": 808,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/reef"
             }
         },
         {
@@ -121,8 +120,8 @@
                 "map": "labt",
                 "caption": "Лабиринт Т",
                 "goto": {
-                    "x": 884,
-                    "y": 88
+                    "x": 904,
+                    "y": 108
                 }
             }
         },
@@ -143,8 +142,8 @@
                 "map": "labi",
                 "caption": "Лабиринт И",
                 "goto": {
-                    "x": 449,
-                    "y": 77
+                    "x": 469,
+                    "y": 97
                 }
             }
         }

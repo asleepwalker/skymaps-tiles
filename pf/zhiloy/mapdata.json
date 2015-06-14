@@ -18,6 +18,39 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    127,
+                    -554
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 127,
+                "y": 554
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    484,
+                    -469
+                ]
+            },
+            "properties": {
+                "type": "npc",
+                "x": 484,
+                "y": 469,
+                "caption": "Исследовательская платформа",
+                "npc": "Ирэн Розенкрауцер",
+                "link": "library\/npc\/pf\/iren"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     258,
                     -849
                 ]
@@ -30,8 +63,8 @@
                 "map": "index",
                 "caption": "Периферия",
                 "goto": {
-                    "x": 1388,
-                    "y": 522
+                    "x": 1408,
+                    "y": 542
                 }
             }
         },
@@ -45,7 +78,7 @@
                 ]
             },
             "properties": {
-                "type": "label",
+                "type": "note",
                 "x": 268,
                 "y": 342,
                 "text": "В бункерах на этой карте можно получить чертежи, использовав «Смарт-Карту»."
@@ -102,8 +135,8 @@
                 "map": "tehnicheskiy",
                 "caption": "Ратный, Технический уровень",
                 "goto": {
-                    "x": 909,
-                    "y": 354
+                    "x": 929,
+                    "y": 374
                 }
             }
         },
@@ -124,8 +157,8 @@
                 "map": "tehnicheskiy",
                 "caption": "Ратный, Технический уровень",
                 "goto": {
-                    "x": 904,
-                    "y": 140
+                    "x": 924,
+                    "y": 160
                 }
             }
         },
@@ -146,8 +179,8 @@
                 "map": "tehnicheskiy",
                 "caption": "Ратный, Технический уровень",
                 "goto": {
-                    "x": 522,
-                    "y": 92
+                    "x": 542,
+                    "y": 112
                 }
             }
         },
@@ -157,20 +190,20 @@
                 "type": "Point",
                 "coordinates": [
                     479,
-                    -464
+                    -463
                 ]
             },
             "properties": {
                 "type": "station",
                 "x": 479,
-                "y": 464,
+                "y": 463,
                 "caption": "Исследовательская платформа",
                 "list": [
                     {
                         "caption": "Вышино",
                         "region": "pf",
                         "map": "index",
-                        "x": 1585,
+                        "x": 1586,
                         "y": 743
                     }
                 ]

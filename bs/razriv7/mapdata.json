@@ -22,6 +22,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    672,
+                    -841
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 672,
+                "y": 841,
+                "link": "library\/coins\/bastion"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     677,
                     -881
                 ]
@@ -56,14 +72,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    500,
-                    -159
+                    433,
+                    -128
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 500,
-                "y": 159,
+                "x": 433,
+                "y": 128,
                 "caption": "Убер-кишкодав",
                 "class": "kishkodav"
             }
@@ -107,29 +123,12 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    678,
-                    -832
-                ]
-            },
-            "properties": {
-                "type": "label",
-                "x": 678,
-                "y": 832,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/bastion"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     801,
                     -104
                 ]
             },
             "properties": {
-                "type": "instance",
+                "type": "instances",
                 "x": 801,
                 "y": 104,
                 "caption": "Карцер",
@@ -138,15 +137,15 @@
                         "caption": "\"Карцер\"",
                         "region": "bs",
                         "map": "karcer",
-                        "goX": 0,
-                        "goY": 0
+                        "x": 20,
+                        "y": 20
                     },
                     {
-                        "caption": "\"Карцер\" (схемы охраны)",
+                        "caption": "&quot;Карцер&quot; (схемы охраны)",
                         "region": "bs",
                         "map": "karcer_scheme",
-                        "goX": 0,
-                        "goY": 0
+                        "x": 20,
+                        "y": 20
                     }
                 ]
             }
@@ -167,8 +166,8 @@
                 "region": "bs",
                 "map": "kunahar",
                 "caption": "инстанс \"База Кунахар\"",
-                "goX": 0,
-                "goY": 0
+                "goX": 20,
+                "goY": 20
             }
         },
         {
@@ -222,8 +221,8 @@
                 "map": "razriv3",
                 "caption": "Разрыв, ур.3",
                 "goto": {
-                    "x": 549,
-                    "y": 549
+                    "x": 569,
+                    "y": 569
                 }
             }
         },
@@ -244,8 +243,8 @@
                 "map": "razriv8",
                 "caption": "Разрыв, ур.8",
                 "goto": {
-                    "x": 66,
-                    "y": 884
+                    "x": 86,
+                    "y": 904
                 }
             }
         },
@@ -266,8 +265,8 @@
                 "map": "razriv6",
                 "caption": "Разрыв, ур.6",
                 "goto": {
-                    "x": 678,
-                    "y": 700
+                    "x": 698,
+                    "y": 720
                 }
             }
         }

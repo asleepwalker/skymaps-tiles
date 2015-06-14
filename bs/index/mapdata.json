@@ -30,6 +30,58 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    147,
+                    -664
+                ]
+            },
+            "properties": {
+                "type": "npc",
+                "x": 147,
+                "y": 664,
+                "caption": "Твердыня",
+                "npc": "Сестра Брис",
+                "link": "library\/npc\/bs\/bris"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1219,
+                    -289
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 1219,
+                "y": 289,
+                "mobs": "Чёрная поднёбка (5)",
+                "link": "library\/coins\/bastion"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    682,
+                    -507
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 682,
+                "y": 507,
+                "mobs": "Чёрный пират (7)",
+                "link": "library\/coins\/bastion"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     1802,
                     -348
                 ]
@@ -48,13 +100,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1644,
+                    1642,
                     -83
                 ]
             },
             "properties": {
                 "type": "fish",
-                "x": 1644,
+                "x": 1642,
                 "y": 83,
                 "list": [
                     "Залётный хариус",
@@ -76,7 +128,8 @@
                 "x": 538,
                 "y": 84,
                 "caption": "Склад Милоша",
-                "npc": "Брат Милош"
+                "npc": "Брат Милош",
+                "link": "library\/npc\/bs\/milosh"
             }
         },
         {
@@ -93,7 +146,8 @@
                 "x": 557,
                 "y": 1205,
                 "caption": "Аэродром Валькирий",
-                "npc": "Сестра Аврора"
+                "npc": "Сестра Аврора",
+                "link": "library\/npc\/bs\/avrora"
             }
         },
         {
@@ -110,7 +164,8 @@
                 "x": 359,
                 "y": 1194,
                 "caption": "Хижина Блюма Брахниуса",
-                "npc": "Блюм Брахниус"
+                "npc": "Блюм Брахниус",
+                "link": "library\/npc\/bs\/blum"
             }
         },
         {
@@ -127,41 +182,8 @@
                 "x": 81,
                 "y": 1210,
                 "caption": "Музей славы",
-                "npc": "Брат Альфред"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1213,
-                    -281
-                ]
-            },
-            "properties": {
-                "type": "label",
-                "x": 1213,
-                "y": 281,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/bastion"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    673,
-                    -495
-                ]
-            },
-            "properties": {
-                "type": "label",
-                "x": 673,
-                "y": 495,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/bastion"
+                "npc": "Брат Альфред",
+                "link": "library\/npc\/bs\/alfred"
             }
         },
         {
@@ -174,7 +196,7 @@
                 ]
             },
             "properties": {
-                "type": "label",
+                "type": "note",
                 "x": 1653,
                 "y": 718,
                 "text": "Здесь башенки MK2 очень любят съедать заживо всех подряд. Будьте острожны."
@@ -219,13 +241,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    732,
+                    735,
                     -1108
                 ]
             },
             "properties": {
                 "type": "fish",
-                "x": 732,
+                "x": 735,
                 "y": 1108,
                 "list": [
                     "Рыба-печень",
@@ -238,14 +260,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    964,
-                    -777
+                    965,
+                    -780
                 ]
             },
             "properties": {
                 "type": "fish",
-                "x": 964,
-                "y": 777,
+                "x": 965,
+                "y": 780,
                 "list": [
                     "Рыба-печень",
                     "Скудный лосось"
@@ -276,14 +298,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1525,
-                    -305
+                    1526,
+                    -297
                 ]
             },
             "properties": {
                 "type": "fish",
-                "x": 1525,
-                "y": 305,
+                "x": 1526,
+                "y": 297,
                 "list": [
                     "Залётный хариус",
                     "Ветряной жерех"
@@ -295,13 +317,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1291,
+                    1295,
                     -789
                 ]
             },
             "properties": {
                 "type": "fish",
-                "x": 1291,
+                "x": 1295,
                 "y": 789,
                 "list": [
                     "Залётный хариус",
@@ -314,13 +336,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    141,
+                    142,
                     -659
                 ]
             },
             "properties": {
                 "type": "station",
-                "x": 141,
+                "x": 142,
                 "y": 659,
                 "caption": "Твердыня",
                 "list": [
@@ -386,24 +408,24 @@
                 ]
             },
             "properties": {
-                "type": "instance",
+                "type": "instances",
                 "x": 1521,
                 "y": 721,
                 "caption": "Низверг",
                 "list": [
                     {
-                        "caption": "\"Низверг\" (лёгкий)",
+                        "caption": "&quot;Низверг&quot; (лёгкий)",
                         "region": "bs",
                         "map": "nizverg_easy",
-                        "goX": 0,
-                        "goY": 0
+                        "x": 20,
+                        "y": 20
                     },
                     {
-                        "caption": "\"Низверг\" (сложный)",
+                        "caption": "&quot;Низверг&quot; (сложный)",
                         "region": "bs",
                         "map": "nizverg_hard",
-                        "goX": 0,
-                        "goY": 0
+                        "x": 20,
+                        "y": 20
                     }
                 ]
             }
@@ -418,24 +440,24 @@
                 ]
             },
             "properties": {
-                "type": "instance",
+                "type": "instances",
                 "x": 634,
                 "y": 1145,
                 "caption": "Валькирии",
                 "list": [
                     {
-                        "caption": "\"Валькирии\" (лёгкий)",
+                        "caption": "&quot;Валькирии&quot; (лёгкий)",
                         "region": "bs",
                         "map": "valkirie_easy",
-                        "goX": 0,
-                        "goY": 0
+                        "x": 20,
+                        "y": 20
                     },
                     {
-                        "caption": "\"Валькирии\" (сложный)",
+                        "caption": "&quot;Валькирии&quot; (сложный)",
                         "region": "bs",
                         "map": "valkirie_hard",
-                        "goX": 0,
-                        "goY": 0
+                        "x": 20,
+                        "y": 20
                     }
                 ]
             }
@@ -450,7 +472,7 @@
                 ]
             },
             "properties": {
-                "type": "label",
+                "type": "note",
                 "x": 650,
                 "y": 1037,
                 "text": "Здесь всплывают \"муляжи\" мухолётов, без дропа."
@@ -466,7 +488,7 @@
                 ]
             },
             "properties": {
-                "type": "label",
+                "type": "note",
                 "x": 738,
                 "y": 510,
                 "text": "Из вихря плодятся \"муляжи\" мобов, которые затем летят на убой к башням у буйков."
@@ -482,7 +504,7 @@
                 ]
             },
             "properties": {
-                "type": "label",
+                "type": "note",
                 "x": 725,
                 "y": 841,
                 "text": "Из вихря плодятся \"муляжи\" мобов, которые затем летят на убой к башням у буйков."
@@ -498,7 +520,7 @@
                 ]
             },
             "properties": {
-                "type": "label",
+                "type": "note",
                 "x": 375,
                 "y": 961,
                 "text": "Из вихря плодятся \"муляжи\" мобов, которые затем летят на убой к Твердыне."
@@ -514,7 +536,7 @@
                 ]
             },
             "properties": {
-                "type": "label",
+                "type": "note",
                 "x": 314,
                 "y": 277,
                 "text": "Из вихря плодятся \"муляжи\" мобов, которые затем летят на убой к Твердыне."
@@ -530,7 +552,7 @@
                 ]
             },
             "properties": {
-                "type": "label",
+                "type": "note",
                 "x": 1417,
                 "y": 585,
                 "text": "Крейсер - \"муляж\": опыт падает, а дропа нету. Псины рядом точно такие же."
@@ -647,13 +669,13 @@
                 "type": "Point",
                 "coordinates": [
                     1430,
-                    -258
+                    -261
                 ]
             },
             "properties": {
                 "type": "quest",
                 "x": 1430,
-                "y": 258,
+                "y": 261,
                 "caption": "Сбор тайны Блюм Брахниус",
                 "link": "quests\/blum",
                 "tip": "Здесь есть записка сумасшедшего!"
@@ -683,13 +705,13 @@
                 "type": "Point",
                 "coordinates": [
                     1233,
-                    -758
+                    -753
                 ]
             },
             "properties": {
                 "type": "quest",
                 "x": 1233,
-                "y": 758,
+                "y": 753,
                 "caption": "Сбор тайны Блюм Брахниус",
                 "link": "quests\/blum",
                 "tip": "Здесь есть записка сумасшедшего!"
@@ -784,8 +806,8 @@
                 "map": "lager",
                 "caption": "Лагерь Низушников",
                 "goto": {
-                    "x": 418,
-                    "y": 154
+                    "x": 438,
+                    "y": 174
                 }
             }
         },
@@ -806,8 +828,8 @@
                 "map": "zabitiy1",
                 "caption": "Забытый вихрь, ур.1",
                 "goto": {
-                    "x": 47,
-                    "y": 356
+                    "x": 67,
+                    "y": 376
                 }
             }
         },
@@ -828,8 +850,8 @@
                 "map": "chervinie1",
                 "caption": "Червиные норы, ур.1",
                 "goto": {
-                    "x": 889,
-                    "y": 90
+                    "x": 909,
+                    "y": 110
                 }
             }
         },
@@ -850,8 +872,8 @@
                 "map": "razriv1",
                 "caption": "Разрыв, ур.1",
                 "goto": {
-                    "x": 910,
-                    "y": 793
+                    "x": 930,
+                    "y": 813
                 }
             }
         },
@@ -872,8 +894,8 @@
                 "map": "krovaviy1",
                 "caption": "Кровавый лаз, ур.1",
                 "goto": {
-                    "x": 539,
-                    "y": 171
+                    "x": 559,
+                    "y": 191
                 }
             }
         },

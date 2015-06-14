@@ -14,6 +14,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    248,
+                    -865
+                ]
+            },
+            "properties": {
+                "type": "npc",
+                "x": 248,
+                "y": 865,
+                "caption": "Дом Шваббаха",
+                "npc": "Инженер Шваббах",
+                "link": "library\/npc\/pf\/shvabbah"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     480,
                     -728
                 ]
@@ -23,7 +41,8 @@
                 "x": 480,
                 "y": 728,
                 "caption": "Дом Академика Фисуниса",
-                "npc": "Академик Фисунис"
+                "npc": "Академик Фисунис",
+                "link": "library\/npc\/pf\/fisunis"
             }
         },
         {
@@ -183,7 +202,7 @@
                         "caption": "Вышино",
                         "region": "pf",
                         "map": "index",
-                        "x": 1585,
+                        "x": 1586,
                         "y": 743
                     }
                 ]
@@ -221,8 +240,8 @@
                 "map": "npk1",
                 "caption": "НПК, Производственный уровень 1",
                 "goto": {
-                    "x": 387,
-                    "y": 353
+                    "x": 407,
+                    "y": 373
                 }
             }
         },
@@ -243,8 +262,8 @@
                 "map": "npksvalka",
                 "caption": "НПК, Свалка",
                 "goto": {
-                    "x": 838,
-                    "y": 841
+                    "x": 858,
+                    "y": 861
                 }
             }
         },
@@ -280,8 +299,8 @@
                 "map": "npkkpp",
                 "caption": "НПК, КПП",
                 "goto": {
-                    "x": 481,
-                    "y": 139
+                    "x": 501,
+                    "y": 159
                 }
             }
         }

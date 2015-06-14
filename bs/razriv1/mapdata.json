@@ -22,6 +22,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    644,
+                    -298
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 644,
+                "y": 298,
+                "link": "library\/coins\/bastion"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     640,
                     -411
                 ]
@@ -66,23 +82,6 @@
                 "y": 766,
                 "caption": "Штурм-кишкодав",
                 "class": "kishkodav"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    632,
-                    -288
-                ]
-            },
-            "properties": {
-                "type": "label",
-                "x": 632,
-                "y": 288,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/bastion"
             }
         },
         {
@@ -168,8 +167,8 @@
                 "map": "razriv2",
                 "caption": "Разрыв, ур.2",
                 "goto": {
-                    "x": 22,
-                    "y": 117
+                    "x": 42,
+                    "y": 137
                 }
             }
         },
@@ -190,8 +189,8 @@
                 "map": "index",
                 "caption": "Бастион",
                 "goto": {
-                    "x": 1760,
-                    "y": 703
+                    "x": 1780,
+                    "y": 723
                 }
             }
         }

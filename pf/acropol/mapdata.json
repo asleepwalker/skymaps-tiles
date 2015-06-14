@@ -18,6 +18,39 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    220,
+                    -154
+                ]
+            },
+            "properties": {
+                "type": "npc",
+                "x": 220,
+                "y": 154,
+                "caption": "Бункер",
+                "npc": "Робот Марк IV",
+                "link": "library\/npc\/pf\/mark4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    333,
+                    -291
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 333,
+                "y": 291
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     315,
                     -550
                 ]
@@ -30,25 +63,9 @@
                 "map": "zhiloy",
                 "caption": "Ратный, Жилой уровень",
                 "goto": {
-                    "x": 473,
-                    "y": 359
+                    "x": 493,
+                    "y": 379
                 }
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    260,
-                    -170
-                ]
-            },
-            "properties": {
-                "type": "label",
-                "x": 260,
-                "y": 170,
-                "text": "Здесь находится бункер с NPC."
             }
         },
         {
@@ -61,7 +78,7 @@
                 ]
             },
             "properties": {
-                "type": "label",
+                "type": "note",
                 "x": 446,
                 "y": 794,
                 "text": "Цитадель спаунится 1 час."
@@ -95,7 +112,7 @@
                 ]
             },
             "properties": {
-                "type": "label",
+                "type": "note",
                 "x": 99,
                 "y": 698,
                 "text": "Спуск на квест \"Крайние меры\". Внимание! На квест может спуститься только 1 человек!"
@@ -145,7 +162,7 @@
                 ]
             },
             "properties": {
-                "type": "label",
+                "type": "note",
                 "x": 675,
                 "y": 420,
                 "text": "Для пролёта через этот пробойник вы должны знать тайну \"Секреты военного города\"."
@@ -168,8 +185,8 @@
                 "map": "tehnicheskiy",
                 "caption": "Ратный, Технический уровень",
                 "goto": {
-                    "x": 348,
-                    "y": 275
+                    "x": 368,
+                    "y": 295
                 }
             }
         }

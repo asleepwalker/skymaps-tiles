@@ -19,6 +19,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    407,
+                    -299
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 407,
+                "y": 299,
+                "link": "library\/coins\/oskolki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     218,
                     -522
                 ]
@@ -45,24 +61,8 @@
                 "x": 580,
                 "y": 82,
                 "caption": "Рухлядь-маркет Мамуны",
-                "npc": "Мамуна"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    401,
-                    -291
-                ]
-            },
-            "properties": {
-                "type": "label",
-                "x": 401,
-                "y": 291,
-                "text": "Здесь находится пиратский маяк. Победив мобов, вы сможете получить корабельные монеты.",
-                "link": "library\/coins\/oskolki"
+                "npc": "Мамуна",
+                "link": "library\/npc\/os\/mamuna"
             }
         },
         {
@@ -82,8 +82,8 @@
                 "map": "rudniykray",
                 "caption": "Рудный край",
                 "goto": {
-                    "x": 917,
-                    "y": 53
+                    "x": 937,
+                    "y": 73
                 }
             }
         },
@@ -159,8 +159,8 @@
                 "map": "rudniykray",
                 "caption": "Рудный край",
                 "goto": {
-                    "x": 922,
-                    "y": 519
+                    "x": 942,
+                    "y": 539
                 }
             }
         },
@@ -169,14 +169,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    605,
-                    -532
+                    559,
+                    -488
                 ]
             },
             "properties": {
                 "type": "fish",
-                "x": 605,
-                "y": 532,
+                "x": 559,
+                "y": 488,
                 "list": [
                     "Залётный хариус",
                     "Ветряной жерех"
@@ -220,7 +220,7 @@
                         "region": "os",
                         "map": "index",
                         "x": 450,
-                        "y": 315
+                        "y": 314
                     }
                 ]
             }
@@ -299,8 +299,8 @@
                 "map": "ikarsa",
                 "caption": "Лабиринт икаров А",
                 "goto": {
-                    "x": 438,
-                    "y": 69
+                    "x": 458,
+                    "y": 89
                 }
             }
         },
@@ -321,8 +321,8 @@
                 "map": "razruha",
                 "caption": "Разруха",
                 "goto": {
-                    "x": 787,
-                    "y": 44
+                    "x": 807,
+                    "y": 64
                 }
             }
         },
@@ -343,8 +343,8 @@
                 "map": "razruha",
                 "caption": "Разруха",
                 "goto": {
-                    "x": 588,
-                    "y": 43
+                    "x": 608,
+                    "y": 63
                 }
             }
         },
@@ -365,8 +365,8 @@
                 "map": "razruha",
                 "caption": "Разруха",
                 "goto": {
-                    "x": 425,
-                    "y": 44
+                    "x": 445,
+                    "y": 64
                 }
             }
         },
@@ -387,8 +387,8 @@
                 "map": "razruha",
                 "caption": "Разруха",
                 "goto": {
-                    "x": 217,
-                    "y": 49
+                    "x": 237,
+                    "y": 69
                 }
             }
         },
