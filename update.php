@@ -112,6 +112,10 @@
 					);
 
 					if ($object['type'] == 'blackhole') $line['type'] = 'wormhole';
+					if ($object['type'] == 'hole' && $object['var8'] == '3') {
+						$line['type'] = 'locationhole';
+						$line['caption'] = $object['var5'];
+					}
 				}
 				else
 				{
