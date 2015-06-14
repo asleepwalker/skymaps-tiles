@@ -48,29 +48,30 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    492,
-                    -531
+                    517,
+                    -556
                 ]
             },
             "properties": {
                 "type": "station",
-                "x": 492,
-                "y": 531,
+                "x": 517,
+                "y": 556,
                 "caption": "Старая платформа",
+                "size": 73,
                 "list": [
                     {
                         "caption": "Платформа №13",
                         "region": "tg",
                         "map": "promzona",
-                        "x": 517,
-                        "y": 442
+                        "x": 543,
+                        "y": 466
                     },
                     {
                         "caption": "Платформа Ветеранов",
                         "region": "tg",
                         "map": "labirint4",
-                        "x": 565,
-                        "y": 173
+                        "x": 589,
+                        "y": 196
                     }
                 ]
             }

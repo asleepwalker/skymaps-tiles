@@ -14,29 +14,30 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    251,
-                    -753
+                    276,
+                    -778
                 ]
             },
             "properties": {
                 "type": "station",
-                "x": 251,
-                "y": 753,
+                "x": 276,
+                "y": 778,
                 "caption": "Станция Хламовая",
+                "size": 120,
                 "list": [
                     {
                         "caption": "Кавардак",
                         "region": "os",
                         "map": "index",
-                        "x": 450,
-                        "y": 314
+                        "x": 474,
+                        "y": 339
                     },
                     {
                         "caption": "Платформа \"Мусорный Ветер\"",
                         "region": "os",
                         "map": "starvihl",
-                        "x": 178,
-                        "y": 364
+                        "x": 203,
+                        "y": 390
                     }
                 ]
             }

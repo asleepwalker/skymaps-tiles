@@ -692,29 +692,30 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1857,
-                    -723
+                    1882,
+                    -748
                 ]
             },
             "properties": {
                 "type": "station",
-                "x": 1857,
-                "y": 723,
+                "x": 1882,
+                "y": 748,
                 "caption": "Платформа Новогвинеево",
+                "size": 120,
                 "list": [
                     {
                         "caption": "Кроссвинд",
                         "region": "tg",
                         "map": "index",
-                        "x": 528,
-                        "y": 361
+                        "x": 553,
+                        "y": 384
                     },
                     {
                         "caption": "Платформа №13",
                         "region": "tg",
                         "map": "promzona",
-                        "x": 517,
-                        "y": 442
+                        "x": 543,
+                        "y": 466
                     }
                 ]
             }
@@ -724,43 +725,44 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    528,
-                    -361
+                    553,
+                    -384
                 ]
             },
             "properties": {
-                "type": "station",
-                "x": 528,
-                "y": 361,
+                "type": "city",
+                "x": 553,
+                "y": 384,
                 "caption": "Кроссвинд",
+                "size": 362,
                 "list": [
                     {
                         "caption": "Платформа №13",
                         "region": "tg",
                         "map": "promzona",
-                        "x": 517,
-                        "y": 442
+                        "x": 543,
+                        "y": 466
                     },
                     {
                         "caption": "Платформа Новогвинеево",
                         "region": "tg",
                         "map": "index",
-                        "x": 1857,
-                        "y": 723
+                        "x": 1882,
+                        "y": 748
                     },
                     {
                         "caption": "Медовая Платформа",
                         "region": "tg",
                         "map": "medoviy2",
-                        "x": 429,
-                        "y": 128
+                        "x": 454,
+                        "y": 153
                     },
                     {
                         "caption": "Опасный Район",
                         "region": "tg",
                         "map": "opasniyrayon",
-                        "x": 379,
-                        "y": 292
+                        "x": 400,
+                        "y": 320
                     }
                 ]
             }

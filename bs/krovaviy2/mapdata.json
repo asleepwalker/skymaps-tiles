@@ -187,22 +187,23 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    165,
-                    -780
+                    190,
+                    -805
                 ]
             },
             "properties": {
                 "type": "station",
-                "x": 165,
-                "y": 780,
+                "x": 190,
+                "y": 805,
                 "caption": "Платформа Чарли",
+                "size": 129,
                 "list": [
                     {
                         "caption": "Твердыня",
                         "region": "bs",
                         "map": "index",
-                        "x": 142,
-                        "y": 659
+                        "x": 162,
+                        "y": 676
                     }
                 ]
             }

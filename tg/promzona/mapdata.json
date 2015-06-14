@@ -71,36 +71,37 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    517,
-                    -442
+                    543,
+                    -466
                 ]
             },
             "properties": {
                 "type": "station",
-                "x": 517,
-                "y": 442,
+                "x": 543,
+                "y": 466,
                 "caption": "Платформа №13",
+                "size": 77,
                 "list": [
                     {
                         "caption": "Кроссвинд",
                         "region": "tg",
                         "map": "index",
-                        "x": 528,
-                        "y": 361
+                        "x": 553,
+                        "y": 384
                     },
                     {
                         "caption": "Платформа Новогвинеево",
                         "region": "tg",
                         "map": "index",
-                        "x": 1857,
-                        "y": 723
+                        "x": 1882,
+                        "y": 748
                     },
                     {
                         "caption": "Старая платформа",
                         "region": "tg",
                         "map": "labirint2",
-                        "x": 492,
-                        "y": 531
+                        "x": 517,
+                        "y": 556
                     }
                 ]
             }

@@ -205,22 +205,23 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    87,
-                    -387
+                    113,
+                    -413
                 ]
             },
             "properties": {
                 "type": "station",
-                "x": 87,
-                "y": 387,
+                "x": 113,
+                "y": 413,
                 "caption": "Северо-Восточная",
+                "size": 55,
                 "list": [
                     {
                         "caption": "Кавардак",
                         "region": "os",
                         "map": "index",
-                        "x": 450,
-                        "y": 314
+                        "x": 474,
+                        "y": 339
                     }
                 ]
             }

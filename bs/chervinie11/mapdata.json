@@ -89,22 +89,23 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    133,
-                    -106
+                    158,
+                    -131
                 ]
             },
             "properties": {
                 "type": "station",
-                "x": 133,
-                "y": 106,
+                "x": 158,
+                "y": 131,
                 "caption": "Заоблачный Острог",
+                "size": 90,
                 "list": [
                     {
                         "caption": "Св.Кападастины",
                         "region": "bs",
                         "map": "chervinie4",
-                        "x": 195,
-                        "y": 549
+                        "x": 220,
+                        "y": 574
                     }
                 ]
             }

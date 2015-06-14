@@ -142,36 +142,37 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    289,
-                    -299
+                    313,
+                    -323
                 ]
             },
             "properties": {
                 "type": "station",
-                "x": 289,
-                "y": 299,
+                "x": 313,
+                "y": 323,
                 "caption": "\"Голубая Даль\"",
+                "size": 66,
                 "list": [
                     {
                         "caption": "Лагуна",
                         "region": "pr",
                         "map": "index",
-                        "x": 997,
-                        "y": 977
+                        "x": 1022,
+                        "y": 1001
                     },
                     {
                         "caption": "\"Касильда\"",
                         "region": "pr",
                         "map": "labk",
-                        "x": 606,
-                        "y": 144
+                        "x": 631,
+                        "y": 168
                     },
                     {
                         "caption": "Папайа Джус",
                         "region": "pr",
                         "map": "labl",
-                        "x": 244,
-                        "y": 751
+                        "x": 269,
+                        "y": 776
                     }
                 ]
             }

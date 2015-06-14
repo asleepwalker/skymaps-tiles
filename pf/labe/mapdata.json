@@ -72,36 +72,37 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    145,
-                    -808
+                    171,
+                    -832
                 ]
             },
             "properties": {
                 "type": "station",
-                "x": 145,
-                "y": 808,
+                "x": 171,
+                "y": 832,
                 "caption": "Станция добытчиков",
+                "size": 88,
                 "list": [
                     {
                         "caption": "Великих Вождей",
                         "region": "pf",
                         "map": "laba",
-                        "x": 500,
-                        "y": 802
+                        "x": 524,
+                        "y": 828
                     },
                     {
                         "caption": "Чкаловская",
                         "region": "pf",
                         "map": "labo",
-                        "x": 551,
-                        "y": 818
+                        "x": 574,
+                        "y": 842
                     },
                     {
                         "caption": "\"Радость Труда\"",
                         "region": "pf",
                         "map": "labl",
-                        "x": 799,
-                        "y": 136
+                        "x": 824,
+                        "y": 161
                     }
                 ]
             }

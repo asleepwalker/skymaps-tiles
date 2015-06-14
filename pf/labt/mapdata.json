@@ -22,36 +22,37 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    161,
-                    -795
+                    186,
+                    -820
                 ]
             },
             "properties": {
                 "type": "station",
-                "x": 161,
-                "y": 795,
+                "x": 186,
+                "y": 820,
                 "caption": "\"Триумф Старателей\"",
+                "size": 91,
                 "list": [
                     {
                         "caption": "\"Небесная Жесть\"",
                         "region": "pf",
                         "map": "labch",
-                        "x": 144,
-                        "y": 172
+                        "x": 167,
+                        "y": 196
                     },
                     {
                         "caption": "\"Летучий Богатырь\"",
                         "region": "pf",
                         "map": "labi",
-                        "x": 761,
-                        "y": 197
+                        "x": 785,
+                        "y": 224
                     },
                     {
                         "caption": "Платформа 47 км",
                         "region": "pf",
                         "map": "labu",
-                        "x": 164,
-                        "y": 776
+                        "x": 189,
+                        "y": 801
                     }
                 ]
             }

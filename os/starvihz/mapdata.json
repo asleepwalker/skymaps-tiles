@@ -210,14 +210,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    400,
-                    -880
+                    417,
+                    -885
                 ]
             },
             "properties": {
                 "type": "barrier",
-                "x": 400,
-                "y": 880
+                "x": 417,
+                "y": 885
             }
         },
         {
@@ -225,14 +225,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    470,
-                    -880
+                    475,
+                    -885
                 ]
             },
             "properties": {
                 "type": "barrier",
-                "x": 470,
-                "y": 880
+                "x": 475,
+                "y": 885
             }
         },
         {
@@ -240,14 +240,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    530,
-                    -880
+                    535,
+                    -885
                 ]
             },
             "properties": {
                 "type": "barrier",
-                "x": 530,
-                "y": 880
+                "x": 535,
+                "y": 885
             }
         },
         {

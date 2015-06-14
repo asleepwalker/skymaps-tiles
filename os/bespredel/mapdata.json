@@ -109,22 +109,23 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    422,
-                    -134
+                    447,
+                    -159
                 ]
             },
             "properties": {
                 "type": "station",
-                "x": 422,
-                "y": 134,
+                "x": 447,
+                "y": 159,
                 "caption": "Северо-Западная",
+                "size": 58,
                 "list": [
                     {
                         "caption": "Кавардак",
                         "region": "os",
                         "map": "index",
-                        "x": 450,
-                        "y": 314
+                        "x": 474,
+                        "y": 339
                     }
                 ]
             }

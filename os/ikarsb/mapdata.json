@@ -83,29 +83,30 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    345,
-                    -161
+                    368,
+                    -186
                 ]
             },
             "properties": {
                 "type": "station",
-                "x": 345,
-                "y": 161,
+                "x": 368,
+                "y": 186,
                 "caption": "Трактир \"Пьяный Икар\"",
+                "size": 63,
                 "list": [
                     {
                         "caption": "Кавардак",
                         "region": "os",
                         "map": "index",
-                        "x": 450,
-                        "y": 314
+                        "x": 474,
+                        "y": 339
                     },
                     {
                         "caption": "Платформа икаров",
                         "region": "os",
                         "map": "ikarsd",
-                        "x": 525,
-                        "y": 487
+                        "x": 554,
+                        "y": 513
                     }
                 ]
             }

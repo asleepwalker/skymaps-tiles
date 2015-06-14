@@ -40,29 +40,30 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    785,
-                    -735
+                    810,
+                    -761
                 ]
             },
             "properties": {
                 "type": "station",
-                "x": 785,
-                "y": 735,
+                "x": 810,
+                "y": 761,
                 "caption": "\"Жара\"",
+                "size": 98,
                 "list": [
                     {
                         "caption": "\"Касильда\"",
                         "region": "pr",
                         "map": "labk",
-                        "x": 606,
-                        "y": 144
+                        "x": 631,
+                        "y": 168
                     },
                     {
                         "caption": "Папайа Джус",
                         "region": "pr",
                         "map": "labl",
-                        "x": 244,
-                        "y": 751
+                        "x": 269,
+                        "y": 776
                     }
                 ]
             }

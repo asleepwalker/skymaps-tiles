@@ -32,22 +32,23 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    429,
-                    -128
+                    454,
+                    -153
                 ]
             },
             "properties": {
                 "type": "station",
-                "x": 429,
-                "y": 128,
+                "x": 454,
+                "y": 153,
                 "caption": "Медовая Платформа",
+                "size": 94,
                 "list": [
                     {
                         "caption": "Кроссвинд",
                         "region": "tg",
                         "map": "index",
-                        "x": 528,
-                        "y": 361
+                        "x": 553,
+                        "y": 384
                     }
                 ]
             }

@@ -242,22 +242,23 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    87,
-                    -868
+                    116,
+                    -893
                 ]
             },
             "properties": {
                 "type": "station",
-                "x": 87,
-                "y": 868,
+                "x": 116,
+                "y": 893,
                 "caption": "\"Святой Заслон\"",
+                "size": 60,
                 "list": [
                     {
                         "caption": "Св.Кападастины",
                         "region": "bs",
                         "map": "chervinie4",
-                        "x": 195,
-                        "y": 549
+                        "x": 220,
+                        "y": 574
                     }
                 ]
             }

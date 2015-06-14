@@ -76,13 +76,13 @@
                 "type": "Point",
                 "coordinates": [
                     647,
-                    -869
+                    -875
                 ]
             },
             "properties": {
                 "type": "master",
                 "x": 647,
-                "y": 869,
+                "y": 875,
                 "list": [
                     "Токсичные растения"
                 ],

@@ -89,22 +89,23 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    821,
-                    -845
+                    844,
+                    -866
                 ]
             },
             "properties": {
                 "type": "station",
-                "x": 821,
-                "y": 845,
+                "x": 844,
+                "y": 866,
                 "caption": "\"Врата Ада\"",
+                "size": 90,
                 "list": [
                     {
                         "caption": "Твердыня",
                         "region": "bs",
                         "map": "index",
-                        "x": 142,
-                        "y": 659
+                        "x": 162,
+                        "y": 676
                     }
                 ]
             }

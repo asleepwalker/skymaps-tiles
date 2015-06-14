@@ -138,29 +138,30 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    435,
-                    -389
+                    460,
+                    -415
                 ]
             },
             "properties": {
                 "type": "station",
-                "x": 435,
-                "y": 389,
+                "x": 460,
+                "y": 415,
                 "caption": "Дремучая Станция",
+                "size": 103,
                 "list": [
                     {
                         "caption": "Кавардак",
                         "region": "os",
                         "map": "index",
-                        "x": 450,
-                        "y": 314
+                        "x": 474,
+                        "y": 339
                     },
                     {
                         "caption": "Платформа Дремучая",
                         "region": "os",
                         "map": "zarosli6",
-                        "x": 752,
-                        "y": 764
+                        "x": 777,
+                        "y": 789
                     }
                 ]
             }

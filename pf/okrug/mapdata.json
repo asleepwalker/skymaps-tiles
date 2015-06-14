@@ -14,22 +14,23 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    226,
-                    -376
+                    252,
+                    -402
                 ]
             },
             "properties": {
                 "type": "station",
-                "x": 226,
-                "y": 376,
+                "x": 252,
+                "y": 402,
                 "caption": "Казенная платформа",
+                "size": 207,
                 "list": [
                     {
                         "caption": "Вышино",
                         "region": "pf",
                         "map": "index",
-                        "x": 1586,
-                        "y": 743
+                        "x": 1607,
+                        "y": 762
                     }
                 ]
             }

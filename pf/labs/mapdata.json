@@ -24,36 +24,37 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    799,
-                    -802
+                    824,
+                    -827
                 ]
             },
             "properties": {
                 "type": "station",
-                "x": 799,
-                "y": 802,
+                "x": 824,
+                "y": 827,
                 "caption": "\"Честный Чиновник\"",
+                "size": 71,
                 "list": [
                     {
                         "caption": "\"Радость Труда\"",
                         "region": "pf",
                         "map": "labl",
-                        "x": 799,
-                        "y": 136
+                        "x": 824,
+                        "y": 161
                     },
                     {
                         "caption": "\"Небесная Жесть\"",
                         "region": "pf",
                         "map": "labch",
-                        "x": 144,
-                        "y": 172
+                        "x": 167,
+                        "y": 196
                     },
                     {
                         "caption": "Платформа 47 км",
                         "region": "pf",
                         "map": "labu",
-                        "x": 164,
-                        "y": 776
+                        "x": 189,
+                        "y": 801
                     }
                 ]
             }

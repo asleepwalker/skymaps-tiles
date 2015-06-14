@@ -189,22 +189,23 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    479,
-                    -463
+                    504,
+                    -487
                 ]
             },
             "properties": {
                 "type": "station",
-                "x": 479,
-                "y": 463,
+                "x": 504,
+                "y": 487,
                 "caption": "Исследовательская платформа",
+                "size": 109,
                 "list": [
                     {
                         "caption": "Вышино",
                         "region": "pf",
                         "map": "index",
-                        "x": 1586,
-                        "y": 743
+                        "x": 1607,
+                        "y": 762
                     }
                 ]
             }

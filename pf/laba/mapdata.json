@@ -89,14 +89,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    500,
-                    -802
+                    524,
+                    -828
                 ]
             },
             "properties": {
                 "type": "station",
-                "x": 500,
-                "y": 802
+                "x": 524,
+                "y": 828
             }
         },
         {

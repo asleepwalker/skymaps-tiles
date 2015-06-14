@@ -56,29 +56,30 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    135,
-                    -135
+                    160,
+                    -160
                 ]
             },
             "properties": {
                 "type": "station",
-                "x": 135,
-                "y": 135,
+                "x": 160,
+                "y": 160,
                 "caption": "\"Фернанда\"",
+                "size": 88,
                 "list": [
                     {
                         "caption": "Фейра-ди-Сантана",
                         "region": "pr",
                         "map": "labb",
-                        "x": 473,
-                        "y": 747
+                        "x": 498,
+                        "y": 770
                     },
                     {
                         "caption": "\"Пелотас\"",
                         "region": "pr",
                         "map": "labr",
-                        "x": 185,
-                        "y": 486
+                        "x": 209,
+                        "y": 509
                     }
                 ]
             }

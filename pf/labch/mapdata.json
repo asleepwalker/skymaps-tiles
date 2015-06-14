@@ -75,36 +75,37 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    144,
-                    -172
+                    167,
+                    -196
                 ]
             },
             "properties": {
                 "type": "station",
-                "x": 144,
-                "y": 172,
+                "x": 167,
+                "y": 196,
                 "caption": "\"Небесная Жесть\"",
+                "size": 72,
                 "list": [
                     {
                         "caption": "\"Честный Чиновник\"",
                         "region": "pf",
                         "map": "labs",
-                        "x": 799,
-                        "y": 802
+                        "x": 824,
+                        "y": 827
                     },
                     {
                         "caption": "Платформа 47 км",
                         "region": "pf",
                         "map": "labu",
-                        "x": 164,
-                        "y": 776
+                        "x": 189,
+                        "y": 801
                     },
                     {
                         "caption": "\"Триумф Старателей\"",
                         "region": "pf",
                         "map": "labt",
-                        "x": 161,
-                        "y": 795
+                        "x": 186,
+                        "y": 820
                     }
                 ]
             }

@@ -74,14 +74,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    822,
-                    -267
+                    823,
+                    -269
                 ]
             },
             "properties": {
                 "type": "master",
-                "x": 822,
-                "y": 267,
+                "x": 823,
+                "y": 269,
                 "list": [
                     "Александрит"
                 ],
@@ -94,13 +94,13 @@
                 "type": "Point",
                 "coordinates": [
                     440,
-                    -454
+                    -451
                 ]
             },
             "properties": {
                 "type": "flager",
                 "x": 440,
-                "y": 454,
+                "y": 451,
                 "easy": "Крокус (21)",
                 "hard": "Бешеный Мегаеж",
                 "link": "library\/flagers\/rimland"

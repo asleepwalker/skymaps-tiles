@@ -54,22 +54,23 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    793,
-                    -163
+                    817,
+                    -185
                 ]
             },
             "properties": {
                 "type": "station",
-                "x": 793,
-                "y": 163,
+                "x": 817,
+                "y": 185,
                 "caption": "\"Заря Летана\"",
+                "size": 91,
                 "list": [
                     {
                         "caption": "Великих Вождей",
                         "region": "pf",
                         "map": "laba",
-                        "x": 500,
-                        "y": 802
+                        "x": 524,
+                        "y": 828
                     }
                 ]
             }

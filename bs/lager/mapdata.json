@@ -48,22 +48,23 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    728,
-                    -189
+                    753,
+                    -214
                 ]
             },
             "properties": {
                 "type": "station",
-                "x": 728,
-                "y": 189,
+                "x": 753,
+                "y": 214,
                 "caption": "Покинутая платформа",
+                "size": 101,
                 "list": [
                     {
                         "caption": "Твердыня",
                         "region": "bs",
                         "map": "index",
-                        "x": 142,
-                        "y": 659
+                        "x": 162,
+                        "y": 676
                     }
                 ]
             }

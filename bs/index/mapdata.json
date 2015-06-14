@@ -336,15 +336,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    142,
-                    -659
+                    162,
+                    -676
                 ]
             },
             "properties": {
-                "type": "station",
-                "x": 142,
-                "y": 659,
+                "type": "city",
+                "x": 162,
+                "y": 676,
                 "caption": "Твердыня",
+                "size": 220,
                 "list": [
                     {
                         "caption": "Тыл",
@@ -364,36 +365,36 @@
                         "caption": "Равелин Праведниц",
                         "region": "bs",
                         "map": "chervinie2",
-                        "x": 461,
-                        "y": 514
+                        "x": 486,
+                        "y": 542
                     },
                     {
                         "caption": "Платформа Чарли",
                         "region": "bs",
                         "map": "krovaviy2",
-                        "x": 165,
-                        "y": 780
+                        "x": 190,
+                        "y": 805
                     },
                     {
                         "caption": "\"Благодать\"",
                         "region": "bs",
                         "map": "razriv3",
-                        "x": 602,
-                        "y": 593
+                        "x": 627,
+                        "y": 618
                     },
                     {
                         "caption": "Святых Заступниц",
                         "region": "bs",
                         "map": "zabitiy2",
-                        "x": 257,
-                        "y": 148
+                        "x": 282,
+                        "y": 171
                     },
                     {
                         "caption": "\"Оплот Святости\"",
                         "region": "bs",
                         "map": "labd",
-                        "x": 459,
-                        "y": 475
+                        "x": 484,
+                        "y": 501
                     }
                 ]
             }

@@ -37,22 +37,23 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    178,
-                    -473
+                    204,
+                    -496
                 ]
             },
             "properties": {
                 "type": "station",
-                "x": 178,
-                "y": 473,
+                "x": 204,
+                "y": 496,
                 "caption": "\"Радушная\"",
+                "size": 61,
                 "list": [
                     {
                         "caption": "Вышино",
                         "region": "pf",
                         "map": "index",
-                        "x": 1586,
-                        "y": 743
+                        "x": 1607,
+                        "y": 762
                     }
                 ]
             }

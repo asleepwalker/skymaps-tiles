@@ -57,36 +57,37 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    244,
-                    -751
+                    269,
+                    -776
                 ]
             },
             "properties": {
                 "type": "station",
-                "x": 244,
-                "y": 751,
+                "x": 269,
+                "y": 776,
                 "caption": "Папайа Джус",
+                "size": 97,
                 "list": [
                     {
                         "caption": "\"Голубая Даль\"",
                         "region": "pr",
                         "map": "bezdna2",
-                        "x": 289,
-                        "y": 299
+                        "x": 313,
+                        "y": 323
                     },
                     {
                         "caption": "Фейра-ди-Сантана",
                         "region": "pr",
                         "map": "labb",
-                        "x": 473,
-                        "y": 747
+                        "x": 498,
+                        "y": 770
                     },
                     {
                         "caption": "\"Жара\"",
                         "region": "pr",
                         "map": "labp",
-                        "x": 785,
-                        "y": 735
+                        "x": 810,
+                        "y": 761
                     }
                 ]
             }

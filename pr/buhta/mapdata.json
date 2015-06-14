@@ -42,22 +42,23 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    361,
-                    -1141
+                    386,
+                    -1165
                 ]
             },
             "properties": {
                 "type": "station",
-                "x": 361,
-                "y": 1141,
+                "x": 386,
+                "y": 1165,
                 "caption": "\"Барракуда\"",
+                "size": 168,
                 "list": [
                     {
                         "caption": "Лагуна",
                         "region": "pr",
                         "map": "index",
-                        "x": 997,
-                        "y": 977
+                        "x": 1022,
+                        "y": 1001
                     }
                 ]
             }

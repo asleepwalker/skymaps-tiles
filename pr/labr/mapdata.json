@@ -56,29 +56,30 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    185,
-                    -486
+                    209,
+                    -509
                 ]
             },
             "properties": {
                 "type": "station",
-                "x": 185,
-                "y": 486,
+                "x": 209,
+                "y": 509,
                 "caption": "\"Пелотас\"",
+                "size": 94,
                 "list": [
                     {
                         "caption": "\"Фернанда\"",
                         "region": "pr",
                         "map": "labzh",
-                        "x": 135,
-                        "y": 135
+                        "x": 160,
+                        "y": 160
                     },
                     {
                         "caption": "\"Изабель\"",
                         "region": "pr",
                         "map": "labi",
-                        "x": 830,
-                        "y": 275
+                        "x": 855,
+                        "y": 300
                     }
                 ]
             }

@@ -105,29 +105,30 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    461,
-                    -514
+                    486,
+                    -542
                 ]
             },
             "properties": {
                 "type": "station",
-                "x": 461,
-                "y": 514,
+                "x": 486,
+                "y": 542,
                 "caption": "Равелин Праведниц",
+                "size": 56,
                 "list": [
                     {
                         "caption": "Твердыня",
                         "region": "bs",
                         "map": "index",
-                        "x": 142,
-                        "y": 659
+                        "x": 162,
+                        "y": 676
                     },
                     {
                         "caption": "Св.Кападастины",
                         "region": "bs",
                         "map": "chervinie4",
-                        "x": 195,
-                        "y": 549
+                        "x": 220,
+                        "y": 574
                     }
                 ]
             }

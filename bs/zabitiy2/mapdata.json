@@ -88,22 +88,23 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    257,
-                    -148
+                    282,
+                    -171
                 ]
             },
             "properties": {
                 "type": "station",
-                "x": 257,
-                "y": 148,
+                "x": 282,
+                "y": 171,
                 "caption": "Святых Заступниц",
+                "size": 57,
                 "list": [
                     {
                         "caption": "Твердыня",
                         "region": "bs",
                         "map": "index",
-                        "x": 142,
-                        "y": 659
+                        "x": 162,
+                        "y": 676
                     }
                 ]
             }

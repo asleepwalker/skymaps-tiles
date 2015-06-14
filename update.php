@@ -125,6 +125,7 @@
 			else if ($object['type'] == 'station')
 			{
 				$line['caption'] = $object['var3'];
+				if ($object['var6']) $line['size'] = (int)$object['var6'];
 
 				$items = array();
 				$streams = explode(',',$object['var9']);
@@ -147,6 +148,8 @@
 					}
 				}
 				$line['list'] = $items;
+
+				if ($object['var5']) $line['type'] = 'city';
 			}
 			else if ($object['type'] == 'instance')
 			{

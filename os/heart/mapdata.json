@@ -30,14 +30,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    225,
-                    -466
+                    248,
+                    -492
                 ]
             },
             "properties": {
                 "type": "station",
-                "x": 225,
-                "y": 466
+                "x": 248,
+                "y": 492
             }
         },
         {

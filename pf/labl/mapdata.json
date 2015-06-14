@@ -40,43 +40,44 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    799,
-                    -136
+                    824,
+                    -161
                 ]
             },
             "properties": {
                 "type": "station",
-                "x": 799,
-                "y": 136,
+                "x": 824,
+                "y": 161,
                 "caption": "\"Радость Труда\"",
+                "size": 96,
                 "list": [
                     {
                         "caption": "\"Летучий Богатырь\"",
                         "region": "pf",
                         "map": "labi",
-                        "x": 761,
-                        "y": 197
+                        "x": 785,
+                        "y": 224
                     },
                     {
                         "caption": "Станция добытчиков",
                         "region": "pf",
                         "map": "labe",
-                        "x": 145,
-                        "y": 808
+                        "x": 171,
+                        "y": 832
                     },
                     {
                         "caption": "\"Честный Чиновник\"",
                         "region": "pf",
                         "map": "labs",
-                        "x": 799,
-                        "y": 802
+                        "x": 824,
+                        "y": 827
                     },
                     {
                         "caption": "Чкаловская",
                         "region": "pf",
                         "map": "labo",
-                        "x": 551,
-                        "y": 818
+                        "x": 574,
+                        "y": 842
                     }
                 ]
             }

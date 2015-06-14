@@ -57,29 +57,30 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    606,
-                    -144
+                    631,
+                    -168
                 ]
             },
             "properties": {
                 "type": "station",
-                "x": 606,
-                "y": 144,
+                "x": 631,
+                "y": 168,
                 "caption": "\"Касильда\"",
+                "size": 101,
                 "list": [
                     {
                         "caption": "\"Голубая Даль\"",
                         "region": "pr",
                         "map": "bezdna2",
-                        "x": 289,
-                        "y": 299
+                        "x": 313,
+                        "y": 323
                     },
                     {
                         "caption": "\"Жара\"",
                         "region": "pr",
                         "map": "labp",
-                        "x": 785,
-                        "y": 735
+                        "x": 810,
+                        "y": 761
                     }
                 ]
             }

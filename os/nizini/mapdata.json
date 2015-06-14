@@ -73,22 +73,23 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    638,
-                    -228
+                    666,
+                    -254
                 ]
             },
             "properties": {
                 "type": "station",
-                "x": 638,
-                "y": 228,
+                "x": 666,
+                "y": 254,
                 "caption": "Юго-Западная",
+                "size": 83,
                 "list": [
                     {
                         "caption": "Кавардак",
                         "region": "os",
                         "map": "index",
-                        "x": 450,
-                        "y": 314
+                        "x": 474,
+                        "y": 339
                     }
                 ]
             }

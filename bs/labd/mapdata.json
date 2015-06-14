@@ -107,36 +107,37 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    459,
-                    -475
+                    484,
+                    -501
                 ]
             },
             "properties": {
                 "type": "station",
-                "x": 459,
-                "y": 475,
+                "x": 484,
+                "y": 501,
                 "caption": "\"Оплот Святости\"",
+                "size": 106,
                 "list": [
                     {
                         "caption": "Твердыня",
                         "region": "bs",
                         "map": "index",
-                        "x": 142,
-                        "y": 659
+                        "x": 162,
+                        "y": 676
                     },
                     {
                         "caption": "Равелин Праведниц",
                         "region": "bs",
                         "map": "chervinie2",
-                        "x": 461,
-                        "y": 514
+                        "x": 486,
+                        "y": 542
                     },
                     {
                         "caption": "Платформа Чарли",
                         "region": "bs",
                         "map": "krovaviy2",
-                        "x": 165,
-                        "y": 780
+                        "x": 190,
+                        "y": 805
                     }
                 ]
             }

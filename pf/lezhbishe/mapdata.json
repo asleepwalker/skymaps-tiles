@@ -21,22 +21,23 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    194,
-                    -194
+                    219,
+                    -219
                 ]
             },
             "properties": {
                 "type": "station",
-                "x": 194,
-                "y": 194,
+                "x": 219,
+                "y": 219,
                 "caption": "\"Слава Бургомистра\"",
+                "size": 53,
                 "list": [
                     {
                         "caption": "Вышино",
                         "region": "pf",
                         "map": "index",
-                        "x": 1586,
-                        "y": 743
+                        "x": 1607,
+                        "y": 762
                     }
                 ]
             }

@@ -91,36 +91,37 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    473,
-                    -747
+                    498,
+                    -770
                 ]
             },
             "properties": {
                 "type": "station",
-                "x": 473,
-                "y": 747,
+                "x": 498,
+                "y": 770,
                 "caption": "Фейра-ди-Сантана",
+                "size": 96,
                 "list": [
                     {
                         "caption": "Лагуна",
                         "region": "pr",
                         "map": "index",
-                        "x": 997,
-                        "y": 977
+                        "x": 1022,
+                        "y": 1001
                     },
                     {
                         "caption": "\"Фернанда\"",
                         "region": "pr",
                         "map": "labzh",
-                        "x": 135,
-                        "y": 135
+                        "x": 160,
+                        "y": 160
                     },
                     {
                         "caption": "Папайа Джус",
                         "region": "pr",
                         "map": "labl",
-                        "x": 244,
-                        "y": 751
+                        "x": 269,
+                        "y": 776
                     }
                 ]
             }

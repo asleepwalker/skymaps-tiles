@@ -75,14 +75,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    804,
-                    -592
+                    800,
+                    -603
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 804,
-                "y": 592,
+                "x": 800,
+                "y": 603,
                 "caption": "Редкий Мегаёж",
                 "class": "zloboezh"
             }

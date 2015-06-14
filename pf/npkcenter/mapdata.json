@@ -188,22 +188,23 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    475,
-                    -509
+                    500,
+                    -534
                 ]
             },
             "properties": {
                 "type": "station",
-                "x": 475,
-                "y": 509,
+                "x": 500,
+                "y": 534,
                 "caption": "Платформа Хиггса",
+                "size": 52,
                 "list": [
                     {
                         "caption": "Вышино",
                         "region": "pf",
                         "map": "index",
-                        "x": 1586,
-                        "y": 743
+                        "x": 1607,
+                        "y": 762
                     }
                 ]
             }

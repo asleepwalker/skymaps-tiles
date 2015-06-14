@@ -84,22 +84,23 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    379,
-                    -292
+                    400,
+                    -320
                 ]
             },
             "properties": {
                 "type": "station",
-                "x": 379,
-                "y": 292,
+                "x": 400,
+                "y": 320,
                 "caption": "Жестяная платформа",
+                "size": 74,
                 "list": [
                     {
                         "caption": "Кроссвинд",
                         "region": "tg",
                         "map": "index",
-                        "x": 528,
-                        "y": 361
+                        "x": 553,
+                        "y": 384
                     }
                 ]
             }

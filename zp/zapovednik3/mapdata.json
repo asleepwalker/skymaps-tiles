@@ -182,22 +182,23 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    732,
-                    -743
+                    757,
+                    -768
                 ]
             },
             "properties": {
                 "type": "station",
-                "x": 732,
-                "y": 743,
+                "x": 757,
+                "y": 768,
                 "caption": "Неименуемая платформа",
+                "size": 96,
                 "list": [
                     {
                         "caption": "Охотничья платформа",
                         "region": "zp",
                         "map": "zapovednik1",
-                        "x": 758,
-                        "y": 167
+                        "x": 783,
+                        "y": 190
                     }
                 ]
             }

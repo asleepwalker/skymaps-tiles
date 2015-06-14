@@ -65,29 +65,30 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    717,
-                    -529
+                    741,
+                    -554
                 ]
             },
             "properties": {
                 "type": "station",
-                "x": 717,
-                "y": 529,
+                "x": 741,
+                "y": 554,
                 "caption": "Старая Станция",
+                "size": 111,
                 "list": [
                     {
                         "caption": "Кавардак",
                         "region": "os",
                         "map": "index",
-                        "x": 450,
-                        "y": 314
+                        "x": 474,
+                        "y": 339
                     },
                     {
                         "caption": "Ржавая Платформа",
                         "region": "os",
                         "map": "starvihd",
-                        "x": 247,
-                        "y": 708
+                        "x": 273,
+                        "y": 734
                     }
                 ]
             }

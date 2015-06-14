@@ -32,22 +32,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    0,
-                    0
-                ]
-            },
-            "properties": {
-                "type": "npc",
-                "x": 0,
-                "y": 0,
-                "caption": ""
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     1592,
                     -740
                 ]
@@ -1048,29 +1032,30 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2450,
-                    -1416
+                    2472,
+                    -1439
                 ]
             },
             "properties": {
                 "type": "station",
-                "x": 2450,
-                "y": 1416,
+                "x": 2472,
+                "y": 1439,
                 "caption": "Восточная платформа",
+                "size": 154,
                 "list": [
                     {
                         "caption": "Вышино",
                         "region": "pf",
                         "map": "index",
-                        "x": 1586,
-                        "y": 743
+                        "x": 1607,
+                        "y": 762
                     },
                     {
                         "caption": "\"Летучий Богатырь\"",
                         "region": "pf",
                         "map": "labi",
-                        "x": 761,
-                        "y": 197
+                        "x": 785,
+                        "y": 224
                     }
                 ]
             }
@@ -1080,29 +1065,30 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    393,
-                    -1120
+                    419,
+                    -1143
                 ]
             },
             "properties": {
                 "type": "station",
-                "x": 393,
-                "y": 1120,
+                "x": 419,
+                "y": 1143,
                 "caption": "Западная платформа",
+                "size": 148,
                 "list": [
                     {
                         "caption": "Вышино",
                         "region": "pf",
                         "map": "index",
-                        "x": 1586,
-                        "y": 743
+                        "x": 1607,
+                        "y": 762
                     },
                     {
                         "caption": "Великих Вождей",
                         "region": "pf",
                         "map": "laba",
-                        "x": 500,
-                        "y": 802
+                        "x": 524,
+                        "y": 828
                     }
                 ]
             }
@@ -1112,71 +1098,72 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1586,
-                    -743
+                    1607,
+                    -762
                 ]
             },
             "properties": {
-                "type": "station",
-                "x": 1586,
-                "y": 743,
+                "type": "city",
+                "x": 1607,
+                "y": 762,
                 "caption": "Вышино",
+                "size": 243,
                 "list": [
                     {
                         "caption": "Муниципальный Округ 4",
                         "region": "pf",
                         "map": "okrug",
-                        "x": 226,
-                        "y": 376
+                        "x": 252,
+                        "y": 402
                     },
                     {
                         "caption": "\"Слава Бургомистра\"",
                         "region": "pf",
                         "map": "lezhbishe",
-                        "x": 194,
-                        "y": 194
+                        "x": 219,
+                        "y": 219
                     },
                     {
                         "caption": "\"50 лет Памфри\"",
                         "region": "pf",
                         "map": "musorozhye",
-                        "x": 193,
-                        "y": 456
+                        "x": 218,
+                        "y": 481
                     },
                     {
                         "caption": "\"Радушная\"",
                         "region": "pf",
                         "map": "alcogolicovo",
-                        "x": 178,
-                        "y": 473
+                        "x": 204,
+                        "y": 496
                     },
                     {
                         "caption": "Западная платформа",
                         "region": "pf",
                         "map": "index",
-                        "x": 393,
-                        "y": 1120
+                        "x": 419,
+                        "y": 1143
                     },
                     {
                         "caption": "Восточная платформа",
                         "region": "pf",
                         "map": "index",
-                        "x": 2450,
-                        "y": 1416
+                        "x": 2472,
+                        "y": 1439
                     },
                     {
                         "caption": "Платформа Хиггса",
                         "region": "pf",
                         "map": "npkcenter",
-                        "x": 475,
-                        "y": 509
+                        "x": 500,
+                        "y": 534
                     },
                     {
                         "caption": "Исследовательская платформа",
                         "region": "pf",
                         "map": "zhiloy",
-                        "x": 479,
-                        "y": 463
+                        "x": 504,
+                        "y": 487
                     }
                 ]
             }

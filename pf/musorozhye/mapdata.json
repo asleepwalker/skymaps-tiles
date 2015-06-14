@@ -37,22 +37,23 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    193,
-                    -456
+                    218,
+                    -481
                 ]
             },
             "properties": {
                 "type": "station",
-                "x": 193,
-                "y": 456,
+                "x": 218,
+                "y": 481,
                 "caption": "\"50 лет Памфри\"",
+                "size": 59,
                 "list": [
                     {
                         "caption": "Вышино",
                         "region": "pf",
                         "map": "index",
-                        "x": 1586,
-                        "y": 743
+                        "x": 1607,
+                        "y": 762
                     }
                 ]
             }

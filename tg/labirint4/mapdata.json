@@ -34,29 +34,30 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    565,
-                    -173
+                    589,
+                    -196
                 ]
             },
             "properties": {
                 "type": "station",
-                "x": 565,
-                "y": 173,
+                "x": 589,
+                "y": 196,
                 "caption": "Платформа Ветеранов",
+                "size": 70,
                 "list": [
                     {
                         "caption": "Кроссвинд",
                         "region": "tg",
                         "map": "index",
-                        "x": 528,
-                        "y": 361
+                        "x": 553,
+                        "y": 384
                     },
                     {
                         "caption": "Старая платформа",
                         "region": "tg",
                         "map": "labirint2",
-                        "x": 492,
-                        "y": 531
+                        "x": 517,
+                        "y": 556
                     }
                 ]
             }

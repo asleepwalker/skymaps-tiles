@@ -107,43 +107,44 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    195,
-                    -549
+                    220,
+                    -574
                 ]
             },
             "properties": {
                 "type": "station",
-                "x": 195,
-                "y": 549,
+                "x": 220,
+                "y": 574,
                 "caption": "Св.Кападастины",
+                "size": 69,
                 "list": [
                     {
                         "caption": "Равелин Праведниц",
                         "region": "bs",
                         "map": "chervinie2",
-                        "x": 461,
-                        "y": 514
+                        "x": 486,
+                        "y": 542
                     },
                     {
                         "caption": "\"Святой Заслон\"",
                         "region": "bs",
                         "map": "chervinie9",
-                        "x": 87,
-                        "y": 868
+                        "x": 116,
+                        "y": 893
                     },
                     {
                         "caption": "\"Dies Irae\"",
                         "region": "bs",
                         "map": "chervinie10",
-                        "x": 474,
-                        "y": 440
+                        "x": 499,
+                        "y": 465
                     },
                     {
                         "caption": "Заоблачный Острог",
                         "region": "bs",
                         "map": "chervinie11",
-                        "x": 133,
-                        "y": 106
+                        "x": 158,
+                        "y": 131
                     }
                 ]
             }
