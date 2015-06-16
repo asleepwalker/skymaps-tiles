@@ -22,84 +22,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    856,
-                    -217
-                ]
-            },
-            "properties": {
-                "type": "beacon",
-                "x": 856,
-                "y": 217,
-                "mobs": "Чёрный пират (7)",
-                "link": "library\/coins\/bastion"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    623,
-                    -96
-                ]
-            },
-            "properties": {
-                "type": "beacon",
-                "x": 623,
-                "y": 96,
-                "mobs": "Псина (4)",
-                "link": "library\/coins\/bastion"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    914,
-                    -55
-                ]
-            },
-            "properties": {
-                "type": "fish",
-                "x": 914,
-                "y": 55,
-                "list": [
-                    "Коралловый сиган",
-                    "Золотой летринус"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    97,
-                    -903
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 97,
-                "y": 903,
-                "caption": "Мухоносец-мститель",
-                "class": "muh"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    136,
-                    -147
+                    280,
+                    -490
                 ]
             },
             "properties": {
                 "type": "barrier",
-                "x": 136,
-                "y": 147
+                "x": 280,
+                "y": 490
             }
         },
         {
@@ -107,16 +37,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    77,
-                    -121
+                    270,
+                    -510
                 ]
             },
             "properties": {
-                "type": "boss",
-                "x": 77,
-                "y": 121,
-                "caption": "Кишкодав",
-                "class": "kishkodav"
+                "type": "barrier",
+                "x": 270,
+                "y": 510
             }
         },
         {
@@ -124,16 +52,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    39,
-                    -248
+                    130,
+                    -360
                 ]
             },
             "properties": {
-                "type": "boss",
-                "x": 39,
-                "y": 248,
-                "caption": "Убер-кишкодав",
-                "class": "kishkodav"
+                "type": "barrier",
+                "x": 130,
+                "y": 360
             }
         },
         {
@@ -141,16 +67,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    601,
-                    -254
+                    90,
+                    -350
                 ]
             },
             "properties": {
-                "type": "boss",
-                "x": 601,
-                "y": 254,
-                "caption": "Предатель Небес Король",
-                "class": "airship"
+                "type": "barrier",
+                "x": 90,
+                "y": 350
             }
         },
         {
@@ -158,154 +82,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    843,
-                    -665
+                    100,
+                    -180
                 ]
             },
             "properties": {
-                "type": "boss",
-                "x": 843,
-                "y": 665,
-                "caption": "Мусорог генерал",
-                "class": "musorog"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    857,
-                    -626
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 857,
-                "y": 626,
-                "caption": "Мусорог генерал",
-                "class": "musorog"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    874,
-                    -874
-                ]
-            },
-            "properties": {
-                "type": "npc",
-                "x": 874,
-                "y": 874,
-                "caption": "Форпост Сульрата",
-                "npc": "Сульрат",
-                "link": "library\/npc\/bs\/sulrath"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    767,
-                    -191
-                ]
-            },
-            "properties": {
-                "type": "fish",
-                "x": 767,
-                "y": 191,
-                "list": [
-                    "Коралловый сиган",
-                    "Золотой летринус"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    882,
-                    -886
-                ]
-            },
-            "properties": {
-                "type": "instances",
-                "x": 882,
-                "y": 886,
-                "caption": "Плодильщики и Финальный удар",
-                "list": [
-                    {
-                        "caption": "Плодильщики (лёгкий)",
-                        "region": "bs",
-                        "map": "plods_easy",
-                        "x": 20,
-                        "y": 20,
-                        "type": "sky"
-                    },
-                    {
-                        "caption": "Плодильщики (сложный)",
-                        "region": "bs",
-                        "map": "plods_hard",
-                        "x": 20,
-                        "y": 20,
-                        "type": "sky"
-                    },
-                    {
-                        "caption": "Монолит (лёгкий)",
-                        "region": "bs",
-                        "map": "monolit_easy",
-                        "x": 20,
-                        "y": 20,
-                        "type": "sky"
-                    },
-                    {
-                        "caption": "Монолит (сложный)",
-                        "region": "bs",
-                        "map": "monolit_hard",
-                        "x": 20,
-                        "y": 20,
-                        "type": "sky"
-                    }
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    480,
-                    -902
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 480,
-                "y": 902,
-                "caption": "Штурм-мухоносец",
-                "class": "muh"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    340,
-                    -152
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 340,
-                "y": 152,
-                "caption": "Штурм-кадавр",
-                "class": "kadavr"
+                "type": "barrier",
+                "x": 100,
+                "y": 180
             }
         },
         {
@@ -330,14 +114,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    100,
-                    -180
+                    340,
+                    -152
                 ]
             },
             "properties": {
-                "type": "barrier",
-                "x": 100,
-                "y": 180
+                "type": "boss",
+                "x": 340,
+                "y": 152,
+                "caption": "Штурм-кадавр",
+                "class": "kadavr"
             }
         },
         {
@@ -345,14 +131,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    90,
-                    -350
+                    480,
+                    -902
                 ]
             },
             "properties": {
-                "type": "barrier",
-                "x": 90,
-                "y": 350
+                "type": "boss",
+                "x": 480,
+                "y": 902,
+                "caption": "Штурм-мухоносец",
+                "class": "muh"
             }
         },
         {
@@ -360,65 +148,64 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    130,
-                    -360
-                ]
-            },
-            "properties": {
-                "type": "barrier",
-                "x": 130,
-                "y": 360
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    270,
-                    -510
-                ]
-            },
-            "properties": {
-                "type": "barrier",
-                "x": 270,
-                "y": 510
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    280,
-                    -490
-                ]
-            },
-            "properties": {
-                "type": "barrier",
-                "x": 280,
-                "y": 490
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    876,
-                    -921
+                    48,
+                    -45
                 ]
             },
             "properties": {
                 "type": "hole",
-                "x": 876,
-                "y": 921,
+                "x": 48,
+                "y": 45,
                 "region": "bs",
-                "map": "index",
-                "caption": "Бастион",
+                "map": "chervinie7",
+                "caption": "Червиные норы, ур.7",
                 "goto": {
-                    "x": 984,
-                    "y": 124
+                    "x": 80,
+                    "y": 184
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    199,
+                    -48
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 199,
+                "y": 48,
+                "region": "bs",
+                "map": "labi",
+                "caption": "Лабиринт И",
+                "goto": {
+                    "x": 650,
+                    "y": 635
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    916,
+                    -279
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 916,
+                "y": 279,
+                "region": "bs",
+                "map": "chervinie8",
+                "caption": "Червиные норы, ур.8",
+                "goto": {
+                    "x": 958,
+                    "y": 81
                 }
             }
         },
@@ -471,21 +258,142 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    876,
+                    -921
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 876,
+                "y": 921,
+                "region": "bs",
+                "map": "index",
+                "caption": "Бастион",
+                "goto": {
+                    "x": 984,
+                    "y": 124
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    601,
+                    -254
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 601,
+                "y": 254,
+                "caption": "Предатель Небес Король",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39,
+                    -248
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 39,
+                "y": 248,
+                "caption": "Убер-кишкодав",
+                "class": "kishkodav"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77,
+                    -121
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 77,
+                "y": 121,
+                "caption": "Кишкодав",
+                "class": "kishkodav"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136,
+                    -147
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 136,
+                "y": 147
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    97,
+                    -903
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 97,
+                "y": 903,
+                "caption": "Мухоносец-мститель",
+                "class": "muh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    767,
+                    -191
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 767,
+                "y": 191,
+                "list": [
+                    "Коралловый сиган",
+                    "Золотой летринус"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     916,
-                    -279
+                    -58
                 ]
             },
             "properties": {
-                "type": "hole",
+                "type": "fish",
                 "x": 916,
-                "y": 279,
-                "region": "bs",
-                "map": "chervinie8",
-                "caption": "Червиные норы, ур.8",
-                "goto": {
-                    "x": 958,
-                    "y": 81
-                }
+                "y": 58,
+                "list": [
+                    "Коралловый сиган",
+                    "Золотой летринус"
+                ]
             }
         },
         {
@@ -493,21 +401,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    199,
-                    -48
+                    857,
+                    -626
                 ]
             },
             "properties": {
-                "type": "hole",
-                "x": 199,
-                "y": 48,
-                "region": "bs",
-                "map": "labi",
-                "caption": "Лабиринт И",
-                "goto": {
-                    "x": 650,
-                    "y": 635
-                }
+                "type": "boss",
+                "x": 857,
+                "y": 626,
+                "caption": "Мусорог генерал",
+                "class": "musorog"
             }
         },
         {
@@ -515,21 +418,118 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    48,
-                    -45
+                    843,
+                    -665
                 ]
             },
             "properties": {
-                "type": "hole",
-                "x": 48,
-                "y": 45,
-                "region": "bs",
-                "map": "chervinie7",
-                "caption": "Червиные норы, ур.7",
-                "goto": {
-                    "x": 80,
-                    "y": 184
-                }
+                "type": "boss",
+                "x": 843,
+                "y": 665,
+                "caption": "Мусорог генерал",
+                "class": "musorog"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    623,
+                    -96
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 623,
+                "y": 96,
+                "mobs": "Псина (4)",
+                "link": "library\/coins\/bastion"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    856,
+                    -217
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 856,
+                "y": 217,
+                "mobs": "Чёрный пират (7)",
+                "link": "library\/coins\/bastion"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    874,
+                    -874
+                ]
+            },
+            "properties": {
+                "type": "npc",
+                "x": 874,
+                "y": 874,
+                "caption": "Форпост Сульрата",
+                "npc": "Сульрат",
+                "link": "library\/npc\/bs\/sulrath"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    882,
+                    -886
+                ]
+            },
+            "properties": {
+                "type": "instances",
+                "x": 882,
+                "y": 886,
+                "caption": "Плодильщики и Финальный удар",
+                "list": [
+                    {
+                        "caption": "Плодильщики (лёгкий)",
+                        "region": "bs",
+                        "map": "plods_easy",
+                        "x": 20,
+                        "y": 20,
+                        "type": "sky"
+                    },
+                    {
+                        "caption": "Плодильщики (сложный)",
+                        "region": "bs",
+                        "map": "plods_hard",
+                        "x": 20,
+                        "y": 20,
+                        "type": "sky"
+                    },
+                    {
+                        "caption": "Монолит (лёгкий)",
+                        "region": "bs",
+                        "map": "monolit_easy",
+                        "x": 20,
+                        "y": 20,
+                        "type": "sky"
+                    },
+                    {
+                        "caption": "Монолит (сложный)",
+                        "region": "bs",
+                        "map": "monolit_hard",
+                        "x": 20,
+                        "y": 20,
+                        "type": "sky"
+                    }
+                ]
             }
         }
     ]

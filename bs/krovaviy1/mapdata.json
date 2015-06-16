@@ -21,118 +21,17 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    414,
-                    -842
+                    369,
+                    -60
                 ]
             },
             "properties": {
-                "type": "boss",
-                "x": 414,
-                "y": 842,
-                "caption": "Убер-Цербер",
-                "class": "tserber"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    563,
-                    -914
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 563,
-                "y": 914,
-                "caption": "Предатель Небес",
-                "class": "airship"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    861,
-                    -655
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 861,
-                "y": 655,
-                "caption": "Предатель Небес",
-                "class": "airship"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    808,
-                    -816
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 808,
-                "y": 816,
-                "caption": "Предатель Небес Король",
-                "class": "airship"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    866,
-                    -171
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 866,
-                "y": 171,
-                "caption": "Предатель Небес Барон",
-                "class": "airship"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    759,
-                    -98
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 759,
-                "y": 98,
-                "caption": "Предатель Небес Барон",
-                "class": "airship"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    359,
-                    -517
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 359,
-                "y": 517,
-                "caption": "Штурм-фактория",
-                "class": "faka"
+                "type": "quest",
+                "x": 369,
+                "y": 60,
+                "caption": "План низушников",
+                "link": "quests\/plan",
+                "tip": "В бортовом компьютере подбитой машины низушников содержится часть секретного плана!"
             }
         },
         {
@@ -158,17 +57,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    369,
-                    -60
+                    359,
+                    -517
                 ]
             },
             "properties": {
-                "type": "quest",
-                "x": 369,
-                "y": 60,
-                "caption": "План низушников",
-                "link": "quests\/plan",
-                "tip": "В бортовом компьютере подбитой машины низушников содержится часть секретного плана!"
+                "type": "boss",
+                "x": 359,
+                "y": 517,
+                "caption": "Штурм-фактория",
+                "class": "faka"
             }
         },
         {
@@ -210,6 +108,28 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    539,
+                    -171
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 539,
+                "y": 171,
+                "region": "bs",
+                "map": "index",
+                "caption": "Бастион",
+                "goto": {
+                    "x": 1072,
+                    "y": 1260
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     67,
                     -647
                 ]
@@ -232,21 +152,101 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    539,
+                    759,
+                    -98
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 759,
+                "y": 98,
+                "caption": "Предатель Небес Барон",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    866,
                     -171
                 ]
             },
             "properties": {
-                "type": "hole",
-                "x": 539,
+                "type": "boss",
+                "x": 866,
                 "y": 171,
-                "region": "bs",
-                "map": "index",
-                "caption": "Бастион",
-                "goto": {
-                    "x": 1072,
-                    "y": 1260
-                }
+                "caption": "Предатель Небес Барон",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    861,
+                    -655
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 861,
+                "y": 655,
+                "caption": "Предатель Небес",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    414,
+                    -842
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 414,
+                "y": 842,
+                "caption": "Убер-Цербер",
+                "class": "tserber"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    563,
+                    -914
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 563,
+                "y": 914,
+                "caption": "Предатель Небес",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    808,
+                    -816
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 808,
+                "y": 816,
+                "caption": "Предатель Небес Король",
+                "class": "airship"
             }
         }
     ]

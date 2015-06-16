@@ -14,33 +14,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    735,
-                    -289
+                    158,
+                    -370
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 735,
-                "y": 289,
-                "caption": "Логово Нарушителей Всего",
-                "class": "logovo"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    764,
-                    -113
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 764,
-                "y": 113,
-                "caption": "Великий Кроволёт Король",
-                "class": "airship"
+                "x": 158,
+                "y": 370,
+                "caption": "Альфа-матка",
+                "class": "matka"
             }
         },
         {
@@ -65,16 +48,33 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    158,
-                    -370
+                    764,
+                    -113
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 158,
-                "y": 370,
-                "caption": "Альфа-матка",
-                "class": "matka"
+                "x": 764,
+                "y": 113,
+                "caption": "Великий Кроволёт Король",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    735,
+                    -289
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 735,
+                "y": 289,
+                "caption": "Логово Нарушителей Всего",
+                "class": "logovo"
             }
         }
     ]

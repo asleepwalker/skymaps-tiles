@@ -22,264 +22,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    770,
-                    -593
+                    360,
+                    -682
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 770,
-                "y": 593,
-                "caption": " Кишкодав-мститель",
-                "class": "kishkodav"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    821,
-                    -292
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 821,
-                "y": 292,
+                "x": 360,
+                "y": 682,
                 "caption": "Убер-кишкодав",
                 "class": "kishkodav"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    485,
-                    -235
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 485,
-                "y": 235,
-                "caption": "Кишкодав",
-                "class": "kishkodav"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    142,
-                    -415
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 142,
-                "y": 415,
-                "caption": "Убер-кишкодав",
-                "class": "kishkodav"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    780,
-                    -880
-                ]
-            },
-            "properties": {
-                "type": "barrier",
-                "x": 780,
-                "y": 880
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    760,
-                    -620
-                ]
-            },
-            "properties": {
-                "type": "barrier",
-                "x": 760,
-                "y": 620
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    840,
-                    -530
-                ]
-            },
-            "properties": {
-                "type": "barrier",
-                "x": 840,
-                "y": 530
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    850,
-                    -350
-                ]
-            },
-            "properties": {
-                "type": "barrier",
-                "x": 850,
-                "y": 350
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    720,
-                    -200
-                ]
-            },
-            "properties": {
-                "type": "barrier",
-                "x": 720,
-                "y": 200
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    650,
-                    -110
-                ]
-            },
-            "properties": {
-                "type": "barrier",
-                "x": 650,
-                "y": 110
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    150,
-                    -180
-                ]
-            },
-            "properties": {
-                "type": "barrier",
-                "x": 150,
-                "y": 180
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    420,
-                    -180
-                ]
-            },
-            "properties": {
-                "type": "barrier",
-                "x": 420,
-                "y": 180
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    190,
-                    -90
-                ]
-            },
-            "properties": {
-                "type": "barrier",
-                "x": 190,
-                "y": 90
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    140,
-                    -190
-                ]
-            },
-            "properties": {
-                "type": "barrier",
-                "x": 140,
-                "y": 190
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    180,
-                    -310
-                ]
-            },
-            "properties": {
-                "type": "barrier",
-                "x": 180,
-                "y": 310
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    140,
-                    -460
-                ]
-            },
-            "properties": {
-                "type": "barrier",
-                "x": 140,
-                "y": 460
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    740,
-                    -862
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 740,
-                "y": 862,
-                "caption": "Убер-фактория",
-                "class": "faka"
             }
         },
         {
@@ -304,16 +56,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    360,
-                    -682
+                    740,
+                    -862
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 360,
-                "y": 682,
-                "caption": "Убер-кишкодав",
-                "class": "kishkodav"
+                "x": 740,
+                "y": 862,
+                "caption": "Убер-фактория",
+                "class": "faka"
             }
         },
         {
@@ -321,21 +73,179 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    678,
-                    -700
+                    140,
+                    -460
                 ]
             },
             "properties": {
-                "type": "hole",
-                "x": 678,
-                "y": 700,
-                "region": "bs",
-                "map": "razriv7",
-                "caption": "Разрыв, ур.7",
-                "goto": {
-                    "x": 76,
-                    "y": 905
-                }
+                "type": "barrier",
+                "x": 140,
+                "y": 460
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    180,
+                    -310
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 180,
+                "y": 310
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140,
+                    -190
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 140,
+                "y": 190
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    190,
+                    -90
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 190,
+                "y": 90
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    420,
+                    -180
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 420,
+                "y": 180
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150,
+                    -180
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 150,
+                "y": 180
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    650,
+                    -110
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 650,
+                "y": 110
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    720,
+                    -200
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 720,
+                "y": 200
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    850,
+                    -350
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 850,
+                "y": 350
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    840,
+                    -530
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 840,
+                "y": 530
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    760,
+                    -620
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 760,
+                "y": 620
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    780,
+                    -880
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 780,
+                "y": 880
             }
         },
         {
@@ -380,6 +290,96 @@
                     "x": 139,
                     "y": 170
                 }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    678,
+                    -700
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 678,
+                "y": 700,
+                "region": "bs",
+                "map": "razriv7",
+                "caption": "Разрыв, ур.7",
+                "goto": {
+                    "x": 76,
+                    "y": 905
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    142,
+                    -415
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 142,
+                "y": 415,
+                "caption": "Убер-кишкодав",
+                "class": "kishkodav"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    485,
+                    -235
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 485,
+                "y": 235,
+                "caption": "Кишкодав",
+                "class": "kishkodav"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    821,
+                    -292
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 821,
+                "y": 292,
+                "caption": "Убер-кишкодав",
+                "class": "kishkodav"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    770,
+                    -593
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 770,
+                "y": 593,
+                "caption": " Кишкодав-мститель",
+                "class": "kishkodav"
             }
         }
     ]

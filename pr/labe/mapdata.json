@@ -22,32 +22,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    623,
-                    -149
-                ]
-            },
-            "properties": {
-                "type": "beacon",
-                "x": 623,
-                "y": 149,
-                "link": "library\/coins\/reef"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    744,
-                    -138
+                    495,
+                    -507
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 744,
-                "y": 138,
-                "caption": "Логово жестоких бандитов",
-                "class": "logovo"
+                "x": 495,
+                "y": 507,
+                "caption": "Мусорог полковник",
+                "class": "musorog"
             }
         },
         {
@@ -72,54 +56,20 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    495,
-                    -507
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 495,
-                "y": 507,
-                "caption": "Мусорог полковник",
-                "class": "musorog"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    488,
-                    -399
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 488,
-                "y": 399,
-                "caption": "Великий Кроволёт Барон",
-                "class": "airship"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    320,
-                    -771
+                    192,
+                    -319
                 ]
             },
             "properties": {
                 "type": "hole",
-                "x": 320,
-                "y": 771,
+                "x": 192,
+                "y": 319,
                 "region": "pr",
-                "map": "labi",
-                "caption": "Лабиринт И",
+                "map": "labv",
+                "caption": "Лабиринт В",
                 "goto": {
-                    "x": 95,
-                    "y": 776
+                    "x": 901,
+                    "y": 225
                 }
             }
         },
@@ -150,21 +100,71 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    192,
-                    -319
+                    320,
+                    -771
                 ]
             },
             "properties": {
                 "type": "hole",
-                "x": 192,
-                "y": 319,
+                "x": 320,
+                "y": 771,
                 "region": "pr",
-                "map": "labv",
-                "caption": "Лабиринт В",
+                "map": "labi",
+                "caption": "Лабиринт И",
                 "goto": {
-                    "x": 901,
-                    "y": 225
+                    "x": 95,
+                    "y": 776
                 }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    488,
+                    -399
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 488,
+                "y": 399,
+                "caption": "Великий Кроволёт Барон",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    744,
+                    -138
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 744,
+                "y": 138,
+                "caption": "Логово жестоких бандитов",
+                "class": "logovo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    623,
+                    -149
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 623,
+                "y": 149,
+                "link": "library\/coins\/reef"
             }
         }
     ]

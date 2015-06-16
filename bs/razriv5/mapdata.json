@@ -22,15 +22,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    493,
-                    -157
+                    331,
+                    -433
                 ]
             },
             "properties": {
-                "type": "beacon",
-                "x": 493,
-                "y": 157,
-                "link": "library\/coins\/bastion"
+                "type": "hole",
+                "x": 331,
+                "y": 433
             }
         },
         {
@@ -38,16 +37,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    831,
-                    -210
+                    190,
+                    -272
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 831,
-                "y": 210,
-                "caption": "Кишкодав-страж",
-                "class": "kishkodav"
+                "x": 190,
+                "y": 272,
+                "caption": "Штурм-кадавр",
+                "class": "kadavr"
             }
         },
         {
@@ -55,15 +54,88 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    567,
-                    -73
+                    250,
+                    -712
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 567,
-                "y": 73,
-                "caption": "Штурм-кишкодав",
+                "x": 250,
+                "y": 712,
+                "caption": "Штурм-кадавр",
+                "class": "kadavr"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    820,
+                    -832
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 820,
+                "y": 832,
+                "caption": "Убер-фактория",
+                "class": "faka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    810,
+                    -352
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 810,
+                "y": 352,
+                "caption": "Убер-фактория",
+                "class": "faka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119,
+                    -150
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 119,
+                "y": 150,
+                "region": "bs",
+                "map": "razriv6",
+                "caption": "Разрыв, ур.6",
+                "goto": {
+                    "x": 114,
+                    "y": 640
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    531,
+                    -659
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 531,
+                "y": 659,
+                "caption": "Кишкодав-мститель",
                 "class": "kishkodav"
             }
         },
@@ -89,15 +161,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    531,
-                    -659
+                    567,
+                    -73
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 531,
-                "y": 659,
-                "caption": "Кишкодав-мститель",
+                "x": 567,
+                "y": 73,
+                "caption": "Штурм-кишкодав",
                 "class": "kishkodav"
             }
         },
@@ -106,16 +178,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    810,
-                    -352
+                    831,
+                    -210
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 810,
-                "y": 352,
-                "caption": "Убер-фактория",
-                "class": "faka"
+                "x": 831,
+                "y": 210,
+                "caption": "Кишкодав-страж",
+                "class": "kishkodav"
             }
         },
         {
@@ -123,87 +195,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    820,
-                    -832
+                    493,
+                    -157
                 ]
             },
             "properties": {
-                "type": "boss",
-                "x": 820,
-                "y": 832,
-                "caption": "Убер-фактория",
-                "class": "faka"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    250,
-                    -712
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 250,
-                "y": 712,
-                "caption": "Штурм-кадавр",
-                "class": "kadavr"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    190,
-                    -272
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 190,
-                "y": 272,
-                "caption": "Штурм-кадавр",
-                "class": "kadavr"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    331,
-                    -433
-                ]
-            },
-            "properties": {
-                "type": "hole",
-                "x": 331,
-                "y": 433
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119,
-                    -150
-                ]
-            },
-            "properties": {
-                "type": "hole",
-                "x": 119,
-                "y": 150,
-                "region": "bs",
-                "map": "razriv6",
-                "caption": "Разрыв, ур.6",
-                "goto": {
-                    "x": 114,
-                    "y": 640
-                }
+                "type": "beacon",
+                "x": 493,
+                "y": 157,
+                "link": "library\/coins\/bastion"
             }
         }
     ]

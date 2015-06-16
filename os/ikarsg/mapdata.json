@@ -14,17 +14,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    348,
-                    -555
+                    835,
+                    -325
                 ]
             },
             "properties": {
-                "type": "npc",
-                "x": 348,
-                "y": 555,
-                "caption": "Деревня икаров",
-                "npc": "Икары",
-                "link": "library\/npc\/os\/ikar"
+                "type": "fish",
+                "x": 835,
+                "y": 325,
+                "list": [
+                    "Залётный хариус",
+                    "Ветряной жерех"
+                ]
             }
         },
         {
@@ -32,31 +33,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    82,
-                    -447
+                    850,
+                    -182
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 82,
-                "y": 447,
-                "caption": "Гипнобосс",
-                "class": "gipno"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    378,
-                    -235
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 378,
-                "y": 235,
+                "x": 850,
+                "y": 182,
                 "caption": "Гамма-гипнобосс",
                 "class": "gipno"
             }
@@ -83,14 +67,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    850,
-                    -182
+                    378,
+                    -235
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 850,
-                "y": 182,
+                "x": 378,
+                "y": 235,
                 "caption": "Гамма-гипнобосс",
                 "class": "gipno"
             }
@@ -100,18 +84,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    835,
-                    -325
+                    82,
+                    -447
                 ]
             },
             "properties": {
-                "type": "fish",
-                "x": 835,
-                "y": 325,
-                "list": [
-                    "Залётный хариус",
-                    "Ветряной жерех"
-                ]
+                "type": "boss",
+                "x": 82,
+                "y": 447,
+                "caption": "Гипнобосс",
+                "class": "gipno"
             }
         },
         {
@@ -119,34 +101,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    478,
-                    -340
+                    58,
+                    -899
                 ]
             },
             "properties": {
-                "type": "fish",
-                "x": 478,
-                "y": 340,
-                "list": [
-                    "Залётный хариус",
-                    "Ветряной жерех"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151,
-                    -794
-                ]
-            },
-            "properties": {
-                "type": "note",
-                "x": 151,
-                "y": 794,
-                "text": "Пьяный икар-сторож, через пробойник можно пройти лишь с репутацией 500+ у Икаров.\nСамый простой способ набрать репутацию Икаров - отдавать пойло этому сторожу. Только не поите низухой!"
+                "type": "hole",
+                "x": 58,
+                "y": 899,
+                "region": "os",
+                "map": "ikarsv",
+                "caption": "Лабиринт икаров В",
+                "goto": {
+                    "x": 924,
+                    "y": 586
+                }
             }
         },
         {
@@ -176,21 +145,52 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    58,
-                    -899
+                    151,
+                    -794
                 ]
             },
             "properties": {
-                "type": "hole",
-                "x": 58,
-                "y": 899,
-                "region": "os",
-                "map": "ikarsv",
-                "caption": "Лабиринт икаров В",
-                "goto": {
-                    "x": 924,
-                    "y": 586
-                }
+                "type": "note",
+                "x": 151,
+                "y": 794,
+                "text": "Пьяный икар-сторож, через пробойник можно пройти лишь с репутацией 500+ у Икаров.\nСамый простой способ набрать репутацию Икаров - отдавать пойло этому сторожу. Только не поите низухой!"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    478,
+                    -340
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 478,
+                "y": 340,
+                "list": [
+                    "Залётный хариус",
+                    "Ветряной жерех"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    348,
+                    -555
+                ]
+            },
+            "properties": {
+                "type": "npc",
+                "x": 348,
+                "y": 555,
+                "caption": "Деревня икаров",
+                "npc": "Икары",
+                "link": "library\/npc\/os\/ikar"
             }
         }
     ]

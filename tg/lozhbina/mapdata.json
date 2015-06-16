@@ -19,34 +19,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    557,
-                    -266
-                ]
-            },
-            "properties": {
-                "type": "master",
-                "x": 557,
-                "y": 266,
-                "list": [
-                    "Дешёвые реагенты"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    560,
-                    -172
+                    231,
+                    -355
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 560,
-                "y": 172,
-                "caption": "Шмель",
-                "class": "shmel"
+                "x": 231,
+                "y": 355,
+                "caption": "Улей",
+                "class": "uley"
             }
         },
         {
@@ -71,16 +53,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    231,
-                    -355
+                    560,
+                    -172
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 231,
-                "y": 355,
-                "caption": "Улей",
-                "class": "uley"
+                "x": 560,
+                "y": 172,
+                "caption": "Шмель",
+                "class": "shmel"
             }
         },
         {
@@ -103,6 +85,24 @@
                     "x": 1185,
                     "y": 723
                 }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    557,
+                    -266
+                ]
+            },
+            "properties": {
+                "type": "master",
+                "x": 557,
+                "y": 266,
+                "list": [
+                    "Дешёвые реагенты"
+                ]
             }
         }
     ]

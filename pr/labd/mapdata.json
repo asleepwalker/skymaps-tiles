@@ -22,50 +22,17 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    683,
-                    -862
+                    569,
+                    -837
                 ]
             },
             "properties": {
-                "type": "boss",
-                "x": 683,
-                "y": 862,
-                "caption": "Усиленная Цитадель Механоидов",
-                "class": "tsitadel"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    744,
-                    -567
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 744,
-                "y": 567,
-                "caption": "Усиленная Цитадель Механоидов",
-                "class": "tsitadel"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    566,
-                    -413
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 566,
-                "y": 413,
-                "caption": "Мусорог полковник",
-                "class": "musorog"
+                "type": "flager",
+                "x": 569,
+                "y": 837,
+                "easy": "Сапер (9)",
+                "hard": "Осьминог Томми",
+                "link": "library\/flagers\/reef"
             }
         },
         {
@@ -90,17 +57,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    569,
-                    -837
+                    566,
+                    -413
                 ]
             },
             "properties": {
-                "type": "flager",
-                "x": 569,
-                "y": 837,
-                "easy": "Сапер (9)",
-                "hard": "Осьминог Томми",
-                "link": "library\/flagers\/reef"
+                "type": "boss",
+                "x": 566,
+                "y": 413,
+                "caption": "Мусорог полковник",
+                "class": "musorog"
             }
         },
         {
@@ -145,6 +111,40 @@
                     "x": 903,
                     "y": 480
                 }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    744,
+                    -567
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 744,
+                "y": 567,
+                "caption": "Усиленная Цитадель Механоидов",
+                "class": "tsitadel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    683,
+                    -862
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 683,
+                "y": 862,
+                "caption": "Усиленная Цитадель Механоидов",
+                "class": "tsitadel"
             }
         }
     ]

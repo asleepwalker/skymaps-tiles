@@ -17,15 +17,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    169,
-                    -624
+                    547,
+                    -109
                 ]
             },
             "properties": {
-                "type": "beacon",
-                "x": 169,
-                "y": 624,
-                "link": "library\/coins\/gavane"
+                "type": "note",
+                "x": 547,
+                "y": 109,
+                "text": "Хоть здесь обычно и гей-парад молодых мусорогов, но с достаточной прокачкой и экипировкой можно на ускорителях пронестись до вихря."
             }
         },
         {
@@ -50,36 +50,20 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    547,
-                    -109
-                ]
-            },
-            "properties": {
-                "type": "note",
-                "x": 547,
-                "y": 109,
-                "text": "Хоть здесь обычно и гей-парад молодых мусорогов, но с достаточной прокачкой и экипировкой можно на ускорителях пронестись до вихря."
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    461,
-                    -800
+                    181,
+                    -82
                 ]
             },
             "properties": {
                 "type": "hole",
-                "x": 461,
-                "y": 800,
+                "x": 181,
+                "y": 82,
                 "region": "tg",
-                "map": "index",
-                "caption": "Тихая Гавань",
+                "map": "labirint2",
+                "caption": "Лабиринт Облаков, ур.2",
                 "goto": {
-                    "x": 1913,
-                    "y": 572
+                    "x": 534,
+                    "y": 900
                 }
             }
         },
@@ -110,21 +94,37 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    181,
-                    -82
+                    461,
+                    -800
                 ]
             },
             "properties": {
                 "type": "hole",
-                "x": 181,
-                "y": 82,
+                "x": 461,
+                "y": 800,
                 "region": "tg",
-                "map": "labirint2",
-                "caption": "Лабиринт Облаков, ур.2",
+                "map": "index",
+                "caption": "Тихая Гавань",
                 "goto": {
-                    "x": 534,
-                    "y": 900
+                    "x": 1913,
+                    "y": 572
                 }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169,
+                    -624
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 169,
+                "y": 624,
+                "link": "library\/coins\/gavane"
             }
         }
     ]

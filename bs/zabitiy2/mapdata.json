@@ -21,108 +21,32 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    783,
-                    -66
+                    909,
+                    -880
+                ]
+            },
+            "properties": {
+                "type": "quest",
+                "x": 909,
+                "y": 880,
+                "caption": "Сбор тайны Блюм Брахниус",
+                "link": "quests\/blum",
+                "tip": "Здесь есть записка сумасшедшего!"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    738,
+                    -89
                 ]
             },
             "properties": {
                 "type": "note",
-                "x": 783,
-                "y": 66,
-                "text": "Россыпь ремонтных наборов."
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    903,
-                    -921
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 903,
-                "y": 921,
-                "caption": "Мухоносец",
-                "class": "muh"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    833,
-                    -397
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 833,
-                "y": 397,
-                "caption": "Мухоносец",
-                "class": "muh"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    899,
-                    -167
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 899,
-                "y": 167,
-                "caption": "Мухоносец",
-                "class": "muh"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    282,
-                    -171
-                ]
-            },
-            "properties": {
-                "type": "station",
-                "x": 282,
-                "y": 171,
-                "caption": "Святых Заступниц",
-                "size": 57,
-                "list": [
-                    {
-                        "caption": "Твердыня",
-                        "region": "bs",
-                        "map": "index",
-                        "x": 162,
-                        "y": 676,
-                        "type": "station"
-                    }
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    435,
-                    -381
-                ]
-            },
-            "properties": {
-                "type": "note",
-                "x": 435,
-                "y": 381,
+                "x": 738,
+                "y": 89,
                 "text": "Россыпь ремонтных наборов."
             }
         },
@@ -147,65 +71,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    738,
-                    -89
+                    435,
+                    -381
                 ]
             },
             "properties": {
                 "type": "note",
-                "x": 738,
-                "y": 89,
+                "x": 435,
+                "y": 381,
                 "text": "Россыпь ремонтных наборов."
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    903,
-                    -371
-                ]
-            },
-            "properties": {
-                "type": "note",
-                "x": 903,
-                "y": 371,
-                "text": "На складе для вас припасен обсидиан!"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    897,
-                    -220
-                ]
-            },
-            "properties": {
-                "type": "note",
-                "x": 897,
-                "y": 220,
-                "text": "На складе для вас припасен рубин!"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    909,
-                    -880
-                ]
-            },
-            "properties": {
-                "type": "quest",
-                "x": 909,
-                "y": 880,
-                "caption": "Сбор тайны Блюм Брахниус",
-                "link": "quests\/blum",
-                "tip": "Здесь есть записка сумасшедшего!"
             }
         },
         {
@@ -250,6 +124,132 @@
                     "x": 937,
                     "y": 935
                 }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    903,
+                    -921
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 903,
+                "y": 921,
+                "caption": "Мухоносец",
+                "class": "muh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    833,
+                    -397
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 833,
+                "y": 397,
+                "caption": "Мухоносец",
+                "class": "muh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    903,
+                    -371
+                ]
+            },
+            "properties": {
+                "type": "note",
+                "x": 903,
+                "y": 371,
+                "text": "На складе для вас припасен обсидиан!"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    897,
+                    -220
+                ]
+            },
+            "properties": {
+                "type": "note",
+                "x": 897,
+                "y": 220,
+                "text": "На складе для вас припасен рубин!"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    899,
+                    -167
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 899,
+                "y": 167,
+                "caption": "Мухоносец",
+                "class": "muh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    783,
+                    -66
+                ]
+            },
+            "properties": {
+                "type": "note",
+                "x": 783,
+                "y": 66,
+                "text": "Россыпь ремонтных наборов."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    282,
+                    -171
+                ]
+            },
+            "properties": {
+                "type": "station",
+                "x": 282,
+                "y": 171,
+                "caption": "Святых Заступниц",
+                "size": 57,
+                "list": [
+                    {
+                        "caption": "Твердыня",
+                        "region": "bs",
+                        "map": "index",
+                        "x": 162,
+                        "y": 676,
+                        "type": "station"
+                    }
+                ]
             }
         }
     ]

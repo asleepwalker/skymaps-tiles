@@ -20,6 +20,28 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    490,
+                    -330
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 490,
+                "y": 330,
+                "region": "pf",
+                "map": "index",
+                "caption": "Периферия",
+                "goto": {
+                    "x": 2111,
+                    "y": 784
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     710,
                     -283
                 ]
@@ -57,28 +79,6 @@
                         "type": "station"
                     }
                 ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    490,
-                    -330
-                ]
-            },
-            "properties": {
-                "type": "hole",
-                "x": 490,
-                "y": 330,
-                "region": "pf",
-                "map": "index",
-                "caption": "Периферия",
-                "goto": {
-                    "x": 2111,
-                    "y": 784
-                }
             }
         }
     ]

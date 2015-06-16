@@ -22,342 +22,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    578,
-                    -840
-                ]
-            },
-            "properties": {
-                "type": "beacon",
-                "x": 578,
-                "y": 840,
-                "link": "library\/coins\/bastion"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     100,
-                    -603
+                    -122
                 ]
             },
             "properties": {
                 "type": "boss",
                 "x": 100,
-                "y": 603,
-                "caption": "Убер-цербер",
-                "class": "tserber"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    123,
-                    -867
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 123,
-                "y": 867,
-                "caption": "Убер-кишкодав",
-                "class": "kishkodav"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    528,
-                    -236
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 528,
-                "y": 236,
-                "caption": "Мусорог генерал",
-                "class": "musorog"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    585,
-                    -87
-                ]
-            },
-            "properties": {
-                "type": "fish",
-                "x": 585,
-                "y": 87,
-                "list": [
-                    "Коралловый сиган",
-                    "Золотой летринус"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    627,
-                    -618
-                ]
-            },
-            "properties": {
-                "type": "station",
-                "x": 627,
-                "y": 618,
-                "caption": "\"Благодать\"",
-                "size": 98,
-                "list": [
-                    {
-                        "caption": "Твердыня",
-                        "region": "bs",
-                        "map": "index",
-                        "x": 162,
-                        "y": 676,
-                        "type": "station"
-                    },
-                    {
-                        "caption": "Убежище Ксении",
-                        "region": "bs",
-                        "map": "vault",
-                        "x": 498,
-                        "y": 500,
-                        "type": "station"
-                    },
-                    {
-                        "caption": "\"Луч Света\"",
-                        "region": "bs",
-                        "map": "razriv4",
-                        "x": 136,
-                        "y": 608,
-                        "type": "station"
-                    }
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    540,
-                    -760
-                ]
-            },
-            "properties": {
-                "type": "barrier",
-                "x": 540,
-                "y": 760
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    157,
-                    -277
-                ]
-            },
-            "properties": {
-                "type": "quest",
-                "x": 157,
-                "y": 277,
-                "caption": "Сбор тайны Блюм Брахниус",
-                "link": "quests\/blum",
-                "tip": "Здесь есть записка сумасшедшего!"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    203,
-                    -55
-                ]
-            },
-            "properties": {
-                "type": "quest",
-                "x": 203,
-                "y": 55,
-                "caption": "План низушников",
-                "link": "quests\/plan",
-                "tip": "В бортовом компьютере подбитой машины низушников содержится часть секретного плана!"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    69,
-                    -209
-                ]
-            },
-            "properties": {
-                "type": "flager",
-                "x": 69,
-                "y": 209,
-                "easy": "Пожиратель (8)",
-                "hard": "Повелитель мух",
-                "link": "library\/flagers\/bastion"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    150,
-                    -790
-                ]
-            },
-            "properties": {
-                "type": "barrier",
-                "x": 150,
-                "y": 790
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    860,
-                    -230
-                ]
-            },
-            "properties": {
-                "type": "barrier",
-                "x": 860,
-                "y": 230
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    920,
-                    -230
-                ]
-            },
-            "properties": {
-                "type": "barrier",
-                "x": 920,
-                "y": 230
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    300,
-                    -700
-                ]
-            },
-            "properties": {
-                "type": "barrier",
-                "x": 300,
-                "y": 700
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    148,
-                    -87
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 148,
-                "y": 87,
-                "caption": "Убер-цербер",
-                "class": "tserber"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    850,
-                    -532
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 850,
-                "y": 532,
-                "caption": "Штурм-крейсер",
-                "class": "kreiser"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    830,
-                    -362
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 830,
-                "y": 362,
-                "caption": "Убер-кишкодав",
-                "class": "kishkodav"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    287,
-                    -858
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 287,
-                "y": 858,
-                "caption": "Убер-мухоносец",
-                "class": "muh"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    100,
-                    -442
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 100,
-                "y": 442,
-                "caption": "Крейсер",
-                "class": "kreiser"
+                "y": 122,
+                "caption": "Убер-фактория",
+                "class": "faka"
             }
         },
         {
@@ -383,15 +57,160 @@
                 "type": "Point",
                 "coordinates": [
                     100,
-                    -122
+                    -442
                 ]
             },
             "properties": {
                 "type": "boss",
                 "x": 100,
-                "y": 122,
-                "caption": "Убер-фактория",
-                "class": "faka"
+                "y": 442,
+                "caption": "Крейсер",
+                "class": "kreiser"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    830,
+                    -362
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 830,
+                "y": 362,
+                "caption": "Убер-кишкодав",
+                "class": "kishkodav"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    850,
+                    -532
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 850,
+                "y": 532,
+                "caption": "Штурм-крейсер",
+                "class": "kreiser"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    300,
+                    -700
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 300,
+                "y": 700
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    920,
+                    -230
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 920,
+                "y": 230
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    860,
+                    -230
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 860,
+                "y": 230
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150,
+                    -790
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 150,
+                "y": 790
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69,
+                    -209
+                ]
+            },
+            "properties": {
+                "type": "flager",
+                "x": 69,
+                "y": 209,
+                "easy": "Пожиратель (8)",
+                "hard": "Повелитель мух",
+                "link": "library\/flagers\/bastion"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    203,
+                    -55
+                ]
+            },
+            "properties": {
+                "type": "quest",
+                "x": 203,
+                "y": 55,
+                "caption": "План низушников",
+                "link": "quests\/plan",
+                "tip": "В бортовом компьютере подбитой машины низушников содержится часть секретного плана!"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    540,
+                    -760
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 540,
+                "y": 760
             }
         },
         {
@@ -458,6 +277,187 @@
                     "x": 961,
                     "y": 131
                 }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    528,
+                    -236
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 528,
+                "y": 236,
+                "caption": "Мусорог генерал",
+                "class": "musorog"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    287,
+                    -858
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 287,
+                "y": 858,
+                "caption": "Убер-мухоносец",
+                "class": "muh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    123,
+                    -867
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 123,
+                "y": 867,
+                "caption": "Убер-кишкодав",
+                "class": "kishkodav"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100,
+                    -603
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 100,
+                "y": 603,
+                "caption": "Убер-цербер",
+                "class": "tserber"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    578,
+                    -840
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 578,
+                "y": 840,
+                "link": "library\/coins\/bastion"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    157,
+                    -277
+                ]
+            },
+            "properties": {
+                "type": "quest",
+                "x": 157,
+                "y": 277,
+                "caption": "Сбор тайны Блюм Брахниус",
+                "link": "quests\/blum",
+                "tip": "Здесь есть записка сумасшедшего!"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    148,
+                    -87
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 148,
+                "y": 87,
+                "caption": "Убер-цербер",
+                "class": "tserber"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    585,
+                    -87
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 585,
+                "y": 87,
+                "list": [
+                    "Коралловый сиган",
+                    "Золотой летринус"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    627,
+                    -618
+                ]
+            },
+            "properties": {
+                "type": "station",
+                "x": 627,
+                "y": 618,
+                "caption": "\"Благодать\"",
+                "size": 98,
+                "list": [
+                    {
+                        "caption": "Твердыня",
+                        "region": "bs",
+                        "map": "index",
+                        "x": 162,
+                        "y": 676,
+                        "type": "station"
+                    },
+                    {
+                        "caption": "Убежище Ксении",
+                        "region": "bs",
+                        "map": "vault",
+                        "x": 498,
+                        "y": 500,
+                        "type": "station"
+                    },
+                    {
+                        "caption": "\"Луч Света\"",
+                        "region": "bs",
+                        "map": "razriv4",
+                        "x": 136,
+                        "y": 608,
+                        "type": "station"
+                    }
+                ]
             }
         }
     ]

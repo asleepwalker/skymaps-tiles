@@ -23,100 +23,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    814,
-                    -632
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 814,
-                "y": 632,
-                "caption": "Великий кроволёт",
-                "class": "airship"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    491,
-                    -101
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 491,
-                "y": 101,
-                "caption": "Логово Нарушителей Всего",
-                "class": "logovo"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    269,
-                    -776
-                ]
-            },
-            "properties": {
-                "type": "station",
-                "x": 269,
-                "y": 776,
-                "caption": "Папайа Джус",
-                "size": 97,
-                "list": [
-                    {
-                        "caption": "\"Голубая Даль\"",
-                        "region": "pr",
-                        "map": "bezdna2",
-                        "x": 313,
-                        "y": 323,
-                        "type": "station"
-                    },
-                    {
-                        "caption": "Фейра-ди-Сантана",
-                        "region": "pr",
-                        "map": "labb",
-                        "x": 498,
-                        "y": 770,
-                        "type": "station"
-                    },
-                    {
-                        "caption": "\"Жара\"",
-                        "region": "pr",
-                        "map": "labp",
-                        "x": 810,
-                        "y": 761,
-                        "type": "station"
-                    }
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    806,
-                    -420
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 806,
-                "y": 420,
-                "caption": "Великий Кроволёт Барон",
-                "class": "airship"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     59,
                     -402
                 ]
@@ -127,6 +33,28 @@
                 "y": 402,
                 "caption": "Цитадель механоидов",
                 "class": "tsitadel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    354,
+                    -344
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 354,
+                "y": 344,
+                "region": "pr",
+                "map": "labd",
+                "caption": "Лабиринт Д",
+                "goto": {
+                    "x": 872,
+                    "y": 129
+                }
             }
         },
         {
@@ -178,21 +106,93 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    354,
-                    -344
+                    491,
+                    -101
                 ]
             },
             "properties": {
-                "type": "hole",
-                "x": 354,
-                "y": 344,
-                "region": "pr",
-                "map": "labd",
-                "caption": "Лабиринт Д",
-                "goto": {
-                    "x": 872,
-                    "y": 129
-                }
+                "type": "boss",
+                "x": 491,
+                "y": 101,
+                "caption": "Логово Нарушителей Всего",
+                "class": "logovo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    814,
+                    -632
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 814,
+                "y": 632,
+                "caption": "Великий кроволёт",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    806,
+                    -420
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 806,
+                "y": 420,
+                "caption": "Великий Кроволёт Барон",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    269,
+                    -776
+                ]
+            },
+            "properties": {
+                "type": "station",
+                "x": 269,
+                "y": 776,
+                "caption": "Папайа Джус",
+                "size": 97,
+                "list": [
+                    {
+                        "caption": "\"Голубая Даль\"",
+                        "region": "pr",
+                        "map": "bezdna2",
+                        "x": 313,
+                        "y": 323,
+                        "type": "station"
+                    },
+                    {
+                        "caption": "Фейра-ди-Сантана",
+                        "region": "pr",
+                        "map": "labb",
+                        "x": 498,
+                        "y": 770,
+                        "type": "station"
+                    },
+                    {
+                        "caption": "\"Жара\"",
+                        "region": "pr",
+                        "map": "labp",
+                        "x": 810,
+                        "y": 761,
+                        "type": "station"
+                    }
+                ]
             }
         }
     ]

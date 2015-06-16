@@ -18,16 +18,104 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    477,
-                    -225
+                    348,
+                    -275
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 348,
+                "y": 275,
+                "region": "pf",
+                "map": "acropol",
+                "caption": "Ратный, Акрополь",
+                "goto": {
+                    "x": 886,
+                    "y": 680
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    522,
+                    -92
+                ]
+            },
+            "properties": {
+                "type": "maphole",
+                "x": 522,
+                "y": 92,
+                "region": "pf",
+                "map": "zhiloy",
+                "caption": "Ратный, Жилой уровень",
+                "goto": {
+                    "x": 224,
+                    "y": 129
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    904,
+                    -140
+                ]
+            },
+            "properties": {
+                "type": "maphole",
+                "x": 904,
+                "y": 140,
+                "region": "pf",
+                "map": "zhiloy",
+                "caption": "Ратный, Жилой уровень",
+                "goto": {
+                    "x": 900,
+                    "y": 247
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    909,
+                    -354
+                ]
+            },
+            "properties": {
+                "type": "maphole",
+                "x": 909,
+                "y": 354,
+                "region": "pf",
+                "map": "zhiloy",
+                "caption": "Ратный, Жилой уровень",
+                "goto": {
+                    "x": 731,
+                    "y": 930
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    709,
+                    -171
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 477,
-                "y": 225,
-                "caption": "Мегапиявка",
-                "class": "leech"
+                "x": 709,
+                "y": 171,
+                "caption": "Мощный Летанк",
+                "class": "letank"
             }
         },
         {
@@ -51,16 +139,33 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    709,
-                    -171
+                    477,
+                    -225
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 709,
-                "y": 171,
-                "caption": "Мощный Летанк",
-                "class": "letank"
+                "x": 477,
+                "y": 225,
+                "caption": "Мегапиявка",
+                "class": "leech"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    204,
+                    -647
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 204,
+                "y": 647,
+                "caption": "Усиленная Цитадель",
+                "class": "tsitadel"
             }
         },
         {
@@ -95,111 +200,6 @@
                 "y": 844,
                 "caption": "Мегамусорог-губитель",
                 "class": "musorog"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    204,
-                    -647
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 204,
-                "y": 647,
-                "caption": "Усиленная Цитадель",
-                "class": "tsitadel"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    909,
-                    -354
-                ]
-            },
-            "properties": {
-                "type": "maphole",
-                "x": 909,
-                "y": 354,
-                "region": "pf",
-                "map": "zhiloy",
-                "caption": "Ратный, Жилой уровень",
-                "goto": {
-                    "x": 731,
-                    "y": 930
-                }
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    904,
-                    -140
-                ]
-            },
-            "properties": {
-                "type": "maphole",
-                "x": 904,
-                "y": 140,
-                "region": "pf",
-                "map": "zhiloy",
-                "caption": "Ратный, Жилой уровень",
-                "goto": {
-                    "x": 900,
-                    "y": 247
-                }
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    522,
-                    -92
-                ]
-            },
-            "properties": {
-                "type": "maphole",
-                "x": 522,
-                "y": 92,
-                "region": "pf",
-                "map": "zhiloy",
-                "caption": "Ратный, Жилой уровень",
-                "goto": {
-                    "x": 224,
-                    "y": 129
-                }
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    348,
-                    -275
-                ]
-            },
-            "properties": {
-                "type": "hole",
-                "x": 348,
-                "y": 275,
-                "region": "pf",
-                "map": "acropol",
-                "caption": "Ратный, Акрополь",
-                "goto": {
-                    "x": 886,
-                    "y": 680
-                }
             }
         }
     ]

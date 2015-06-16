@@ -14,15 +14,37 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    574,
-                    -411
+                    359,
+                    -399
                 ]
             },
             "properties": {
-                "type": "beacon",
-                "x": 574,
-                "y": 411,
-                "link": "library\/coins\/gavane"
+                "type": "fish",
+                "x": 359,
+                "y": 399,
+                "list": [
+                    "Тропический центропиг",
+                    "Игольчатый марлин"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    312,
+                    -192
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 312,
+                "y": 192,
+                "list": [
+                    "Рыба-зигзаг",
+                    "Лазурная пеламида"
+                ]
             }
         },
         {
@@ -46,37 +68,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    314,
-                    -195
+                    574,
+                    -411
                 ]
             },
             "properties": {
-                "type": "fish",
-                "x": 314,
-                "y": 195,
-                "list": [
-                    "Рыба-зигзаг",
-                    "Лазурная пеламида"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    363,
-                    -433
-                ]
-            },
-            "properties": {
-                "type": "fish",
-                "x": 363,
-                "y": 433,
-                "list": [
-                    "Тропический центропиг",
-                    "Игольчатый марлин"
-                ]
+                "type": "beacon",
+                "x": 574,
+                "y": 411,
+                "link": "library\/coins\/gavane"
             }
         },
         {

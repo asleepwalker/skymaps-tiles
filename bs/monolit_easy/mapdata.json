@@ -14,6 +14,23 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    349,
+                    -92
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 349,
+                "y": 92,
+                "caption": "Убер-крейсер",
+                "class": "kreiser"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     534,
                     -171
                 ]
@@ -25,23 +42,6 @@
                 "caption": "Монолит",
                 "class": "monolit",
                 "mode": "quest"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    349,
-                    -92
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 349,
-                "y": 92,
-                "caption": "Убер-крейсер",
-                "class": "kreiser"
             }
         }
     ]

@@ -22,49 +22,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    828,
-                    -273
+                    810,
+                    -92
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 828,
-                "y": 273,
-                "caption": "Барбазоид",
-                "class": "kishkodav"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    320,
-                    -882
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 320,
-                "y": 882,
-                "caption": "Барбазоид",
-                "class": "kishkodav"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    110,
-                    -422
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 110,
-                "y": 422,
-                "caption": "Штурм-фактория",
+                "x": 810,
+                "y": 92,
+                "caption": "Убер-фактория",
                 "class": "faka"
             }
         },
@@ -73,14 +39,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    113,
-                    -604
+                    440,
+                    -282
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 113,
-                "y": 604,
+                "x": 440,
+                "y": 282,
                 "caption": "Барбазоид",
                 "class": "kishkodav"
             }
@@ -90,48 +56,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    110,
+                    800,
                     -582
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 110,
+                "x": 800,
                 "y": 582,
-                "caption": "Барбазоид",
-                "class": "kishkodav"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    310,
-                    -682
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 310,
-                "y": 682,
-                "caption": "Штурм-кишкодав",
-                "class": "kishkodav"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    810,
-                    -242
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 810,
-                "y": 242,
                 "caption": "Барбазоид",
                 "class": "kishkodav"
             }
@@ -158,13 +90,47 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    800,
+                    810,
+                    -242
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 810,
+                "y": 242,
+                "caption": "Барбазоид",
+                "class": "kishkodav"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    310,
+                    -682
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 310,
+                "y": 682,
+                "caption": "Штурм-кишкодав",
+                "class": "kishkodav"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110,
                     -582
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 800,
+                "x": 110,
                 "y": 582,
                 "caption": "Барбазоид",
                 "class": "kishkodav"
@@ -175,14 +141,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    440,
-                    -282
+                    113,
+                    -604
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 440,
-                "y": 282,
+                "x": 113,
+                "y": 604,
                 "caption": "Барбазоид",
                 "class": "kishkodav"
             }
@@ -192,15 +158,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    810,
-                    -92
+                    110,
+                    -422
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 810,
-                "y": 92,
-                "caption": "Убер-фактория",
+                "x": 110,
+                "y": 422,
+                "caption": "Штурм-фактория",
                 "class": "faka"
             }
         },
@@ -209,21 +175,33 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    899,
+                    320,
                     -882
                 ]
             },
             "properties": {
-                "type": "hole",
-                "x": 899,
+                "type": "boss",
+                "x": 320,
                 "y": 882,
-                "region": "bs",
-                "map": "razriv9",
-                "caption": "Разрыв, ур.9",
-                "goto": {
-                    "x": 906,
-                    "y": 92
-                }
+                "caption": "Барбазоид",
+                "class": "kishkodav"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    828,
+                    -273
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 828,
+                "y": 273,
+                "caption": "Барбазоид",
+                "class": "kishkodav"
             }
         },
         {
@@ -245,6 +223,28 @@
                 "goto": {
                     "x": 912,
                     "y": 908
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    899,
+                    -882
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 899,
+                "y": 882,
+                "region": "bs",
+                "map": "razriv9",
+                "caption": "Разрыв, ур.9",
+                "goto": {
+                    "x": 906,
+                    "y": 92
                 }
             }
         }

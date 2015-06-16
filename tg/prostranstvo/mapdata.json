@@ -14,21 +14,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    481,
-                    -798
+                    168,
+                    -320
                 ]
             },
             "properties": {
                 "type": "hole",
-                "x": 481,
-                "y": 798,
-                "region": "tg",
-                "map": "index",
-                "caption": "Тихая Гавань",
-                "goto": {
-                    "x": 1233,
-                    "y": 1333
-                }
+                "x": 168,
+                "y": 320
             }
         },
         {
@@ -58,14 +51,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    168,
-                    -320
+                    481,
+                    -798
                 ]
             },
             "properties": {
                 "type": "hole",
-                "x": 168,
-                "y": 320
+                "x": 481,
+                "y": 798,
+                "region": "tg",
+                "map": "index",
+                "caption": "Тихая Гавань",
+                "goto": {
+                    "x": 1233,
+                    "y": 1333
+                }
             }
         }
     ]

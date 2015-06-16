@@ -31,16 +31,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    35,
-                    -234
+                    416,
+                    -613
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 35,
-                "y": 234,
-                "caption": "Штурм-мухоносец",
-                "class": "muh"
+                "x": 416,
+                "y": 613,
+                "caption": "Цитадель низушников",
+                "class": "tsitadel"
             }
         },
         {
@@ -99,16 +99,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    416,
-                    -613
+                    454,
+                    -416
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 416,
-                "y": 613,
-                "caption": "Цитадель низушников",
-                "class": "tsitadel"
+                "x": 454,
+                "y": 416,
+                "caption": "Цербер",
+                "class": "tserber"
             }
         },
         {
@@ -133,16 +133,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    454,
-                    -416
+                    35,
+                    -234
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 454,
-                "y": 416,
-                "caption": "Цербер",
-                "class": "tserber"
+                "x": 35,
+                "y": 234,
+                "caption": "Штурм-мухоносец",
+                "class": "muh"
             }
         }
     ]

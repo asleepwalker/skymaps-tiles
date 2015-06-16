@@ -20,20 +20,20 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    487,
-                    -72
+                    244,
+                    -74
                 ]
             },
             "properties": {
                 "type": "hole",
-                "x": 487,
-                "y": 72,
+                "x": 244,
+                "y": 74,
                 "region": "pf",
-                "map": "index",
-                "caption": "Периферия",
+                "map": "spirt1",
+                "caption": "Лабиринт под Спиртотроном, ур.1",
                 "goto": {
-                    "x": 1711,
-                    "y": 1042
+                    "x": 935,
+                    "y": 521
                 }
             }
         },
@@ -42,20 +42,20 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    78,
-                    -79
+                    885,
+                    -76
                 ]
             },
             "properties": {
                 "type": "hole",
-                "x": 78,
-                "y": 79,
+                "x": 885,
+                "y": 76,
                 "region": "pf",
-                "map": "index",
-                "caption": "Периферия",
+                "map": "spirt3",
+                "caption": "Лабиринт под Спиртотроном, ур.3",
                 "goto": {
-                    "x": 1689,
-                    "y": 494
+                    "x": 90,
+                    "y": 252
                 }
             }
         },
@@ -115,28 +115,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    734,
-                    -83
-                ]
-            },
-            "properties": {
-                "type": "hole",
-                "x": 734,
-                "y": 83,
-                "region": "pf",
-                "map": "index",
-                "caption": "Периферия",
-                "goto": {
-                    "x": 1408,
-                    "y": 542
-                }
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     883,
                     -635
                 ]
@@ -159,20 +137,20 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    244,
-                    -74
+                    78,
+                    -79
                 ]
             },
             "properties": {
                 "type": "hole",
-                "x": 244,
-                "y": 74,
+                "x": 78,
+                "y": 79,
                 "region": "pf",
-                "map": "spirt1",
-                "caption": "Лабиринт под Спиртотроном, ур.1",
+                "map": "index",
+                "caption": "Периферия",
                 "goto": {
-                    "x": 935,
-                    "y": 521
+                    "x": 1689,
+                    "y": 494
                 }
             }
         },
@@ -181,20 +159,42 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    885,
-                    -76
+                    734,
+                    -83
                 ]
             },
             "properties": {
                 "type": "hole",
-                "x": 885,
-                "y": 76,
+                "x": 734,
+                "y": 83,
                 "region": "pf",
-                "map": "spirt3",
-                "caption": "Лабиринт под Спиртотроном, ур.3",
+                "map": "index",
+                "caption": "Периферия",
                 "goto": {
-                    "x": 90,
-                    "y": 252
+                    "x": 1408,
+                    "y": 542
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    487,
+                    -72
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 487,
+                "y": 72,
+                "region": "pf",
+                "map": "index",
+                "caption": "Периферия",
+                "goto": {
+                    "x": 1711,
+                    "y": 1042
                 }
             }
         }

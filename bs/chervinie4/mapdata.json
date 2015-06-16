@@ -22,14 +22,134 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    444,
-                    -421
+                    470,
+                    -675
+                ]
+            },
+            "properties": {
+                "type": "quest",
+                "x": 470,
+                "y": 675,
+                "caption": "План низушников",
+                "link": "quests\/plan",
+                "tip": "В бортовом компьютере подбитой машины низушников содержится часть секретного плана!"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    551,
+                    -432
+                ]
+            },
+            "properties": {
+                "type": "flager",
+                "x": 551,
+                "y": 432,
+                "easy": "Психолет (13)",
+                "hard": "Белая ярость",
+                "link": "library\/flagers\/bastion"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    95,
+                    -415
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 95,
+                "y": 415
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    377,
+                    -123
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 444,
-                "y": 421,
+                "x": 377,
+                "y": 123,
+                "caption": "Штурм-мухоносец",
+                "class": "muh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    867,
+                    -361
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 867,
+                "y": 361,
+                "caption": "Цербер",
+                "class": "tserber"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    398,
+                    -143
+                ]
+            },
+            "properties": {
+                "type": "quest",
+                "x": 398,
+                "y": 143,
+                "caption": "Сбор тайны Блюм Брахниус",
+                "link": "quests\/blum",
+                "tip": "Здесь есть записка сумасшедшего!"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90,
+                    -126
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 90,
+                "y": 126,
+                "caption": "Штурм-фактория",
+                "class": "faka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    465,
+                    -379
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 465,
+                "y": 379,
                 "caption": "Предатель Небес",
                 "class": "airship"
             }
@@ -39,16 +159,154 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    368,
-                    -308
+                    814,
+                    -143
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 368,
-                "y": 308,
-                "caption": "Убер-мухоносец",
-                "class": "muh"
+                "x": 814,
+                "y": 143,
+                "caption": "Штурм-фактория",
+                "class": "faka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    670,
+                    -914
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 670,
+                "y": 914
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    779,
+                    -914
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 779,
+                "y": 914
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    465,
+                    -913
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 465,
+                "y": 913
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    379,
+                    -913
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 379,
+                "y": 913
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    97,
+                    -764
+                ]
+            },
+            "properties": {
+                "type": "maphole",
+                "x": 97,
+                "y": 764,
+                "region": "bs",
+                "map": "chervinie2",
+                "caption": "Червиные норы, ур.2",
+                "goto": {
+                    "x": 480,
+                    "y": 698
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    184,
+                    -917
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 184,
+                "y": 917,
+                "region": "bs",
+                "map": "chervinie5",
+                "caption": "Червиные норы, ур.5",
+                "goto": {
+                    "x": 624,
+                    "y": 678
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    866,
+                    -708
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 866,
+                "y": 708,
+                "caption": "Убер-цербер",
+                "class": "tserber"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    436,
+                    -710
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 436,
+                "y": 710,
+                "caption": "Предатель Небес",
+                "class": "airship"
             }
         },
         {
@@ -90,16 +348,33 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    866,
-                    -708
+                    368,
+                    -308
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 866,
-                "y": 708,
-                "caption": "Убер-цербер",
-                "class": "tserber"
+                "x": 368,
+                "y": 308,
+                "caption": "Убер-мухоносец",
+                "class": "muh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    444,
+                    -421
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 444,
+                "y": 421,
+                "caption": "Предатель Небес",
+                "class": "airship"
             }
         },
         {
@@ -151,281 +426,6 @@
                         "type": "station"
                     }
                 ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    436,
-                    -710
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 436,
-                "y": 710,
-                "caption": "Предатель Небес",
-                "class": "airship"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    465,
-                    -913
-                ]
-            },
-            "properties": {
-                "type": "barrier",
-                "x": 465,
-                "y": 913
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    379,
-                    -913
-                ]
-            },
-            "properties": {
-                "type": "barrier",
-                "x": 379,
-                "y": 913
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    779,
-                    -914
-                ]
-            },
-            "properties": {
-                "type": "barrier",
-                "x": 779,
-                "y": 914
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    670,
-                    -914
-                ]
-            },
-            "properties": {
-                "type": "barrier",
-                "x": 670,
-                "y": 914
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    867,
-                    -361
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 867,
-                "y": 361,
-                "caption": "Цербер",
-                "class": "tserber"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    814,
-                    -143
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 814,
-                "y": 143,
-                "caption": "Штурм-фактория",
-                "class": "faka"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    465,
-                    -379
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 465,
-                "y": 379,
-                "caption": "Предатель Небес",
-                "class": "airship"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    377,
-                    -123
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 377,
-                "y": 123,
-                "caption": "Штурм-мухоносец",
-                "class": "muh"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    90,
-                    -126
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 90,
-                "y": 126,
-                "caption": "Штурм-фактория",
-                "class": "faka"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    95,
-                    -415
-                ]
-            },
-            "properties": {
-                "type": "barrier",
-                "x": 95,
-                "y": 415
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    551,
-                    -432
-                ]
-            },
-            "properties": {
-                "type": "flager",
-                "x": 551,
-                "y": 432,
-                "easy": "Психолет (13)",
-                "hard": "Белая ярость",
-                "link": "library\/flagers\/bastion"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    470,
-                    -675
-                ]
-            },
-            "properties": {
-                "type": "quest",
-                "x": 470,
-                "y": 675,
-                "caption": "План низушников",
-                "link": "quests\/plan",
-                "tip": "В бортовом компьютере подбитой машины низушников содержится часть секретного плана!"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    398,
-                    -143
-                ]
-            },
-            "properties": {
-                "type": "quest",
-                "x": 398,
-                "y": 143,
-                "caption": "Сбор тайны Блюм Брахниус",
-                "link": "quests\/blum",
-                "tip": "Здесь есть записка сумасшедшего!"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    97,
-                    -764
-                ]
-            },
-            "properties": {
-                "type": "maphole",
-                "x": 97,
-                "y": 764,
-                "region": "bs",
-                "map": "chervinie2",
-                "caption": "Червиные норы, ур.2",
-                "goto": {
-                    "x": 480,
-                    "y": 698
-                }
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    184,
-                    -917
-                ]
-            },
-            "properties": {
-                "type": "hole",
-                "x": 184,
-                "y": 917,
-                "region": "bs",
-                "map": "chervinie5",
-                "caption": "Червиные норы, ур.5",
-                "goto": {
-                    "x": 624,
-                    "y": 678
-                }
             }
         }
     ]

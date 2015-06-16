@@ -21,33 +21,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    366,
-                    -117
+                    820,
+                    -802
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 366,
-                "y": 117,
-                "caption": "Логово бандитов",
-                "class": "logovo"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    110,
-                    -822
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 110,
-                "y": 822,
-                "caption": "Мегаёж",
-                "class": "zloboezh"
+                "x": 820,
+                "y": 802,
+                "caption": "Цитадель",
+                "class": "tsitadel"
             }
         },
         {
@@ -72,16 +55,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    820,
-                    -802
+                    110,
+                    -822
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 820,
-                "y": 802,
-                "caption": "Цитадель",
-                "class": "tsitadel"
+                "x": 110,
+                "y": 822,
+                "caption": "Мегаёж",
+                "class": "zloboezh"
             }
         },
         {
@@ -89,14 +72,38 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    524,
-                    -828
+                    366,
+                    -117
                 ]
             },
             "properties": {
-                "type": "station",
-                "x": 524,
-                "y": 828
+                "type": "boss",
+                "x": 366,
+                "y": 117,
+                "caption": "Логово бандитов",
+                "class": "logovo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80,
+                    -118
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 80,
+                "y": 118,
+                "region": "pf",
+                "map": "labb",
+                "caption": "Лабиринт Б",
+                "goto": {
+                    "x": 474,
+                    "y": 554
+                }
             }
         },
         {
@@ -148,21 +155,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    80,
-                    -118
+                    524,
+                    -828
                 ]
             },
             "properties": {
-                "type": "hole",
-                "x": 80,
-                "y": 118,
-                "region": "pf",
-                "map": "labb",
-                "caption": "Лабиринт Б",
-                "goto": {
-                    "x": 474,
-                    "y": 554
-                }
+                "type": "station",
+                "x": 524,
+                "y": 828
             }
         }
     ]

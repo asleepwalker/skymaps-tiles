@@ -22,15 +22,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    832,
-                    -647
+                    866,
+                    -341
                 ]
             },
             "properties": {
-                "type": "beacon",
-                "x": 832,
-                "y": 647,
-                "link": "library\/coins\/rimland"
+                "type": "flager",
+                "x": 866,
+                "y": 341,
+                "easy": "Золотой Бот (22)",
+                "hard": "Цитаделус"
             }
         },
         {
@@ -38,18 +39,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    223,
-                    -841
+                    176,
+                    -729
                 ]
             },
             "properties": {
-                "type": "master",
-                "x": 223,
-                "y": 841,
-                "list": [
-                    "Сломанное орудие"
-                ],
-                "link": "library\/masters\/rimland"
+                "type": "boss",
+                "x": 176,
+                "y": 729,
+                "caption": "Боевая Цитадель",
+                "class": "tsitadel"
             }
         },
         {
@@ -57,18 +56,55 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    281,
-                    -151
+                    710,
+                    -248
                 ]
             },
             "properties": {
-                "type": "master",
-                "x": 281,
-                "y": 151,
-                "list": [
-                    "Сломанное орудие"
-                ],
-                "link": "library\/masters\/rimland"
+                "type": "boss",
+                "x": 710,
+                "y": 248,
+                "caption": "Усиленная Цитадель",
+                "class": "tsitadel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    703,
+                    -722
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 703,
+                "y": 722,
+                "caption": "Таверна алконавтов-монстров",
+                "class": "taverna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    479,
+                    -492
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 479,
+                "y": 492,
+                "region": "pf",
+                "map": "labt",
+                "caption": "Лабиринт Т",
+                "goto": {
+                    "x": 896,
+                    "y": 531
+                }
             }
         },
         {
@@ -110,6 +146,25 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    281,
+                    -151
+                ]
+            },
+            "properties": {
+                "type": "master",
+                "x": 281,
+                "y": 151,
+                "list": [
+                    "Сломанное орудие"
+                ],
+                "link": "library\/masters\/rimland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     220,
                     -876
                 ]
@@ -127,16 +182,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    176,
-                    -729
+                    223,
+                    -841
                 ]
             },
             "properties": {
-                "type": "boss",
-                "x": 176,
-                "y": 729,
-                "caption": "Боевая Цитадель",
-                "class": "tsitadel"
+                "type": "master",
+                "x": 223,
+                "y": 841,
+                "list": [
+                    "Сломанное орудие"
+                ],
+                "link": "library\/masters\/rimland"
             }
         },
         {
@@ -144,72 +201,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    703,
-                    -722
+                    832,
+                    -647
                 ]
             },
             "properties": {
-                "type": "boss",
-                "x": 703,
-                "y": 722,
-                "caption": "Таверна алконавтов-монстров",
-                "class": "taverna"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    710,
-                    -248
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 710,
-                "y": 248,
-                "caption": "Усиленная Цитадель",
-                "class": "tsitadel"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    866,
-                    -341
-                ]
-            },
-            "properties": {
-                "type": "flager",
-                "x": 866,
-                "y": 341,
-                "easy": "Золотой Бот (22)",
-                "hard": "Цитаделус"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    479,
-                    -492
-                ]
-            },
-            "properties": {
-                "type": "hole",
-                "x": 479,
-                "y": 492,
-                "region": "pf",
-                "map": "labt",
-                "caption": "Лабиринт Т",
-                "goto": {
-                    "x": 896,
-                    "y": 531
-                }
+                "type": "beacon",
+                "x": 832,
+                "y": 647,
+                "link": "library\/coins\/rimland"
             }
         }
     ]

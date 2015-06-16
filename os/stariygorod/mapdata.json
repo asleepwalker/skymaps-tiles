@@ -20,32 +20,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    456,
-                    -310
-                ]
-            },
-            "properties": {
-                "type": "beacon",
-                "x": 456,
-                "y": 310,
-                "link": "library\/coins\/oskolki"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    660,
-                    -602
+                    850,
+                    -76
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 660,
-                "y": 602,
-                "caption": "Шмель",
-                "class": "shmel"
+                "x": 850,
+                "y": 76,
+                "caption": "Хламкистодоры",
+                "class": "hlamk"
             }
         },
         {
@@ -53,125 +37,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    824,
-                    -332
-                ]
-            },
-            "properties": {
-                "type": "master",
-                "x": 824,
-                "y": 332,
-                "list": [
-                    "Молоко небесных коров"
-                ],
-                "link": "library\/masters\/oskolki"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    373,
-                    -312
-                ]
-            },
-            "properties": {
-                "type": "master",
-                "x": 373,
-                "y": 312,
-                "list": [
-                    "Электрические угри"
-                ],
-                "link": "library\/masters\/oskolki"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    261,
-                    -619
+                    565,
+                    -79
                 ]
             },
             "properties": {
                 "type": "fish",
-                "x": 261,
-                "y": 619,
+                "x": 565,
+                "y": 79,
                 "list": [
                     "Залётный хариус",
                     "Ветряной жерех"
                 ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    52,
-                    -525
-                ]
-            },
-            "properties": {
-                "type": "flager",
-                "x": 52,
-                "y": 525,
-                "easy": "Осколки",
-                "hard": "Капитан Трешак",
-                "link": "library\/flagers\/oskolki"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    566,
-                    -571
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 566,
-                "y": 571,
-                "caption": "Шмель",
-                "class": "shmel"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    247,
-                    -572
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 247,
-                "y": 572,
-                "caption": "Осиный улей",
-                "class": "uley"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    90,
-                    -322
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 90,
-                "y": 322,
-                "caption": "Древняя рекламная цитадель",
-                "class": "tsitadel"
             }
         },
         {
@@ -201,35 +78,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    565,
-                    -79
-                ]
-            },
-            "properties": {
-                "type": "fish",
-                "x": 565,
-                "y": 79,
-                "list": [
-                    "Залётный хариус",
-                    "Ветряной жерех"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    850,
-                    -76
+                    90,
+                    -322
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 850,
-                "y": 76,
-                "caption": "Хламкистодоры",
-                "class": "hlamk"
+                "x": 90,
+                "y": 322,
+                "caption": "Древняя рекламная цитадель",
+                "class": "tsitadel"
             }
         },
         {
@@ -237,108 +95,20 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    47,
-                    -248
+                    926,
+                    -187
                 ]
             },
             "properties": {
                 "type": "maphole",
-                "x": 47,
-                "y": 248,
-                "region": "os",
-                "map": "nizini",
-                "caption": "Низины",
-                "goto": {
-                    "x": 938,
-                    "y": 229
-                }
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    47,
-                    -397
-                ]
-            },
-            "properties": {
-                "type": "maphole",
-                "x": 47,
-                "y": 397,
-                "region": "os",
-                "map": "nizini",
-                "caption": "Низины",
-                "goto": {
-                    "x": 938,
-                    "y": 434
-                }
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    43,
-                    -584
-                ]
-            },
-            "properties": {
-                "type": "maphole",
-                "x": 43,
-                "y": 584,
-                "region": "os",
-                "map": "nizini",
-                "caption": "Низины",
-                "goto": {
-                    "x": 935,
-                    "y": 607
-                }
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    710,
-                    -292
-                ]
-            },
-            "properties": {
-                "type": "hole",
-                "x": 710,
-                "y": 292,
-                "region": "os",
-                "map": "starviha",
-                "caption": "Старый вихрь А",
-                "goto": {
-                    "x": 523,
-                    "y": 488
-                }
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    920,
-                    -584
-                ]
-            },
-            "properties": {
-                "type": "maphole",
-                "x": 920,
-                "y": 584,
+                "x": 926,
+                "y": 187,
                 "region": "os",
                 "map": "dremuchie",
                 "caption": "Дремучье",
                 "goto": {
                     "x": 61,
-                    "y": 602
+                    "y": 170
                 }
             }
         },
@@ -369,20 +139,20 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    926,
-                    -187
+                    710,
+                    -292
                 ]
             },
             "properties": {
-                "type": "maphole",
-                "x": 926,
-                "y": 187,
+                "type": "hole",
+                "x": 710,
+                "y": 292,
                 "region": "os",
-                "map": "dremuchie",
-                "caption": "Дремучье",
+                "map": "starviha",
+                "caption": "Старый вихрь А",
                 "goto": {
-                    "x": 61,
-                    "y": 170
+                    "x": 523,
+                    "y": 488
                 }
             }
         },
@@ -428,6 +198,236 @@
                     "x": 389,
                     "y": 643
                 }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    920,
+                    -584
+                ]
+            },
+            "properties": {
+                "type": "maphole",
+                "x": 920,
+                "y": 584,
+                "region": "os",
+                "map": "dremuchie",
+                "caption": "Дремучье",
+                "goto": {
+                    "x": 61,
+                    "y": 602
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43,
+                    -584
+                ]
+            },
+            "properties": {
+                "type": "maphole",
+                "x": 43,
+                "y": 584,
+                "region": "os",
+                "map": "nizini",
+                "caption": "Низины",
+                "goto": {
+                    "x": 935,
+                    "y": 607
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47,
+                    -397
+                ]
+            },
+            "properties": {
+                "type": "maphole",
+                "x": 47,
+                "y": 397,
+                "region": "os",
+                "map": "nizini",
+                "caption": "Низины",
+                "goto": {
+                    "x": 938,
+                    "y": 434
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47,
+                    -248
+                ]
+            },
+            "properties": {
+                "type": "maphole",
+                "x": 47,
+                "y": 248,
+                "region": "os",
+                "map": "nizini",
+                "caption": "Низины",
+                "goto": {
+                    "x": 938,
+                    "y": 229
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    52,
+                    -525
+                ]
+            },
+            "properties": {
+                "type": "flager",
+                "x": 52,
+                "y": 525,
+                "easy": "Осколки",
+                "hard": "Капитан Трешак",
+                "link": "library\/flagers\/oskolki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    373,
+                    -312
+                ]
+            },
+            "properties": {
+                "type": "master",
+                "x": 373,
+                "y": 312,
+                "list": [
+                    "Электрические угри"
+                ],
+                "link": "library\/masters\/oskolki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    824,
+                    -332
+                ]
+            },
+            "properties": {
+                "type": "master",
+                "x": 824,
+                "y": 332,
+                "list": [
+                    "Молоко небесных коров"
+                ],
+                "link": "library\/masters\/oskolki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    566,
+                    -571
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 566,
+                "y": 571,
+                "caption": "Шмель",
+                "class": "shmel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    247,
+                    -572
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 247,
+                "y": 572,
+                "caption": "Осиный улей",
+                "class": "uley"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    660,
+                    -602
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 660,
+                "y": 602,
+                "caption": "Шмель",
+                "class": "shmel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    456,
+                    -310
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 456,
+                "y": 310,
+                "link": "library\/coins\/oskolki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    261,
+                    -619
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 261,
+                "y": 619,
+                "list": [
+                    "Залётный хариус",
+                    "Ветряной жерех"
+                ]
             }
         }
     ]

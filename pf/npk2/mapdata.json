@@ -14,17 +14,116 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    858,
-                    -674
+                    460,
+                    -482
                 ]
             },
             "properties": {
-                "type": "master",
-                "x": 858,
-                "y": 674,
-                "list": [
-                    "Железо"
+                "type": "boss",
+                "x": 460,
+                "y": 482,
+                "caption": "Летанк",
+                "class": "letank"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    790,
+                    -482
                 ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 790,
+                "y": 482,
+                "caption": "Летанк",
+                "class": "letank"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    760,
+                    -702
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 760,
+                "y": 702,
+                "caption": "Летанк",
+                "class": "letank"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    814,
+                    -107
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 814,
+                "y": 107,
+                "region": "pf",
+                "map": "npkkpp",
+                "caption": "НПК, КПП",
+                "goto": {
+                    "x": 512,
+                    "y": 1141
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114,
+                    -715
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 114,
+                "y": 715,
+                "region": "pf",
+                "map": "npk1",
+                "caption": "НПК, Производственный уровень 1",
+                "goto": {
+                    "x": 892,
+                    "y": 143
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    817,
+                    -868
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 817,
+                "y": 868,
+                "region": "pf",
+                "map": "npksvalka",
+                "caption": "НПК, Свалка",
+                "goto": {
+                    "x": 149,
+                    "y": 499
+                }
             }
         },
         {
@@ -67,116 +166,17 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    760,
-                    -702
+                    858,
+                    -674
                 ]
             },
             "properties": {
-                "type": "boss",
-                "x": 760,
-                "y": 702,
-                "caption": "Летанк",
-                "class": "letank"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    790,
-                    -482
+                "type": "master",
+                "x": 858,
+                "y": 674,
+                "list": [
+                    "Железо"
                 ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 790,
-                "y": 482,
-                "caption": "Летанк",
-                "class": "letank"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    460,
-                    -482
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 460,
-                "y": 482,
-                "caption": "Летанк",
-                "class": "letank"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    814,
-                    -107
-                ]
-            },
-            "properties": {
-                "type": "hole",
-                "x": 814,
-                "y": 107,
-                "region": "pf",
-                "map": "npkkpp",
-                "caption": "НПК, КПП",
-                "goto": {
-                    "x": 512,
-                    "y": 1141
-                }
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    817,
-                    -868
-                ]
-            },
-            "properties": {
-                "type": "hole",
-                "x": 817,
-                "y": 868,
-                "region": "pf",
-                "map": "npksvalka",
-                "caption": "НПК, Свалка",
-                "goto": {
-                    "x": 149,
-                    "y": 499
-                }
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    114,
-                    -715
-                ]
-            },
-            "properties": {
-                "type": "hole",
-                "x": 114,
-                "y": 715,
-                "region": "pf",
-                "map": "npk1",
-                "caption": "НПК, Производственный уровень 1",
-                "goto": {
-                    "x": 892,
-                    "y": 143
-                }
             }
         }
     ]

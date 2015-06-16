@@ -22,40 +22,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    825,
-                    -466
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 825,
-                "y": 466,
-                "caption": "Мусорог-Полковник",
-                "class": "musorog"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    524,
-                    -748
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 524,
-                "y": 748,
-                "caption": "Великий кроволёт",
-                "class": "airship"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     271,
                     -514
                 ]
@@ -67,6 +33,67 @@
                 "easy": "Токсичный негодяй (13)",
                 "hard": "Матка Босха",
                 "link": "library\/flagers\/reef"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    317,
+                    -113
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 317,
+                "y": 113,
+                "region": "pr",
+                "map": "labe",
+                "caption": "Лабиринт Е",
+                "goto": {
+                    "x": 790,
+                    "y": 643
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    187,
+                    -795
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 187,
+                "y": 795,
+                "region": "pr",
+                "map": "labr",
+                "caption": "Лабиринт Р",
+                "goto": {
+                    "x": 104,
+                    "y": 423
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    825,
+                    -466
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 825,
+                "y": 466,
+                "caption": "Мусорог-Полковник",
+                "class": "musorog"
             }
         },
         {
@@ -108,43 +135,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    187,
-                    -795
+                    524,
+                    -748
                 ]
             },
             "properties": {
-                "type": "hole",
-                "x": 187,
-                "y": 795,
-                "region": "pr",
-                "map": "labr",
-                "caption": "Лабиринт Р",
-                "goto": {
-                    "x": 104,
-                    "y": 423
-                }
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    317,
-                    -113
-                ]
-            },
-            "properties": {
-                "type": "hole",
-                "x": 317,
-                "y": 113,
-                "region": "pr",
-                "map": "labe",
-                "caption": "Лабиринт Е",
-                "goto": {
-                    "x": 790,
-                    "y": 643
-                }
+                "type": "boss",
+                "x": 524,
+                "y": 748,
+                "caption": "Великий кроволёт",
+                "class": "airship"
             }
         }
     ]

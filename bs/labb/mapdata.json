@@ -22,107 +22,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    579,
-                    -113
-                ]
-            },
-            "properties": {
-                "type": "beacon",
-                "x": 579,
-                "y": 113,
-                "link": "library\/coins\/bastion"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    235,
-                    -832
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 235,
-                "y": 832,
-                "caption": "Убер-цербер",
-                "class": "tserber"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    451,
-                    -790
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 451,
-                "y": 790,
-                "caption": "Цербер-мститель",
-                "class": "tserber"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    832,
-                    -616
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 832,
-                "y": 616,
-                "caption": "Предатель Небес Король",
-                "class": "airship"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    608,
-                    -403
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 608,
-                "y": 403,
-                "caption": "Штурм-цербер",
-                "class": "tserber"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    319,
-                    -173
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 319,
-                "y": 173,
-                "caption": "Предатель Небес Король",
-                "class": "airship"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     760,
                     -132
                 ]
@@ -133,6 +32,72 @@
                 "y": 132,
                 "caption": "Штурм-фактория",
                 "class": "faka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81,
+                    -552
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 81,
+                "y": 552,
+                "region": "bs",
+                "map": "laba",
+                "caption": "Лабиринт А",
+                "goto": {
+                    "x": 895,
+                    "y": 899
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    87,
+                    -884
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 87,
+                "y": 884,
+                "region": "bs",
+                "map": "labv",
+                "caption": "Лабиринт В",
+                "goto": {
+                    "x": 102,
+                    "y": 568
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    880,
+                    -878
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 880,
+                "y": 878,
+                "region": "bs",
+                "map": "labd",
+                "caption": "Лабиринт Д",
+                "goto": {
+                    "x": 484,
+                    "y": 101
+                }
             }
         },
         {
@@ -191,21 +156,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    880,
-                    -878
+                    319,
+                    -173
                 ]
             },
             "properties": {
-                "type": "hole",
-                "x": 880,
-                "y": 878,
-                "region": "bs",
-                "map": "labd",
-                "caption": "Лабиринт Д",
-                "goto": {
-                    "x": 484,
-                    "y": 101
-                }
+                "type": "boss",
+                "x": 319,
+                "y": 173,
+                "caption": "Предатель Небес Король",
+                "class": "airship"
             }
         },
         {
@@ -213,21 +173,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    87,
-                    -884
+                    608,
+                    -403
                 ]
             },
             "properties": {
-                "type": "hole",
-                "x": 87,
-                "y": 884,
-                "region": "bs",
-                "map": "labv",
-                "caption": "Лабиринт В",
-                "goto": {
-                    "x": 102,
-                    "y": 568
-                }
+                "type": "boss",
+                "x": 608,
+                "y": 403,
+                "caption": "Штурм-цербер",
+                "class": "tserber"
             }
         },
         {
@@ -235,21 +190,66 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    81,
-                    -552
+                    832,
+                    -616
                 ]
             },
             "properties": {
-                "type": "hole",
-                "x": 81,
-                "y": 552,
-                "region": "bs",
-                "map": "laba",
-                "caption": "Лабиринт А",
-                "goto": {
-                    "x": 895,
-                    "y": 899
-                }
+                "type": "boss",
+                "x": 832,
+                "y": 616,
+                "caption": "Предатель Небес Король",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    451,
+                    -790
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 451,
+                "y": 790,
+                "caption": "Цербер-мститель",
+                "class": "tserber"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    235,
+                    -832
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 235,
+                "y": 832,
+                "caption": "Убер-цербер",
+                "class": "tserber"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    579,
+                    -113
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 579,
+                "y": 113,
+                "link": "library\/coins\/bastion"
             }
         }
     ]

@@ -22,15 +22,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    672,
-                    -841
+                    450,
+                    -372
                 ]
             },
             "properties": {
-                "type": "beacon",
-                "x": 672,
-                "y": 841,
-                "link": "library\/coins\/bastion"
+                "type": "boss",
+                "x": 450,
+                "y": 372,
+                "caption": "Штурм-кадавр",
+                "class": "kadavr"
             }
         },
         {
@@ -38,32 +39,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    677,
-                    -881
+                    770,
+                    -352
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 677,
-                "y": 881,
-                "caption": "Убер-цербер",
-                "class": "tserber"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    670,
-                    -479
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 670,
-                "y": 479,
-                "caption": "Мухоносец-мститель",
+                "x": 770,
+                "y": 352,
+                "caption": "Убер-мухоносец",
                 "class": "muh"
             }
         },
@@ -72,16 +56,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    433,
-                    -128
+                    56,
+                    -885
                 ]
             },
             "properties": {
-                "type": "boss",
-                "x": 433,
-                "y": 128,
-                "caption": "Убер-кишкодав",
-                "class": "kishkodav"
+                "type": "hole",
+                "x": 56,
+                "y": 885,
+                "region": "bs",
+                "map": "razriv6",
+                "caption": "Разрыв, ур.6",
+                "goto": {
+                    "x": 698,
+                    "y": 720
+                }
             }
         },
         {
@@ -89,33 +78,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    177,
-                    -392
+                    892,
+                    -888
                 ]
             },
             "properties": {
-                "type": "boss",
-                "x": 177,
-                "y": 392,
-                "caption": "Кишкодав",
-                "class": "kishkodav"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    284,
-                    -490
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 284,
-                "y": 490,
-                "caption": "Мухоносец-мститель",
-                "class": "muh"
+                "type": "hole",
+                "x": 892,
+                "y": 888,
+                "region": "bs",
+                "map": "razriv8",
+                "caption": "Разрыв, ур.8",
+                "goto": {
+                    "x": 86,
+                    "y": 904
+                }
             }
         },
         {
@@ -177,40 +154,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    770,
-                    -352
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 770,
-                "y": 352,
-                "caption": "Убер-мухоносец",
-                "class": "muh"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    450,
-                    -372
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 450,
-                "y": 372,
-                "caption": "Штурм-кадавр",
-                "class": "kadavr"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     471,
                     -510
                 ]
@@ -233,21 +176,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    892,
-                    -888
+                    284,
+                    -490
                 ]
             },
             "properties": {
-                "type": "hole",
-                "x": 892,
-                "y": 888,
-                "region": "bs",
-                "map": "razriv8",
-                "caption": "Разрыв, ур.8",
-                "goto": {
-                    "x": 86,
-                    "y": 904
-                }
+                "type": "boss",
+                "x": 284,
+                "y": 490,
+                "caption": "Мухоносец-мститель",
+                "class": "muh"
             }
         },
         {
@@ -255,21 +193,83 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    56,
-                    -885
+                    177,
+                    -392
                 ]
             },
             "properties": {
-                "type": "hole",
-                "x": 56,
-                "y": 885,
-                "region": "bs",
-                "map": "razriv6",
-                "caption": "Разрыв, ур.6",
-                "goto": {
-                    "x": 698,
-                    "y": 720
-                }
+                "type": "boss",
+                "x": 177,
+                "y": 392,
+                "caption": "Кишкодав",
+                "class": "kishkodav"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    670,
+                    -479
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 670,
+                "y": 479,
+                "caption": "Мухоносец-мститель",
+                "class": "muh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    677,
+                    -881
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 677,
+                "y": 881,
+                "caption": "Убер-цербер",
+                "class": "tserber"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    672,
+                    -841
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 672,
+                "y": 841,
+                "link": "library\/coins\/bastion"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    433,
+                    -128
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 433,
+                "y": 128,
+                "caption": "Убер-кишкодав",
+                "class": "kishkodav"
             }
         }
     ]

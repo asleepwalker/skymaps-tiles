@@ -19,105 +19,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    466,
-                    -170
-                ]
-            },
-            "properties": {
-                "type": "beacon",
-                "x": 466,
-                "y": 170,
-                "link": "library\/coins\/oskolki"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    839,
-                    -238
-                ]
-            },
-            "properties": {
-                "type": "master",
-                "x": 839,
-                "y": 238,
-                "list": [
-                    "Электрические угри"
-                ],
-                "link": "library\/masters\/oskolki"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    298,
-                    -268
-                ]
-            },
-            "properties": {
-                "type": "master",
-                "x": 298,
-                "y": 268,
-                "list": [
-                    "Молоко небесных коров"
-                ],
-                "link": "library\/masters\/oskolki"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    370,
-                    -441
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 370,
-                "y": 441,
-                "caption": "Биоспора",
-                "class": "spore"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    300,
-                    -406
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 300,
-                "y": 406,
-                "caption": "Биоспора",
-                "class": "spore"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    781,
+                    150,
                     -100
                 ]
             },
             "properties": {
-                "type": "flager",
-                "x": 781,
+                "type": "boss",
+                "x": 150,
                 "y": 100,
-                "easy": "Злобные сипухи",
-                "hard": "Шмель-Бомбус",
-                "link": "library\/flagers\/oskolki"
+                "caption": "Шмель",
+                "class": "shmel"
             }
         },
         {
@@ -125,14 +36,82 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    233,
-                    -63
+                    580,
+                    -632
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 233,
-                "y": 63,
+                "x": 580,
+                "y": 632,
+                "caption": "Осиный улей",
+                "class": "uley"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    600,
+                    -653
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 600,
+                "y": 653,
+                "caption": "Гамма-биоспора",
+                "class": "spore"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    60,
+                    -134
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 60,
+                "y": 134,
+                "caption": "Биоспора",
+                "class": "spore"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    240,
+                    -427
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 240,
+                "y": 427,
+                "caption": "Биоспора",
+                "class": "spore"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    60,
+                    -312
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 60,
+                "y": 312,
                 "caption": "Биоспора",
                 "class": "spore"
             }
@@ -165,16 +144,17 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    60,
-                    -213
+                    781,
+                    -100
                 ]
             },
             "properties": {
-                "type": "boss",
-                "x": 60,
-                "y": 213,
-                "caption": "Осиный улей",
-                "class": "uley"
+                "type": "flager",
+                "x": 781,
+                "y": 100,
+                "easy": "Злобные сипухи",
+                "hard": "Шмель-Бомбус",
+                "link": "library\/flagers\/oskolki"
             }
         },
         {
@@ -182,14 +162,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    62,
-                    -408
+                    370,
+                    -441
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 62,
-                "y": 408,
+                "x": 370,
+                "y": 441,
                 "caption": "Биоспора",
                 "class": "spore"
             }
@@ -199,14 +179,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    60,
-                    -312
+                    233,
+                    -63
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 60,
-                "y": 312,
+                "x": 233,
+                "y": 63,
                 "caption": "Биоспора",
                 "class": "spore"
             }
@@ -216,14 +196,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    240,
-                    -427
+                    311,
+                    -140
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 240,
-                "y": 427,
+                "x": 311,
+                "y": 140,
                 "caption": "Биоспора",
                 "class": "spore"
             }
@@ -250,101 +230,33 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    62,
+                    -408
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 62,
+                "y": 408,
+                "caption": "Биоспора",
+                "class": "spore"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     60,
-                    -134
+                    -213
                 ]
             },
             "properties": {
                 "type": "boss",
                 "x": 60,
-                "y": 134,
-                "caption": "Биоспора",
-                "class": "spore"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    600,
-                    -653
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 600,
-                "y": 653,
-                "caption": "Гамма-биоспора",
-                "class": "spore"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    580,
-                    -632
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 580,
-                "y": 632,
+                "y": 213,
                 "caption": "Осиный улей",
                 "class": "uley"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    150,
-                    -100
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 150,
-                "y": 100,
-                "caption": "Шмель",
-                "class": "shmel"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    870,
-                    -70
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 870,
-                "y": 70,
-                "caption": "Гипнобосс",
-                "class": "gipno"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    311,
-                    -140
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 311,
-                "y": 140,
-                "caption": "Биоспора",
-                "class": "spore"
             }
         },
         {
@@ -369,20 +281,37 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    259,
-                    -626
+                    870,
+                    -70
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 870,
+                "y": 70,
+                "caption": "Гипнобосс",
+                "class": "gipno"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168,
+                    -44
                 ]
             },
             "properties": {
                 "type": "maphole",
-                "x": 259,
-                "y": 626,
+                "x": 168,
+                "y": 44,
                 "region": "os",
-                "map": "nizini",
-                "caption": "Низины",
+                "map": "bespredel",
+                "caption": "Беспредельщина",
                 "goto": {
-                    "x": 191,
-                    "y": 65
+                    "x": 183,
+                    "y": 642
                 }
             }
         },
@@ -391,42 +320,20 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    461,
-                    -623
+                    464,
+                    -39
                 ]
             },
             "properties": {
                 "type": "maphole",
-                "x": 461,
-                "y": 623,
+                "x": 464,
+                "y": 39,
                 "region": "os",
-                "map": "nizini",
-                "caption": "Низины",
+                "map": "bespredel",
+                "caption": "Беспредельщина",
                 "goto": {
-                    "x": 618,
-                    "y": 62
-                }
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    919,
-                    -449
-                ]
-            },
-            "properties": {
-                "type": "maphole",
-                "x": 919,
-                "y": 449,
-                "region": "os",
-                "map": "index",
-                "caption": "Центр",
-                "goto": {
-                    "x": 63,
-                    "y": 367
+                    "x": 492,
+                    "y": 639
                 }
             }
         },
@@ -479,20 +386,20 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    464,
-                    -39
+                    919,
+                    -449
                 ]
             },
             "properties": {
                 "type": "maphole",
-                "x": 464,
-                "y": 39,
+                "x": 919,
+                "y": 449,
                 "region": "os",
-                "map": "bespredel",
-                "caption": "Беспредельщина",
+                "map": "index",
+                "caption": "Центр",
                 "goto": {
-                    "x": 492,
-                    "y": 639
+                    "x": 63,
+                    "y": 367
                 }
             }
         },
@@ -501,21 +408,114 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    168,
-                    -44
+                    259,
+                    -626
                 ]
             },
             "properties": {
                 "type": "maphole",
-                "x": 168,
-                "y": 44,
+                "x": 259,
+                "y": 626,
                 "region": "os",
-                "map": "bespredel",
-                "caption": "Беспредельщина",
+                "map": "nizini",
+                "caption": "Низины",
                 "goto": {
-                    "x": 183,
-                    "y": 642
+                    "x": 191,
+                    "y": 65
                 }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    461,
+                    -623
+                ]
+            },
+            "properties": {
+                "type": "maphole",
+                "x": 461,
+                "y": 623,
+                "region": "os",
+                "map": "nizini",
+                "caption": "Низины",
+                "goto": {
+                    "x": 618,
+                    "y": 62
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    298,
+                    -268
+                ]
+            },
+            "properties": {
+                "type": "master",
+                "x": 298,
+                "y": 268,
+                "list": [
+                    "Молоко небесных коров"
+                ],
+                "link": "library\/masters\/oskolki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    839,
+                    -238
+                ]
+            },
+            "properties": {
+                "type": "master",
+                "x": 839,
+                "y": 238,
+                "list": [
+                    "Электрические угри"
+                ],
+                "link": "library\/masters\/oskolki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    300,
+                    -406
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 300,
+                "y": 406,
+                "caption": "Биоспора",
+                "class": "spore"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    466,
+                    -170
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 466,
+                "y": 170,
+                "link": "library\/coins\/oskolki"
             }
         }
     ]

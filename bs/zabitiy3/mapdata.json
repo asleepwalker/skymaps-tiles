@@ -21,104 +21,50 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    337,
-                    -865
+                    860,
+                    -152
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 337,
-                "y": 865,
-                "caption": "Убер-мухоносец",
+                "x": 860,
+                "y": 152,
+                "caption": "Мусорог-генерал",
+                "class": "musorog"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    597,
+                    -840
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 597,
+                "y": 840,
+                "caption": "Штурм-фактория",
+                "class": "faka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    867,
+                    -866
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 867,
+                "y": 866,
+                "caption": "Штурм-мухоносец",
                 "class": "muh"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    129,
-                    -557
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 129,
-                "y": 557,
-                "caption": "Штурм-кишкодав",
-                "class": "kishkodav"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    60,
-                    -902
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 60,
-                "y": 902,
-                "caption": "Цитадель низушников",
-                "class": "tsitadel"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    88,
-                    -54
-                ]
-            },
-            "properties": {
-                "type": "quest",
-                "x": 88,
-                "y": 54,
-                "caption": "План низушников",
-                "link": "quests\/plan",
-                "tip": "В бортовом компьютере подбитой машины низушников содержится часть секретного плана!"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    898,
-                    -352
-                ]
-            },
-            "properties": {
-                "type": "quest",
-                "x": 898,
-                "y": 352,
-                "caption": "Сбор тайны Блюм Брахниус",
-                "link": "quests\/blum",
-                "tip": "Здесь есть записка сумасшедшего!"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    894,
-                    -911
-                ]
-            },
-            "properties": {
-                "type": "quest",
-                "x": 894,
-                "y": 911,
-                "caption": "Заброшенный скрипторий",
-                "link": "quests\/script",
-                "tip": "По ссылке карта \"лабиринта\" комнат скриптория."
             }
         },
         {
@@ -144,16 +90,17 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    867,
-                    -866
+                    894,
+                    -911
                 ]
             },
             "properties": {
-                "type": "boss",
-                "x": 867,
-                "y": 866,
-                "caption": "Штурм-мухоносец",
-                "class": "muh"
+                "type": "quest",
+                "x": 894,
+                "y": 911,
+                "caption": "Заброшенный скрипторий",
+                "link": "quests\/script",
+                "tip": "По ссылке карта \"лабиринта\" комнат скриптория."
             }
         },
         {
@@ -161,16 +108,17 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    597,
-                    -840
+                    898,
+                    -352
                 ]
             },
             "properties": {
-                "type": "boss",
-                "x": 597,
-                "y": 840,
-                "caption": "Штурм-фактория",
-                "class": "faka"
+                "type": "quest",
+                "x": 898,
+                "y": 352,
+                "caption": "Сбор тайны Блюм Брахниус",
+                "link": "quests\/blum",
+                "tip": "Здесь есть записка сумасшедшего!"
             }
         },
         {
@@ -178,16 +126,34 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    860,
-                    -152
+                    88,
+                    -54
+                ]
+            },
+            "properties": {
+                "type": "quest",
+                "x": 88,
+                "y": 54,
+                "caption": "План низушников",
+                "link": "quests\/plan",
+                "tip": "В бортовом компьютере подбитой машины низушников содержится часть секретного плана!"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    60,
+                    -902
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 860,
-                "y": 152,
-                "caption": "Мусорог-генерал",
-                "class": "musorog"
+                "x": 60,
+                "y": 902,
+                "caption": "Цитадель низушников",
+                "class": "tsitadel"
             }
         },
         {
@@ -254,6 +220,40 @@
                     "x": 289,
                     "y": 84
                 }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    129,
+                    -557
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 129,
+                "y": 557,
+                "caption": "Штурм-кишкодав",
+                "class": "kishkodav"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    337,
+                    -865
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 337,
+                "y": 865,
+                "caption": "Убер-мухоносец",
+                "class": "muh"
             }
         }
     ]

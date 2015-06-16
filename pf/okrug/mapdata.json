@@ -14,6 +14,28 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    591,
+                    -127
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 591,
+                "y": 127,
+                "region": "pf",
+                "map": "svalka",
+                "caption": "Свалка",
+                "goto": {
+                    "x": 147,
+                    "y": 347
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     252,
                     -402
                 ]
@@ -34,28 +56,6 @@
                         "type": "station"
                     }
                 ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    591,
-                    -127
-                ]
-            },
-            "properties": {
-                "type": "hole",
-                "x": 591,
-                "y": 127,
-                "region": "pf",
-                "map": "svalka",
-                "caption": "Свалка",
-                "goto": {
-                    "x": 147,
-                    "y": 347
-                }
             }
         }
     ]

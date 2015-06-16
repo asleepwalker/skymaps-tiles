@@ -14,16 +14,162 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    625,
-                    -149
+                    385,
+                    -705
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 385,
+                "y": 705,
+                "list": [
+                    "Залётный хариус",
+                    "Ветряной жерех"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    370,
+                    -792
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 625,
-                "y": 149,
+                "x": 370,
+                "y": 792,
                 "caption": "Дельта-шмель",
                 "class": "shmel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    310,
+                    -470
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 310,
+                "y": 470
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    280,
+                    -390
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 280,
+                "y": 390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    295,
+                    -385
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 295,
+                "y": 385,
+                "list": [
+                    "Залётный хариус",
+                    "Ветряной жерех"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    874,
+                    -80
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 874,
+                "y": 80,
+                "region": "os",
+                "map": "starviha",
+                "caption": "Старый вихрь А",
+                "goto": {
+                    "x": 808,
+                    "y": 97
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    498,
+                    -524
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 498,
+                "y": 524,
+                "region": "os",
+                "map": "starvihv",
+                "caption": "Старый вихрь В",
+                "goto": {
+                    "x": 912,
+                    "y": 110
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    787,
+                    -830
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 787,
+                "y": 830,
+                "caption": "Дельта-шмель",
+                "class": "shmel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120,
+                    -132
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 120,
+                "y": 132,
+                "caption": "Древняя рекламная цитадель",
+                "class": "tsitadel"
             }
         },
         {
@@ -48,16 +194,35 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    787,
-                    -830
+                    625,
+                    -149
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 787,
-                "y": 830,
+                "x": 625,
+                "y": 149,
                 "caption": "Дельта-шмель",
                 "class": "shmel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    861,
+                    -445
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 861,
+                "y": 445,
+                "list": [
+                    "Рыба-зигзаг",
+                    "Лазурная пеламида"
+                ]
             }
         },
         {
@@ -93,171 +258,6 @@
                         "type": "station"
                     }
                 ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120,
-                    -132
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 120,
-                "y": 132,
-                "caption": "Древняя рекламная цитадель",
-                "class": "tsitadel"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    295,
-                    -385
-                ]
-            },
-            "properties": {
-                "type": "fish",
-                "x": 295,
-                "y": 385,
-                "list": [
-                    "Залётный хариус",
-                    "Ветряной жерех"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    280,
-                    -390
-                ]
-            },
-            "properties": {
-                "type": "barrier",
-                "x": 280,
-                "y": 390
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    310,
-                    -470
-                ]
-            },
-            "properties": {
-                "type": "barrier",
-                "x": 310,
-                "y": 470
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    370,
-                    -792
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 370,
-                "y": 792,
-                "caption": "Дельта-шмель",
-                "class": "shmel"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    861,
-                    -445
-                ]
-            },
-            "properties": {
-                "type": "fish",
-                "x": 861,
-                "y": 445,
-                "list": [
-                    "Рыба-зигзаг",
-                    "Лазурная пеламида"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    385,
-                    -705
-                ]
-            },
-            "properties": {
-                "type": "fish",
-                "x": 385,
-                "y": 705,
-                "list": [
-                    "Залётный хариус",
-                    "Ветряной жерех"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    498,
-                    -524
-                ]
-            },
-            "properties": {
-                "type": "hole",
-                "x": 498,
-                "y": 524,
-                "region": "os",
-                "map": "starvihv",
-                "caption": "Старый вихрь В",
-                "goto": {
-                    "x": 912,
-                    "y": 110
-                }
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    874,
-                    -80
-                ]
-            },
-            "properties": {
-                "type": "hole",
-                "x": 874,
-                "y": 80,
-                "region": "os",
-                "map": "starviha",
-                "caption": "Старый вихрь А",
-                "goto": {
-                    "x": 808,
-                    "y": 97
-                }
             }
         }
     ]

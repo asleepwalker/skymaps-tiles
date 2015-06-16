@@ -20,24 +20,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    540,
-                    -270
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 540,
-                "y": 270,
-                "caption": "Мусорог-хиппи",
-                "class": "musorog",
-                "mode": "rare"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     377,
                     -237
                 ]
@@ -48,6 +30,45 @@
                 "y": 237,
                 "caption": "Таверна алконавтов-монстров",
                 "class": "taverna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    654,
+                    -171
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 654,
+                "y": 171,
+                "caption": "Таверна алконавтов-зомби",
+                "class": "taverna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70,
+                    -232
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 70,
+                "y": 232,
+                "region": "pf",
+                "map": "spirt2",
+                "caption": "Лабиринт под Спиртотроном, ур.2",
+                "goto": {
+                    "x": 905,
+                    "y": 96
+                }
             }
         },
         {
@@ -90,38 +111,17 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    654,
-                    -171
+                    540,
+                    -270
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 654,
-                "y": 171,
-                "caption": "Таверна алконавтов-зомби",
-                "class": "taverna"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    70,
-                    -232
-                ]
-            },
-            "properties": {
-                "type": "hole",
-                "x": 70,
-                "y": 232,
-                "region": "pf",
-                "map": "spirt2",
-                "caption": "Лабиринт под Спиртотроном, ур.2",
-                "goto": {
-                    "x": 905,
-                    "y": 96
-                }
+                "x": 540,
+                "y": 270,
+                "caption": "Мусорог-хиппи",
+                "class": "musorog",
+                "mode": "rare"
             }
         }
     ]

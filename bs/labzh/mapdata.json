@@ -22,16 +22,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    466,
-                    -476
+                    220,
+                    -652
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 466,
-                "y": 476,
-                "caption": "Убер-цербер",
-                "class": "tserber"
+                "x": 220,
+                "y": 652,
+                "caption": "Убер-мухоносец",
+                "class": "muh"
             }
         },
         {
@@ -73,23 +73,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    220,
-                    -652
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 220,
-                "y": 652,
-                "caption": "Убер-мухоносец",
-                "class": "muh"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     104,
                     -403
                 ]
@@ -107,21 +90,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    881,
-                    -145
+                    466,
+                    -476
                 ]
             },
             "properties": {
-                "type": "hole",
-                "x": 881,
-                "y": 145,
-                "region": "bs",
-                "map": "labz",
-                "caption": "Лабиринт З",
-                "goto": {
-                    "x": 266,
-                    "y": 268
-                }
+                "type": "boss",
+                "x": 466,
+                "y": 476,
+                "caption": "Убер-цербер",
+                "class": "tserber"
             }
         },
         {
@@ -143,6 +121,28 @@
                 "goto": {
                     "x": 462,
                     "y": 904
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    881,
+                    -145
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 881,
+                "y": 145,
+                "region": "bs",
+                "map": "labz",
+                "caption": "Лабиринт З",
+                "goto": {
+                    "x": 266,
+                    "y": 268
                 }
             }
         },

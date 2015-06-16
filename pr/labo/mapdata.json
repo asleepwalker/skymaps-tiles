@@ -23,16 +23,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    447,
-                    -296
+                    861,
+                    -344
                 ]
             },
             "properties": {
-                "type": "boss",
-                "x": 447,
-                "y": 296,
-                "caption": "Редкий мегаёж",
-                "class": "zloboezh"
+                "type": "hole",
+                "x": 861,
+                "y": 344,
+                "region": "pr",
+                "map": "labs",
+                "caption": "Лабиринт С",
+                "goto": {
+                    "x": 574,
+                    "y": 517
+                }
             }
         },
         {
@@ -40,33 +45,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    284,
-                    -130
+                    99,
+                    -732
                 ]
             },
             "properties": {
-                "type": "boss",
-                "x": 284,
-                "y": 130,
-                "caption": "Особый мегаёж",
-                "class": "zloboezh"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    467,
-                    -125
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 467,
-                "y": 125,
-                "caption": "Редкий мегаёж",
-                "class": "zloboezh"
+                "type": "hole",
+                "x": 99,
+                "y": 732,
+                "region": "pr",
+                "map": "labzh",
+                "caption": "Лабиринт Ж",
+                "goto": {
+                    "x": 825,
+                    "y": 873
+                }
             }
         },
         {
@@ -108,21 +101,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    99,
-                    -732
+                    284,
+                    -130
                 ]
             },
             "properties": {
-                "type": "hole",
-                "x": 99,
-                "y": 732,
-                "region": "pr",
-                "map": "labzh",
-                "caption": "Лабиринт Ж",
-                "goto": {
-                    "x": 825,
-                    "y": 873
-                }
+                "type": "boss",
+                "x": 284,
+                "y": 130,
+                "caption": "Особый мегаёж",
+                "class": "zloboezh"
             }
         },
         {
@@ -130,21 +118,33 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    861,
-                    -344
+                    467,
+                    -125
                 ]
             },
             "properties": {
-                "type": "hole",
-                "x": 861,
-                "y": 344,
-                "region": "pr",
-                "map": "labs",
-                "caption": "Лабиринт С",
-                "goto": {
-                    "x": 574,
-                    "y": 517
-                }
+                "type": "boss",
+                "x": 467,
+                "y": 125,
+                "caption": "Редкий мегаёж",
+                "class": "zloboezh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    447,
+                    -296
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 447,
+                "y": 296,
+                "caption": "Редкий мегаёж",
+                "class": "zloboezh"
             }
         }
     ]

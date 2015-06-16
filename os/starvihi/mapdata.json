@@ -14,34 +14,55 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    276,
-                    -778
+                    320,
+                    -132
                 ]
             },
             "properties": {
-                "type": "station",
-                "x": 276,
-                "y": 778,
-                "caption": "Станция Хламовая",
-                "size": 120,
-                "list": [
-                    {
-                        "caption": "Кавардак",
-                        "region": "os",
-                        "map": "index",
-                        "x": 474,
-                        "y": 339,
-                        "type": "station"
-                    },
-                    {
-                        "caption": "Платформа \"Мусорный Ветер\"",
-                        "region": "os",
-                        "map": "starvihl",
-                        "x": 203,
-                        "y": 390,
-                        "type": "station"
-                    }
+                "type": "boss",
+                "x": 320,
+                "y": 132,
+                "caption": "Гамма-улей",
+                "class": "uley"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    201,
+                    -86
                 ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 201,
+                "y": 86,
+                "region": "os",
+                "map": "starvihz",
+                "caption": "Старый вихрь З",
+                "goto": {
+                    "x": 622,
+                    "y": 357
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    814,
+                    -288
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 814,
+                "y": 288,
+                "caption": "Кишкодав-разведчик",
+                "class": "kishkodav"
             }
         },
         {
@@ -76,40 +97,6 @@
                 "y": 96,
                 "caption": "Борзый хламкистадор",
                 "class": "hlamk"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    320,
-                    -132
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 320,
-                "y": 132,
-                "caption": "Гамма-улей",
-                "class": "uley"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    814,
-                    -288
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 814,
-                "y": 288,
-                "caption": "Кишкодав-разведчик",
-                "class": "kishkodav"
             }
         },
         {
@@ -173,21 +160,34 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    201,
-                    -86
+                    276,
+                    -778
                 ]
             },
             "properties": {
-                "type": "hole",
-                "x": 201,
-                "y": 86,
-                "region": "os",
-                "map": "starvihz",
-                "caption": "Старый вихрь З",
-                "goto": {
-                    "x": 622,
-                    "y": 357
-                }
+                "type": "station",
+                "x": 276,
+                "y": 778,
+                "caption": "Станция Хламовая",
+                "size": 120,
+                "list": [
+                    {
+                        "caption": "Кавардак",
+                        "region": "os",
+                        "map": "index",
+                        "x": 474,
+                        "y": 339,
+                        "type": "station"
+                    },
+                    {
+                        "caption": "Платформа \"Мусорный Ветер\"",
+                        "region": "os",
+                        "map": "starvihl",
+                        "x": 203,
+                        "y": 390,
+                        "type": "station"
+                    }
+                ]
             }
         }
     ]

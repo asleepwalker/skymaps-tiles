@@ -14,86 +14,20 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    488,
-                    -337
-                ]
-            },
-            "properties": {
-                "type": "locationhole",
-                "x": 488,
-                "y": 337,
-                "region": "zp",
-                "map": "zapovednik1",
-                "caption": "Заповедник",
-                "goto": {
-                    "x": 803,
-                    "y": 210
-                }
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    820,
+                    643,
                     -339
                 ]
             },
             "properties": {
                 "type": "locationhole",
-                "x": 820,
+                "x": 643,
                 "y": 339,
-                "region": "os",
+                "region": "tg",
                 "map": "index",
-                "caption": "Осколки",
+                "caption": "Тихая Гавань",
                 "goto": {
-                    "x": 494,
-                    "y": 359
-                }
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    731,
-                    -454
-                ]
-            },
-            "properties": {
-                "type": "locationhole",
-                "x": 731,
-                "y": 454,
-                "region": "bs",
-                "map": "index",
-                "caption": "Бастион",
-                "goto": {
-                    "x": 182,
-                    "y": 696
-                }
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    637,
-                    -548
-                ]
-            },
-            "properties": {
-                "type": "locationhole",
-                "x": 637,
-                "y": 548,
-                "region": "pr",
-                "map": "index",
-                "caption": "Поющий Риф",
-                "goto": {
-                    "x": 1042,
-                    "y": 1021
+                    "x": 573,
+                    "y": 404
                 }
             }
         },
@@ -124,20 +58,86 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    643,
+                    637,
+                    -548
+                ]
+            },
+            "properties": {
+                "type": "locationhole",
+                "x": 637,
+                "y": 548,
+                "region": "pr",
+                "map": "index",
+                "caption": "Поющий Риф",
+                "goto": {
+                    "x": 1042,
+                    "y": 1021
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    731,
+                    -454
+                ]
+            },
+            "properties": {
+                "type": "locationhole",
+                "x": 731,
+                "y": 454,
+                "region": "bs",
+                "map": "index",
+                "caption": "Бастион",
+                "goto": {
+                    "x": 182,
+                    "y": 696
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    820,
                     -339
                 ]
             },
             "properties": {
                 "type": "locationhole",
-                "x": 643,
+                "x": 820,
                 "y": 339,
-                "region": "tg",
+                "region": "os",
                 "map": "index",
-                "caption": "Тихая Гавань",
+                "caption": "Осколки",
                 "goto": {
-                    "x": 573,
-                    "y": 404
+                    "x": 494,
+                    "y": 359
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    488,
+                    -337
+                ]
+            },
+            "properties": {
+                "type": "locationhole",
+                "x": 488,
+                "y": 337,
+                "region": "zp",
+                "map": "zapovednik1",
+                "caption": "Заповедник",
+                "goto": {
+                    "x": 803,
+                    "y": 210
                 }
             }
         }

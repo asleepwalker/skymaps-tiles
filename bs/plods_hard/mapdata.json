@@ -14,89 +14,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    500,
-                    -580
+                    781,
+                    -320
                 ]
             },
             "properties": {
-                "type": "barrier",
-                "x": 500,
-                "y": 580
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    612,
-                    -455
-                ]
-            },
-            "properties": {
-                "type": "barrier",
-                "x": 612,
-                "y": 455
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    610,
-                    -432
-                ]
-            },
-            "properties": {
-                "type": "barrier",
-                "x": 610,
-                "y": 432
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    391,
-                    -524
-                ]
-            },
-            "properties": {
-                "type": "barrier",
-                "x": 391,
-                "y": 524
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    390,
-                    -495
-                ]
-            },
-            "properties": {
-                "type": "barrier",
-                "x": 390,
-                "y": 495
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    470,
-                    -583
-                ]
-            },
-            "properties": {
-                "type": "barrier",
-                "x": 470,
-                "y": 583
+                "type": "boss",
+                "x": 781,
+                "y": 320,
+                "caption": "Убер-цербер",
+                "class": "tserber"
             }
         },
         {
@@ -192,16 +119,89 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    781,
-                    -320
+                    470,
+                    -583
                 ]
             },
             "properties": {
-                "type": "boss",
-                "x": 781,
-                "y": 320,
-                "caption": "Убер-цербер",
-                "class": "tserber"
+                "type": "barrier",
+                "x": 470,
+                "y": 583
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    390,
+                    -495
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 390,
+                "y": 495
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    391,
+                    -524
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 391,
+                "y": 524
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    610,
+                    -432
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 610,
+                "y": 432
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    612,
+                    -455
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 612,
+                "y": 455
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    500,
+                    -580
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 500,
+                "y": 580
             }
         },
         {

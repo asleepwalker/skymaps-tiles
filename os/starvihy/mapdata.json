@@ -14,15 +14,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    365,
-                    -244
+                    280,
+                    -470
                 ]
             },
             "properties": {
-                "type": "beacon",
-                "x": 365,
-                "y": 244,
-                "link": "library\/coins\/oskolki"
+                "type": "barrier",
+                "x": 280,
+                "y": 470
             }
         },
         {
@@ -30,15 +29,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    265,
-                    -333
+                    440,
+                    -370
                 ]
             },
             "properties": {
-                "type": "note",
-                "x": 265,
-                "y": 333,
-                "text": "Россыпь хладагентов."
+                "type": "barrier",
+                "x": 440,
+                "y": 370
             }
         },
         {
@@ -46,49 +44,46 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    123,
-                    -396
+                    700,
+                    -310
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 700,
+                "y": 310
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    340,
+                    -280
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 340,
+                "y": 280
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    630,
+                    -652
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 123,
-                "y": 396,
-                "caption": "Кишкодав",
+                "x": 630,
+                "y": 652,
+                "caption": "Кишкодав-охранник",
                 "class": "kishkodav"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    386,
-                    -838
-                ]
-            },
-            "properties": {
-                "type": "note",
-                "x": 386,
-                "y": 838,
-                "text": "Россыпь ремонтных наборов."
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    414,
-                    -801
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 414,
-                "y": 801,
-                "caption": "Бета-биоспора",
-                "class": "spore"
             }
         },
         {
@@ -114,6 +109,56 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    414,
+                    -801
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 414,
+                "y": 801,
+                "caption": "Бета-биоспора",
+                "class": "spore"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    386,
+                    -838
+                ]
+            },
+            "properties": {
+                "type": "note",
+                "x": 386,
+                "y": 838,
+                "text": "Россыпь ремонтных наборов."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    123,
+                    -396
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 123,
+                "y": 396,
+                "caption": "Кишкодав",
+                "class": "kishkodav"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     483,
                     -405
                 ]
@@ -131,93 +176,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    197,
-                    -244
+                    265,
+                    -333
                 ]
             },
             "properties": {
-                "type": "boss",
-                "x": 197,
-                "y": 244,
-                "caption": "Мухоносец-диверсант",
-                "class": "muh"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    630,
-                    -652
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 630,
-                "y": 652,
-                "caption": "Кишкодав-охранник",
-                "class": "kishkodav"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    340,
-                    -280
-                ]
-            },
-            "properties": {
-                "type": "barrier",
-                "x": 340,
-                "y": 280
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    700,
-                    -310
-                ]
-            },
-            "properties": {
-                "type": "barrier",
-                "x": 700,
-                "y": 310
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    440,
-                    -370
-                ]
-            },
-            "properties": {
-                "type": "barrier",
-                "x": 440,
-                "y": 370
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    280,
-                    -470
-                ]
-            },
-            "properties": {
-                "type": "barrier",
-                "x": 280,
-                "y": 470
+                "type": "note",
+                "x": 265,
+                "y": 333,
+                "text": "Россыпь хладагентов."
             }
         },
         {
@@ -239,6 +206,28 @@
                 "goto": {
                     "x": 115,
                     "y": 324
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    93,
+                    -876
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 93,
+                "y": 876,
+                "region": "os",
+                "map": "starvihg",
+                "caption": "Старый вихрь Г",
+                "goto": {
+                    "x": 902,
+                    "y": 108
                 }
             }
         },
@@ -269,21 +258,32 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    93,
-                    -876
+                    197,
+                    -244
                 ]
             },
             "properties": {
-                "type": "hole",
-                "x": 93,
-                "y": 876,
-                "region": "os",
-                "map": "starvihg",
-                "caption": "Старый вихрь Г",
-                "goto": {
-                    "x": 902,
-                    "y": 108
-                }
+                "type": "boss",
+                "x": 197,
+                "y": 244,
+                "caption": "Мухоносец-диверсант",
+                "class": "muh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    365,
+                    -244
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 365,
+                "y": 244,
+                "link": "library\/coins\/oskolki"
             }
         }
     ]

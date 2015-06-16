@@ -17,15 +17,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    671,
-                    -123
+                    89,
+                    -867
                 ]
             },
             "properties": {
-                "type": "beacon",
-                "x": 671,
-                "y": 123,
-                "link": "library\/coins\/gavane"
+                "type": "hole",
+                "x": 89,
+                "y": 867,
+                "region": "tg",
+                "map": "labirint1",
+                "caption": "Лабиринт Облаков, ур.1",
+                "goto": {
+                    "x": 903,
+                    "y": 548
+                }
             }
         },
         {
@@ -41,41 +47,6 @@
                 "type": "",
                 "x": 335,
                 "y": 264
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    517,
-                    -556
-                ]
-            },
-            "properties": {
-                "type": "station",
-                "x": 517,
-                "y": 556,
-                "caption": "Старая платформа",
-                "size": 73,
-                "list": [
-                    {
-                        "caption": "Платформа №13",
-                        "region": "tg",
-                        "map": "promzona",
-                        "x": 543,
-                        "y": 466,
-                        "type": "station"
-                    },
-                    {
-                        "caption": "Платформа Ветеранов",
-                        "region": "tg",
-                        "map": "labirint4",
-                        "x": 589,
-                        "y": 196,
-                        "type": "station"
-                    }
-                ]
             }
         },
         {
@@ -127,21 +98,50 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    89,
-                    -867
+                    671,
+                    -123
                 ]
             },
             "properties": {
-                "type": "hole",
-                "x": 89,
-                "y": 867,
-                "region": "tg",
-                "map": "labirint1",
-                "caption": "Лабиринт Облаков, ур.1",
-                "goto": {
-                    "x": 903,
-                    "y": 548
-                }
+                "type": "beacon",
+                "x": 671,
+                "y": 123,
+                "link": "library\/coins\/gavane"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    517,
+                    -556
+                ]
+            },
+            "properties": {
+                "type": "station",
+                "x": 517,
+                "y": 556,
+                "caption": "Старая платформа",
+                "size": 73,
+                "list": [
+                    {
+                        "caption": "Платформа №13",
+                        "region": "tg",
+                        "map": "promzona",
+                        "x": 543,
+                        "y": 466,
+                        "type": "station"
+                    },
+                    {
+                        "caption": "Платформа Ветеранов",
+                        "region": "tg",
+                        "map": "labirint4",
+                        "x": 589,
+                        "y": 196,
+                        "type": "station"
+                    }
+                ]
             }
         }
     ]

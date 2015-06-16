@@ -22,92 +22,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    280,
-                    -835
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 280,
-                "y": 835,
-                "caption": "Великий Кроволёт Барон",
-                "class": "airship"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    115,
-                    -151
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 115,
-                "y": 151,
-                "caption": "Великий кроволёт",
-                "class": "airship"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    209,
-                    -509
-                ]
-            },
-            "properties": {
-                "type": "station",
-                "x": 209,
-                "y": 509,
-                "caption": "\"Пелотас\"",
-                "size": 94,
-                "list": [
-                    {
-                        "caption": "\"Фернанда\"",
-                        "region": "pr",
-                        "map": "labzh",
-                        "x": 160,
-                        "y": 160,
-                        "type": "station"
-                    },
-                    {
-                        "caption": "\"Изабель\"",
-                        "region": "pr",
-                        "map": "labi",
-                        "x": 855,
-                        "y": 300,
-                        "type": "station"
-                    }
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    831,
-                    -602
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 831,
-                "y": 602,
-                "caption": "Логово бандитов",
-                "class": "logovo"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     813,
                     -386
                 ]
@@ -125,55 +39,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    597,
-                    -527
+                    831,
+                    -602
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 597,
-                "y": 527,
-                "caption": "Усиленная Цитадель Механоидов",
-                "class": "tsitadel"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    86,
-                    -621
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 86,
-                "y": 621,
-                "caption": "Древний мегаёж",
-                "class": "zloboezh"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    605,
-                    -851
-                ]
-            },
-            "properties": {
-                "type": "hole",
-                "x": 605,
-                "y": 851,
-                "region": "pr",
-                "map": "labt",
-                "caption": "Лабиринт Т",
-                "goto": {
-                    "x": 104,
-                    "y": 417
-                }
+                "x": 831,
+                "y": 602,
+                "caption": "Логово бандитов",
+                "class": "logovo"
             }
         },
         {
@@ -218,6 +93,131 @@
                     "x": 207,
                     "y": 815
                 }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    605,
+                    -851
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 605,
+                "y": 851,
+                "region": "pr",
+                "map": "labt",
+                "caption": "Лабиринт Т",
+                "goto": {
+                    "x": 104,
+                    "y": 417
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    597,
+                    -527
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 597,
+                "y": 527,
+                "caption": "Усиленная Цитадель Механоидов",
+                "class": "tsitadel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86,
+                    -621
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 86,
+                "y": 621,
+                "caption": "Древний мегаёж",
+                "class": "zloboezh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115,
+                    -151
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 115,
+                "y": 151,
+                "caption": "Великий кроволёт",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    280,
+                    -835
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 280,
+                "y": 835,
+                "caption": "Великий Кроволёт Барон",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    209,
+                    -509
+                ]
+            },
+            "properties": {
+                "type": "station",
+                "x": 209,
+                "y": 509,
+                "caption": "\"Пелотас\"",
+                "size": 94,
+                "list": [
+                    {
+                        "caption": "\"Фернанда\"",
+                        "region": "pr",
+                        "map": "labzh",
+                        "x": 160,
+                        "y": 160,
+                        "type": "station"
+                    },
+                    {
+                        "caption": "\"Изабель\"",
+                        "region": "pr",
+                        "map": "labi",
+                        "x": 855,
+                        "y": 300,
+                        "type": "station"
+                    }
+                ]
             }
         }
     ]

@@ -21,23 +21,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    815,
-                    -786
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 815,
-                "y": 786,
-                "caption": "Редкий Мегаёж",
-                "class": "zloboezh"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     415,
                     -574
                 ]
@@ -47,6 +30,23 @@
                 "x": 415,
                 "y": 574,
                 "caption": "Мусорог-губитель Капитан",
+                "class": "musorog"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    472,
+                    -824
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 472,
+                "y": 824,
+                "caption": "Мусорог Капитан",
                 "class": "musorog"
             }
         },
@@ -72,38 +72,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    472,
-                    -824
+                    815,
+                    -786
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 472,
-                "y": 824,
-                "caption": "Мусорог Капитан",
-                "class": "musorog"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    429,
-                    -96
-                ]
-            },
-            "properties": {
-                "type": "hole",
-                "x": 429,
-                "y": 96,
-                "region": "pf",
-                "map": "labv",
-                "caption": "Лабиринт В",
-                "goto": {
-                    "x": 104,
-                    "y": 769
-                }
+                "x": 815,
+                "y": 786,
+                "caption": "Редкий Мегаёж",
+                "class": "zloboezh"
             }
         },
         {
@@ -125,6 +103,28 @@
                 "goto": {
                     "x": 101,
                     "y": 816
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    429,
+                    -96
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 429,
+                "y": 96,
+                "region": "pf",
+                "map": "labv",
+                "caption": "Лабиринт В",
+                "goto": {
+                    "x": 104,
+                    "y": 769
                 }
             }
         },

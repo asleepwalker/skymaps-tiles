@@ -14,15 +14,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    501,
-                    -399
+                    806,
+                    -147
                 ]
             },
             "properties": {
-                "type": "beacon",
-                "x": 501,
-                "y": 399,
-                "link": "library\/coins\/oskolki"
+                "type": "boss",
+                "x": 806,
+                "y": 147,
+                "caption": "Гамма-улей",
+                "class": "uley"
             }
         },
         {
@@ -30,48 +31,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    442,
-                    -149
+                    70,
+                    -392
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 442,
-                "y": 149,
-                "caption": "Гамма-шмель",
-                "class": "shmel"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    788,
-                    -878
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 788,
-                "y": 878,
-                "caption": "Гамма-шмель",
-                "class": "shmel"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    653,
-                    -866
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 653,
-                "y": 866,
+                "x": 70,
+                "y": 392,
                 "caption": "Гамма-шмель",
                 "class": "shmel"
             }
@@ -98,14 +65,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    70,
-                    -392
+                    653,
+                    -866
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 70,
-                "y": 392,
+                "x": 653,
+                "y": 866,
                 "caption": "Гамма-шмель",
                 "class": "shmel"
             }
@@ -115,16 +82,55 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    806,
-                    -147
+                    788,
+                    -878
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 806,
-                "y": 147,
-                "caption": "Гамма-улей",
-                "class": "uley"
+                "x": 788,
+                "y": 878,
+                "caption": "Гамма-шмель",
+                "class": "shmel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    442,
+                    -149
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 442,
+                "y": 149,
+                "caption": "Гамма-шмель",
+                "class": "shmel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    386,
+                    -889
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 386,
+                "y": 889,
+                "region": "os",
+                "map": "nizini",
+                "caption": "Низины",
+                "goto": {
+                    "x": 772,
+                    "y": 638
+                }
             }
         },
         {
@@ -154,21 +160,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    386,
-                    -889
+                    501,
+                    -399
                 ]
             },
             "properties": {
-                "type": "hole",
-                "x": 386,
-                "y": 889,
-                "region": "os",
-                "map": "nizini",
-                "caption": "Низины",
-                "goto": {
-                    "x": 772,
-                    "y": 638
-                }
+                "type": "beacon",
+                "x": 501,
+                "y": 399,
+                "link": "library\/coins\/oskolki"
             }
         }
     ]

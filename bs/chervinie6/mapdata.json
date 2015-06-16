@@ -21,51 +21,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    59,
-                    -41
+                    240,
+                    -42
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 59,
-                "y": 41,
-                "caption": "Убер-мухоносец",
-                "class": "muh"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    738,
-                    -43
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 738,
-                "y": 43,
-                "caption": "Убер-цербер",
-                "class": "tserber"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    63,
-                    -117
-                ]
-            },
-            "properties": {
-                "type": "flager",
-                "x": 63,
-                "y": 117,
-                "easy": "Гриф-падальщик (14)",
-                "hard": "Громолай",
-                "link": "library\/flagers\/bastion"
+                "x": 240,
+                "y": 42,
+                "caption": "Убер-крейсер",
+                "class": "kreiser"
             }
         },
         {
@@ -90,16 +55,17 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    240,
-                    -42
+                    63,
+                    -117
                 ]
             },
             "properties": {
-                "type": "boss",
-                "x": 240,
-                "y": 42,
-                "caption": "Убер-крейсер",
-                "class": "kreiser"
+                "type": "flager",
+                "x": 63,
+                "y": 117,
+                "easy": "Гриф-падальщик (14)",
+                "hard": "Громолай",
+                "link": "library\/flagers\/bastion"
             }
         },
         {
@@ -144,6 +110,40 @@
                     "x": 131,
                     "y": 819
                 }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    738,
+                    -43
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 738,
+                "y": 43,
+                "caption": "Убер-цербер",
+                "class": "tserber"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59,
+                    -41
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 59,
+                "y": 41,
+                "caption": "Убер-мухоносец",
+                "class": "muh"
             }
         }
     ]

@@ -14,17 +14,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    210,
-                    -120
+                    131,
+                    -166
                 ]
             },
             "properties": {
-                "type": "npc",
-                "x": 210,
-                "y": 120,
-                "caption": "Дом Хранителя Вихря",
-                "npc": "Хранитель Лабиринта",
-                "link": "library\/npc\/tg\/hranitel"
+                "type": "hole",
+                "x": 131,
+                "y": 166
             }
         },
         {
@@ -54,14 +51,17 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    131,
-                    -166
+                    210,
+                    -120
                 ]
             },
             "properties": {
-                "type": "hole",
-                "x": 131,
-                "y": 166
+                "type": "npc",
+                "x": 210,
+                "y": 120,
+                "caption": "Дом Хранителя Вихря",
+                "npc": "Хранитель Лабиринта",
+                "link": "library\/npc\/tg\/hranitel"
             }
         }
     ]

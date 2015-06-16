@@ -18,17 +18,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    220,
-                    -154
+                    866,
+                    -660
                 ]
             },
             "properties": {
-                "type": "npc",
-                "x": 220,
-                "y": 154,
-                "caption": "Бункер",
-                "npc": "Робот Марк IV",
-                "link": "library\/npc\/pf\/mark4"
+                "type": "hole",
+                "x": 866,
+                "y": 660,
+                "region": "pf",
+                "map": "tehnicheskiy",
+                "caption": "Ратный, Технический уровень",
+                "goto": {
+                    "x": 368,
+                    "y": 295
+                }
             }
         },
         {
@@ -36,14 +40,99 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    333,
-                    -291
+                    675,
+                    -420
                 ]
             },
             "properties": {
-                "type": "fish",
-                "x": 333,
-                "y": 291
+                "type": "note",
+                "x": 675,
+                "y": 420,
+                "text": "Для пролёта через этот пробойник вы должны знать тайну \"Секреты военного города\"."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    765,
+                    -442
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 765,
+                "y": 442,
+                "caption": "Небесный Блудотворец Король",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    570,
+                    -853
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 570,
+                "y": 853,
+                "caption": "Боевая Цитадель",
+                "class": "tsitadel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99,
+                    -698
+                ]
+            },
+            "properties": {
+                "type": "note",
+                "x": 99,
+                "y": 698,
+                "text": "Спуск на квест \"Крайние меры\". Внимание! На квест может спуститься только 1 человек!"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    494,
+                    -814
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 494,
+                "y": 814,
+                "caption": "Цитадель Церкви",
+                "class": "tsitadel",
+                "mode": "quest"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    446,
+                    -794
+                ]
+            },
+            "properties": {
+                "type": "note",
+                "x": 446,
+                "y": 794,
+                "text": "Цитадель спаунится 1 час."
             }
         },
         {
@@ -73,15 +162,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    446,
-                    -794
+                    333,
+                    -291
                 ]
             },
             "properties": {
-                "type": "note",
-                "x": 446,
-                "y": 794,
-                "text": "Цитадель спаунится 1 час."
+                "type": "fish",
+                "x": 333,
+                "y": 291
             }
         },
         {
@@ -89,105 +177,17 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    494,
-                    -814
+                    220,
+                    -154
                 ]
             },
             "properties": {
-                "type": "boss",
-                "x": 494,
-                "y": 814,
-                "caption": "Цитадель Церкви",
-                "class": "tsitadel",
-                "mode": "quest"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    99,
-                    -698
-                ]
-            },
-            "properties": {
-                "type": "note",
-                "x": 99,
-                "y": 698,
-                "text": "Спуск на квест \"Крайние меры\". Внимание! На квест может спуститься только 1 человек!"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    570,
-                    -853
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 570,
-                "y": 853,
-                "caption": "Боевая Цитадель",
-                "class": "tsitadel"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    765,
-                    -442
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 765,
-                "y": 442,
-                "caption": "Небесный Блудотворец Король",
-                "class": "airship"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    675,
-                    -420
-                ]
-            },
-            "properties": {
-                "type": "note",
-                "x": 675,
-                "y": 420,
-                "text": "Для пролёта через этот пробойник вы должны знать тайну \"Секреты военного города\"."
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    866,
-                    -660
-                ]
-            },
-            "properties": {
-                "type": "hole",
-                "x": 866,
-                "y": 660,
-                "region": "pf",
-                "map": "tehnicheskiy",
-                "caption": "Ратный, Технический уровень",
-                "goto": {
-                    "x": 368,
-                    "y": 295
-                }
+                "type": "npc",
+                "x": 220,
+                "y": 154,
+                "caption": "Бункер",
+                "npc": "Робот Марк IV",
+                "link": "library\/npc\/pf\/mark4"
             }
         }
     ]

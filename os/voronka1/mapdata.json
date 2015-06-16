@@ -14,75 +14,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    335,
-                    -86
-                ]
-            },
-            "properties": {
-                "type": "beacon",
-                "x": 335,
-                "y": 86,
-                "link": "library\/coins\/oskolki"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    128,
-                    -744
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 128,
-                "y": 744,
-                "caption": "Гамма-гипнобосс",
-                "class": "gipno"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    134,
-                    -148
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 134,
-                "y": 148,
-                "caption": "Гамма-гипнобосс",
-                "class": "gipno"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    591,
-                    -327
-                ]
-            },
-            "properties": {
-                "type": "fish",
-                "x": 591,
-                "y": 327,
-                "list": [
-                    "Рыба-зигзаг",
-                    "Лазурная пеламида"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     690,
                     -822
                 ]
@@ -100,16 +31,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    280,
-                    -532
+                    493,
+                    -882
                 ]
             },
             "properties": {
-                "type": "boss",
-                "x": 280,
-                "y": 532,
-                "caption": "Гамма-гипнобосс",
-                "class": "gipno"
+                "type": "hole",
+                "x": 493,
+                "y": 882,
+                "region": "os",
+                "map": "rudniykray",
+                "caption": "Рудный край",
+                "goto": {
+                    "x": 789,
+                    "y": 441
+                }
             }
         },
         {
@@ -139,21 +75,85 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    493,
-                    -882
+                    134,
+                    -148
                 ]
             },
             "properties": {
-                "type": "hole",
-                "x": 493,
-                "y": 882,
-                "region": "os",
-                "map": "rudniykray",
-                "caption": "Рудный край",
-                "goto": {
-                    "x": 789,
-                    "y": 441
-                }
+                "type": "boss",
+                "x": 134,
+                "y": 148,
+                "caption": "Гамма-гипнобосс",
+                "class": "gipno"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    128,
+                    -744
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 128,
+                "y": 744,
+                "caption": "Гамма-гипнобосс",
+                "class": "gipno"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    280,
+                    -532
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 280,
+                "y": 532,
+                "caption": "Гамма-гипнобосс",
+                "class": "gipno"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    591,
+                    -327
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 591,
+                "y": 327,
+                "list": [
+                    "Рыба-зигзаг",
+                    "Лазурная пеламида"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    335,
+                    -86
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 335,
+                "y": 86,
+                "link": "library\/coins\/oskolki"
             }
         }
     ]

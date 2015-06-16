@@ -24,49 +24,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    351,
-                    -532
+                    185,
+                    -827
                 ]
             },
             "properties": {
-                "type": "beacon",
-                "x": 351,
-                "y": 532,
-                "link": "library\/coins\/reef"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    806,
-                    -152
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 806,
-                "y": 152,
-                "caption": "Великий Кроволёт Король",
-                "class": "airship"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    475,
-                    -513
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 475,
-                "y": 513,
-                "caption": "Великий Кроволёт Король",
-                "class": "airship"
+                "type": "master",
+                "x": 185,
+                "y": 827,
+                "list": [
+                    "Топаз"
+                ],
+                "link": "library\/masters\/reef"
             }
         },
         {
@@ -92,18 +61,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    185,
-                    -827
+                    80,
+                    -157
                 ]
             },
             "properties": {
-                "type": "master",
-                "x": 185,
-                "y": 827,
-                "list": [
-                    "Топаз"
-                ],
-                "link": "library\/masters\/reef"
+                "type": "hole",
+                "x": 80,
+                "y": 157,
+                "region": "pr",
+                "map": "labt",
+                "caption": "Лабиринт Т",
+                "goto": {
+                    "x": 415,
+                    "y": 906
+                }
             }
         },
         {
@@ -111,16 +83,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    162,
-                    -802
+                    344,
+                    -145
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 162,
-                "y": 802,
-                "caption": "Особый мегаёж",
-                "class": "zloboezh"
+                "x": 344,
+                "y": 145,
+                "caption": "Альфа-матка",
+                "class": "matka"
             }
         },
         {
@@ -162,6 +134,40 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    162,
+                    -802
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 162,
+                "y": 802,
+                "caption": "Особый мегаёж",
+                "class": "zloboezh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    475,
+                    -513
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 475,
+                "y": 513,
+                "caption": "Великий Кроволёт Король",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     745,
                     -477
                 ]
@@ -196,16 +202,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    344,
-                    -145
+                    806,
+                    -152
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 344,
-                "y": 145,
-                "caption": "Альфа-матка",
-                "class": "matka"
+                "x": 806,
+                "y": 152,
+                "caption": "Великий Кроволёт Король",
+                "class": "airship"
             }
         },
         {
@@ -213,21 +219,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    80,
-                    -157
+                    351,
+                    -532
                 ]
             },
             "properties": {
-                "type": "hole",
-                "x": 80,
-                "y": 157,
-                "region": "pr",
-                "map": "labt",
-                "caption": "Лабиринт Т",
-                "goto": {
-                    "x": 415,
-                    "y": 906
-                }
+                "type": "beacon",
+                "x": 351,
+                "y": 532,
+                "link": "library\/coins\/reef"
             }
         }
     ]

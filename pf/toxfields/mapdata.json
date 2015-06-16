@@ -17,25 +17,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    875,
-                    -237
-                ]
-            },
-            "properties": {
-                "type": "fish",
-                "x": 875,
-                "y": 237,
-                "list": [
-                    "Тропический центропиг",
-                    "Игольчатый марлин"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     90,
                     -230
                 ]
@@ -51,6 +32,25 @@
                     "x": 2570,
                     "y": 442
                 }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    875,
+                    -237
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 875,
+                "y": 237,
+                "list": [
+                    "Тропический центропиг",
+                    "Игольчатый марлин"
+                ]
             }
         }
     ]

@@ -21,69 +21,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    111,
-                    -156
+                    826,
+                    -290
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 111,
-                "y": 156,
-                "caption": "Цербер",
-                "class": "tserber"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    398,
-                    -901
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 398,
-                "y": 901,
-                "caption": "Цербер",
-                "class": "tserber"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    430,
-                    -837
-                ]
-            },
-            "properties": {
-                "type": "flager",
-                "x": 430,
-                "y": 837,
-                "easy": "Техночервь (16)",
-                "hard": "Повелитель мух",
-                "link": "library\/flagers\/bastion"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    791,
-                    -780
-                ]
-            },
-            "properties": {
-                "type": "quest",
-                "x": 791,
-                "y": 780,
-                "caption": "Сбор тайны Блюм Брахниус",
-                "link": "quests\/blum",
-                "tip": "Здесь есть записка сумасшедшего!"
+                "x": 826,
+                "y": 290,
+                "caption": "Мухоносец",
+                "class": "muh"
             }
         },
         {
@@ -109,16 +56,57 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    826,
-                    -290
+                    791,
+                    -780
                 ]
             },
             "properties": {
-                "type": "boss",
-                "x": 826,
-                "y": 290,
-                "caption": "Мухоносец",
-                "class": "muh"
+                "type": "quest",
+                "x": 791,
+                "y": 780,
+                "caption": "Сбор тайны Блюм Брахниус",
+                "link": "quests\/blum",
+                "tip": "Здесь есть записка сумасшедшего!"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    430,
+                    -837
+                ]
+            },
+            "properties": {
+                "type": "flager",
+                "x": 430,
+                "y": 837,
+                "easy": "Техночервь (16)",
+                "hard": "Повелитель мух",
+                "link": "library\/flagers\/bastion"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47,
+                    -356
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 47,
+                "y": 356,
+                "region": "bs",
+                "map": "index",
+                "caption": "Бастион",
+                "goto": {
+                    "x": 81,
+                    "y": 80
+                }
             }
         },
         {
@@ -170,21 +158,33 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    47,
-                    -356
+                    398,
+                    -901
                 ]
             },
             "properties": {
-                "type": "hole",
-                "x": 47,
-                "y": 356,
-                "region": "bs",
-                "map": "index",
-                "caption": "Бастион",
-                "goto": {
-                    "x": 81,
-                    "y": 80
-                }
+                "type": "boss",
+                "x": 398,
+                "y": 901,
+                "caption": "Цербер",
+                "class": "tserber"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    111,
+                    -156
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 111,
+                "y": 156,
+                "caption": "Цербер",
+                "class": "tserber"
             }
         }
     ]

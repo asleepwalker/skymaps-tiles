@@ -14,106 +14,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    667,
-                    -410
+                    630,
+                    -390
                 ]
             },
             "properties": {
-                "type": "beacon",
-                "x": 667,
-                "y": 410,
-                "link": "library\/coins\/oskolki"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    760,
-                    -780
-                ]
-            },
-            "properties": {
-                "type": "instance",
-                "x": 760,
-                "y": 780,
-                "region": "os",
-                "map": "hot",
-                "caption": "Горячая грядка",
-                "goX": 1020,
-                "goY": 1020
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    236,
-                    -329
-                ]
-            },
-            "properties": {
-                "type": "instance",
-                "x": 236,
-                "y": 329,
-                "region": "os",
-                "map": "purple",
-                "caption": "Фиолетовая грядка",
-                "goX": 20,
-                "goY": 20
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    107,
-                    -450
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 107,
-                "y": 450,
-                "caption": "Бета-шмель",
-                "class": "shmel"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    540,
-                    -131
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 540,
-                "y": 131,
-                "caption": "Бета-шмель",
-                "class": "shmel"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    577,
-                    -491
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 577,
-                "y": 491,
-                "caption": "Бета-шмель",
-                "class": "shmel"
+                "type": "seyatel",
+                "x": 630,
+                "y": 390
             }
         },
         {
@@ -131,6 +39,23 @@
                 "y": 372,
                 "caption": "Бета-улей",
                 "class": "uley"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    577,
+                    -491
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 577,
+                "y": 491,
+                "caption": "Бета-шмель",
+                "class": "shmel"
             }
         },
         {
@@ -156,14 +81,55 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    630,
-                    -390
+                    540,
+                    -131
                 ]
             },
             "properties": {
-                "type": "seyatel",
-                "x": 630,
-                "y": 390
+                "type": "boss",
+                "x": 540,
+                "y": 131,
+                "caption": "Бета-шмель",
+                "class": "shmel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107,
+                    -450
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 107,
+                "y": 450,
+                "caption": "Бета-шмель",
+                "class": "shmel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    519,
+                    -844
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 519,
+                "y": 844,
+                "region": "os",
+                "map": "zarosli4",
+                "caption": "Заросли, ур.4",
+                "goto": {
+                    "x": 104,
+                    "y": 833
+                }
             }
         },
         {
@@ -193,21 +159,55 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    519,
-                    -844
+                    236,
+                    -329
                 ]
             },
             "properties": {
-                "type": "hole",
-                "x": 519,
-                "y": 844,
+                "type": "instance",
+                "x": 236,
+                "y": 329,
                 "region": "os",
-                "map": "zarosli4",
-                "caption": "Заросли, ур.4",
-                "goto": {
-                    "x": 104,
-                    "y": 833
-                }
+                "map": "purple",
+                "caption": "Фиолетовая грядка",
+                "goX": 20,
+                "goY": 20
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    760,
+                    -780
+                ]
+            },
+            "properties": {
+                "type": "instance",
+                "x": 760,
+                "y": 780,
+                "region": "os",
+                "map": "hot",
+                "caption": "Горячая грядка",
+                "goX": 1020,
+                "goY": 1020
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    667,
+                    -410
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 667,
+                "y": 410,
+                "link": "library\/coins\/oskolki"
             }
         }
     ]

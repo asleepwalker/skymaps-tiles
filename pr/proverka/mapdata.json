@@ -14,17 +14,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    718,
-                    -838
+                    225,
+                    -476
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 718,
-                "y": 838,
-                "caption": "Пирастат",
-                "class": "airship",
-                "mode": "quest"
+                "x": 225,
+                "y": 476,
+                "caption": "Великий Кроволёт Барон",
+                "class": "airship"
             }
         },
         {
@@ -49,16 +48,17 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    225,
-                    -476
+                    718,
+                    -838
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 225,
-                "y": 476,
-                "caption": "Великий Кроволёт Барон",
-                "class": "airship"
+                "x": 718,
+                "y": 838,
+                "caption": "Пирастат",
+                "class": "airship",
+                "mode": "quest"
             }
         }
     ]

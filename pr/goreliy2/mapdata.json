@@ -20,6 +20,84 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    538,
+                    -861
+                ]
+            },
+            "properties": {
+                "type": "flager",
+                "x": 538,
+                "y": 861,
+                "easy": "Коньки-воришки (25)",
+                "hard": "Цитадель негодяев",
+                "link": "library\/flagers\/reef"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    857,
+                    -149
+                ]
+            },
+            "properties": {
+                "type": "note",
+                "x": 857,
+                "y": 149,
+                "text": "Тут у нас импровизированное минное поле.) Удобное место для тренировок с ускорителями."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78,
+                    -99
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 78,
+                "y": 99,
+                "region": "pr",
+                "map": "goreliy1",
+                "caption": "Горелый омут, ур.1",
+                "goto": {
+                    "x": 612,
+                    "y": 145
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    222,
+                    -876
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 222,
+                "y": 876,
+                "region": "pr",
+                "map": "goreliy3",
+                "caption": "Горелый омут, ур.3",
+                "goto": {
+                    "x": 101,
+                    "y": 183
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     626,
                     -383
                 ]
@@ -107,15 +185,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    857,
-                    -149
+                    863,
+                    -861
                 ]
             },
             "properties": {
-                "type": "note",
-                "x": 857,
-                "y": 149,
-                "text": "Тут у нас импровизированное минное поле.) Удобное место для тренировок с ускорителями."
+                "type": "fish",
+                "x": 863,
+                "y": 861
             }
         },
         {
@@ -134,83 +211,6 @@
                 "caption": "\"Рыбы-рыбы-рыбоньки\"",
                 "link": "quests\/fish",
                 "tip": "Здесь ловится ветряный жерех!"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    863,
-                    -861
-                ]
-            },
-            "properties": {
-                "type": "fish",
-                "x": 863,
-                "y": 861
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    538,
-                    -861
-                ]
-            },
-            "properties": {
-                "type": "flager",
-                "x": 538,
-                "y": 861,
-                "easy": "Коньки-воришки (25)",
-                "hard": "Цитадель негодяев",
-                "link": "library\/flagers\/reef"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    222,
-                    -876
-                ]
-            },
-            "properties": {
-                "type": "hole",
-                "x": 222,
-                "y": 876,
-                "region": "pr",
-                "map": "goreliy3",
-                "caption": "Горелый омут, ур.3",
-                "goto": {
-                    "x": 101,
-                    "y": 183
-                }
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    78,
-                    -99
-                ]
-            },
-            "properties": {
-                "type": "hole",
-                "x": 78,
-                "y": 99,
-                "region": "pr",
-                "map": "goreliy1",
-                "caption": "Горелый омут, ур.1",
-                "goto": {
-                    "x": 612,
-                    "y": 145
-                }
             }
         }
     ]

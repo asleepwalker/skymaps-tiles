@@ -14,16 +14,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    856,
-                    -865
+                    140,
+                    -580
                 ]
             },
             "properties": {
-                "type": "boss",
-                "x": 856,
-                "y": 865,
-                "caption": "Альфа-мухоносец",
-                "class": "muh"
+                "type": "barrier",
+                "x": 140,
+                "y": 580
             }
         },
         {
@@ -31,15 +29,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    782,
-                    -842
+                    900,
+                    -550
                 ]
             },
             "properties": {
-                "type": "note",
-                "x": 782,
-                "y": 842,
-                "text": "Как и сверху, здесь к складам попасть невозможно, кроме того, ежи тут хоть и \"моргающие\", но бывает такое, что можно застрять чуть ли не намертво."
+                "type": "barrier",
+                "x": 900,
+                "y": 550
             }
         },
         {
@@ -47,15 +44,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    332,
-                    -142
+                    900,
+                    -480
                 ]
             },
             "properties": {
-                "type": "note",
-                "x": 332,
-                "y": 142,
-                "text": "К складам попасть невозможно: ежи там \"бетонные\"."
+                "type": "barrier",
+                "x": 900,
+                "y": 480
             }
         },
         {
@@ -63,49 +59,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    92,
-                    -882
+                    730,
+                    -870
                 ]
             },
             "properties": {
-                "type": "note",
-                "x": 92,
-                "y": 882,
-                "text": "В точке входа появляется ну очень много боссов, будьте готовы."
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    266,
-                    -844
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 266,
-                "y": 844,
-                "caption": "Штурм-фабрикатор",
-                "class": "kadavr"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    380,
-                    -652
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 380,
-                "y": 652,
-                "caption": "Штурм-крейсер",
-                "class": "kreiser"
+                "type": "barrier",
+                "x": 730,
+                "y": 870
             }
         },
         {
@@ -130,16 +91,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    514,
-                    -865
+                    380,
+                    -652
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 514,
-                "y": 865,
-                "caption": "Убер-фактория",
-                "class": "faka"
+                "x": 380,
+                "y": 652,
+                "caption": "Штурм-крейсер",
+                "class": "kreiser"
             }
         },
         {
@@ -147,16 +108,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    819,
-                    -641
+                    92,
+                    -882
                 ]
             },
             "properties": {
-                "type": "boss",
-                "x": 819,
-                "y": 641,
-                "caption": "Штурм-кишкодав",
-                "class": "kishkodav"
+                "type": "note",
+                "x": 92,
+                "y": 882,
+                "text": "В точке входа появляется ну очень много боссов, будьте готовы."
             }
         },
         {
@@ -164,16 +124,31 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    833,
-                    -501
+                    332,
+                    -142
                 ]
             },
             "properties": {
-                "type": "boss",
-                "x": 833,
-                "y": 501,
-                "caption": "Мусорог-генерал",
-                "class": "musorog"
+                "type": "note",
+                "x": 332,
+                "y": 142,
+                "text": "К складам попасть невозможно: ежи там \"бетонные\"."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    782,
+                    -842
+                ]
+            },
+            "properties": {
+                "type": "note",
+                "x": 782,
+                "y": 842,
+                "text": "Как и сверху, здесь к складам попасть невозможно, кроме того, ежи тут хоть и \"моргающие\", но бывает такое, что можно застрять чуть ли не намертво."
             }
         },
         {
@@ -232,121 +207,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    46,
-                    -483
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 46,
-                "y": 483,
-                "caption": "Штурм-кишкодав",
-                "class": "kishkodav"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    356,
-                    -806
+                    307,
+                    -210
                 ]
             },
             "properties": {
                 "type": "barrier",
-                "x": 356,
-                "y": 806
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    306,
-                    -806
-                ]
-            },
-            "properties": {
-                "type": "barrier",
-                "x": 306,
-                "y": 806
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    306,
-                    -756
-                ]
-            },
-            "properties": {
-                "type": "barrier",
-                "x": 306,
-                "y": 756
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    356,
-                    -756
-                ]
-            },
-            "properties": {
-                "type": "barrier",
-                "x": 356,
-                "y": 756
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    730,
-                    -870
-                ]
-            },
-            "properties": {
-                "type": "barrier",
-                "x": 730,
-                "y": 870
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    900,
-                    -480
-                ]
-            },
-            "properties": {
-                "type": "barrier",
-                "x": 900,
-                "y": 480
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    900,
-                    -550
-                ]
-            },
-            "properties": {
-                "type": "barrier",
-                "x": 900,
-                "y": 550
+                "x": 307,
+                "y": 210
             }
         },
         {
@@ -369,14 +237,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    307,
-                    -210
+                    356,
+                    -756
                 ]
             },
             "properties": {
                 "type": "barrier",
-                "x": 307,
-                "y": 210
+                "x": 356,
+                "y": 756
             }
         },
         {
@@ -384,14 +252,146 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    140,
-                    -580
+                    306,
+                    -756
                 ]
             },
             "properties": {
                 "type": "barrier",
-                "x": 140,
-                "y": 580
+                "x": 306,
+                "y": 756
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    306,
+                    -806
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 306,
+                "y": 806
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    356,
+                    -806
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 356,
+                "y": 806
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    819,
+                    -641
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 819,
+                "y": 641,
+                "caption": "Штурм-кишкодав",
+                "class": "kishkodav"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    833,
+                    -501
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 833,
+                "y": 501,
+                "caption": "Мусорог-генерал",
+                "class": "musorog"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    514,
+                    -865
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 514,
+                "y": 865,
+                "caption": "Убер-фактория",
+                "class": "faka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    266,
+                    -844
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 266,
+                "y": 844,
+                "caption": "Штурм-фабрикатор",
+                "class": "kadavr"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46,
+                    -483
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 46,
+                "y": 483,
+                "caption": "Штурм-кишкодав",
+                "class": "kishkodav"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    856,
+                    -865
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 856,
+                "y": 865,
+                "caption": "Альфа-мухоносец",
+                "class": "muh"
             }
         },
         {

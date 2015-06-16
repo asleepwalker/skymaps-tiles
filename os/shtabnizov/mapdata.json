@@ -14,83 +14,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    529,
-                    -531
-                ]
-            },
-            "properties": {
-                "type": "barrier",
-                "x": 529,
-                "y": 531
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    458,
-                    -531
-                ]
-            },
-            "properties": {
-                "type": "barrier",
-                "x": 458,
-                "y": 531
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    529,
-                    -460
-                ]
-            },
-            "properties": {
-                "type": "barrier",
-                "x": 529,
-                "y": 460
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    458,
-                    -460
-                ]
-            },
-            "properties": {
-                "type": "barrier",
-                "x": 458,
-                "y": 460
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    684,
-                    -759
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 684,
-                "y": 759,
-                "caption": "Кадавр",
-                "class": "kadavr"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     185,
                     -213
                 ]
@@ -101,6 +24,66 @@
                 "y": 213,
                 "caption": "Мухоносец-диверсант",
                 "class": "muh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    458,
+                    -460
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 458,
+                "y": 460
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    529,
+                    -460
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 529,
+                "y": 460
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    458,
+                    -531
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 458,
+                "y": 531
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    529,
+                    -531
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 529,
+                "y": 531
             }
         },
         {
@@ -123,6 +106,23 @@
                     "x": 272,
                     "y": 552
                 }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    684,
+                    -759
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 684,
+                "y": 759,
+                "caption": "Кадавр",
+                "class": "kadavr"
             }
         }
     ]

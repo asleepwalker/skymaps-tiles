@@ -21,15 +21,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    180,
-                    -111
+                    153,
+                    -115
                 ]
             },
             "properties": {
-                "type": "beacon",
-                "x": 180,
-                "y": 111,
-                "link": "library\/coins\/reef"
+                "type": "fish",
+                "x": 153,
+                "y": 115
             }
         },
         {
@@ -37,18 +36,17 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    235,
-                    -198
+                    151,
+                    -112
                 ]
             },
             "properties": {
-                "type": "master",
-                "x": 235,
-                "y": 198,
-                "list": [
-                    "Кокосовое молоко"
-                ],
-                "link": "library\/masters\/reef"
+                "type": "quest",
+                "x": 151,
+                "y": 112,
+                "caption": "\"Рыбы-рыбы-рыбоньки\"",
+                "link": "quests\/fish",
+                "tip": "Здесь ловится скудный лосось!"
             }
         },
         {
@@ -56,67 +54,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    82,
-                    -574
+                    484,
+                    -907
                 ]
             },
             "properties": {
-                "type": "boss",
-                "x": 82,
-                "y": 574,
-                "caption": "Матка",
-                "class": "matka"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    789,
-                    -544
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 789,
-                "y": 544,
-                "caption": "Великий кроволёт",
-                "class": "airship"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    479,
-                    -901
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 479,
-                "y": 901,
-                "caption": "Древний мегаёж",
-                "class": "zloboezh"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    360,
-                    -865
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 360,
-                "y": 865,
-                "caption": "Древний мегаёж",
-                "class": "zloboezh"
+                "type": "barrier",
+                "x": 484,
+                "y": 907
             }
         },
         {
@@ -160,14 +105,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    484,
-                    -907
+                    628,
+                    -184
                 ]
             },
             "properties": {
-                "type": "barrier",
-                "x": 484,
-                "y": 907
+                "type": "hole",
+                "x": 628,
+                "y": 184,
+                "region": "pr",
+                "map": "index",
+                "caption": "Поющий Риф",
+                "goto": {
+                    "x": 146,
+                    "y": 1855
+                }
             }
         },
         {
@@ -175,17 +127,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151,
-                    -112
+                    82,
+                    -574
                 ]
             },
             "properties": {
-                "type": "quest",
-                "x": 151,
-                "y": 112,
-                "caption": "\"Рыбы-рыбы-рыбоньки\"",
-                "link": "quests\/fish",
-                "tip": "Здесь ловится скудный лосось!"
+                "type": "boss",
+                "x": 82,
+                "y": 574,
+                "caption": "Матка",
+                "class": "matka"
             }
         },
         {
@@ -193,14 +144,52 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    153,
-                    -115
+                    360,
+                    -865
                 ]
             },
             "properties": {
-                "type": "fish",
-                "x": 153,
-                "y": 115
+                "type": "boss",
+                "x": 360,
+                "y": 865,
+                "caption": "Древний мегаёж",
+                "class": "zloboezh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    479,
+                    -901
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 479,
+                "y": 901,
+                "caption": "Древний мегаёж",
+                "class": "zloboezh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    235,
+                    -198
+                ]
+            },
+            "properties": {
+                "type": "master",
+                "x": 235,
+                "y": 198,
+                "list": [
+                    "Кокосовое молоко"
+                ],
+                "link": "library\/masters\/reef"
             }
         },
         {
@@ -230,21 +219,32 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    628,
-                    -184
+                    789,
+                    -544
                 ]
             },
             "properties": {
-                "type": "hole",
-                "x": 628,
-                "y": 184,
-                "region": "pr",
-                "map": "index",
-                "caption": "Поющий Риф",
-                "goto": {
-                    "x": 146,
-                    "y": 1855
-                }
+                "type": "boss",
+                "x": 789,
+                "y": 544,
+                "caption": "Великий кроволёт",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    180,
+                    -111
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 180,
+                "y": 111,
+                "link": "library\/coins\/reef"
             }
         }
     ]

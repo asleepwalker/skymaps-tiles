@@ -21,33 +21,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    219,
-                    -219
-                ]
-            },
-            "properties": {
-                "type": "station",
-                "x": 219,
-                "y": 219,
-                "caption": "\"Слава Бургомистра\"",
-                "size": 53,
-                "list": [
-                    {
-                        "caption": "Вышино",
-                        "region": "pf",
-                        "map": "index",
-                        "x": 1607,
-                        "y": 762,
-                        "type": "station"
-                    }
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     490,
                     -330
                 ]
@@ -80,6 +53,33 @@
                 "y": 279,
                 "caption": "Редкий мегаёж",
                 "class": "zloboezh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    219,
+                    -219
+                ]
+            },
+            "properties": {
+                "type": "station",
+                "x": 219,
+                "y": 219,
+                "caption": "\"Слава Бургомистра\"",
+                "size": 53,
+                "list": [
+                    {
+                        "caption": "Вышино",
+                        "region": "pf",
+                        "map": "index",
+                        "x": 1607,
+                        "y": 762,
+                        "type": "station"
+                    }
+                ]
             }
         }
     ]

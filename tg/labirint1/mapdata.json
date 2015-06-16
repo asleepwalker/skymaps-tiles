@@ -18,47 +18,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    160,
-                    -870
+                    87,
+                    -101
                 ]
             },
             "properties": {
-                "type": "beacon",
-                "x": 160,
-                "y": 870,
-                "link": "library\/coins\/gavane"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    320,
-                    -532
-                ]
-            },
-            "properties": {
-                "type": "note",
-                "x": 320,
-                "y": 532,
-                "text": "Чаще всего тут можно встретить исследовательский зонд."
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    874,
-                    -95
-                ]
-            },
-            "properties": {
-                "type": "note",
-                "x": 874,
-                "y": 95,
-                "text": "При обыске старого завода рандомный дроп, может быть редкий ресурс, иногда уникальный МФ параметра корабля."
+                "type": "hole",
+                "x": 87,
+                "y": 101,
+                "region": "tg",
+                "map": "index",
+                "caption": "Тихая Гавань",
+                "goto": {
+                    "x": 1799,
+                    "y": 640
+                }
             }
         },
         {
@@ -88,21 +62,47 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    87,
-                    -101
+                    874,
+                    -95
                 ]
             },
             "properties": {
-                "type": "hole",
-                "x": 87,
-                "y": 101,
-                "region": "tg",
-                "map": "index",
-                "caption": "Тихая Гавань",
-                "goto": {
-                    "x": 1799,
-                    "y": 640
-                }
+                "type": "note",
+                "x": 874,
+                "y": 95,
+                "text": "При обыске старого завода рандомный дроп, может быть редкий ресурс, иногда уникальный МФ параметра корабля."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    320,
+                    -532
+                ]
+            },
+            "properties": {
+                "type": "note",
+                "x": 320,
+                "y": 532,
+                "text": "Чаще всего тут можно встретить исследовательский зонд."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    160,
+                    -870
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 160,
+                "y": 870,
+                "link": "library\/coins\/gavane"
             }
         }
     ]

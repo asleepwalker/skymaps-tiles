@@ -21,14 +21,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    733,
-                    -48
+                    490,
+                    -162
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 733,
-                "y": 48,
+                "x": 490,
+                "y": 162,
                 "caption": "Предатель Небес",
                 "class": "airship"
             }
@@ -57,16 +57,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    490,
-                    -162
+                    55,
+                    -167
                 ]
             },
             "properties": {
-                "type": "boss",
-                "x": 490,
-                "y": 162,
-                "caption": "Предатель Небес",
-                "class": "airship"
+                "type": "hole",
+                "x": 55,
+                "y": 167,
+                "region": "bs",
+                "map": "chervinie11",
+                "caption": "Червиные норы, ур.11",
+                "goto": {
+                    "x": 66,
+                    "y": 106
+                }
             }
         },
         {
@@ -96,21 +101,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    55,
-                    -167
+                    733,
+                    -48
                 ]
             },
             "properties": {
-                "type": "hole",
-                "x": 55,
-                "y": 167,
-                "region": "bs",
-                "map": "chervinie11",
-                "caption": "Червиные норы, ур.11",
-                "goto": {
-                    "x": 66,
-                    "y": 106
-                }
+                "type": "boss",
+                "x": 733,
+                "y": 48,
+                "caption": "Предатель Небес",
+                "class": "airship"
             }
         }
     ]

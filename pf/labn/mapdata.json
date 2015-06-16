@@ -24,16 +24,111 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    554,
-                    -739
+                    555,
+                    -116
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 554,
-                "y": 739,
-                "caption": "Мегаёж",
+                "x": 555,
+                "y": 116,
+                "caption": "Мусорог-губитель Капитан",
+                "class": "musorog"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    277,
+                    -214
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 277,
+                "y": 214,
+                "caption": "Мусорог-губитель Капитан",
+                "class": "musorog"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    310,
+                    -292
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 310,
+                "y": 292,
+                "caption": "Мусорог-губитель Капитан",
+                "class": "musorog"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    378,
+                    -519
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 378,
+                "y": 519,
+                "caption": "Редкий Мегаёж",
                 "class": "zloboezh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    822,
+                    -164
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 822,
+                "y": 164,
+                "region": "pf",
+                "map": "labz",
+                "caption": "Лабиринт З",
+                "goto": {
+                    "x": 840,
+                    "y": 176
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    324,
+                    -842
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 324,
+                "y": 842,
+                "region": "pf",
+                "map": "labo",
+                "caption": "Лабиринт О",
+                "goto": {
+                    "x": 517,
+                    "y": 647
+                }
             }
         },
         {
@@ -75,93 +170,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    647,
-                    -875
-                ]
-            },
-            "properties": {
-                "type": "master",
-                "x": 647,
-                "y": 875,
-                "list": [
-                    "Токсичные растения"
-                ],
-                "link": "library\/masters\/rimland"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    555,
-                    -116
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 555,
-                "y": 116,
-                "caption": "Мусорог-губитель Капитан",
-                "class": "musorog"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    310,
-                    -292
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 310,
-                "y": 292,
-                "caption": "Мусорог-губитель Капитан",
-                "class": "musorog"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    277,
-                    -214
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 277,
-                "y": 214,
-                "caption": "Мусорог-губитель Капитан",
-                "class": "musorog"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    378,
-                    -519
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 378,
-                "y": 519,
-                "caption": "Редкий Мегаёж",
-                "class": "zloboezh"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     564,
                     -809
                 ]
@@ -179,21 +187,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    324,
-                    -842
+                    554,
+                    -739
                 ]
             },
             "properties": {
-                "type": "hole",
-                "x": 324,
-                "y": 842,
-                "region": "pf",
-                "map": "labo",
-                "caption": "Лабиринт О",
-                "goto": {
-                    "x": 517,
-                    "y": 647
-                }
+                "type": "boss",
+                "x": 554,
+                "y": 739,
+                "caption": "Мегаёж",
+                "class": "zloboezh"
             }
         },
         {
@@ -201,21 +204,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    822,
-                    -164
+                    647,
+                    -875
                 ]
             },
             "properties": {
-                "type": "hole",
-                "x": 822,
-                "y": 164,
-                "region": "pf",
-                "map": "labz",
-                "caption": "Лабиринт З",
-                "goto": {
-                    "x": 840,
-                    "y": 176
-                }
+                "type": "master",
+                "x": 647,
+                "y": 875,
+                "list": [
+                    "Токсичные растения"
+                ],
+                "link": "library\/masters\/rimland"
             }
         }
     ]

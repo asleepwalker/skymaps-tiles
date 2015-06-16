@@ -14,57 +14,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    245,
-                    -138
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 245,
-                "y": 138,
-                "caption": "Бета-гипнобосс",
-                "class": "gipno"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    768,
-                    -588
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 768,
-                "y": 588,
-                "caption": "Бета-гипнобосс",
-                "class": "gipno"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    225,
-                    -742
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 225,
-                "y": 742,
-                "caption": "Гамма-гипнобосс",
-                "class": "gipno"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     710,
                     -322
                 ]
@@ -119,6 +68,57 @@
                     "x": 411,
                     "y": 532
                 }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    225,
+                    -742
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 225,
+                "y": 742,
+                "caption": "Гамма-гипнобосс",
+                "class": "gipno"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    768,
+                    -588
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 768,
+                "y": 588,
+                "caption": "Бета-гипнобосс",
+                "class": "gipno"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    245,
+                    -138
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 245,
+                "y": 138,
+                "caption": "Бета-гипнобосс",
+                "class": "gipno"
             }
         }
     ]

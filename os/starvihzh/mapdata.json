@@ -14,76 +14,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    418,
-                    -694
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 418,
-                "y": 694,
-                "caption": "Вестник Пита Барон",
-                "class": "airship"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    779,
-                    -831
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 779,
-                "y": 831,
-                "caption": "Вестник Пита",
-                "class": "airship"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    117,
-                    -823
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 117,
-                "y": 823,
-                "caption": "Вестник Пита",
-                "class": "airship"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    841,
-                    -586
-                ]
-            },
-            "properties": {
-                "type": "fish",
-                "x": 841,
-                "y": 586,
-                "list": [
-                    "Рыба-печень",
-                    "Скудный лосось"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     115,
                     -625
                 ]
@@ -112,6 +42,57 @@
                 "x": 422,
                 "y": 376,
                 "caption": "Вестник Пита",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117,
+                    -823
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 117,
+                "y": 823,
+                "caption": "Вестник Пита",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    779,
+                    -831
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 779,
+                "y": 831,
+                "caption": "Вестник Пита",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    418,
+                    -694
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 418,
+                "y": 694,
+                "caption": "Вестник Пита Барон",
                 "class": "airship"
             }
         },
@@ -157,6 +138,25 @@
                     "x": 101,
                     "y": 139
                 }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    841,
+                    -586
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 841,
+                "y": 586,
+                "list": [
+                    "Рыба-печень",
+                    "Скудный лосось"
+                ]
             }
         }
     ]

@@ -14,35 +14,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    484,
-                    -751
+                    153,
+                    -810
                 ]
             },
             "properties": {
-                "type": "fish",
-                "x": 484,
-                "y": 751,
-                "list": [
-                    "Рыба-зигзаг",
-                    "Лазурная пеламида"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    539,
-                    -618
-                ]
-            },
-            "properties": {
-                "type": "quest",
-                "x": 539,
-                "y": 618,
-                "caption": "Алфавит",
-                "tip": "Если обойти жителей деревни в алфавитном порядке (Арвинд, Бранка, Вуглаз и Гаспар), то последний даст опыта и дублонов."
+                "type": "hole",
+                "x": 153,
+                "y": 810,
+                "region": "tg",
+                "map": "medoviy2",
+                "caption": "Большой Медовый лабиринт, ур.2",
+                "goto": {
+                    "x": 383,
+                    "y": 889
+                }
             }
         },
         {
@@ -85,6 +71,23 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    539,
+                    -618
+                ]
+            },
+            "properties": {
+                "type": "quest",
+                "x": 539,
+                "y": 618,
+                "caption": "Алфавит",
+                "tip": "Если обойти жителей деревни в алфавитном порядке (Арвинд, Бранка, Вуглаз и Гаспар), то последний даст опыта и дублонов."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     615,
                     -299
                 ]
@@ -95,6 +98,25 @@
                 "y": 299,
                 "caption": "Улей",
                 "class": "uley"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    484,
+                    -751
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 484,
+                "y": 751,
+                "list": [
+                    "Рыба-зигзаг",
+                    "Лазурная пеламида"
+                ]
             }
         },
         {
@@ -116,28 +138,6 @@
                 "goto": {
                     "x": 584,
                     "y": 435
-                }
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    153,
-                    -810
-                ]
-            },
-            "properties": {
-                "type": "hole",
-                "x": 153,
-                "y": 810,
-                "region": "tg",
-                "map": "medoviy2",
-                "caption": "Большой Медовый лабиринт, ур.2",
-                "goto": {
-                    "x": 383,
-                    "y": 889
                 }
             }
         }

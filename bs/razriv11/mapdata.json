@@ -22,32 +22,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    742,
-                    -897
+                    66,
+                    -64
                 ]
             },
             "properties": {
-                "type": "beacon",
-                "x": 742,
-                "y": 897,
-                "link": "library\/coins\/bastion"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    742,
-                    -257
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 742,
-                "y": 257,
-                "caption": "Крейсер мстителей",
-                "class": "kreiser"
+                "type": "hole",
+                "x": 66,
+                "y": 64,
+                "region": "bs",
+                "map": "razriv10",
+                "caption": "Разрыв, ур.10",
+                "goto": {
+                    "x": 91,
+                    "y": 163
+                }
             }
         },
         {
@@ -106,6 +95,23 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    742,
+                    -257
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 742,
+                "y": 257,
+                "caption": "Крейсер мстителей",
+                "class": "kreiser"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     117,
                     -261
                 ]
@@ -123,21 +129,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    66,
-                    -64
+                    742,
+                    -897
                 ]
             },
             "properties": {
-                "type": "hole",
-                "x": 66,
-                "y": 64,
-                "region": "bs",
-                "map": "razriv10",
-                "caption": "Разрыв, ур.10",
-                "goto": {
-                    "x": 91,
-                    "y": 163
-                }
+                "type": "beacon",
+                "x": 742,
+                "y": 897,
+                "link": "library\/coins\/bastion"
             }
         }
     ]

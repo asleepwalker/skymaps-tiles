@@ -14,32 +14,17 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    246,
-                    -128
+                    301,
+                    -687
                 ]
             },
             "properties": {
-                "type": "beacon",
-                "x": 246,
-                "y": 128,
-                "link": "library\/coins\/oskolki"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    484,
-                    -754
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 484,
-                "y": 754,
-                "caption": "Гипнобосс",
-                "class": "gipno"
+                "type": "flager",
+                "x": 301,
+                "y": 687,
+                "easy": "Осиланы",
+                "hard": "Пёсобосс",
+                "link": "library\/flagers\/oskolki"
             }
         },
         {
@@ -64,18 +49,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    884,
-                    -279
+                    484,
+                    -754
                 ]
             },
             "properties": {
-                "type": "fish",
-                "x": 884,
-                "y": 279,
-                "list": [
-                    "Рыба-зигзаг",
-                    "Лазурная пеламида"
-                ]
+                "type": "boss",
+                "x": 484,
+                "y": 754,
+                "caption": "Гипнобосс",
+                "class": "gipno"
             }
         },
         {
@@ -83,17 +66,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    301,
-                    -687
+                    779,
+                    -152
                 ]
             },
             "properties": {
-                "type": "flager",
-                "x": 301,
-                "y": 687,
-                "easy": "Осиланы",
-                "hard": "Пёсобосс",
-                "link": "library\/flagers\/oskolki"
+                "type": "boss",
+                "x": 779,
+                "y": 152,
+                "caption": "Гамма-гипнобосс",
+                "class": "gipno"
             }
         },
         {
@@ -101,34 +83,57 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    554,
-                    -513
+                    251,
+                    -103
                 ]
             },
             "properties": {
-                "type": "station",
-                "x": 554,
-                "y": 513,
-                "caption": "Платформа икаров",
-                "size": 90,
-                "list": [
-                    {
-                        "caption": "Кавардак",
-                        "region": "os",
-                        "map": "index",
-                        "x": 474,
-                        "y": 339,
-                        "type": "station"
-                    },
-                    {
-                        "caption": "Трактир \"Пьяный Икар\"",
-                        "region": "os",
-                        "map": "ikarsb",
-                        "x": 368,
-                        "y": 186,
-                        "type": "station"
-                    }
+                "type": "boss",
+                "x": 251,
+                "y": 103,
+                "caption": "Гамма-гипнобосс",
+                "class": "gipno"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    63,
+                    -66
                 ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 63,
+                "y": 66,
+                "region": "os",
+                "map": "ikarse",
+                "caption": "Лабиринт икаров Е",
+                "goto": {
+                    "x": 432,
+                    "y": 86
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    525,
+                    -61
+                ]
+            },
+            "properties": {
+                "type": "wormhole",
+                "x": 525,
+                "y": 61,
+                "goto": {
+                    "x": 85,
+                    "y": 918
+                }
             }
         },
         {
@@ -147,6 +152,25 @@
                 "goto": {
                     "x": 71,
                     "y": 509
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    341,
+                    -290
+                ]
+            },
+            "properties": {
+                "type": "wormhole",
+                "x": 341,
+                "y": 290,
+                "goto": {
+                    "x": 702,
+                    "y": 715
                 }
             }
         },
@@ -174,25 +198,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    903,
-                    -902
-                ]
-            },
-            "properties": {
-                "type": "wormhole",
-                "x": 903,
-                "y": 902,
-                "goto": {
-                    "x": 178,
-                    "y": 680
-                }
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     158,
                     -660
                 ]
@@ -204,25 +209,6 @@
                 "goto": {
                     "x": 923,
                     "y": 922
-                }
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    341,
-                    -290
-                ]
-            },
-            "properties": {
-                "type": "wormhole",
-                "x": 341,
-                "y": 290,
-                "goto": {
-                    "x": 702,
-                    "y": 715
                 }
             }
         },
@@ -269,81 +255,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    525,
-                    -61
-                ]
-            },
-            "properties": {
-                "type": "wormhole",
-                "x": 525,
-                "y": 61,
-                "goto": {
-                    "x": 85,
-                    "y": 918
-                }
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    251,
-                    -103
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 251,
-                "y": 103,
-                "caption": "Гамма-гипнобосс",
-                "class": "gipno"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    779,
-                    -152
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 779,
-                "y": 152,
-                "caption": "Гамма-гипнобосс",
-                "class": "gipno"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    63,
-                    -66
-                ]
-            },
-            "properties": {
-                "type": "hole",
-                "x": 63,
-                "y": 66,
-                "region": "os",
-                "map": "ikarse",
-                "caption": "Лабиринт икаров Е",
-                "goto": {
-                    "x": 432,
-                    "y": 86
-                }
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     499,
                     -903
                 ]
@@ -359,6 +270,95 @@
                     "x": 522,
                     "y": 87
                 }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    903,
+                    -902
+                ]
+            },
+            "properties": {
+                "type": "wormhole",
+                "x": 903,
+                "y": 902,
+                "goto": {
+                    "x": 178,
+                    "y": 680
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    884,
+                    -279
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 884,
+                "y": 279,
+                "list": [
+                    "Рыба-зигзаг",
+                    "Лазурная пеламида"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    246,
+                    -128
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 246,
+                "y": 128,
+                "link": "library\/coins\/oskolki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    554,
+                    -513
+                ]
+            },
+            "properties": {
+                "type": "station",
+                "x": 554,
+                "y": 513,
+                "caption": "Платформа икаров",
+                "size": 90,
+                "list": [
+                    {
+                        "caption": "Кавардак",
+                        "region": "os",
+                        "map": "index",
+                        "x": 474,
+                        "y": 339,
+                        "type": "station"
+                    },
+                    {
+                        "caption": "Трактир \"Пьяный Икар\"",
+                        "region": "os",
+                        "map": "ikarsb",
+                        "x": 368,
+                        "y": 186,
+                        "type": "station"
+                    }
+                ]
             }
         }
     ]

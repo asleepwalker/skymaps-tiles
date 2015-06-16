@@ -24,73 +24,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    784,
-                    -836
-                ]
-            },
-            "properties": {
-                "type": "beacon",
-                "x": 784,
-                "y": 836,
-                "link": "library\/coins\/reef"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    122,
-                    -156
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 122,
-                "y": 156,
-                "caption": "Великий Кроволёт-Король",
-                "class": "airship"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    517,
-                    -435
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 517,
-                "y": 435,
-                "caption": "Усиленная Цитадель Механоидов",
-                "class": "tsitadel"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    656,
-                    -114
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 656,
-                "y": 114,
-                "caption": "Мусорог-губитель Полковник",
-                "class": "musorog"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     229,
                     -414
                 ]
@@ -101,6 +34,28 @@
                 "y": 414,
                 "caption": "Матка",
                 "class": "matka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    880,
+                    -98
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 880,
+                "y": 98,
+                "region": "pr",
+                "map": "labi",
+                "caption": "Лабиринт И",
+                "goto": {
+                    "x": 469,
+                    "y": 97
+                }
             }
         },
         {
@@ -130,21 +85,66 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    880,
-                    -98
+                    122,
+                    -156
                 ]
             },
             "properties": {
-                "type": "hole",
-                "x": 880,
-                "y": 98,
-                "region": "pr",
-                "map": "labi",
-                "caption": "Лабиринт И",
-                "goto": {
-                    "x": 469,
-                    "y": 97
-                }
+                "type": "boss",
+                "x": 122,
+                "y": 156,
+                "caption": "Великий Кроволёт-Король",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    656,
+                    -114
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 656,
+                "y": 114,
+                "caption": "Мусорог-губитель Полковник",
+                "class": "musorog"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    517,
+                    -435
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 517,
+                "y": 435,
+                "caption": "Усиленная Цитадель Механоидов",
+                "class": "tsitadel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    784,
+                    -836
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 784,
+                "y": 836,
+                "link": "library\/coins\/reef"
             }
         }
     ]

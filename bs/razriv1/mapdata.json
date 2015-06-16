@@ -22,98 +22,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    644,
-                    -298
-                ]
-            },
-            "properties": {
-                "type": "beacon",
-                "x": 644,
-                "y": 298,
-                "link": "library\/coins\/bastion"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    640,
-                    -411
+                    230,
+                    -642
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 640,
-                "y": 411,
-                "caption": "Убер-кишкодав",
-                "class": "kishkodav"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    92,
-                    -441
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 92,
-                "y": 441,
-                "caption": "Убер-цербер",
-                "class": "tserber"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    830,
-                    -766
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 830,
-                "y": 766,
-                "caption": "Штурм-кишкодав",
-                "class": "kishkodav"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    775,
-                    -405
-                ]
-            },
-            "properties": {
-                "type": "fish",
-                "x": 775,
-                "y": 405
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    660,
-                    -82
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 660,
-                "y": 82,
-                "caption": "Штурм-крейсер",
-                "class": "kreiser"
+                "x": 230,
+                "y": 642,
+                "caption": "Убер-фактория",
+                "class": "faka"
             }
         },
         {
@@ -138,16 +56,31 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    230,
-                    -642
+                    660,
+                    -82
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 230,
-                "y": 642,
-                "caption": "Убер-фактория",
-                "class": "faka"
+                "x": 660,
+                "y": 82,
+                "caption": "Штурм-крейсер",
+                "class": "kreiser"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    775,
+                    -405
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 775,
+                "y": 405
             }
         },
         {
@@ -192,6 +125,73 @@
                     "x": 1780,
                     "y": 723
                 }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    830,
+                    -766
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 830,
+                "y": 766,
+                "caption": "Штурм-кишкодав",
+                "class": "kishkodav"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    92,
+                    -441
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 92,
+                "y": 441,
+                "caption": "Убер-цербер",
+                "class": "tserber"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    640,
+                    -411
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 640,
+                "y": 411,
+                "caption": "Убер-кишкодав",
+                "class": "kishkodav"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    644,
+                    -298
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 644,
+                "y": 298,
+                "link": "library\/coins\/bastion"
             }
         }
     ]

@@ -21,16 +21,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    619,
-                    -255
+                    295,
+                    -872
                 ]
             },
             "properties": {
-                "type": "boss",
-                "x": 619,
-                "y": 255,
-                "caption": "Убер-кишкодав",
-                "class": "kishkodav"
+                "type": "hole",
+                "x": 295,
+                "y": 872
             }
         },
         {
@@ -38,49 +36,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    675,
-                    -161
+                    686,
+                    -663
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 675,
-                "y": 161,
-                "caption": "Предатель Небес Барон",
-                "class": "airship"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    471,
-                    -102
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 471,
-                "y": 102,
-                "caption": "Предатель Небес Барон",
-                "class": "airship"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    124,
-                    -179
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 124,
-                "y": 179,
-                "caption": "Предатель Небес Король",
+                "x": 686,
+                "y": 663,
+                "caption": "Предатель Небес",
                 "class": "airship"
             }
         },
@@ -90,15 +54,16 @@
                 "type": "Point",
                 "coordinates": [
                     260,
-                    -812
+                    -58
                 ]
             },
             "properties": {
-                "type": "boss",
+                "type": "flager",
                 "x": 260,
-                "y": 812,
-                "caption": "Предатель Небес Барон",
-                "class": "airship"
+                "y": 58,
+                "easy": "Шестеренщик (8)",
+                "hard": "Призрак в ракушке",
+                "link": "library\/flagers\/bastion"
             }
         },
         {
@@ -106,33 +71,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    101,
-                    -681
+                    914,
+                    -286
                 ]
             },
             "properties": {
-                "type": "boss",
-                "x": 101,
-                "y": 681,
-                "caption": "Убер-кишкодав",
-                "class": "kishkodav"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    266,
-                    -575
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 266,
-                "y": 575,
-                "caption": "Предатель Небес Король",
-                "class": "airship"
+                "type": "hole",
+                "x": 914,
+                "y": 286,
+                "region": "bs",
+                "map": "krovaviy2",
+                "caption": "Кровавый лаз, ур.2",
+                "goto": {
+                    "x": 177,
+                    "y": 674
+                }
             }
         },
         {
@@ -159,17 +112,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    260,
-                    -58
+                    266,
+                    -575
                 ]
             },
             "properties": {
-                "type": "flager",
-                "x": 260,
-                "y": 58,
-                "easy": "Шестеренщик (8)",
-                "hard": "Призрак в ракушке",
-                "link": "library\/flagers\/bastion"
+                "type": "boss",
+                "x": 266,
+                "y": 575,
+                "caption": "Предатель Небес Король",
+                "class": "airship"
             }
         },
         {
@@ -177,16 +129,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    686,
-                    -663
+                    101,
+                    -681
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 686,
-                "y": 663,
-                "caption": "Предатель Небес",
-                "class": "airship"
+                "x": 101,
+                "y": 681,
+                "caption": "Убер-кишкодав",
+                "class": "kishkodav"
             }
         },
         {
@@ -211,14 +163,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    295,
-                    -872
+                    260,
+                    -812
                 ]
             },
             "properties": {
-                "type": "hole",
-                "x": 295,
-                "y": 872
+                "type": "boss",
+                "x": 260,
+                "y": 812,
+                "caption": "Предатель Небес Барон",
+                "class": "airship"
             }
         },
         {
@@ -226,21 +180,67 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    914,
-                    -286
+                    124,
+                    -179
                 ]
             },
             "properties": {
-                "type": "hole",
-                "x": 914,
-                "y": 286,
-                "region": "bs",
-                "map": "krovaviy2",
-                "caption": "Кровавый лаз, ур.2",
-                "goto": {
-                    "x": 177,
-                    "y": 674
-                }
+                "type": "boss",
+                "x": 124,
+                "y": 179,
+                "caption": "Предатель Небес Король",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    471,
+                    -102
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 471,
+                "y": 102,
+                "caption": "Предатель Небес Барон",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    675,
+                    -161
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 675,
+                "y": 161,
+                "caption": "Предатель Небес Барон",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    619,
+                    -255
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 619,
+                "y": 255,
+                "caption": "Убер-кишкодав",
+                "class": "kishkodav"
             }
         }
     ]

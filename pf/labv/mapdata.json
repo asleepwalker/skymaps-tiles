@@ -21,16 +21,17 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    391,
-                    -390
+                    158,
+                    -829
                 ]
             },
             "properties": {
-                "type": "boss",
-                "x": 391,
-                "y": 390,
-                "caption": "Мегаёж",
-                "class": "zloboezh"
+                "type": "flager",
+                "x": 158,
+                "y": 829,
+                "easy": "Цикламеновый бандит (25)",
+                "hard": "Безбожный гриболет",
+                "link": "library\/flagers\/rimland"
             }
         },
         {
@@ -55,39 +56,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    158,
-                    -829
+                    391,
+                    -390
                 ]
             },
             "properties": {
-                "type": "flager",
-                "x": 158,
-                "y": 829,
-                "easy": "Цикламеновый бандит (25)",
-                "hard": "Безбожный гриболет",
-                "link": "library\/flagers\/rimland"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    877,
-                    -510
-                ]
-            },
-            "properties": {
-                "type": "hole",
-                "x": 877,
-                "y": 510,
-                "region": "pf",
-                "map": "laba",
-                "caption": "Лабиринт А",
-                "goto": {
-                    "x": 904,
-                    "y": 107
-                }
+                "type": "boss",
+                "x": 391,
+                "y": 390,
+                "caption": "Мегаёж",
+                "class": "zloboezh"
             }
         },
         {
@@ -109,6 +87,28 @@
                 "goto": {
                     "x": 367,
                     "y": 892
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    877,
+                    -510
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 877,
+                "y": 510,
+                "region": "pf",
+                "map": "laba",
+                "caption": "Лабиринт А",
+                "goto": {
+                    "x": 904,
+                    "y": 107
                 }
             }
         },

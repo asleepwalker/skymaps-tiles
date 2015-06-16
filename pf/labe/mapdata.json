@@ -21,16 +21,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    748,
-                    -364
+                    188,
+                    -166
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 748,
-                "y": 364,
-                "caption": "Логово жестоких бандитов",
-                "class": "logovo"
+                "x": 188,
+                "y": 166,
+                "caption": "Небесный Блудотворец Барон",
+                "class": "airship"
             }
         },
         {
@@ -55,16 +55,104 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    188,
-                    -166
+                    748,
+                    -364
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 188,
-                "y": 166,
-                "caption": "Небесный Блудотворец Барон",
-                "class": "airship"
+                "x": 748,
+                "y": 364,
+                "caption": "Логово жестоких бандитов",
+                "class": "logovo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    874,
+                    -147
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 874,
+                "y": 147,
+                "region": "pf",
+                "map": "labz",
+                "caption": "Лабиринт З",
+                "goto": {
+                    "x": 121,
+                    "y": 124
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    347,
+                    -872
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 347,
+                "y": 872,
+                "region": "pf",
+                "map": "labv",
+                "caption": "Лабиринт В",
+                "goto": {
+                    "x": 116,
+                    "y": 113
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    874,
+                    -870
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 874,
+                "y": 870,
+                "region": "pf",
+                "map": "labzh",
+                "caption": "Лабиринт Ж",
+                "goto": {
+                    "x": 444,
+                    "y": 559
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    657,
+                    -109
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 657,
+                "y": 109,
+                "region": "pf",
+                "map": "index",
+                "caption": "Периферия",
+                "goto": {
+                    "x": 1408,
+                    "y": 542
+                }
             }
         },
         {
@@ -108,94 +196,6 @@
                         "type": "station"
                     }
                 ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    657,
-                    -109
-                ]
-            },
-            "properties": {
-                "type": "hole",
-                "x": 657,
-                "y": 109,
-                "region": "pf",
-                "map": "index",
-                "caption": "Периферия",
-                "goto": {
-                    "x": 1408,
-                    "y": 542
-                }
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    874,
-                    -147
-                ]
-            },
-            "properties": {
-                "type": "hole",
-                "x": 874,
-                "y": 147,
-                "region": "pf",
-                "map": "labz",
-                "caption": "Лабиринт З",
-                "goto": {
-                    "x": 121,
-                    "y": 124
-                }
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    874,
-                    -870
-                ]
-            },
-            "properties": {
-                "type": "hole",
-                "x": 874,
-                "y": 870,
-                "region": "pf",
-                "map": "labzh",
-                "caption": "Лабиринт Ж",
-                "goto": {
-                    "x": 444,
-                    "y": 559
-                }
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    347,
-                    -872
-                ]
-            },
-            "properties": {
-                "type": "hole",
-                "x": 347,
-                "y": 872,
-                "region": "pf",
-                "map": "labv",
-                "caption": "Лабиринт В",
-                "goto": {
-                    "x": 116,
-                    "y": 113
-                }
             }
         }
     ]

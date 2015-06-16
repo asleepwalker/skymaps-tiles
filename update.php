@@ -24,7 +24,7 @@
 		}
 
 		$objects = array();
-		$query = "SELECT * FROM (SELECT * FROM (SELECT * FROM `as_maps_objects` WHERE `region` = '".$map['region']."' AND `map` = '".$map['map']."' AND `type` != 'exithole' ORDER BY `id` DESC) AS `deep` GROUP BY `sid` ORDER BY `sid` DESC) AS `published` WHERE `published` = 1  ORDER BY `sid` DESC";
+		$query = "SELECT * FROM (SELECT * FROM (SELECT * FROM `as_maps_objects` WHERE `region` = '".$map['region']."' AND `map` = '".$map['map']."' AND `type` != 'exithole' ORDER BY `id` DESC) AS `deep` GROUP BY `sid`) AS `published` WHERE `published` = 1  ORDER BY `sort`, `id`";
 		$data1 = as_database_query($query);
 		while ($object = mysql_fetch_assoc($data1))
 		{
@@ -176,7 +176,7 @@
 							$item['map'] = $target['map'];
 							$item['x'] = (int)$target['goX'] + 20;
 							$item['y'] = (int)$target['goY'] + 20;
-							$item['type'] = ($target['type'] != 'station') ? 'sky' : 'station';
+							$item['type'] = 'sky';
 							$items[] = $item;
 						}
 					}

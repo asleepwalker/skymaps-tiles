@@ -24,23 +24,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    355,
-                    -854
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 355,
-                "y": 854,
-                "caption": "Логово жестоких бандитов",
-                "class": "logovo"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     322,
                     -197
                 ]
@@ -92,21 +75,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    884,
-                    -628
+                    355,
+                    -854
                 ]
             },
             "properties": {
-                "type": "hole",
-                "x": 884,
-                "y": 628,
-                "region": "pf",
-                "map": "laby",
-                "caption": "Лабиринт Й",
-                "goto": {
-                    "x": 905,
-                    "y": 184
-                }
+                "type": "boss",
+                "x": 355,
+                "y": 854,
+                "caption": "Логово жестоких бандитов",
+                "class": "logovo"
             }
         },
         {
@@ -128,6 +106,28 @@
                 "goto": {
                     "x": 653,
                     "y": 783
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    884,
+                    -628
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 884,
+                "y": 628,
+                "region": "pf",
+                "map": "laby",
+                "caption": "Лабиринт Й",
+                "goto": {
+                    "x": 905,
+                    "y": 184
                 }
             }
         }

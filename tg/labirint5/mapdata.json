@@ -20,22 +20,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    107,
-                    -144
-                ]
-            },
-            "properties": {
-                "type": "beacon",
-                "x": 107,
-                "y": 144,
-                "link": "library\/coins\/gavane"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     91,
                     -368
                 ]
@@ -73,6 +57,22 @@
                     "x": 738,
                     "y": 494
                 }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107,
+                    -144
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 107,
+                "y": 144,
+                "link": "library\/coins\/gavane"
             }
         }
     ]

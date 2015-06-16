@@ -23,15 +23,17 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    141,
-                    -127
+                    846,
+                    -490
                 ]
             },
             "properties": {
-                "type": "beacon",
-                "x": 141,
-                "y": 127,
-                "link": "library\/coins\/rimland"
+                "type": "flager",
+                "x": 846,
+                "y": 490,
+                "easy": "Плакат Памфри (25)",
+                "hard": "Мусорог майор",
+                "link": "library\/flagers\/rimland"
             }
         },
         {
@@ -39,16 +41,33 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    655,
-                    -149
+                    123,
+                    -838
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 655,
-                "y": 149,
+                "x": 123,
+                "y": 838,
                 "caption": "Небесный Блудотворец Король",
                 "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    835,
+                    -247
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 835,
+                "y": 247,
+                "caption": "Особый Мегаёж",
+                "class": "zloboezh"
             }
         },
         {
@@ -73,15 +92,37 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    123,
-                    -838
+                    532,
+                    -839
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 532,
+                "y": 839,
+                "region": "pf",
+                "map": "labl",
+                "caption": "Лабиринт Л",
+                "goto": {
+                    "x": 402,
+                    "y": 639
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121,
+                    -177
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 123,
-                "y": 838,
-                "caption": "Небесный Блудотворец Король",
+                "x": 121,
+                "y": 177,
+                "caption": "Небесный Блудотворец Барон",
                 "class": "airship"
             }
         },
@@ -109,41 +150,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    846,
-                    -490
-                ]
-            },
-            "properties": {
-                "type": "flager",
-                "x": 846,
-                "y": 490,
-                "easy": "Плакат Памфри (25)",
-                "hard": "Мусорог майор",
-                "link": "library\/flagers\/rimland"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121,
-                    -177
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 121,
-                "y": 177,
-                "caption": "Небесный Блудотворец Барон",
-                "class": "airship"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     428,
                     -127
                 ]
@@ -161,16 +167,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    835,
-                    -247
+                    655,
+                    -149
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 835,
-                "y": 247,
-                "caption": "Особый Мегаёж",
-                "class": "zloboezh"
+                "x": 655,
+                "y": 149,
+                "caption": "Небесный Блудотворец Король",
+                "class": "airship"
             }
         },
         {
@@ -178,21 +184,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    532,
-                    -839
+                    141,
+                    -127
                 ]
             },
             "properties": {
-                "type": "hole",
-                "x": 532,
-                "y": 839,
-                "region": "pf",
-                "map": "labl",
-                "caption": "Лабиринт Л",
-                "goto": {
-                    "x": 402,
-                    "y": 639
-                }
+                "type": "beacon",
+                "x": 141,
+                "y": 127,
+                "link": "library\/coins\/rimland"
             }
         }
     ]

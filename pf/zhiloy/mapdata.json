@@ -18,77 +18,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    127,
-                    -554
-                ]
-            },
-            "properties": {
-                "type": "fish",
-                "x": 127,
-                "y": 554
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    484,
-                    -469
-                ]
-            },
-            "properties": {
-                "type": "npc",
-                "x": 484,
-                "y": 469,
-                "caption": "Исследовательская платформа",
-                "npc": "Ирэн Розенкрауцер",
-                "link": "library\/npc\/pf\/iren"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    258,
-                    -849
-                ]
-            },
-            "properties": {
-                "type": "hole",
-                "x": 258,
-                "y": 849,
-                "region": "pf",
-                "map": "index",
-                "caption": "Периферия",
-                "goto": {
-                    "x": 1408,
-                    "y": 542
-                }
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    268,
-                    -342
-                ]
-            },
-            "properties": {
-                "type": "note",
-                "x": 268,
-                "y": 342,
-                "text": "В бункерах на этой карте можно получить чертежи, использовав «Смарт-Карту»."
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     133,
                     -169
                 ]
@@ -106,38 +35,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    850,
+                    828,
                     -887
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 850,
+                "x": 828,
                 "y": 887,
                 "caption": "Сквард Свирепый",
                 "class": "airship"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    711,
-                    -910
-                ]
-            },
-            "properties": {
-                "type": "maphole",
-                "x": 711,
-                "y": 910,
-                "region": "pf",
-                "map": "tehnicheskiy",
-                "caption": "Ратный, Технический уровень",
-                "goto": {
-                    "x": 929,
-                    "y": 374
-                }
             }
         },
         {
@@ -167,6 +74,44 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    711,
+                    -910
+                ]
+            },
+            "properties": {
+                "type": "maphole",
+                "x": 711,
+                "y": 910,
+                "region": "pf",
+                "map": "tehnicheskiy",
+                "caption": "Ратный, Технический уровень",
+                "goto": {
+                    "x": 929,
+                    "y": 374
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    268,
+                    -342
+                ]
+            },
+            "properties": {
+                "type": "note",
+                "x": 268,
+                "y": 342,
+                "text": "В бункерах на этой карте можно получить чертежи, использовав «Смарт-Карту»."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     204,
                     -109
                 ]
@@ -182,6 +127,61 @@
                     "x": 542,
                     "y": 112
                 }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    258,
+                    -849
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 258,
+                "y": 849,
+                "region": "pf",
+                "map": "index",
+                "caption": "Периферия",
+                "goto": {
+                    "x": 1408,
+                    "y": 542
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127,
+                    -554
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 127,
+                "y": 554
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    484,
+                    -469
+                ]
+            },
+            "properties": {
+                "type": "npc",
+                "x": 484,
+                "y": 469,
+                "caption": "Исследовательская платформа",
+                "npc": "Ирэн Розенкрауцер",
+                "link": "library\/npc\/pf\/iren"
             }
         },
         {

@@ -23,6 +23,99 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    449,
+                    -77
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 449,
+                "y": 77,
+                "region": "pr",
+                "map": "laby",
+                "caption": "Лабиринт Й",
+                "goto": {
+                    "x": 900,
+                    "y": 118
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    387,
+                    -889
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 387,
+                "y": 889
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75,
+                    -756
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 75,
+                "y": 756,
+                "region": "pr",
+                "map": "labe",
+                "caption": "Лабиринт Е",
+                "goto": {
+                    "x": 340,
+                    "y": 791
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    788,
+                    -594
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 788,
+                "y": 594,
+                "caption": "Цитадель механоидов",
+                "class": "tsitadel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    377,
+                    -383
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 377,
+                "y": 383,
+                "caption": "Мусорог полковник",
+                "class": "musorog"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     299,
                     -640
                 ]
@@ -85,99 +178,6 @@
                         "type": "station"
                     }
                 ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    788,
-                    -594
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 788,
-                "y": 594,
-                "caption": "Цитадель механоидов",
-                "class": "tsitadel"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    377,
-                    -383
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 377,
-                "y": 383,
-                "caption": "Мусорог полковник",
-                "class": "musorog"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    387,
-                    -889
-                ]
-            },
-            "properties": {
-                "type": "hole",
-                "x": 387,
-                "y": 889
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    75,
-                    -756
-                ]
-            },
-            "properties": {
-                "type": "hole",
-                "x": 75,
-                "y": 756,
-                "region": "pr",
-                "map": "labe",
-                "caption": "Лабиринт Е",
-                "goto": {
-                    "x": 340,
-                    "y": 791
-                }
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    449,
-                    -77
-                ]
-            },
-            "properties": {
-                "type": "hole",
-                "x": 449,
-                "y": 77,
-                "region": "pr",
-                "map": "laby",
-                "caption": "Лабиринт Й",
-                "goto": {
-                    "x": 900,
-                    "y": 118
-                }
             }
         }
     ]

@@ -20,142 +20,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    512,
-                    -495
-                ]
-            },
-            "properties": {
-                "type": "beacon",
-                "x": 512,
-                "y": 495,
-                "link": "library\/coins\/reef"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    247,
-                    -139
-                ]
-            },
-            "properties": {
-                "type": "master",
-                "x": 247,
-                "y": 139,
-                "list": [
-                    "Кокосовое молоко."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    179,
-                    -183
-                ]
-            },
-            "properties": {
-                "type": "note",
-                "x": 179,
-                "y": 183,
-                "text": "Россыпь ремонтных наборов и хладагентов."
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    153,
-                    -704
-                ]
-            },
-            "properties": {
-                "type": "master",
-                "x": 153,
-                "y": 704,
-                "list": [
-                    "Кокосовое молоко"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    87,
-                    -612
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 87,
-                "y": 612,
-                "caption": "Великий кроволёт",
-                "class": "airship"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    479,
-                    -845
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 479,
-                "y": 845,
-                "caption": "Матка",
-                "class": "matka"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    335,
-                    -272
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 335,
-                "y": 272,
-                "caption": "Мусорог полковник",
-                "class": "musorog"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    819,
-                    -415
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 819,
-                "y": 415,
-                "caption": "Матка",
-                "class": "matka"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     780,
                     -863
                 ]
@@ -211,6 +75,142 @@
                     "x": 161,
                     "y": 157
                 }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153,
+                    -704
+                ]
+            },
+            "properties": {
+                "type": "master",
+                "x": 153,
+                "y": 704,
+                "list": [
+                    "Кокосовое молоко"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    179,
+                    -183
+                ]
+            },
+            "properties": {
+                "type": "note",
+                "x": 179,
+                "y": 183,
+                "text": "Россыпь ремонтных наборов и хладагентов."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    479,
+                    -845
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 479,
+                "y": 845,
+                "caption": "Матка",
+                "class": "matka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    335,
+                    -272
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 335,
+                "y": 272,
+                "caption": "Мусорог полковник",
+                "class": "musorog"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    87,
+                    -612
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 87,
+                "y": 612,
+                "caption": "Великий кроволёт",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    819,
+                    -415
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 819,
+                "y": 415,
+                "caption": "Матка",
+                "class": "matka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    247,
+                    -139
+                ]
+            },
+            "properties": {
+                "type": "master",
+                "x": 247,
+                "y": 139,
+                "list": [
+                    "Кокосовое молоко."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    512,
+                    -495
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 512,
+                "y": 495,
+                "link": "library\/coins\/reef"
             }
         }
     ]

@@ -14,19 +14,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    446,
-                    -442
+                    554,
+                    -38
                 ]
             },
             "properties": {
-                "type": "instance",
-                "x": 446,
-                "y": 442,
+                "type": "hole",
+                "x": 554,
+                "y": 38,
                 "region": "zp",
-                "map": "logovo_ktunida",
-                "caption": "Логово Ктунида",
-                "goX": 20,
-                "goY": 20
+                "map": "zapovednik2",
+                "caption": "Заповедник, уровень 2",
+                "goto": {
+                    "x": 421,
+                    "y": 926
+                }
             }
         },
         {
@@ -34,33 +36,79 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    220,
-                    -213
-                ]
-            },
-            "properties": {
-                "type": "beacon",
-                "x": 220,
-                "y": 213,
-                "link": "library\/coins\/zapovednik"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    366,
-                    -886
+                    167,
+                    -91
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 366,
-                "y": 886,
-                "caption": "Хастур",
-                "class": "killmar",
-                "mode": "quest"
+                "x": 167,
+                "y": 91,
+                "caption": "Шмель",
+                "class": "shmel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72,
+                    -183
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 72,
+                "y": 183,
+                "caption": "Улей",
+                "class": "uley"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    216,
+                    -700
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 216,
+                "y": 700
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    267,
+                    -669
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 267,
+                "y": 669
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    903,
+                    -532
+                ]
+            },
+            "properties": {
+                "type": "note",
+                "x": 903,
+                "y": 532,
+                "text": "Для пролёта через этот пробойник вы должны взять задание 'Тайное братство'"
             }
         },
         {
@@ -86,14 +134,17 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    267,
-                    -669
+                    366,
+                    -886
                 ]
             },
             "properties": {
-                "type": "fish",
-                "x": 267,
-                "y": 669
+                "type": "boss",
+                "x": 366,
+                "y": 886,
+                "caption": "Хастур",
+                "class": "killmar",
+                "mode": "quest"
             }
         },
         {
@@ -101,14 +152,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    216,
-                    -700
+                    220,
+                    -213
                 ]
             },
             "properties": {
-                "type": "fish",
-                "x": 216,
-                "y": 700
+                "type": "beacon",
+                "x": 220,
+                "y": 213,
+                "link": "library\/coins\/zapovednik"
             }
         },
         {
@@ -116,15 +168,19 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    903,
-                    -532
+                    446,
+                    -442
                 ]
             },
             "properties": {
-                "type": "note",
-                "x": 903,
-                "y": 532,
-                "text": "Для пролёта через этот пробойник вы должны взять задание 'Тайное братство'"
+                "type": "instance",
+                "x": 446,
+                "y": 442,
+                "region": "zp",
+                "map": "logovo_ktunida",
+                "caption": "Логово Ктунида",
+                "goX": 20,
+                "goY": 20
             }
         },
         {
@@ -141,40 +197,6 @@
                 "x": 349,
                 "y": 119,
                 "text": "Для пролёта через этот пробойник вы должны взять задание \"Соблюдайте технику безопасности\"."
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    72,
-                    -183
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 72,
-                "y": 183,
-                "caption": "Улей",
-                "class": "uley"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    167,
-                    -91
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 167,
-                "y": 91,
-                "caption": "Шмель",
-                "class": "shmel"
             }
         },
         {
@@ -202,28 +224,6 @@
                         "type": "station"
                     }
                 ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    554,
-                    -38
-                ]
-            },
-            "properties": {
-                "type": "hole",
-                "x": 554,
-                "y": 38,
-                "region": "zp",
-                "map": "zapovednik2",
-                "caption": "Заповедник, уровень 2",
-                "goto": {
-                    "x": 421,
-                    "y": 926
-                }
             }
         }
     ]

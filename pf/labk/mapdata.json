@@ -21,16 +21,17 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    138,
-                    -603
+                    568,
+                    -97
                 ]
             },
             "properties": {
-                "type": "boss",
-                "x": 138,
-                "y": 603,
-                "caption": "Логово жестоких бандитов",
-                "class": "logovo"
+                "type": "flager",
+                "x": 568,
+                "y": 97,
+                "easy": "Дрессированный мусорог (19)",
+                "hard": "Розан",
+                "link": "library\/flagers\/rimland"
             }
         },
         {
@@ -55,41 +56,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    770,
-                    -152
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 770,
-                "y": 152,
-                "caption": "Мусорог-потрошитель Капитан",
-                "class": "musorog"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    568,
-                    -97
-                ]
-            },
-            "properties": {
-                "type": "flager",
-                "x": 568,
-                "y": 97,
-                "easy": "Дрессированный мусорог (19)",
-                "hard": "Розан",
-                "link": "library\/flagers\/rimland"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     344,
                     -555
                 ]
@@ -100,6 +66,23 @@
                 "y": 555,
                 "caption": "Редкий Мегаёж",
                 "class": "zloboezh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138,
+                    -603
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 138,
+                "y": 603,
+                "caption": "Логово жестоких бандитов",
+                "class": "logovo"
             }
         },
         {
@@ -124,20 +107,37 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    166,
-                    -889
+                    770,
+                    -152
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 770,
+                "y": 152,
+                "caption": "Мусорог-потрошитель Капитан",
+                "class": "musorog"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80,
+                    -221
                 ]
             },
             "properties": {
                 "type": "hole",
-                "x": 166,
-                "y": 889,
+                "x": 80,
+                "y": 221,
                 "region": "pf",
-                "map": "labu",
-                "caption": "Лабиринт У",
+                "map": "labi",
+                "caption": "Лабиринт И",
                 "goto": {
-                    "x": 112,
-                    "y": 486
+                    "x": 101,
+                    "y": 902
                 }
             }
         },
@@ -168,20 +168,20 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    80,
-                    -221
+                    166,
+                    -889
                 ]
             },
             "properties": {
                 "type": "hole",
-                "x": 80,
-                "y": 221,
+                "x": 166,
+                "y": 889,
                 "region": "pf",
-                "map": "labi",
-                "caption": "Лабиринт И",
+                "map": "labu",
+                "caption": "Лабиринт У",
                 "goto": {
-                    "x": 101,
-                    "y": 902
+                    "x": 112,
+                    "y": 486
                 }
             }
         }

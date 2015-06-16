@@ -21,57 +21,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    265,
-                    -172
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 265,
-                "y": 172,
-                "caption": "Логово Нарушителей Всего",
-                "class": "logovo"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    392,
-                    -549
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 392,
-                "y": 549,
-                "caption": "Логово Нарушителей Всего",
-                "class": "logovo"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    315,
-                    -368
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 315,
-                "y": 368,
-                "caption": "Логово Нарушителей Всего",
-                "class": "logovo"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     723,
                     -478
                 ]
@@ -111,6 +60,28 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    160,
+                    -577
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 160,
+                "y": 577,
+                "region": "pf",
+                "map": "labi",
+                "caption": "Лабиринт И",
+                "goto": {
+                    "x": 907,
+                    "y": 131
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     512,
                     -870
                 ]
@@ -133,21 +104,50 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    160,
-                    -577
+                    265,
+                    -172
                 ]
             },
             "properties": {
-                "type": "hole",
-                "x": 160,
-                "y": 577,
-                "region": "pf",
-                "map": "labi",
-                "caption": "Лабиринт И",
-                "goto": {
-                    "x": 907,
-                    "y": 131
-                }
+                "type": "boss",
+                "x": 265,
+                "y": 172,
+                "caption": "Логово Нарушителей Всего",
+                "class": "logovo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    315,
+                    -368
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 315,
+                "y": 368,
+                "caption": "Логово Нарушителей Всего",
+                "class": "logovo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    392,
+                    -549
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 392,
+                "y": 549,
+                "caption": "Логово Нарушителей Всего",
+                "class": "logovo"
             }
         }
     ]

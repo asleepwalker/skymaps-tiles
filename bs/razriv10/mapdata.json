@@ -22,31 +22,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    860,
-                    -102
+                    820,
+                    -662
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 860,
-                "y": 102,
-                "caption": "Штурм-кадавр",
-                "class": "kadavr"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    780,
-                    -352
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 780,
-                "y": 352,
+                "x": 820,
+                "y": 662,
                 "caption": "Кишкодав",
                 "class": "kishkodav"
             }
@@ -73,14 +56,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    820,
-                    -662
+                    780,
+                    -352
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 820,
-                "y": 662,
+                "x": 780,
+                "y": 352,
                 "caption": "Кишкодав",
                 "class": "kishkodav"
             }
@@ -90,21 +73,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    904,
-                    -383
+                    860,
+                    -102
                 ]
             },
             "properties": {
-                "type": "hole",
-                "x": 904,
-                "y": 383,
-                "region": "bs",
-                "map": "razriv3",
-                "caption": "Разрыв, ур.3",
-                "goto": {
-                    "x": 569,
-                    "y": 569
-                }
+                "type": "boss",
+                "x": 860,
+                "y": 102,
+                "caption": "Штурм-кадавр",
+                "class": "kadavr"
             }
         },
         {
@@ -148,6 +126,28 @@
                 "goto": {
                     "x": 80,
                     "y": 894
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    904,
+                    -383
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 904,
+                "y": 383,
+                "region": "bs",
+                "map": "razriv3",
+                "caption": "Разрыв, ур.3",
+                "goto": {
+                    "x": 569,
+                    "y": 569
                 }
             }
         }

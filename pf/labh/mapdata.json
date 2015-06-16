@@ -24,69 +24,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    156,
-                    -785
+                    570,
+                    -197
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 156,
-                "y": 785,
-                "caption": "Усиленная цитадель",
-                "class": "tsitadel"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    123,
-                    -126
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 123,
-                "y": 126,
-                "caption": "Небесный Блудотворец Барон",
-                "class": "airship"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    761,
-                    -100
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 761,
-                "y": 100,
-                "caption": "Небесный Блудотворец Барон",
-                "class": "default"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    450,
-                    -397
-                ]
-            },
-            "properties": {
-                "type": "master",
-                "x": 450,
-                "y": 397,
-                "list": [
-                    "Механизм подачи снарядов"
-                ],
-                "link": "library\/masters\/rimland"
+                "x": 570,
+                "y": 197,
+                "caption": "Логово бандитов",
+                "class": "logovo"
             }
         },
         {
@@ -128,16 +75,72 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    570,
-                    -197
+                    761,
+                    -100
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 570,
-                "y": 197,
-                "caption": "Логово бандитов",
-                "class": "logovo"
+                "x": 761,
+                "y": 100,
+                "caption": "Небесный Блудотворец Барон",
+                "class": "default"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    123,
+                    -126
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 123,
+                "y": 126,
+                "caption": "Небесный Блудотворец Барон",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    156,
+                    -785
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 156,
+                "y": 785,
+                "caption": "Усиленная цитадель",
+                "class": "tsitadel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    432,
+                    -778
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 432,
+                "y": 778,
+                "region": "pf",
+                "map": "labt",
+                "caption": "Лабиринт Т",
+                "goto": {
+                    "x": 115,
+                    "y": 117
+                }
             }
         },
         {
@@ -167,21 +170,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    432,
-                    -778
+                    450,
+                    -397
                 ]
             },
             "properties": {
-                "type": "hole",
-                "x": 432,
-                "y": 778,
-                "region": "pf",
-                "map": "labt",
-                "caption": "Лабиринт Т",
-                "goto": {
-                    "x": 115,
-                    "y": 117
-                }
+                "type": "master",
+                "x": 450,
+                "y": 397,
+                "list": [
+                    "Механизм подачи снарядов"
+                ],
+                "link": "library\/masters\/rimland"
             }
         }
     ]

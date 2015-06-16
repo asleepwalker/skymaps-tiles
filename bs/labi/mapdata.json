@@ -22,16 +22,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    822,
-                    -155
+                    180,
+                    -202
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 822,
-                "y": 155,
-                "caption": "Убер-мухоносец",
-                "class": "muh"
+                "x": 180,
+                "y": 202,
+                "caption": "Убер-фактория",
+                "class": "faka"
             }
         },
         {
@@ -56,23 +56,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    180,
-                    -202
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 180,
-                "y": 202,
-                "caption": "Убер-фактория",
-                "class": "faka"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     293,
                     -607
                 ]
@@ -90,20 +73,37 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    886,
-                    -883
+                    822,
+                    -155
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 822,
+                "y": 155,
+                "caption": "Убер-мухоносец",
+                "class": "muh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    630,
+                    -615
                 ]
             },
             "properties": {
                 "type": "hole",
-                "x": 886,
-                "y": 883,
+                "x": 630,
+                "y": 615,
                 "region": "bs",
-                "map": "labe",
-                "caption": "Лабиринт Е",
+                "map": "chervinie5",
+                "caption": "Червиные норы, ур.5",
                 "goto": {
-                    "x": 510,
-                    "y": 403
+                    "x": 219,
+                    "y": 68
                 }
             }
         },
@@ -134,20 +134,20 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    630,
-                    -615
+                    886,
+                    -883
                 ]
             },
             "properties": {
                 "type": "hole",
-                "x": 630,
-                "y": 615,
+                "x": 886,
+                "y": 883,
                 "region": "bs",
-                "map": "chervinie5",
-                "caption": "Червиные норы, ур.5",
+                "map": "labe",
+                "caption": "Лабиринт Е",
                 "goto": {
-                    "x": 219,
-                    "y": 68
+                    "x": 510,
+                    "y": 403
                 }
             }
         }

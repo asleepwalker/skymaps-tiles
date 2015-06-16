@@ -14,17 +14,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    822,
-                    -830
+                    502,
+                    -567
                 ]
             },
             "properties": {
-                "type": "npc",
-                "x": 822,
-                "y": 830,
-                "caption": "Командование Пирастата",
-                "npc": "Командование Пирастата",
-                "link": "library\/npc\/pr\/pirastat"
+                "type": "boss",
+                "x": 502,
+                "y": 567,
+                "caption": "Боевая Цитадель Механоидов",
+                "class": "tsitadel"
             }
         },
         {
@@ -32,15 +31,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    118,
-                    -714
+                    801,
+                    -142
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 118,
-                "y": 714,
-                "caption": "Великий кроволёт",
+                "x": 801,
+                "y": 142,
+                "caption": "Великий Кроволёт Король",
                 "class": "airship"
             }
         },
@@ -66,15 +65,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    801,
-                    -142
+                    118,
+                    -714
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 801,
-                "y": 142,
-                "caption": "Великий Кроволёт Король",
+                "x": 118,
+                "y": 714,
+                "caption": "Великий кроволёт",
                 "class": "airship"
             }
         },
@@ -83,16 +82,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    502,
-                    -567
+                    111,
+                    -275
                 ]
             },
             "properties": {
-                "type": "boss",
-                "x": 502,
-                "y": 567,
-                "caption": "Боевая Цитадель Механоидов",
-                "class": "tsitadel"
+                "type": "note",
+                "x": 111,
+                "y": 275,
+                "text": "Вылет из Пепельной горелки к Сквиду."
             }
         },
         {
@@ -116,15 +114,17 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    111,
-                    -275
+                    822,
+                    -830
                 ]
             },
             "properties": {
-                "type": "note",
-                "x": 111,
-                "y": 275,
-                "text": "Вылет из Пепельной горелки к Сквиду."
+                "type": "npc",
+                "x": 822,
+                "y": 830,
+                "caption": "Командование Пирастата",
+                "npc": "Командование Пирастата",
+                "link": "library\/npc\/pr\/pirastat"
             }
         },
         {

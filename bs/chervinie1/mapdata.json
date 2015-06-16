@@ -21,33 +21,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    685,
-                    -143
-                ]
-            },
-            "properties": {
-                "type": "beacon",
-                "x": 685,
-                "y": 143,
-                "mobs": "Убер-шестероид (4)",
-                "link": "library\/coins\/bastion"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    101,
-                    -753
+                    808,
+                    -408
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 101,
-                "y": 753,
+                "x": 808,
+                "y": 408,
                 "caption": "Мухоносец",
-                "class": "musorog"
+                "class": "muh"
             }
         },
         {
@@ -55,16 +38,17 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    656,
-                    -801
+                    185,
+                    -288
                 ]
             },
             "properties": {
-                "type": "boss",
-                "x": 656,
-                "y": 801,
-                "caption": "Кишкодав",
-                "class": "kishkodav"
+                "type": "quest",
+                "x": 185,
+                "y": 288,
+                "caption": "Сбор тайны Блюм Брахниус",
+                "link": "quests\/blum",
+                "tip": "Здесь есть записка сумасшедшего!"
             }
         },
         {
@@ -89,18 +73,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    803,
-                    -597
+                    656,
+                    -801
                 ]
             },
             "properties": {
-                "type": "fish",
-                "x": 803,
-                "y": 597,
-                "list": [
-                    "Рыба-печень",
-                    "Скудный лосось"
-                ]
+                "type": "boss",
+                "x": 656,
+                "y": 801,
+                "caption": "Кишкодав",
+                "class": "kishkodav"
             }
         },
         {
@@ -108,17 +90,17 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    763,
-                    -776
+                    69,
+                    -67
                 ]
             },
             "properties": {
                 "type": "wormhole",
-                "x": 763,
-                "y": 776,
+                "x": 69,
+                "y": 67,
                 "goto": {
-                    "x": 933,
-                    "y": 401
+                    "x": 377,
+                    "y": 105
                 }
             }
         },
@@ -127,17 +109,17 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    581,
-                    -777
+                    357,
+                    -85
                 ]
             },
             "properties": {
                 "type": "wormhole",
-                "x": 581,
-                "y": 777,
+                "x": 357,
+                "y": 85,
                 "goto": {
-                    "x": 199,
-                    "y": 188
+                    "x": 909,
+                    "y": 110
                 }
             }
         },
@@ -146,17 +128,17 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    661,
-                    -581
+                    701,
+                    -59
                 ]
             },
             "properties": {
                 "type": "wormhole",
-                "x": 661,
-                "y": 581,
+                "x": 701,
+                "y": 59,
                 "goto": {
-                    "x": 561,
-                    "y": 259
+                    "x": 74,
+                    "y": 287
                 }
             }
         },
@@ -165,17 +147,156 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    904,
-                    -915
+                    889,
+                    -90
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 889,
+                "y": 90,
+                "region": "bs",
+                "map": "index",
+                "caption": "Бастион",
+                "goto": {
+                    "x": 984,
+                    "y": 124
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    179,
+                    -168
                 ]
             },
             "properties": {
                 "type": "wormhole",
-                "x": 904,
-                "y": 915,
+                "x": 179,
+                "y": 168,
                 "goto": {
-                    "x": 262,
-                    "y": 938
+                    "x": 301,
+                    "y": 758
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54,
+                    -267
+                ]
+            },
+            "properties": {
+                "type": "wormhole",
+                "x": 54,
+                "y": 267,
+                "goto": {
+                    "x": 367,
+                    "y": 287
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    347,
+                    -267
+                ]
+            },
+            "properties": {
+                "type": "wormhole",
+                "x": 347,
+                "y": 267,
+                "goto": {
+                    "x": 924,
+                    "y": 935
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    541,
+                    -239
+                ]
+            },
+            "properties": {
+                "type": "wormhole",
+                "x": 541,
+                "y": 239,
+                "goto": {
+                    "x": 377,
+                    "y": 105
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    858,
+                    -239
+                ]
+            },
+            "properties": {
+                "type": "wormhole",
+                "x": 858,
+                "y": 239,
+                "goto": {
+                    "x": 89,
+                    "y": 87
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114,
+                    -414
+                ]
+            },
+            "properties": {
+                "type": "wormhole",
+                "x": 114,
+                "y": 414,
+                "goto": {
+                    "x": 310,
+                    "y": 644
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    554,
+                    -389
+                ]
+            },
+            "properties": {
+                "type": "maphole",
+                "x": 554,
+                "y": 389,
+                "region": "bs",
+                "map": "chervinie2",
+                "caption": "Червиные норы, ур.2",
+                "goto": {
+                    "x": 489,
+                    "y": 472
                 }
             }
         },
@@ -203,14 +324,52 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    242,
-                    -918
+                    150,
+                    -516
                 ]
             },
             "properties": {
                 "type": "wormhole",
-                "x": 242,
-                "y": 918,
+                "x": 150,
+                "y": 516,
+                "goto": {
+                    "x": 909,
+                    "y": 110
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    290,
+                    -624
+                ]
+            },
+            "properties": {
+                "type": "wormhole",
+                "x": 290,
+                "y": 624,
+                "goto": {
+                    "x": 170,
+                    "y": 536
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    661,
+                    -581
+                ]
+            },
+            "properties": {
+                "type": "wormhole",
+                "x": 661,
+                "y": 581,
                 "goto": {
                     "x": 561,
                     "y": 259
@@ -241,17 +400,52 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    290,
-                    -624
+                    424,
+                    -713
+                ]
+            },
+            "properties": {
+                "type": "note",
+                "x": 424,
+                "y": 713,
+                "text": "Одно из быстрейших течений во всём Небе. Не желаете пролететься с ветерком?"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    581,
+                    -777
                 ]
             },
             "properties": {
                 "type": "wormhole",
-                "x": 290,
-                "y": 624,
+                "x": 581,
+                "y": 777,
                 "goto": {
-                    "x": 170,
-                    "y": 536
+                    "x": 199,
+                    "y": 188
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    763,
+                    -776
+                ]
+            },
+            "properties": {
+                "type": "wormhole",
+                "x": 763,
+                "y": 776,
+                "goto": {
+                    "x": 933,
+                    "y": 401
                 }
             }
         },
@@ -279,188 +473,17 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    150,
-                    -516
+                    242,
+                    -918
                 ]
             },
             "properties": {
                 "type": "wormhole",
-                "x": 150,
-                "y": 516,
+                "x": 242,
+                "y": 918,
                 "goto": {
-                    "x": 909,
-                    "y": 110
-                }
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    114,
-                    -414
-                ]
-            },
-            "properties": {
-                "type": "wormhole",
-                "x": 114,
-                "y": 414,
-                "goto": {
-                    "x": 310,
-                    "y": 644
-                }
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    858,
-                    -239
-                ]
-            },
-            "properties": {
-                "type": "wormhole",
-                "x": 858,
-                "y": 239,
-                "goto": {
-                    "x": 89,
-                    "y": 87
-                }
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    541,
-                    -239
-                ]
-            },
-            "properties": {
-                "type": "wormhole",
-                "x": 541,
-                "y": 239,
-                "goto": {
-                    "x": 377,
-                    "y": 105
-                }
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    701,
-                    -59
-                ]
-            },
-            "properties": {
-                "type": "wormhole",
-                "x": 701,
-                "y": 59,
-                "goto": {
-                    "x": 74,
-                    "y": 287
-                }
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    347,
-                    -267
-                ]
-            },
-            "properties": {
-                "type": "wormhole",
-                "x": 347,
-                "y": 267,
-                "goto": {
-                    "x": 924,
-                    "y": 935
-                }
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    357,
-                    -85
-                ]
-            },
-            "properties": {
-                "type": "wormhole",
-                "x": 357,
-                "y": 85,
-                "goto": {
-                    "x": 909,
-                    "y": 110
-                }
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    54,
-                    -267
-                ]
-            },
-            "properties": {
-                "type": "wormhole",
-                "x": 54,
-                "y": 267,
-                "goto": {
-                    "x": 367,
-                    "y": 287
-                }
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    179,
-                    -168
-                ]
-            },
-            "properties": {
-                "type": "wormhole",
-                "x": 179,
-                "y": 168,
-                "goto": {
-                    "x": 301,
-                    "y": 758
-                }
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    69,
-                    -67
-                ]
-            },
-            "properties": {
-                "type": "wormhole",
-                "x": 69,
-                "y": 67,
-                "goto": {
-                    "x": 377,
-                    "y": 105
+                    "x": 561,
+                    "y": 259
                 }
             }
         },
@@ -488,15 +511,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    424,
-                    -713
+                    904,
+                    -915
                 ]
             },
             "properties": {
-                "type": "note",
-                "x": 424,
-                "y": 713,
-                "text": "Одно из быстрейших течений во всём Небе. Не желаете пролететься с ветерком?"
+                "type": "wormhole",
+                "x": 904,
+                "y": 915,
+                "goto": {
+                    "x": 262,
+                    "y": 938
+                }
             }
         },
         {
@@ -504,34 +530,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    185,
-                    -288
-                ]
-            },
-            "properties": {
-                "type": "quest",
-                "x": 185,
-                "y": 288,
-                "caption": "Сбор тайны Блюм Брахниус",
-                "link": "quests\/blum",
-                "tip": "Здесь есть записка сумасшедшего!"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    808,
-                    -408
+                    101,
+                    -753
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 808,
-                "y": 408,
+                "x": 101,
+                "y": 753,
                 "caption": "Мухоносец",
-                "class": "muh"
+                "class": "musorog"
             }
         },
         {
@@ -539,21 +547,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    554,
-                    -389
+                    803,
+                    -597
                 ]
             },
             "properties": {
-                "type": "maphole",
-                "x": 554,
-                "y": 389,
-                "region": "bs",
-                "map": "chervinie2",
-                "caption": "Червиные норы, ур.2",
-                "goto": {
-                    "x": 489,
-                    "y": 472
-                }
+                "type": "fish",
+                "x": 803,
+                "y": 597,
+                "list": [
+                    "Рыба-печень",
+                    "Скудный лосось"
+                ]
             }
         },
         {
@@ -561,21 +566,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    889,
-                    -90
+                    685,
+                    -143
                 ]
             },
             "properties": {
-                "type": "hole",
-                "x": 889,
-                "y": 90,
-                "region": "bs",
-                "map": "index",
-                "caption": "Бастион",
-                "goto": {
-                    "x": 984,
-                    "y": 124
-                }
+                "type": "beacon",
+                "x": 685,
+                "y": 143,
+                "mobs": "Убер-шестероид (4)",
+                "link": "library\/coins\/bastion"
             }
         }
     ]

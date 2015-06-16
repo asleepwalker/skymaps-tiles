@@ -20,124 +20,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    865,
-                    -749
-                ]
-            },
-            "properties": {
-                "type": "beacon",
-                "x": 865,
-                "y": 749,
-                "coins": "3",
-                "link": "library\/coins\/reef"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    118,
-                    -453
-                ]
-            },
-            "properties": {
-                "type": "note",
-                "x": 118,
-                "y": 453,
-                "text": "Здесь обитают редкие медузы. С Premium Gold у вас есть большой шанс получить низаракт."
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    80,
-                    -61
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 80,
-                "y": 61,
-                "caption": "Великий кроволёт",
-                "class": "airship"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    692,
-                    -506
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 692,
-                "y": 506,
-                "caption": "Мусорог-губитель Полковник",
-                "class": "musorog"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    664,
-                    -149
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 664,
-                "y": 149,
-                "caption": "Бета-матка",
-                "class": "matka"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    88,
-                    -729
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 88,
-                "y": 729,
-                "caption": "Великий кроволёт",
-                "class": "airship"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    810,
-                    -832
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 810,
-                "y": 832,
-                "caption": "Великий кроволёт",
-                "class": "airship"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     844,
                     -712
                 ]
@@ -202,6 +84,124 @@
                     "x": 300,
                     "y": 147
                 }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    664,
+                    -149
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 664,
+                "y": 149,
+                "caption": "Бета-матка",
+                "class": "matka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80,
+                    -61
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 80,
+                "y": 61,
+                "caption": "Великий кроволёт",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88,
+                    -729
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 88,
+                "y": 729,
+                "caption": "Великий кроволёт",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    810,
+                    -832
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 810,
+                "y": 832,
+                "caption": "Великий кроволёт",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    692,
+                    -506
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 692,
+                "y": 506,
+                "caption": "Мусорог-губитель Полковник",
+                "class": "musorog"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118,
+                    -453
+                ]
+            },
+            "properties": {
+                "type": "note",
+                "x": 118,
+                "y": 453,
+                "text": "Здесь обитают редкие медузы. С Premium Gold у вас есть большой шанс получить низаракт."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    865,
+                    -749
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 865,
+                "y": 749,
+                "coins": "3",
+                "link": "library\/coins\/reef"
             }
         }
     ]

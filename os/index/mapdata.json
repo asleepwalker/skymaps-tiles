@@ -24,17 +24,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    455,
-                    -317
+                    60,
+                    -192
                 ]
             },
             "properties": {
-                "type": "npc",
-                "x": 455,
-                "y": 317,
-                "caption": "Кавардак",
-                "npc": "Искандер",
-                "link": "library\/npc\/os\/iskander"
+                "type": "boss",
+                "x": 60,
+                "y": 192,
+                "caption": "Осиный улей",
+                "class": "uley"
             }
         },
         {
@@ -42,15 +41,321 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    784,
-                    -395
+                    120,
+                    -250
                 ]
             },
             "properties": {
-                "type": "beacon",
-                "x": 784,
-                "y": 395,
-                "link": "library\/coins\/oskolki"
+                "type": "factory",
+                "x": 120,
+                "y": 250,
+                "caption": "Бронетаранный завод Осколков",
+                "production": [
+                    "Булава I-III",
+                    "Горгона I-III",
+                    "Эво-броня I-IV"
+                ],
+                "link": "library\/factories\/oskolki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    177,
+                    -432
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 177,
+                "y": 432,
+                "caption": "Шмель",
+                "class": "shmel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43,
+                    -44
+                ]
+            },
+            "properties": {
+                "type": "maphole",
+                "x": 43,
+                "y": 44,
+                "region": "os",
+                "map": "bespredel",
+                "caption": "Беспредельщина",
+                "goto": {
+                    "x": 941,
+                    "y": 637
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    255,
+                    -44
+                ]
+            },
+            "properties": {
+                "type": "maphole",
+                "x": 255,
+                "y": 44,
+                "region": "os",
+                "map": "rudniykray",
+                "caption": "Рудный край",
+                "goto": {
+                    "x": 333,
+                    "y": 644
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    506,
+                    -45
+                ]
+            },
+            "properties": {
+                "type": "maphole",
+                "x": 506,
+                "y": 45,
+                "region": "os",
+                "map": "rudniykray",
+                "caption": "Рудный край",
+                "goto": {
+                    "x": 510,
+                    "y": 636
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    642,
+                    -47
+                ]
+            },
+            "properties": {
+                "type": "maphole",
+                "x": 642,
+                "y": 47,
+                "region": "os",
+                "map": "rudniykray",
+                "caption": "Рудный край",
+                "goto": {
+                    "x": 808,
+                    "y": 643
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    921,
+                    -150
+                ]
+            },
+            "properties": {
+                "type": "maphole",
+                "x": 921,
+                "y": 150,
+                "region": "os",
+                "map": "razruha",
+                "caption": "Разруха",
+                "goto": {
+                    "x": 65,
+                    "y": 165
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44,
+                    -247
+                ]
+            },
+            "properties": {
+                "type": "maphole",
+                "x": 44,
+                "y": 247,
+                "region": "os",
+                "map": "ogorodes",
+                "caption": "Огороды",
+                "goto": {
+                    "x": 947,
+                    "y": 273
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43,
+                    -347
+                ]
+            },
+            "properties": {
+                "type": "maphole",
+                "x": 43,
+                "y": 347,
+                "region": "os",
+                "map": "ogorodes",
+                "caption": "Огороды",
+                "goto": {
+                    "x": 939,
+                    "y": 469
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    369,
+                    -623
+                ]
+            },
+            "properties": {
+                "type": "maphole",
+                "x": 369,
+                "y": 623,
+                "region": "os",
+                "map": "stariygorod",
+                "caption": "Старый город",
+                "goto": {
+                    "x": 522,
+                    "y": 61
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    633,
+                    -620
+                ]
+            },
+            "properties": {
+                "type": "maphole",
+                "x": 633,
+                "y": 620,
+                "region": "os",
+                "map": "stariygorod",
+                "caption": "Старый город",
+                "goto": {
+                    "x": 781,
+                    "y": 61
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    921,
+                    -619
+                ]
+            },
+            "properties": {
+                "type": "maphole",
+                "x": 921,
+                "y": 619,
+                "region": "os",
+                "map": "dremuchie",
+                "caption": "Дремучье",
+                "goto": {
+                    "x": 66,
+                    "y": 63
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    922,
+                    -496
+                ]
+            },
+            "properties": {
+                "type": "maphole",
+                "x": 922,
+                "y": 496,
+                "region": "os",
+                "map": "razruha",
+                "caption": "Разруха",
+                "goto": {
+                    "x": 65,
+                    "y": 552
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    925,
+                    -324
+                ]
+            },
+            "properties": {
+                "type": "maphole",
+                "x": 925,
+                "y": 324,
+                "region": "os",
+                "map": "razruha",
+                "caption": "Разруха",
+                "goto": {
+                    "x": 58,
+                    "y": 361
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    425,
+                    -132
+                ]
+            },
+            "properties": {
+                "type": "master",
+                "x": 425,
+                "y": 132,
+                "list": [
+                    "Молоко летающих коров"
+                ],
+                "link": "library\/masters\/oskolki"
             }
         },
         {
@@ -77,18 +382,71 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    425,
-                    -132
+                    177,
+                    -230
                 ]
             },
             "properties": {
-                "type": "master",
-                "x": 425,
-                "y": 132,
+                "type": "fish",
+                "x": 177,
+                "y": 230,
                 "list": [
-                    "Молоко летающих коров"
-                ],
-                "link": "library\/masters\/oskolki"
+                    "Рыба-печень",
+                    "Скудный лосось"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    856,
+                    -291
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 856,
+                "y": 291,
+                "list": [
+                    "Рыба-зигзаг",
+                    "Лазурная пеламида"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    784,
+                    -395
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 784,
+                "y": 395,
+                "link": "library\/coins\/oskolki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    455,
+                    -317
+                ]
+            },
+            "properties": {
+                "type": "npc",
+                "x": 455,
+                "y": 317,
+                "caption": "Кавардак",
+                "npc": "Искандер",
+                "link": "library\/npc\/os\/iskander"
             }
         },
         {
@@ -212,364 +570,6 @@
                         "type": "sky"
                     }
                 ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    177,
-                    -432
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 177,
-                "y": 432,
-                "caption": "Шмель",
-                "class": "shmel"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120,
-                    -250
-                ]
-            },
-            "properties": {
-                "type": "factory",
-                "x": 120,
-                "y": 250,
-                "caption": "Бронетаранный завод Осколков",
-                "production": [
-                    "Булава I-III",
-                    "Горгона I-III",
-                    "Эво-броня I-IV"
-                ],
-                "link": "library\/factories\/oskolki"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    60,
-                    -192
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 60,
-                "y": 192,
-                "caption": "Осиный улей",
-                "class": "uley"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    856,
-                    -291
-                ]
-            },
-            "properties": {
-                "type": "fish",
-                "x": 856,
-                "y": 291,
-                "list": [
-                    "Рыба-зигзаг",
-                    "Лазурная пеламида"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    177,
-                    -230
-                ]
-            },
-            "properties": {
-                "type": "fish",
-                "x": 177,
-                "y": 230,
-                "list": [
-                    "Рыба-печень",
-                    "Скудный лосось"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    921,
-                    -150
-                ]
-            },
-            "properties": {
-                "type": "maphole",
-                "x": 921,
-                "y": 150,
-                "region": "os",
-                "map": "razruha",
-                "caption": "Разруха",
-                "goto": {
-                    "x": 65,
-                    "y": 165
-                }
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    925,
-                    -324
-                ]
-            },
-            "properties": {
-                "type": "maphole",
-                "x": 925,
-                "y": 324,
-                "region": "os",
-                "map": "razruha",
-                "caption": "Разруха",
-                "goto": {
-                    "x": 58,
-                    "y": 361
-                }
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    922,
-                    -496
-                ]
-            },
-            "properties": {
-                "type": "maphole",
-                "x": 922,
-                "y": 496,
-                "region": "os",
-                "map": "razruha",
-                "caption": "Разруха",
-                "goto": {
-                    "x": 65,
-                    "y": 552
-                }
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    921,
-                    -619
-                ]
-            },
-            "properties": {
-                "type": "maphole",
-                "x": 921,
-                "y": 619,
-                "region": "os",
-                "map": "dremuchie",
-                "caption": "Дремучье",
-                "goto": {
-                    "x": 66,
-                    "y": 63
-                }
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    633,
-                    -620
-                ]
-            },
-            "properties": {
-                "type": "maphole",
-                "x": 633,
-                "y": 620,
-                "region": "os",
-                "map": "stariygorod",
-                "caption": "Старый город",
-                "goto": {
-                    "x": 781,
-                    "y": 61
-                }
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    369,
-                    -623
-                ]
-            },
-            "properties": {
-                "type": "maphole",
-                "x": 369,
-                "y": 623,
-                "region": "os",
-                "map": "stariygorod",
-                "caption": "Старый город",
-                "goto": {
-                    "x": 522,
-                    "y": 61
-                }
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    43,
-                    -347
-                ]
-            },
-            "properties": {
-                "type": "maphole",
-                "x": 43,
-                "y": 347,
-                "region": "os",
-                "map": "ogorodes",
-                "caption": "Огороды",
-                "goto": {
-                    "x": 939,
-                    "y": 469
-                }
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    44,
-                    -247
-                ]
-            },
-            "properties": {
-                "type": "maphole",
-                "x": 44,
-                "y": 247,
-                "region": "os",
-                "map": "ogorodes",
-                "caption": "Огороды",
-                "goto": {
-                    "x": 947,
-                    "y": 273
-                }
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    642,
-                    -47
-                ]
-            },
-            "properties": {
-                "type": "maphole",
-                "x": 642,
-                "y": 47,
-                "region": "os",
-                "map": "rudniykray",
-                "caption": "Рудный край",
-                "goto": {
-                    "x": 808,
-                    "y": 643
-                }
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    506,
-                    -45
-                ]
-            },
-            "properties": {
-                "type": "maphole",
-                "x": 506,
-                "y": 45,
-                "region": "os",
-                "map": "rudniykray",
-                "caption": "Рудный край",
-                "goto": {
-                    "x": 510,
-                    "y": 636
-                }
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    255,
-                    -44
-                ]
-            },
-            "properties": {
-                "type": "maphole",
-                "x": 255,
-                "y": 44,
-                "region": "os",
-                "map": "rudniykray",
-                "caption": "Рудный край",
-                "goto": {
-                    "x": 333,
-                    "y": 644
-                }
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    43,
-                    -44
-                ]
-            },
-            "properties": {
-                "type": "maphole",
-                "x": 43,
-                "y": 44,
-                "region": "os",
-                "map": "bespredel",
-                "caption": "Беспредельщина",
-                "goto": {
-                    "x": 941,
-                    "y": 637
-                }
             }
         }
     ]

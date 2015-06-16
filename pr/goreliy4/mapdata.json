@@ -20,6 +20,83 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    559,
+                    -480
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 559,
+                "y": 480
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    557,
+                    -476
+                ]
+            },
+            "properties": {
+                "type": "quest",
+                "x": 557,
+                "y": 476,
+                "caption": "\"Рыбы-рыбы-рыбоньки\"",
+                "link": "quests\/fish",
+                "tip": "Здесь ловится залетный хариус!"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    280,
+                    -127
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 280,
+                "y": 127,
+                "region": "pr",
+                "map": "goreliy5",
+                "caption": "Горелый омут, ур.5",
+                "goto": {
+                    "x": 498,
+                    "y": 515
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    528,
+                    -116
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 528,
+                "y": 116,
+                "region": "pr",
+                "map": "goreliy3",
+                "caption": "Горелый омут, ур.3",
+                "goto": {
+                    "x": 732,
+                    "y": 162
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     82,
                     -299
                 ]
@@ -65,83 +142,6 @@
                 "caption": "Матка Босха",
                 "class": "matka",
                 "mode": "rare"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    557,
-                    -476
-                ]
-            },
-            "properties": {
-                "type": "quest",
-                "x": 557,
-                "y": 476,
-                "caption": "\"Рыбы-рыбы-рыбоньки\"",
-                "link": "quests\/fish",
-                "tip": "Здесь ловится залетный хариус!"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    559,
-                    -480
-                ]
-            },
-            "properties": {
-                "type": "fish",
-                "x": 559,
-                "y": 480
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    280,
-                    -127
-                ]
-            },
-            "properties": {
-                "type": "hole",
-                "x": 280,
-                "y": 127,
-                "region": "pr",
-                "map": "goreliy5",
-                "caption": "Горелый омут, ур.5",
-                "goto": {
-                    "x": 498,
-                    "y": 515
-                }
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    528,
-                    -116
-                ]
-            },
-            "properties": {
-                "type": "hole",
-                "x": 528,
-                "y": 116,
-                "region": "pr",
-                "map": "goreliy3",
-                "caption": "Горелый омут, ур.3",
-                "goto": {
-                    "x": 732,
-                    "y": 162
-                }
             }
         }
     ]

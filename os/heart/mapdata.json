@@ -14,15 +14,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    746,
-                    -447
+                    501,
+                    -812
                 ]
             },
             "properties": {
-                "type": "beacon",
-                "x": 746,
-                "y": 447,
-                "link": "library\/coins\/oskolki"
+                "type": "hole",
+                "x": 501,
+                "y": 812
             }
         },
         {
@@ -30,14 +29,17 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    248,
-                    -492
+                    158,
+                    -142
                 ]
             },
             "properties": {
-                "type": "station",
-                "x": 248,
-                "y": 492
+                "type": "flager",
+                "x": 158,
+                "y": 142,
+                "easy": "Злобные сипухи",
+                "hard": "Капитан Трешак",
+                "link": "library\/flagers\/oskolki"
             }
         },
         {
@@ -45,16 +47,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    715,
-                    -347
+                    778,
+                    -815
                 ]
             },
             "properties": {
-                "type": "boss",
-                "x": 715,
-                "y": 347,
-                "caption": "Бета-шмель",
-                "class": "shmel"
+                "type": "turn",
+                "x": 778,
+                "y": 815
             }
         },
         {
@@ -62,16 +62,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    232,
-                    -616
+                    503,
+                    -478
                 ]
             },
             "properties": {
-                "type": "boss",
-                "x": 232,
-                "y": 616,
-                "caption": "Бета-шмель",
-                "class": "shmel"
+                "type": "turn",
+                "x": 503,
+                "y": 478
             }
         },
         {
@@ -79,16 +77,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    219,
-                    -358
+                    504,
+                    -310
                 ]
             },
             "properties": {
-                "type": "boss",
-                "x": 219,
-                "y": 358,
-                "caption": "Гамма-шмель",
-                "class": "shmel"
+                "type": "turn",
+                "x": 504,
+                "y": 310
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    503,
+                    -156
+                ]
+            },
+            "properties": {
+                "type": "turn",
+                "x": 503,
+                "y": 156
             }
         },
         {
@@ -126,51 +137,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    503,
-                    -156
-                ]
-            },
-            "properties": {
-                "type": "turn",
-                "x": 503,
-                "y": 156
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    504,
-                    -310
-                ]
-            },
-            "properties": {
-                "type": "turn",
-                "x": 504,
-                "y": 310
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    503,
-                    -478
-                ]
-            },
-            "properties": {
-                "type": "turn",
-                "x": 503,
-                "y": 478
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     501,
                     -656
                 ]
@@ -179,36 +145,6 @@
                 "type": "turn",
                 "x": 501,
                 "y": 656
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    778,
-                    -815
-                ]
-            },
-            "properties": {
-                "type": "turn",
-                "x": 778,
-                "y": 815
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    618,
-                    -812
-                ]
-            },
-            "properties": {
-                "type": "turn",
-                "x": 618,
-                "y": 812
             }
         },
         {
@@ -246,17 +182,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    158,
-                    -142
+                    618,
+                    -812
                 ]
             },
             "properties": {
-                "type": "flager",
-                "x": 158,
-                "y": 142,
-                "easy": "Злобные сипухи",
-                "hard": "Капитан Трешак",
-                "link": "library\/flagers\/oskolki"
+                "type": "turn",
+                "x": 618,
+                "y": 812
             }
         },
         {
@@ -264,14 +197,81 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    501,
-                    -812
+                    219,
+                    -358
                 ]
             },
             "properties": {
-                "type": "hole",
-                "x": 501,
-                "y": 812
+                "type": "boss",
+                "x": 219,
+                "y": 358,
+                "caption": "Гамма-шмель",
+                "class": "shmel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    232,
+                    -616
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 232,
+                "y": 616,
+                "caption": "Бета-шмель",
+                "class": "shmel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    715,
+                    -347
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 715,
+                "y": 347,
+                "caption": "Бета-шмель",
+                "class": "shmel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    746,
+                    -447
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 746,
+                "y": 447,
+                "link": "library\/coins\/oskolki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    248,
+                    -492
+                ]
+            },
+            "properties": {
+                "type": "station",
+                "x": 248,
+                "y": 492
             }
         }
     ]

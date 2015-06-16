@@ -21,6 +21,40 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    409,
+                    -840
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 409,
+                "y": 840,
+                "caption": "Таверна алконавтов-монстров",
+                "class": "taverna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    224,
+                    -545
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 224,
+                "y": 545,
+                "caption": "Таверна алконавтов-зомби",
+                "class": "taverna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     668,
                     -246
                 ]
@@ -55,33 +89,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    409,
-                    -840
+                    101,
+                    -104
                 ]
             },
             "properties": {
-                "type": "boss",
-                "x": 409,
-                "y": 840,
-                "caption": "Таверна алконавтов-монстров",
-                "class": "taverna"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    224,
-                    -545
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 224,
-                "y": 545,
-                "caption": "Таверна алконавтов-зомби",
-                "class": "taverna"
+                "type": "hole",
+                "x": 101,
+                "y": 104,
+                "region": "pf",
+                "map": "labe",
+                "caption": "Лабиринт Е",
+                "goto": {
+                    "x": 894,
+                    "y": 167
+                }
             }
         },
         {
@@ -125,28 +147,6 @@
                 "goto": {
                     "x": 103,
                     "y": 685
-                }
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    101,
-                    -104
-                ]
-            },
-            "properties": {
-                "type": "hole",
-                "x": 101,
-                "y": 104,
-                "region": "pf",
-                "map": "labe",
-                "caption": "Лабиринт Е",
-                "goto": {
-                    "x": 894,
-                    "y": 167
                 }
             }
         }

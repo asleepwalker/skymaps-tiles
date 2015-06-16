@@ -14,85 +14,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    168,
-                    -475
+                    730,
+                    -535
                 ]
             },
             "properties": {
-                "type": "beacon",
-                "x": 168,
-                "y": 475,
-                "link": "library\/coins\/rimland"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    547,
-                    -752
-                ]
-            },
-            "properties": {
-                "type": "note",
-                "x": 547,
-                "y": 752,
-                "text": "Судя по тому, что на местных свалках можно найти александриты, токсичные растения, часовые механизмы, до Исхода они находились на Рублёвке."
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    574,
-                    -842
-                ]
-            },
-            "properties": {
-                "type": "station",
-                "x": 574,
-                "y": 842,
-                "caption": "Чкаловская",
-                "size": 69,
-                "list": [
-                    {
-                        "caption": "Станция добытчиков",
-                        "region": "pf",
-                        "map": "labe",
-                        "x": 171,
-                        "y": 832,
-                        "type": "station"
-                    },
-                    {
-                        "caption": "\"Радость Труда\"",
-                        "region": "pf",
-                        "map": "labl",
-                        "x": 824,
-                        "y": 161,
-                        "type": "station"
-                    }
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    850,
-                    -389
-                ]
-            },
-            "properties": {
-                "type": "master",
-                "x": 850,
-                "y": 389,
-                "list": [
-                    "Александрит"
-                ],
-                "link": "library\/masters\/rimland"
+                "type": "boss",
+                "x": 730,
+                "y": 535,
+                "caption": "Боевая Цитадель",
+                "class": "tsitadel"
             }
         },
         {
@@ -134,23 +65,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    730,
-                    -535
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 730,
-                "y": 535,
-                "caption": "Боевая Цитадель",
-                "class": "tsitadel"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     818,
                     -438
                 ]
@@ -161,6 +75,22 @@
                 "y": 438,
                 "caption": "Особый Мегаёж",
                 "class": "zloboezh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    547,
+                    -752
+                ]
+            },
+            "properties": {
+                "type": "note",
+                "x": 547,
+                "y": 752,
+                "text": "Судя по тому, что на местных свалках можно найти александриты, токсичные растения, часовые механизмы, до Исхода они находились на Рублёвке."
             }
         },
         {
@@ -183,6 +113,76 @@
                     "x": 344,
                     "y": 862
                 }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    850,
+                    -389
+                ]
+            },
+            "properties": {
+                "type": "master",
+                "x": 850,
+                "y": 389,
+                "list": [
+                    "Александрит"
+                ],
+                "link": "library\/masters\/rimland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168,
+                    -475
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 168,
+                "y": 475,
+                "link": "library\/coins\/rimland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    574,
+                    -842
+                ]
+            },
+            "properties": {
+                "type": "station",
+                "x": 574,
+                "y": 842,
+                "caption": "Чкаловская",
+                "size": 69,
+                "list": [
+                    {
+                        "caption": "Станция добытчиков",
+                        "region": "pf",
+                        "map": "labe",
+                        "x": 171,
+                        "y": 832,
+                        "type": "station"
+                    },
+                    {
+                        "caption": "\"Радость Труда\"",
+                        "region": "pf",
+                        "map": "labl",
+                        "x": 824,
+                        "y": 161,
+                        "type": "station"
+                    }
+                ]
             }
         }
     ]

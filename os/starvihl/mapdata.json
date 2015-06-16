@@ -14,104 +14,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    602,
-                    -140
-                ]
-            },
-            "properties": {
-                "type": "beacon",
-                "x": 602,
-                "y": 140,
-                "mobs": "Пиявка 5",
-                "coins": "4",
-                "link": "library\/coins\/oskolki"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     745,
-                    -93
+                    -665
                 ]
             },
             "properties": {
-                "type": "boss",
+                "type": "fish",
                 "x": 745,
-                "y": 93,
-                "caption": "Бета-улей",
-                "class": "uley"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    805,
-                    -872
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 805,
-                "y": 872,
-                "caption": "Гамма-шмель",
-                "class": "shmel"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    203,
-                    -390
-                ]
-            },
-            "properties": {
-                "type": "station",
-                "x": 203,
-                "y": 390,
-                "caption": "Платформа \"Мусорный Ветер\"",
-                "size": 98,
+                "y": 665,
                 "list": [
-                    {
-                        "caption": "Кавардак",
-                        "region": "os",
-                        "map": "index",
-                        "x": 474,
-                        "y": 339,
-                        "type": "station"
-                    },
-                    {
-                        "caption": "Станция Хламовая",
-                        "region": "os",
-                        "map": "starvihi",
-                        "x": 276,
-                        "y": 778,
-                        "type": "station"
-                    }
+                    "Рыба-печень",
+                    "Скудный лосось"
                 ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    305,
-                    -309
-                ]
-            },
-            "properties": {
-                "type": "flager",
-                "x": 305,
-                "y": 309,
-                "easy": "Глазары",
-                "hard": "Шарага",
-                "link": "library\/flagers\/oskolki"
             }
         },
         {
@@ -138,18 +52,95 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    745,
-                    -665
+                    305,
+                    -309
                 ]
             },
             "properties": {
-                "type": "fish",
-                "x": 745,
-                "y": 665,
-                "list": [
-                    "Рыба-печень",
-                    "Скудный лосось"
+                "type": "flager",
+                "x": 305,
+                "y": 309,
+                "easy": "Глазары",
+                "hard": "Шарага",
+                "link": "library\/flagers\/oskolki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    503,
+                    -453
                 ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 503,
+                "y": 453,
+                "region": "os",
+                "map": "hramhlama",
+                "caption": "Храм Хлама",
+                "goto": {
+                    "x": 206,
+                    "y": 862
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    882,
+                    -502
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 882,
+                "y": 502,
+                "region": "os",
+                "map": "starvihk",
+                "caption": "Старый вихрь К",
+                "goto": {
+                    "x": 96,
+                    "y": 700
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    805,
+                    -872
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 805,
+                "y": 872,
+                "caption": "Гамма-шмель",
+                "class": "shmel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    745,
+                    -93
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 745,
+                "y": 93,
+                "caption": "Бета-улей",
+                "class": "uley"
             }
         },
         {
@@ -208,21 +199,17 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    503,
-                    -453
+                    602,
+                    -140
                 ]
             },
             "properties": {
-                "type": "hole",
-                "x": 503,
-                "y": 453,
-                "region": "os",
-                "map": "hramhlama",
-                "caption": "Храм Хлама",
-                "goto": {
-                    "x": 206,
-                    "y": 862
-                }
+                "type": "beacon",
+                "x": 602,
+                "y": 140,
+                "mobs": "Пиявка 5",
+                "coins": "4",
+                "link": "library\/coins\/oskolki"
             }
         },
         {
@@ -230,21 +217,34 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    882,
-                    -502
+                    203,
+                    -390
                 ]
             },
             "properties": {
-                "type": "hole",
-                "x": 882,
-                "y": 502,
-                "region": "os",
-                "map": "starvihk",
-                "caption": "Старый вихрь К",
-                "goto": {
-                    "x": 96,
-                    "y": 700
-                }
+                "type": "station",
+                "x": 203,
+                "y": 390,
+                "caption": "Платформа \"Мусорный Ветер\"",
+                "size": 98,
+                "list": [
+                    {
+                        "caption": "Кавардак",
+                        "region": "os",
+                        "map": "index",
+                        "x": 474,
+                        "y": 339,
+                        "type": "station"
+                    },
+                    {
+                        "caption": "Станция Хламовая",
+                        "region": "os",
+                        "map": "starvihi",
+                        "x": 276,
+                        "y": 778,
+                        "type": "station"
+                    }
+                ]
             }
         }
     ]

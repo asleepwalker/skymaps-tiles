@@ -22,33 +22,17 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    130,
-                    -635
+                    281,
+                    -817
                 ]
             },
             "properties": {
-                "type": "boss",
-                "x": 130,
-                "y": 635,
-                "caption": "Альфа-Матка",
-                "class": "matka"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    580,
-                    -832
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 580,
-                "y": 832,
-                "caption": "Древний мегаёж",
-                "class": "zloboezh"
+                "type": "flager",
+                "x": 281,
+                "y": 817,
+                "easy": "Конек-воришка (25)",
+                "hard": "Черный Плащ",
+                "link": "library\/flagers\/reef"
             }
         },
         {
@@ -73,17 +57,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    281,
-                    -817
+                    104,
+                    -329
                 ]
             },
             "properties": {
-                "type": "flager",
-                "x": 281,
-                "y": 817,
-                "easy": "Конек-воришка (25)",
-                "hard": "Черный Плащ",
-                "link": "library\/flagers\/reef"
+                "type": "hole",
+                "x": 104,
+                "y": 329,
+                "region": "pr",
+                "map": "labb",
+                "caption": "Лабиринт Б",
+                "goto": {
+                    "x": 520,
+                    "y": 646
+                }
             }
         },
         {
@@ -113,21 +101,33 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    104,
-                    -329
+                    130,
+                    -635
                 ]
             },
             "properties": {
-                "type": "hole",
-                "x": 104,
-                "y": 329,
-                "region": "pr",
-                "map": "labb",
-                "caption": "Лабиринт Б",
-                "goto": {
-                    "x": 520,
-                    "y": 646
-                }
+                "type": "boss",
+                "x": 130,
+                "y": 635,
+                "caption": "Альфа-Матка",
+                "class": "matka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    580,
+                    -832
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 580,
+                "y": 832,
+                "caption": "Древний мегаёж",
+                "class": "zloboezh"
             }
         }
     ]

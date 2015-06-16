@@ -14,6 +14,57 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    801,
+                    -327
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 801,
+                "y": 327,
+                "caption": "Цербер",
+                "class": "tserber"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119,
+                    -342
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 119,
+                "y": 342,
+                "caption": "Кадавр",
+                "class": "kadavr"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121,
+                    -679
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 121,
+                "y": 679,
+                "caption": "Кишкодав",
+                "class": "kishkodav"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     199,
                     -1211
                 ]
@@ -61,57 +112,6 @@
                 "caption": "Плодильщик",
                 "class": "faka",
                 "mode": "quest"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121,
-                    -679
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 121,
-                "y": 679,
-                "caption": "Кишкодав",
-                "class": "kishkodav"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119,
-                    -342
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 119,
-                "y": 342,
-                "caption": "Кадавр",
-                "class": "kadavr"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    801,
-                    -327
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 801,
-                "y": 327,
-                "caption": "Цербер",
-                "class": "tserber"
             }
         },
         {

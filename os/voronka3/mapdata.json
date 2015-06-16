@@ -14,32 +14,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    472,
-                    -504
+                    402,
+                    -491
                 ]
             },
             "properties": {
-                "type": "beacon",
-                "x": 472,
-                "y": 504,
-                "link": "library\/coins\/oskolki"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    347,
-                    -470
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 347,
-                "y": 470,
-                "caption": "Борзый хламкистадор",
-                "class": "hlamk"
+                "type": "seyatel",
+                "x": 402,
+                "y": 491
             }
         },
         {
@@ -65,14 +47,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    402,
-                    -491
+                    347,
+                    -470
                 ]
             },
             "properties": {
-                "type": "seyatel",
-                "x": 402,
-                "y": 491
+                "type": "boss",
+                "x": 347,
+                "y": 470,
+                "caption": "Борзый хламкистадор",
+                "class": "hlamk"
             }
         },
         {
@@ -95,6 +79,22 @@
                     "x": 789,
                     "y": 441
                 }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    472,
+                    -504
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 472,
+                "y": 504,
+                "link": "library\/coins\/oskolki"
             }
         }
     ]

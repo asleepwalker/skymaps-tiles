@@ -24,15 +24,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    163,
-                    -642
+                    748,
+                    -151
                 ]
             },
             "properties": {
-                "type": "beacon",
-                "x": 163,
-                "y": 642,
-                "link": "library\/coins\/rimland"
+                "type": "boss",
+                "x": 748,
+                "y": 151,
+                "caption": "Небесный Блудотворец Барон",
+                "class": "airship"
             }
         },
         {
@@ -50,60 +51,6 @@
                 "y": 432,
                 "caption": "Логово Нарушителей Всего",
                 "class": "logovo"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    112,
-                    -781
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 112,
-                "y": 781,
-                "caption": "Небесный Блудотворец Барон",
-                "class": "airship"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    823,
-                    -269
-                ]
-            },
-            "properties": {
-                "type": "master",
-                "x": 823,
-                "y": 269,
-                "list": [
-                    "Александрит"
-                ],
-                "link": "library\/masters\/rimland"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    440,
-                    -451
-                ]
-            },
-            "properties": {
-                "type": "flager",
-                "x": 440,
-                "y": 451,
-                "easy": "Крокус (21)",
-                "hard": "Бешеный Мегаеж",
-                "link": "library\/flagers\/rimland"
             }
         },
         {
@@ -145,14 +92,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    748,
-                    -151
+                    112,
+                    -781
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 748,
-                "y": 151,
+                "x": 112,
+                "y": 781,
                 "caption": "Небесный Блудотворец Барон",
                 "class": "airship"
             }
@@ -162,16 +109,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    803,
-                    -311
+                    94,
+                    -94
                 ]
             },
             "properties": {
-                "type": "boss",
-                "x": 803,
-                "y": 311,
-                "caption": "Редкий Мегаёж",
-                "class": "zloboezh"
+                "type": "hole",
+                "x": 94,
+                "y": 94,
+                "region": "pf",
+                "map": "labsh",
+                "caption": "Лабиринт Ш",
+                "goto": {
+                    "x": 104,
+                    "y": 543
+                }
             }
         },
         {
@@ -201,21 +153,69 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    94,
-                    -94
+                    803,
+                    -311
                 ]
             },
             "properties": {
-                "type": "hole",
-                "x": 94,
-                "y": 94,
-                "region": "pf",
-                "map": "labsh",
-                "caption": "Лабиринт Ш",
-                "goto": {
-                    "x": 104,
-                    "y": 543
-                }
+                "type": "boss",
+                "x": 803,
+                "y": 311,
+                "caption": "Редкий Мегаёж",
+                "class": "zloboezh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    163,
+                    -642
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 163,
+                "y": 642,
+                "link": "library\/coins\/rimland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    823,
+                    -269
+                ]
+            },
+            "properties": {
+                "type": "master",
+                "x": 823,
+                "y": 269,
+                "list": [
+                    "Александрит"
+                ],
+                "link": "library\/masters\/rimland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    440,
+                    -451
+                ]
+            },
+            "properties": {
+                "type": "flager",
+                "x": 440,
+                "y": 451,
+                "easy": "Крокус (21)",
+                "hard": "Бешеный Мегаеж",
+                "link": "library\/flagers\/rimland"
             }
         }
     ]

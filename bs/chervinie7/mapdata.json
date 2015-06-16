@@ -21,31 +21,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    49,
-                    -42
+                    136,
+                    -46
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 49,
-                "y": 42,
-                "caption": "Мусорог генерал",
-                "class": "musorog"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    736,
-                    -43
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 736,
-                "y": 43,
+                "x": 136,
+                "y": 46,
                 "caption": "Убер-мухоносец",
                 "class": "muh"
             }
@@ -64,23 +47,6 @@
                 "x": 585,
                 "y": 157,
                 "caption": "Мухоносец",
-                "class": "muh"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    136,
-                    -46
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 136,
-                "y": 46,
-                "caption": "Убер-мухоносец",
                 "class": "muh"
             }
         },
@@ -126,6 +92,40 @@
                     "x": 68,
                     "y": 65
                 }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    736,
+                    -43
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 736,
+                "y": 43,
+                "caption": "Убер-мухоносец",
+                "class": "muh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49,
+                    -42
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 49,
+                "y": 42,
+                "caption": "Мусорог генерал",
+                "class": "musorog"
             }
         }
     ]

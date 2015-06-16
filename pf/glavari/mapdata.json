@@ -30,14 +30,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    805,
-                    -105
+                    808,
+                    -101
                 ]
             },
             "properties": {
                 "type": "fish",
-                "x": 805,
-                "y": 105,
+                "x": 808,
+                "y": 101,
                 "list": [
                     "Все виды рыб"
                 ]

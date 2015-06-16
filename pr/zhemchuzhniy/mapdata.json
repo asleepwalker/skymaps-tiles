@@ -26,16 +26,17 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    190,
-                    -212
+                    869,
+                    -193
                 ]
             },
             "properties": {
-                "type": "boss",
-                "x": 190,
-                "y": 212,
-                "caption": "Мусорог полковник",
-                "class": "musorog"
+                "type": "flager",
+                "x": 869,
+                "y": 193,
+                "easy": "Пожиратель тока (13)",
+                "hard": "Злонемон",
+                "link": "library\/flagers\/reef"
             }
         },
         {
@@ -53,6 +54,40 @@
                 "y": 262,
                 "caption": "Мусорог полковник",
                 "class": "musorog"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    190,
+                    -212
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 190,
+                "y": 212,
+                "caption": "Мусорог полковник",
+                "class": "musorog"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    699,
+                    -191
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 699,
+                "y": 191,
+                "caption": "Цитадель механоидов",
+                "class": "tsitadel"
             }
         },
         {
@@ -78,16 +113,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    699,
-                    -191
+                    235,
+                    -762
                 ]
             },
             "properties": {
-                "type": "boss",
-                "x": 699,
-                "y": 191,
-                "caption": "Цитадель механоидов",
-                "class": "tsitadel"
+                "type": "hole",
+                "x": 235,
+                "y": 762,
+                "region": "pr",
+                "map": "index",
+                "caption": "Поющий Риф",
+                "goto": {
+                    "x": 1830,
+                    "y": 162
+                }
             }
         },
         {
@@ -124,46 +164,6 @@
                 "list": [
                     "Рыба-печень"
                 ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    869,
-                    -193
-                ]
-            },
-            "properties": {
-                "type": "flager",
-                "x": 869,
-                "y": 193,
-                "easy": "Пожиратель тока (13)",
-                "hard": "Злонемон",
-                "link": "library\/flagers\/reef"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    235,
-                    -762
-                ]
-            },
-            "properties": {
-                "type": "hole",
-                "x": 235,
-                "y": 762,
-                "region": "pr",
-                "map": "index",
-                "caption": "Поющий Риф",
-                "goto": {
-                    "x": 1830,
-                    "y": 162
-                }
             }
         }
     ]

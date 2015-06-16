@@ -19,15 +19,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    637,
-                    -547
+                    260,
+                    -471
                 ]
             },
             "properties": {
-                "type": "beacon",
-                "x": 637,
-                "y": 547,
-                "link": "library\/coins\/oskolki"
+                "type": "boss",
+                "x": 260,
+                "y": 471,
+                "caption": "Цербер-разведчик",
+                "class": "tserber"
             }
         },
         {
@@ -35,18 +36,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    159,
-                    -89
+                    160,
+                    -329
                 ]
             },
             "properties": {
-                "type": "master",
-                "x": 159,
-                "y": 89,
-                "list": [
-                    "Молоко небесных коров"
-                ],
-                "link": "library\/masters\/oskolki"
+                "type": "boss",
+                "x": 160,
+                "y": 329,
+                "caption": "Мухоносец-разведчик",
+                "class": "muh"
             }
         },
         {
@@ -54,45 +53,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    497,
-                    -117
+                    200,
+                    -453
                 ]
             },
             "properties": {
-                "type": "master",
-                "x": 497,
-                "y": 117,
-                "list": [
-                    "Электрические угри"
-                ],
-                "link": "library\/masters\/oskolki"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    666,
-                    -254
-                ]
-            },
-            "properties": {
-                "type": "station",
-                "x": 666,
-                "y": 254,
-                "caption": "Юго-Западная",
-                "size": 83,
-                "list": [
-                    {
-                        "caption": "Кавардак",
-                        "region": "os",
-                        "map": "index",
-                        "x": 474,
-                        "y": 339,
-                        "type": "station"
-                    }
-                ]
+                "type": "boss",
+                "x": 200,
+                "y": 453,
+                "caption": "Кадавр-разведчик",
+                "class": "kadavr"
             }
         },
         {
@@ -123,195 +93,20 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    200,
-                    -453
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 200,
-                "y": 453,
-                "caption": "Кадавр-разведчик",
-                "class": "kadavr"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    617,
-                    -623
-                ]
-            },
-            "properties": {
-                "type": "fish",
-                "x": 617,
-                "y": 623,
-                "list": [
-                    "Тропический центропиг",
-                    "Игольчатый марлин"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    486,
-                    -509
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 486,
-                "y": 509,
-                "caption": "Мухоносец-разведчик",
-                "class": "muh"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    160,
-                    -329
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 160,
-                "y": 329,
-                "caption": "Мухоносец-разведчик",
-                "class": "muh"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    260,
-                    -471
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 260,
-                "y": 471,
-                "caption": "Цербер-разведчик",
-                "class": "tserber"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    252,
-                    -532
-                ]
-            },
-            "properties": {
-                "type": "hole",
-                "x": 252,
-                "y": 532,
-                "region": "os",
-                "map": "shtabnizov",
-                "caption": "Штаб Низушников",
-                "goto": {
-                    "x": 500,
-                    "y": 502
-                }
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    752,
-                    -618
-                ]
-            },
-            "properties": {
-                "type": "hole",
-                "x": 752,
-                "y": 618,
-                "region": "os",
-                "map": "zarosli1",
-                "caption": "Заросли, ур.1",
-                "goto": {
-                    "x": 406,
-                    "y": 909
-                }
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    915,
-                    -587
+                    171,
+                    -45
                 ]
             },
             "properties": {
                 "type": "maphole",
-                "x": 915,
-                "y": 587,
+                "x": 171,
+                "y": 45,
                 "region": "os",
-                "map": "stariygorod",
-                "caption": "Старый город",
+                "map": "ogorodes",
+                "caption": "Огороды",
                 "goto": {
-                    "x": 63,
-                    "y": 604
-                }
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    918,
-                    -414
-                ]
-            },
-            "properties": {
-                "type": "maphole",
-                "x": 918,
-                "y": 414,
-                "region": "os",
-                "map": "stariygorod",
-                "caption": "Старый город",
-                "goto": {
-                    "x": 67,
-                    "y": 417
-                }
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    918,
-                    -209
-                ]
-            },
-            "properties": {
-                "type": "maphole",
-                "x": 918,
-                "y": 209,
-                "region": "os",
-                "map": "stariygorod",
-                "caption": "Старый город",
-                "goto": {
-                    "x": 67,
-                    "y": 268
+                    "x": 279,
+                    "y": 646
                 }
             }
         },
@@ -342,21 +137,226 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    171,
-                    -45
+                    752,
+                    -618
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 752,
+                "y": 618,
+                "region": "os",
+                "map": "zarosli1",
+                "caption": "Заросли, ур.1",
+                "goto": {
+                    "x": 406,
+                    "y": 909
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    252,
+                    -532
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 252,
+                "y": 532,
+                "region": "os",
+                "map": "shtabnizov",
+                "caption": "Штаб Низушников",
+                "goto": {
+                    "x": 500,
+                    "y": 502
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    918,
+                    -209
                 ]
             },
             "properties": {
                 "type": "maphole",
-                "x": 171,
-                "y": 45,
+                "x": 918,
+                "y": 209,
                 "region": "os",
-                "map": "ogorodes",
-                "caption": "Огороды",
+                "map": "stariygorod",
+                "caption": "Старый город",
                 "goto": {
-                    "x": 279,
-                    "y": 646
+                    "x": 67,
+                    "y": 268
                 }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    918,
+                    -414
+                ]
+            },
+            "properties": {
+                "type": "maphole",
+                "x": 918,
+                "y": 414,
+                "region": "os",
+                "map": "stariygorod",
+                "caption": "Старый город",
+                "goto": {
+                    "x": 67,
+                    "y": 417
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    915,
+                    -587
+                ]
+            },
+            "properties": {
+                "type": "maphole",
+                "x": 915,
+                "y": 587,
+                "region": "os",
+                "map": "stariygorod",
+                "caption": "Старый город",
+                "goto": {
+                    "x": 63,
+                    "y": 604
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    486,
+                    -509
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 486,
+                "y": 509,
+                "caption": "Мухоносец-разведчик",
+                "class": "muh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    497,
+                    -117
+                ]
+            },
+            "properties": {
+                "type": "master",
+                "x": 497,
+                "y": 117,
+                "list": [
+                    "Электрические угри"
+                ],
+                "link": "library\/masters\/oskolki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    159,
+                    -89
+                ]
+            },
+            "properties": {
+                "type": "master",
+                "x": 159,
+                "y": 89,
+                "list": [
+                    "Молоко небесных коров"
+                ],
+                "link": "library\/masters\/oskolki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    617,
+                    -623
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 617,
+                "y": 623,
+                "list": [
+                    "Тропический центропиг",
+                    "Игольчатый марлин"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    637,
+                    -547
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 637,
+                "y": 547,
+                "link": "library\/coins\/oskolki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    666,
+                    -254
+                ]
+            },
+            "properties": {
+                "type": "station",
+                "x": 666,
+                "y": 254,
+                "caption": "Юго-Западная",
+                "size": 83,
+                "list": [
+                    {
+                        "caption": "Кавардак",
+                        "region": "os",
+                        "map": "index",
+                        "x": 474,
+                        "y": 339,
+                        "type": "station"
+                    }
+                ]
             }
         }
     ]

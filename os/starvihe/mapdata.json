@@ -14,14 +14,67 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    490,
-                    -692
+                    115,
+                    -865
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 115,
+                "y": 865,
+                "list": [
+                    "Залётный хариус",
+                    "Ветряной жерех"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    710,
+                    -162
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 490,
-                "y": 692,
+                "x": 710,
+                "y": 162,
+                "caption": "Бета-гипнобосс",
+                "class": "gipno"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    710,
+                    -702
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 710,
+                "y": 702,
+                "caption": "Жестокий хламкистодор",
+                "class": "hlamk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    660,
+                    -742
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 660,
+                "y": 742,
                 "caption": "Хламкистодоры",
                 "class": "hlamk"
             }
@@ -48,91 +101,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    660,
-                    -742
+                    490,
+                    -692
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 660,
-                "y": 742,
+                "x": 490,
+                "y": 692,
                 "caption": "Хламкистодоры",
                 "class": "hlamk"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    710,
-                    -702
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 710,
-                "y": 702,
-                "caption": "Жестокий хламкистодор",
-                "class": "hlamk"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    710,
-                    -162
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 710,
-                "y": 162,
-                "caption": "Бета-гипнобосс",
-                "class": "gipno"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    115,
-                    -865
-                ]
-            },
-            "properties": {
-                "type": "fish",
-                "x": 115,
-                "y": 865,
-                "list": [
-                    "Залётный хариус",
-                    "Ветряной жерех"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    535,
-                    -774
-                ]
-            },
-            "properties": {
-                "type": "hole",
-                "x": 535,
-                "y": 774,
-                "region": "os",
-                "map": "hramhlama",
-                "caption": "Храм Хлама",
-                "goto": {
-                    "x": 133,
-                    "y": 793
-                }
             }
         },
         {
@@ -154,6 +132,28 @@
                 "goto": {
                     "x": 901,
                     "y": 898
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    535,
+                    -774
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 535,
+                "y": 774,
+                "region": "os",
+                "map": "hramhlama",
+                "caption": "Храм Хлама",
+                "goto": {
+                    "x": 133,
+                    "y": 793
                 }
             }
         }

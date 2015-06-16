@@ -21,32 +21,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    426,
-                    -874
-                ]
-            },
-            "properties": {
-                "type": "note",
-                "x": 426,
-                "y": 874,
-                "text": "У отшельника будет продолжатся цепочка квестовой линии \"Проблема бурелома\"."
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    802,
-                    -669
+                    800,
+                    -136
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 802,
-                "y": 669,
-                "caption": "Логово бандитов",
-                "class": "logovo"
+                "x": 800,
+                "y": 136,
+                "caption": "Мегаёж",
+                "class": "zloboezh"
             }
         },
         {
@@ -71,16 +55,38 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    800,
-                    -136
+                    802,
+                    -669
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 800,
-                "y": 136,
-                "caption": "Мегаёж",
-                "class": "zloboezh"
+                "x": 802,
+                "y": 669,
+                "caption": "Логово бандитов",
+                "class": "logovo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88,
+                    -886
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 88,
+                "y": 886,
+                "region": "pf",
+                "map": "index",
+                "caption": "Периферия",
+                "goto": {
+                    "x": 416,
+                    "y": 1673
+                }
             }
         },
         {
@@ -110,21 +116,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    88,
-                    -886
+                    426,
+                    -874
                 ]
             },
             "properties": {
-                "type": "hole",
-                "x": 88,
-                "y": 886,
-                "region": "pf",
-                "map": "index",
-                "caption": "Периферия",
-                "goto": {
-                    "x": 416,
-                    "y": 1673
-                }
+                "type": "note",
+                "x": 426,
+                "y": 874,
+                "text": "У отшельника будет продолжатся цепочка квестовой линии \"Проблема бурелома\"."
             }
         }
     ]

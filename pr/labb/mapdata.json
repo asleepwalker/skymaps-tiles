@@ -22,118 +22,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    823,
-                    -855
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 823,
-                "y": 855,
-                "caption": "Цитадель механоидов",
-                "class": "tsitadel"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    789,
-                    -109
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 789,
-                "y": 109,
-                "caption": "Великий кроволёт",
-                "class": "airship"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    110,
-                    -853
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 110,
-                "y": 853,
-                "caption": "Великий Кроволёт Барон",
-                "class": "airship"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    161,
-                    -433
-                ]
-            },
-            "properties": {
-                "type": "master",
-                "x": 161,
-                "y": 433,
-                "list": [
-                    "Кокосовое молоко."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    498,
-                    -770
-                ]
-            },
-            "properties": {
-                "type": "station",
-                "x": 498,
-                "y": 770,
-                "caption": "Фейра-ди-Сантана",
-                "size": 96,
-                "list": [
-                    {
-                        "caption": "Лагуна",
-                        "region": "pr",
-                        "map": "index",
-                        "x": 1022,
-                        "y": 1001,
-                        "type": "station"
-                    },
-                    {
-                        "caption": "\"Фернанда\"",
-                        "region": "pr",
-                        "map": "labzh",
-                        "x": 160,
-                        "y": 160,
-                        "type": "station"
-                    },
-                    {
-                        "caption": "Папайа Джус",
-                        "region": "pr",
-                        "map": "labl",
-                        "x": 269,
-                        "y": 776,
-                        "type": "station"
-                    }
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     464,
                     -271
                 ]
@@ -145,6 +33,28 @@
                 "easy": "Тропосек (19)",
                 "hard": "Подручный Пита (8)",
                 "link": "library\/flagers\/reef"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71,
+                    -510
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 71,
+                "y": 510,
+                "region": "pr",
+                "map": "laba",
+                "caption": "Лабиринт А",
+                "goto": {
+                    "x": 355,
+                    "y": 647
+                }
             }
         },
         {
@@ -196,21 +106,111 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    71,
-                    -510
+                    161,
+                    -433
                 ]
             },
             "properties": {
-                "type": "hole",
-                "x": 71,
-                "y": 510,
-                "region": "pr",
-                "map": "laba",
-                "caption": "Лабиринт А",
-                "goto": {
-                    "x": 355,
-                    "y": 647
-                }
+                "type": "master",
+                "x": 161,
+                "y": 433,
+                "list": [
+                    "Кокосовое молоко."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110,
+                    -853
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 110,
+                "y": 853,
+                "caption": "Великий Кроволёт Барон",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    789,
+                    -109
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 789,
+                "y": 109,
+                "caption": "Великий кроволёт",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    823,
+                    -855
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 823,
+                "y": 855,
+                "caption": "Цитадель механоидов",
+                "class": "tsitadel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    498,
+                    -770
+                ]
+            },
+            "properties": {
+                "type": "station",
+                "x": 498,
+                "y": 770,
+                "caption": "Фейра-ди-Сантана",
+                "size": 96,
+                "list": [
+                    {
+                        "caption": "Лагуна",
+                        "region": "pr",
+                        "map": "index",
+                        "x": 1022,
+                        "y": 1001,
+                        "type": "station"
+                    },
+                    {
+                        "caption": "\"Фернанда\"",
+                        "region": "pr",
+                        "map": "labzh",
+                        "x": 160,
+                        "y": 160,
+                        "type": "station"
+                    },
+                    {
+                        "caption": "Папайа Джус",
+                        "region": "pr",
+                        "map": "labl",
+                        "x": 269,
+                        "y": 776,
+                        "type": "station"
+                    }
+                ]
             }
         }
     ]

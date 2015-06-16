@@ -14,102 +14,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    362,
-                    -281
-                ]
-            },
-            "properties": {
-                "type": "beacon",
-                "x": 362,
-                "y": 281,
-                "link": "library\/coins\/rimland"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    610,
-                    -438
-                ]
-            },
-            "properties": {
-                "type": "master",
-                "x": 610,
-                "y": 438,
-                "list": [
-                    "Механизм подачи снарядов"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    70,
-                    -414
-                ]
-            },
-            "properties": {
-                "type": "master",
-                "x": 70,
-                "y": 414,
-                "list": [
-                    "Часовые механизмы"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    97,
-                    -651
+                    559,
+                    -466
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 97,
-                "y": 651,
-                "caption": "Летанк",
-                "class": "default"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    594,
-                    -723
-                ]
-            },
-            "properties": {
-                "type": "quest",
-                "x": 594,
-                "y": 723,
-                "caption": "Сбор тайны \"Загадочная лаборатория\"",
-                "tip": "Здесь находится часть тайны загадочной лаборатории НПК."
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    396,
-                    -892
-                ]
-            },
-            "properties": {
-                "type": "quest",
-                "x": 396,
-                "y": 892,
-                "caption": "Сбор тайны \"Загадочная лаборатория\"",
-                "tip": "Здесь находится часть тайны загадочной лаборатории НПК."
+                "x": 559,
+                "y": 466,
+                "caption": "Мощная цитадель",
+                "class": "tsitadel"
             }
         },
         {
@@ -134,16 +48,38 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    559,
-                    -466
+                    396,
+                    -892
                 ]
             },
             "properties": {
-                "type": "boss",
-                "x": 559,
-                "y": 466,
-                "caption": "Мощная цитадель",
-                "class": "tsitadel"
+                "type": "quest",
+                "x": 396,
+                "y": 892,
+                "caption": "Сбор тайны \"Загадочная лаборатория\"",
+                "tip": "Здесь находится часть тайны загадочной лаборатории НПК."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    865,
+                    -86
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 865,
+                "y": 86,
+                "region": "pf",
+                "map": "npkresearch",
+                "caption": "НПК, Исследовательский уровень",
+                "goto": {
+                    "x": 919,
+                    "y": 89
+                }
             }
         },
         {
@@ -195,21 +131,85 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    865,
-                    -86
+                    594,
+                    -723
                 ]
             },
             "properties": {
-                "type": "hole",
-                "x": 865,
-                "y": 86,
-                "region": "pf",
-                "map": "npkresearch",
-                "caption": "НПК, Исследовательский уровень",
-                "goto": {
-                    "x": 919,
-                    "y": 89
-                }
+                "type": "quest",
+                "x": 594,
+                "y": 723,
+                "caption": "Сбор тайны \"Загадочная лаборатория\"",
+                "tip": "Здесь находится часть тайны загадочной лаборатории НПК."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70,
+                    -414
+                ]
+            },
+            "properties": {
+                "type": "master",
+                "x": 70,
+                "y": 414,
+                "list": [
+                    "Часовые механизмы"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    610,
+                    -438
+                ]
+            },
+            "properties": {
+                "type": "master",
+                "x": 610,
+                "y": 438,
+                "list": [
+                    "Механизм подачи снарядов"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    97,
+                    -651
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 97,
+                "y": 651,
+                "caption": "Летанк",
+                "class": "default"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    362,
+                    -281
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 362,
+                "y": 281,
+                "link": "library\/coins\/rimland"
             }
         }
     ]

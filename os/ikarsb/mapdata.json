@@ -14,17 +14,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    833,
-                    -664
+                    830,
+                    -882
                 ]
             },
             "properties": {
-                "type": "npc",
-                "x": 833,
-                "y": 664,
-                "caption": "Деревня икаров",
-                "npc": "Икары",
-                "link": "library\/npc\/os\/ikar"
+                "type": "boss",
+                "x": 830,
+                "y": 882,
+                "caption": "Дельта-улей",
+                "class": "uley"
             }
         },
         {
@@ -32,14 +31,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    850,
-                    -601
+                    845,
+                    -355
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 845,
+                "y": 355
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    820,
+                    -92
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 850,
-                "y": 601,
+                "x": 820,
+                "y": 92,
                 "caption": "Дельта-шмель",
                 "class": "shmel"
             }
@@ -66,121 +80,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    820,
-                    -92
+                    850,
+                    -601
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 820,
-                "y": 92,
+                "x": 850,
+                "y": 601,
                 "caption": "Дельта-шмель",
                 "class": "shmel"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    368,
-                    -186
-                ]
-            },
-            "properties": {
-                "type": "station",
-                "x": 368,
-                "y": 186,
-                "caption": "Трактир \"Пьяный Икар\"",
-                "size": 63,
-                "list": [
-                    {
-                        "caption": "Кавардак",
-                        "region": "os",
-                        "map": "index",
-                        "x": 474,
-                        "y": 339,
-                        "type": "station"
-                    },
-                    {
-                        "caption": "Платформа икаров",
-                        "region": "os",
-                        "map": "ikarsd",
-                        "x": 554,
-                        "y": 513,
-                        "type": "station"
-                    }
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    845,
-                    -355
-                ]
-            },
-            "properties": {
-                "type": "fish",
-                "x": 845,
-                "y": 355
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    830,
-                    -882
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 830,
-                "y": 882,
-                "caption": "Дельта-улей",
-                "class": "uley"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    541,
-                    -876
-                ]
-            },
-            "properties": {
-                "type": "wormhole",
-                "x": 541,
-                "y": 876,
-                "goto": {
-                    "x": 410,
-                    "y": 920
-                }
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    390,
-                    -900
-                ]
-            },
-            "properties": {
-                "type": "wormhole",
-                "x": 390,
-                "y": 900,
-                "goto": {
-                    "x": 561,
-                    "y": 896
-                }
             }
         },
         {
@@ -225,6 +134,97 @@
                     "x": 83,
                     "y": 596
                 }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    390,
+                    -900
+                ]
+            },
+            "properties": {
+                "type": "wormhole",
+                "x": 390,
+                "y": 900,
+                "goto": {
+                    "x": 561,
+                    "y": 896
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    541,
+                    -876
+                ]
+            },
+            "properties": {
+                "type": "wormhole",
+                "x": 541,
+                "y": 876,
+                "goto": {
+                    "x": 410,
+                    "y": 920
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    833,
+                    -664
+                ]
+            },
+            "properties": {
+                "type": "npc",
+                "x": 833,
+                "y": 664,
+                "caption": "Деревня икаров",
+                "npc": "Икары",
+                "link": "library\/npc\/os\/ikar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    368,
+                    -186
+                ]
+            },
+            "properties": {
+                "type": "station",
+                "x": 368,
+                "y": 186,
+                "caption": "Трактир \"Пьяный Икар\"",
+                "size": 63,
+                "list": [
+                    {
+                        "caption": "Кавардак",
+                        "region": "os",
+                        "map": "index",
+                        "x": 474,
+                        "y": 339,
+                        "type": "station"
+                    },
+                    {
+                        "caption": "Платформа икаров",
+                        "region": "os",
+                        "map": "ikarsd",
+                        "x": 554,
+                        "y": 513,
+                        "type": "station"
+                    }
+                ]
             }
         }
     ]

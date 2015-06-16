@@ -14,15 +14,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    750,
-                    -572
+                    200,
+                    -232
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 750,
-                "y": 572,
-                "caption": "Осиный улей",
+                "x": 200,
+                "y": 232,
+                "caption": "Альфа-улей",
                 "class": "uley"
             }
         },
@@ -31,32 +31,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    520,
-                    -712
+                    740,
+                    -232
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 520,
-                "y": 712,
-                "caption": "Осиный улей",
-                "class": "uley"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    180,
-                    -732
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 180,
-                "y": 732,
-                "caption": "Дельта-улей",
+                "x": 740,
+                "y": 232,
+                "caption": "Бета-улей",
                 "class": "uley"
             }
         },
@@ -66,14 +49,14 @@
                 "type": "Point",
                 "coordinates": [
                     480,
-                    -492
+                    -262
                 ]
             },
             "properties": {
                 "type": "boss",
                 "x": 480,
-                "y": 492,
-                "caption": "Дельта-улей",
+                "y": 262,
+                "caption": "Гамма-улей",
                 "class": "uley"
             }
         },
@@ -100,14 +83,14 @@
                 "type": "Point",
                 "coordinates": [
                     480,
-                    -262
+                    -492
                 ]
             },
             "properties": {
                 "type": "boss",
                 "x": 480,
-                "y": 262,
-                "caption": "Гамма-улей",
+                "y": 492,
+                "caption": "Дельта-улей",
                 "class": "uley"
             }
         },
@@ -116,15 +99,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    740,
-                    -232
+                    180,
+                    -732
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 740,
-                "y": 232,
-                "caption": "Бета-улей",
+                "x": 180,
+                "y": 732,
+                "caption": "Дельта-улей",
                 "class": "uley"
             }
         },
@@ -133,15 +116,32 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    200,
-                    -232
+                    520,
+                    -712
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 200,
-                "y": 232,
-                "caption": "Альфа-улей",
+                "x": 520,
+                "y": 712,
+                "caption": "Осиный улей",
+                "class": "uley"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    750,
+                    -572
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 750,
+                "y": 572,
+                "caption": "Осиный улей",
                 "class": "uley"
             }
         },

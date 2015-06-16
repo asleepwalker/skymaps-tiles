@@ -14,15 +14,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    392,
-                    -85
+                    530,
+                    -120
                 ]
             },
             "properties": {
-                "type": "beacon",
-                "x": 392,
-                "y": 85,
-                "link": "library\/coins\/oskolki"
+                "type": "barrier",
+                "x": 530,
+                "y": 120
             }
         },
         {
@@ -30,14 +29,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    96,
-                    -94
+                    470,
+                    -120
                 ]
             },
             "properties": {
-                "type": "fish",
-                "x": 96,
-                "y": 94
+                "type": "barrier",
+                "x": 470,
+                "y": 120
             }
         },
         {
@@ -45,16 +44,47 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    203,
-                    -349
+                    400,
+                    -120
                 ]
             },
             "properties": {
-                "type": "boss",
-                "x": 203,
-                "y": 349,
-                "caption": "Кишкодав-разведчик",
-                "class": "kishkodav"
+                "type": "barrier",
+                "x": 400,
+                "y": 120
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    700,
+                    -760
+                ]
+            },
+            "properties": {
+                "type": "seyatel",
+                "x": 700,
+                "y": 760
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    253,
+                    -733
+                ]
+            },
+            "properties": {
+                "type": "flager",
+                "x": 253,
+                "y": 733,
+                "easy": "Лютые Плютики",
+                "hard": "Шестерейдер",
+                "link": "library\/flagers\/oskolki"
             }
         },
         {
@@ -89,165 +119,6 @@
                 "y": 109,
                 "caption": "\"Редкостные твари\"",
                 "tip": "Здесь обитает Мегавольт."
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    253,
-                    -733
-                ]
-            },
-            "properties": {
-                "type": "flager",
-                "x": 253,
-                "y": 733,
-                "easy": "Лютые Плютики",
-                "hard": "Шестерейдер",
-                "link": "library\/flagers\/oskolki"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    90,
-                    -452
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 90,
-                "y": 452,
-                "caption": "Кадавр",
-                "class": "kadavr"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    700,
-                    -760
-                ]
-            },
-            "properties": {
-                "type": "seyatel",
-                "x": 700,
-                "y": 760
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    616,
-                    -663
-                ]
-            },
-            "properties": {
-                "type": "fish",
-                "x": 616,
-                "y": 663,
-                "list": [
-                    "Тропический центропиг",
-                    "Игольчатый марлин"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    400,
-                    -120
-                ]
-            },
-            "properties": {
-                "type": "barrier",
-                "x": 400,
-                "y": 120
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    470,
-                    -120
-                ]
-            },
-            "properties": {
-                "type": "barrier",
-                "x": 470,
-                "y": 120
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    530,
-                    -120
-                ]
-            },
-            "properties": {
-                "type": "barrier",
-                "x": 530,
-                "y": 120
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    417,
-                    -885
-                ]
-            },
-            "properties": {
-                "type": "barrier",
-                "x": 417,
-                "y": 885
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    475,
-                    -885
-                ]
-            },
-            "properties": {
-                "type": "barrier",
-                "x": 475,
-                "y": 885
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    535,
-                    -885
-                ]
-            },
-            "properties": {
-                "type": "barrier",
-                "x": 535,
-                "y": 885
             }
         },
         {
@@ -292,6 +163,135 @@
                     "x": 473,
                     "y": 94
                 }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90,
+                    -452
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 90,
+                "y": 452,
+                "caption": "Кадавр",
+                "class": "kadavr"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    203,
+                    -349
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 203,
+                "y": 349,
+                "caption": "Кишкодав-разведчик",
+                "class": "kishkodav"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    616,
+                    -663
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 616,
+                "y": 663,
+                "list": [
+                    "Тропический центропиг",
+                    "Игольчатый марлин"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96,
+                    -94
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 96,
+                "y": 94
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    392,
+                    -85
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 392,
+                "y": 85,
+                "link": "library\/coins\/oskolki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    535,
+                    -885
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 535,
+                "y": 885
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    475,
+                    -885
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 475,
+                "y": 885
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    417,
+                    -885
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 417,
+                "y": 885
             }
         }
     ]

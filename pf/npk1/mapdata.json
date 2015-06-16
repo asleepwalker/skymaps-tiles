@@ -14,40 +14,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    560,
-                    -257
-                ]
-            },
-            "properties": {
-                "type": "quest",
-                "x": 560,
-                "y": 257,
-                "caption": "Сбор тайны \"Загадочная лаборатория\"",
-                "tip": "Здесь находится часть тайны загадочной лаборатории НПК."
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    792,
-                    -235
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 792,
-                "y": 235,
-                "caption": "Мегаёж",
-                "class": "zloboezh"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     611,
                     -215
                 ]
@@ -102,6 +68,40 @@
                     "x": 1899,
                     "y": 1394
                 }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    560,
+                    -257
+                ]
+            },
+            "properties": {
+                "type": "quest",
+                "x": 560,
+                "y": 257,
+                "caption": "Сбор тайны \"Загадочная лаборатория\"",
+                "tip": "Здесь находится часть тайны загадочной лаборатории НПК."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    792,
+                    -235
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 792,
+                "y": 235,
+                "caption": "Мегаёж",
+                "class": "zloboezh"
             }
         }
     ]

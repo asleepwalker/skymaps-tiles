@@ -14,6 +14,23 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    724,
+                    -690
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 724,
+                "y": 690,
+                "caption": "Штурм-кишкодав",
+                "class": "kishkodav"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     175,
                     -147
                 ]
@@ -31,16 +48,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    724,
-                    -690
+                    418,
+                    -154
                 ]
             },
             "properties": {
-                "type": "boss",
-                "x": 724,
-                "y": 690,
-                "caption": "Штурм-кишкодав",
-                "class": "kishkodav"
+                "type": "hole",
+                "x": 418,
+                "y": 154,
+                "region": "bs",
+                "map": "index",
+                "caption": "Бастион",
+                "goto": {
+                    "x": 1245,
+                    "y": 674
+                }
             }
         },
         {
@@ -68,28 +90,6 @@
                         "type": "station"
                     }
                 ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    418,
-                    -154
-                ]
-            },
-            "properties": {
-                "type": "hole",
-                "x": 418,
-                "y": 154,
-                "region": "bs",
-                "map": "index",
-                "caption": "Бастион",
-                "goto": {
-                    "x": 1245,
-                    "y": 674
-                }
             }
         }
     ]

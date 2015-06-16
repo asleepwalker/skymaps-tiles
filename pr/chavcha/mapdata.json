@@ -14,22 +14,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    152,
-                    -162
-                ]
-            },
-            "properties": {
-                "type": "note",
-                "x": 152,
-                "y": 162,
-                "text": "Здесь растут лакомые цветы небесных незабудок."
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     562,
                     -165
                 ]
@@ -41,6 +25,22 @@
                 "caption": "Чавча",
                 "class": "chavcha",
                 "mode": "quest"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    152,
+                    -162
+                ]
+            },
+            "properties": {
+                "type": "note",
+                "x": 152,
+                "y": 162,
+                "text": "Здесь растут лакомые цветы небесных незабудок."
             }
         }
     ]

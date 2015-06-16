@@ -20,17 +20,72 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    242,
-                    -422
+                    567,
+                    -467
                 ]
             },
             "properties": {
-                "type": "master",
-                "x": 242,
-                "y": 422,
-                "list": [
-                    "Мягкая древесина."
+                "type": "boss",
+                "x": 567,
+                "y": 467,
+                "caption": "Шмель",
+                "class": "shmel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    335,
+                    -320
                 ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 335,
+                "y": 320,
+                "caption": "Улей",
+                "class": "uley"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    645,
+                    -320
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 645,
+                "y": 320,
+                "caption": "Улей",
+                "class": "uley"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    176,
+                    -180
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 176,
+                "y": 180,
+                "region": "tg",
+                "map": "index",
+                "caption": "Тихая Гавань",
+                "goto": {
+                    "x": 885,
+                    "y": 971
+                }
             }
         },
         {
@@ -56,72 +111,17 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    645,
-                    -320
+                    242,
+                    -422
                 ]
             },
             "properties": {
-                "type": "boss",
-                "x": 645,
-                "y": 320,
-                "caption": "Улей",
-                "class": "uley"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    335,
-                    -320
+                "type": "master",
+                "x": 242,
+                "y": 422,
+                "list": [
+                    "Мягкая древесина."
                 ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 335,
-                "y": 320,
-                "caption": "Улей",
-                "class": "uley"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    567,
-                    -467
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 567,
-                "y": 467,
-                "caption": "Шмель",
-                "class": "shmel"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    176,
-                    -180
-                ]
-            },
-            "properties": {
-                "type": "hole",
-                "x": 176,
-                "y": 180,
-                "region": "tg",
-                "map": "index",
-                "caption": "Тихая Гавань",
-                "goto": {
-                    "x": 885,
-                    "y": 971
-                }
             }
         }
     ]

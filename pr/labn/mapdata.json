@@ -23,15 +23,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    789,
-                    -648
+                    492,
+                    -869
                 ]
             },
             "properties": {
-                "type": "beacon",
-                "x": 789,
-                "y": 648,
-                "link": "library\/coins\/reef"
+                "type": "hole",
+                "x": 492,
+                "y": 869,
+                "region": "pr",
+                "map": "labp",
+                "caption": "Лабиринт П",
+                "goto": {
+                    "x": 783,
+                    "y": 904
+                }
             }
         },
         {
@@ -39,35 +45,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    255,
-                    -183
+                    135,
+                    -859
                 ]
             },
             "properties": {
-                "type": "boss",
-                "x": 255,
-                "y": 183,
-                "caption": "Логово Нарушителей Всего",
-                "class": "logovo",
-                "mode": "rare"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    795,
-                    -628
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 795,
-                "y": 628,
-                "caption": "Логово жестоких Бандитов",
-                "class": "logovo",
-                "mode": "rare"
+                "type": "hole",
+                "x": 135,
+                "y": 859,
+                "region": "pr",
+                "map": "labl",
+                "caption": "Лабиринт Л",
+                "goto": {
+                    "x": 879,
+                    "y": 900
+                }
             }
         },
         {
@@ -126,21 +118,17 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    492,
-                    -869
+                    795,
+                    -628
                 ]
             },
             "properties": {
-                "type": "hole",
-                "x": 492,
-                "y": 869,
-                "region": "pr",
-                "map": "labp",
-                "caption": "Лабиринт П",
-                "goto": {
-                    "x": 783,
-                    "y": 904
-                }
+                "type": "boss",
+                "x": 795,
+                "y": 628,
+                "caption": "Логово жестоких Бандитов",
+                "class": "logovo",
+                "mode": "rare"
             }
         },
         {
@@ -148,21 +136,33 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    135,
-                    -859
+                    255,
+                    -183
                 ]
             },
             "properties": {
-                "type": "hole",
-                "x": 135,
-                "y": 859,
-                "region": "pr",
-                "map": "labl",
-                "caption": "Лабиринт Л",
-                "goto": {
-                    "x": 879,
-                    "y": 900
-                }
+                "type": "boss",
+                "x": 255,
+                "y": 183,
+                "caption": "Логово Нарушителей Всего",
+                "class": "logovo",
+                "mode": "rare"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    789,
+                    -648
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 789,
+                "y": 648,
+                "link": "library\/coins\/reef"
             }
         }
     ]

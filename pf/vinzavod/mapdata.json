@@ -14,37 +14,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    379,
-                    -1048
+                    393,
+                    -1056
                 ]
             },
             "properties": {
-                "type": "fish",
-                "x": 379,
-                "y": 1048,
-                "list": [
-                    "Рыба-зигзаг",
-                    "Лазурная пеламида"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1326,
-                    -1050
-                ]
-            },
-            "properties": {
-                "type": "fish",
-                "x": 1326,
-                "y": 1050,
-                "list": [
-                    "Коралловый сиган",
-                    "Золотой летринус"
-                ]
+                "type": "note",
+                "x": 393,
+                "y": 1056,
+                "text": "Зелёная токс-рыба."
             }
         },
         {
@@ -61,22 +39,6 @@
                 "x": 1341,
                 "y": 1062,
                 "text": "Голубая токс-рыба."
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    393,
-                    -1056
-                ]
-            },
-            "properties": {
-                "type": "note",
-                "x": 393,
-                "y": 1056,
-                "text": "Зелёная токс-рыба."
             }
         },
         {
@@ -102,17 +64,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    847,
-                    -262
+                    379,
+                    -1048
                 ]
             },
             "properties": {
-                "type": "boss",
-                "x": 847,
-                "y": 262,
-                "caption": "Алконавт генерал",
-                "class": "general",
-                "mode": "quest"
+                "type": "fish",
+                "x": 379,
+                "y": 1048,
+                "list": [
+                    "Рыба-зигзаг",
+                    "Лазурная пеламида"
+                ]
             }
         },
         {
@@ -149,6 +112,43 @@
                 "caption": "Алконавт генерал",
                 "class": "general",
                 "mode": "quest"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    847,
+                    -262
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 847,
+                "y": 262,
+                "caption": "Алконавт генерал",
+                "class": "general",
+                "mode": "quest"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1326,
+                    -1050
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 1326,
+                "y": 1050,
+                "list": [
+                    "Коралловый сиган",
+                    "Золотой летринус"
+                ]
             }
         }
     ]

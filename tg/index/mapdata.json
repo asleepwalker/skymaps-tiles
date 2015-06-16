@@ -26,17 +26,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1646,
-                    -121
+                    1133,
+                    -464
                 ]
             },
             "properties": {
-                "type": "npc",
-                "x": 1646,
-                "y": 121,
-                "caption": "Лилия",
-                "npc": "Ляля-Дюймовочка",
-                "link": "library\/npc\/tg\/lyalya"
+                "type": "boss",
+                "x": 1133,
+                "y": 464,
+                "caption": "Улей",
+                "class": "uley"
             }
         },
         {
@@ -44,17 +43,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    534,
-                    -364
+                    1075,
+                    -567
                 ]
             },
             "properties": {
-                "type": "npc",
-                "x": 534,
-                "y": 364,
-                "caption": "Кроссвинд",
-                "npc": "Милента",
-                "link": "library\/npc\/tg\/milenta"
+                "type": "boss",
+                "x": 1075,
+                "y": 567,
+                "caption": "Улей",
+                "class": "uley"
             }
         },
         {
@@ -62,15 +60,116 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1427,
+                    1729,
+                    -1211
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 1729,
+                "y": 1211,
+                "caption": "Логово",
+                "class": "logovo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1779,
+                    -179
+                ]
+            },
+            "properties": {
+                "type": "quest",
+                "x": 1779,
+                "y": 179,
+                "caption": "Тайна Эльны",
+                "link": "library\/myst\/eln",
+                "tip": "Здесь вы можете приобрести Тайну Эльны за 30 000 дублонов."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    882,
+                    -1127
+                ]
+            },
+            "properties": {
+                "type": "note",
+                "x": 882,
+                "y": 1127,
+                "text": "Одно из самый опасных мест в Тихой Гавани. Более чем полностью Бухта заселена лиловыми сцифозоями."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1165,
+                    -703
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 1165,
+                "y": 703,
+                "region": "tg",
+                "map": "lozhbina",
+                "caption": "Медовая Ложбина",
+                "goto": {
+                    "x": 502,
+                    "y": 357
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    865,
+                    -951
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 865,
+                "y": 951,
+                "region": "tg",
+                "map": "luzhayka",
+                "caption": "Цветочная Лужайка",
+                "goto": {
+                    "x": 196,
+                    "y": 200
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1213,
                     -1313
                 ]
             },
             "properties": {
-                "type": "beacon",
-                "x": 1427,
+                "type": "hole",
+                "x": 1213,
                 "y": 1313,
-                "link": "library\/coins\/gavane"
+                "region": "tg",
+                "map": "prostranstvo",
+                "caption": "Пространство Вариантов",
+                "goto": {
+                    "x": 501,
+                    "y": 818
+                }
             }
         },
         {
@@ -78,15 +177,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    853,
-                    -1384
+                    1779,
+                    -620
                 ]
             },
             "properties": {
-                "type": "beacon",
-                "x": 853,
-                "y": 1384,
-                "link": "library\/coins\/gavane"
+                "type": "hole",
+                "x": 1779,
+                "y": 620,
+                "region": "tg",
+                "map": "labirint1",
+                "caption": "Лабиринт Облаков, ур.1",
+                "goto": {
+                    "x": 107,
+                    "y": 121
+                }
             }
         },
         {
@@ -94,15 +199,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    553,
-                    -1333
+                    1884,
+                    -268
                 ]
             },
             "properties": {
-                "type": "beacon",
-                "x": 553,
-                "y": 1333,
-                "link": "library\/coins\/gavane"
+                "type": "hole",
+                "x": 1884,
+                "y": 268,
+                "region": "tg",
+                "map": "promzona",
+                "caption": "Старая промзона",
+                "goto": {
+                    "x": 215,
+                    "y": 496
+                }
             }
         },
         {
@@ -110,17 +221,204 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1272,
-                    -1270
+                    1882,
+                    -748
+                ]
+            },
+            "properties": {
+                "type": "station",
+                "x": 1882,
+                "y": 748,
+                "caption": "Платформа Новогвинеево",
+                "size": 120,
+                "list": [
+                    {
+                        "caption": "Кроссвинд",
+                        "region": "tg",
+                        "map": "index",
+                        "x": 553,
+                        "y": 384,
+                        "type": "station"
+                    },
+                    {
+                        "caption": "Платформа №13",
+                        "region": "tg",
+                        "map": "promzona",
+                        "x": 543,
+                        "y": 466,
+                        "type": "station"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1089,
+                    -117
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 1089,
+                "y": 117,
+                "list": [
+                    "Залётный хариус",
+                    "Ветряной жерех"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1689,
+                    -359
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 1689,
+                "y": 359,
+                "list": [
+                    "Рыба-печень",
+                    "Скудный лосось"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1720,
+                    -398
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 1720,
+                "y": 398,
+                "list": [
+                    "Рыба-печень",
+                    "Скудный лосось"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1629,
+                    -921
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 1629,
+                "y": 921
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1496,
+                    -1009
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 1496,
+                "y": 1009
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1454,
+                    -1209
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 1454,
+                "y": 1209
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1667,
+                    -933
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 1667,
+                "y": 933
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1709,
+                    -945
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 1709,
+                "y": 945
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    817,
+                    -105
                 ]
             },
             "properties": {
                 "type": "npc",
-                "x": 1272,
-                "y": 1270,
-                "caption": "Таверна \"Пьяный Ветер\"",
-                "npc": "Эндрю",
-                "link": "library\/npc\/tg\/andrew"
+                "x": 817,
+                "y": 105,
+                "caption": "Лавка Торговца Папуны",
+                "npc": "Торговец Папуна",
+                "link": "library\/npc\/tg\/papuna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    824,
+                    -118
+                ]
+            },
+            "properties": {
+                "type": "instance",
+                "x": 824,
+                "y": 118,
+                "region": "tg",
+                "map": "svalka",
+                "caption": "Глухая Свалка",
+                "goX": 720,
+                "goY": 1420
             }
         },
         {
@@ -156,180 +454,6 @@
                 "list": [
                     "Рыба-печень",
                     "Скудный лосось"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1709,
-                    -945
-                ]
-            },
-            "properties": {
-                "type": "fish",
-                "x": 1709,
-                "y": 945
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1667,
-                    -933
-                ]
-            },
-            "properties": {
-                "type": "fish",
-                "x": 1667,
-                "y": 933
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1454,
-                    -1209
-                ]
-            },
-            "properties": {
-                "type": "fish",
-                "x": 1454,
-                "y": 1209
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1629,
-                    -921
-                ]
-            },
-            "properties": {
-                "type": "fish",
-                "x": 1629,
-                "y": 921
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1037,
-                    -817
-                ]
-            },
-            "properties": {
-                "type": "fish",
-                "x": 1037,
-                "y": 817,
-                "list": [
-                    "Коралловый сиган",
-                    "Золотой летринус"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1037,
-                    -763
-                ]
-            },
-            "properties": {
-                "type": "fish",
-                "x": 1037,
-                "y": 763,
-                "list": [
-                    "Рыба-печень",
-                    "Скудный лосось"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    949,
-                    -761
-                ]
-            },
-            "properties": {
-                "type": "fish",
-                "x": 949,
-                "y": 761,
-                "list": [
-                    "Рыба-печень",
-                    "Скудный лосось"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1084,
-                    -875
-                ]
-            },
-            "properties": {
-                "type": "fish",
-                "x": 1084,
-                "y": 875,
-                "list": [
-                    "Тропический центропиг",
-                    "Игольчатый марлин"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    987,
-                    -886
-                ]
-            },
-            "properties": {
-                "type": "fish",
-                "x": 987,
-                "y": 886,
-                "list": [
-                    "Коралловый сиган",
-                    "Золотой летринус"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    958,
-                    -835
-                ]
-            },
-            "properties": {
-                "type": "fish",
-                "x": 958,
-                "y": 835,
-                "list": [
-                    "Коралловый сиган",
-                    "Золотой летринус"
                 ]
             }
         },
@@ -376,19 +500,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    824,
-                    -118
+                    949,
+                    -761
                 ]
             },
             "properties": {
-                "type": "instance",
-                "x": 824,
-                "y": 118,
-                "region": "tg",
-                "map": "svalka",
-                "caption": "Глухая Свалка",
-                "goX": 720,
-                "goY": 1420
+                "type": "fish",
+                "x": 949,
+                "y": 761,
+                "list": [
+                    "Рыба-печень",
+                    "Скудный лосось"
+                ]
             }
         },
         {
@@ -396,17 +519,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1855,
-                    -628
+                    958,
+                    -835
                 ]
             },
             "properties": {
-                "type": "npc",
-                "x": 1855,
-                "y": 628,
-                "caption": "Дом Отставного Капитана Чикенза",
-                "npc": "Капитан Чикенз",
-                "link": "library\/npc\/tg\/chickens"
+                "type": "fish",
+                "x": 958,
+                "y": 835,
+                "list": [
+                    "Коралловый сиган",
+                    "Золотой летринус"
+                ]
             }
         },
         {
@@ -414,17 +538,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    817,
-                    -105
+                    1037,
+                    -763
                 ]
             },
             "properties": {
-                "type": "npc",
-                "x": 817,
-                "y": 105,
-                "caption": "Лавка Торговца Папуны",
-                "npc": "Торговец Папуна",
-                "link": "library\/npc\/tg\/papuna"
+                "type": "fish",
+                "x": 1037,
+                "y": 763,
+                "list": [
+                    "Рыба-печень",
+                    "Скудный лосось"
+                ]
             }
         },
         {
@@ -432,17 +557,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    935,
-                    -333
+                    1037,
+                    -817
                 ]
             },
             "properties": {
-                "type": "npc",
-                "x": 935,
-                "y": 333,
-                "caption": "Дом Историка Марктинкуса",
-                "npc": "Профессор Марктинкус",
-                "link": "library\/npc\/tg\/marktinkus"
+                "type": "fish",
+                "x": 1037,
+                "y": 817,
+                "list": [
+                    "Коралловый сиган",
+                    "Золотой летринус"
+                ]
             }
         },
         {
@@ -450,17 +576,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    791,
-                    -665
+                    1084,
+                    -875
                 ]
             },
             "properties": {
-                "type": "npc",
-                "x": 791,
-                "y": 665,
-                "caption": "Суши-бар Комуто Охота",
-                "npc": "Комуто Охота",
-                "link": "library\/npc\/tg\/komuto"
+                "type": "fish",
+                "x": 1084,
+                "y": 875,
+                "list": [
+                    "Тропический центропиг",
+                    "Игольчатый марлин"
+                ]
             }
         },
         {
@@ -468,17 +595,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    177,
-                    -781
+                    987,
+                    -886
                 ]
             },
             "properties": {
-                "type": "npc",
-                "x": 177,
-                "y": 781,
-                "caption": "Кафедра Военного Дела",
-                "npc": "Адмирал Канонбах",
-                "link": "library\/npc\/tg\/kanonbach"
+                "type": "fish",
+                "x": 987,
+                "y": 886,
+                "list": [
+                    "Коралловый сиган",
+                    "Золотой летринус"
+                ]
             }
         },
         {
@@ -486,17 +614,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    524,
-                    -771
+                    553,
+                    -1333
                 ]
             },
             "properties": {
-                "type": "npc",
-                "x": 524,
-                "y": 771,
-                "caption": "Мастерская Тётушки Бязь",
-                "npc": "Тётушка Бязь",
-                "link": "library\/npc\/tg\/byaz"
+                "type": "beacon",
+                "x": 553,
+                "y": 1333,
+                "link": "library\/coins\/gavane"
             }
         },
         {
@@ -504,17 +630,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    609,
-                    -1037
+                    853,
+                    -1384
                 ]
             },
             "properties": {
-                "type": "npc",
-                "x": 609,
-                "y": 1037,
-                "caption": "Часовня Муз",
-                "npc": "Сестра Фиола",
-                "link": "library\/npc\/tg\/fiola"
+                "type": "beacon",
+                "x": 853,
+                "y": 1384,
+                "link": "library\/coins\/gavane"
             }
         },
         {
@@ -522,17 +646,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1058,
-                    -1004
+                    1427,
+                    -1313
                 ]
             },
             "properties": {
-                "type": "npc",
-                "x": 1058,
-                "y": 1004,
-                "caption": "Домик Эльны",
-                "npc": "Грустная Эльна",
-                "link": "library\/npc\/tg\/elna"
+                "type": "beacon",
+                "x": 1427,
+                "y": 1313,
+                "link": "library\/coins\/gavane"
             }
         },
         {
@@ -540,17 +662,17 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1217,
-                    -742
+                    534,
+                    -364
                 ]
             },
             "properties": {
                 "type": "npc",
-                "x": 1217,
-                "y": 742,
-                "caption": "Хижина Акульего Дядьки",
-                "npc": "Акулий Дядька",
-                "link": "library\/npc\/tg\/dyadka"
+                "x": 534,
+                "y": 364,
+                "caption": "Кроссвинд",
+                "npc": "Милента",
+                "link": "library\/npc\/tg\/milenta"
             }
         },
         {
@@ -576,18 +698,17 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1089,
-                    -117
+                    177,
+                    -781
                 ]
             },
             "properties": {
-                "type": "fish",
-                "x": 1089,
-                "y": 117,
-                "list": [
-                    "Залётный хариус",
-                    "Ветряной жерех"
-                ]
+                "type": "npc",
+                "x": 177,
+                "y": 781,
+                "caption": "Кафедра Военного Дела",
+                "npc": "Адмирал Канонбах",
+                "link": "library\/npc\/tg\/kanonbach"
             }
         },
         {
@@ -595,14 +716,17 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1496,
-                    -1009
+                    1217,
+                    -742
                 ]
             },
             "properties": {
-                "type": "fish",
-                "x": 1496,
-                "y": 1009
+                "type": "npc",
+                "x": 1217,
+                "y": 742,
+                "caption": "Хижина Акульего Дядьки",
+                "npc": "Акулий Дядька",
+                "link": "library\/npc\/tg\/dyadka"
             }
         },
         {
@@ -610,18 +734,17 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1720,
-                    -398
+                    1058,
+                    -1004
                 ]
             },
             "properties": {
-                "type": "fish",
-                "x": 1720,
-                "y": 398,
-                "list": [
-                    "Рыба-печень",
-                    "Скудный лосось"
-                ]
+                "type": "npc",
+                "x": 1058,
+                "y": 1004,
+                "caption": "Домик Эльны",
+                "npc": "Грустная Эльна",
+                "link": "library\/npc\/tg\/elna"
             }
         },
         {
@@ -629,18 +752,17 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1689,
-                    -359
+                    1855,
+                    -628
                 ]
             },
             "properties": {
-                "type": "fish",
-                "x": 1689,
-                "y": 359,
-                "list": [
-                    "Рыба-печень",
-                    "Скудный лосось"
-                ]
+                "type": "npc",
+                "x": 1855,
+                "y": 628,
+                "caption": "Дом Отставного Капитана Чикенза",
+                "npc": "Капитан Чикенз",
+                "link": "library\/npc\/tg\/chickens"
             }
         },
         {
@@ -648,21 +770,17 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1165,
-                    -703
+                    791,
+                    -665
                 ]
             },
             "properties": {
-                "type": "hole",
-                "x": 1165,
-                "y": 703,
-                "region": "tg",
-                "map": "lozhbina",
-                "caption": "Медовая Ложбина",
-                "goto": {
-                    "x": 502,
-                    "y": 357
-                }
+                "type": "npc",
+                "x": 791,
+                "y": 665,
+                "caption": "Суши-бар Комуто Охота",
+                "npc": "Комуто Охота",
+                "link": "library\/npc\/tg\/komuto"
             }
         },
         {
@@ -670,21 +788,17 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1213,
-                    -1313
+                    935,
+                    -333
                 ]
             },
             "properties": {
-                "type": "hole",
-                "x": 1213,
-                "y": 1313,
-                "region": "tg",
-                "map": "prostranstvo",
-                "caption": "Пространство Вариантов",
-                "goto": {
-                    "x": 501,
-                    "y": 818
-                }
+                "type": "npc",
+                "x": 935,
+                "y": 333,
+                "caption": "Дом Историка Марктинкуса",
+                "npc": "Профессор Марктинкус",
+                "link": "library\/npc\/tg\/marktinkus"
             }
         },
         {
@@ -692,34 +806,71 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1882,
-                    -748
+                    609,
+                    -1037
                 ]
             },
             "properties": {
-                "type": "station",
-                "x": 1882,
-                "y": 748,
-                "caption": "Платформа Новогвинеево",
-                "size": 120,
-                "list": [
-                    {
-                        "caption": "Кроссвинд",
-                        "region": "tg",
-                        "map": "index",
-                        "x": 553,
-                        "y": 384,
-                        "type": "station"
-                    },
-                    {
-                        "caption": "Платформа №13",
-                        "region": "tg",
-                        "map": "promzona",
-                        "x": 543,
-                        "y": 466,
-                        "type": "station"
-                    }
+                "type": "npc",
+                "x": 609,
+                "y": 1037,
+                "caption": "Часовня Муз",
+                "npc": "Сестра Фиола",
+                "link": "library\/npc\/tg\/fiola"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    524,
+                    -771
                 ]
+            },
+            "properties": {
+                "type": "npc",
+                "x": 524,
+                "y": 771,
+                "caption": "Мастерская Тётушки Бязь",
+                "npc": "Тётушка Бязь",
+                "link": "library\/npc\/tg\/byaz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1272,
+                    -1270
+                ]
+            },
+            "properties": {
+                "type": "npc",
+                "x": 1272,
+                "y": 1270,
+                "caption": "Таверна \"Пьяный Ветер\"",
+                "npc": "Эндрю",
+                "link": "library\/npc\/tg\/andrew"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1646,
+                    -121
+                ]
+            },
+            "properties": {
+                "type": "npc",
+                "x": 1646,
+                "y": 121,
+                "caption": "Лилия",
+                "npc": "Ляля-Дюймовочка",
+                "link": "library\/npc\/tg\/lyalya"
             }
         },
         {
@@ -771,157 +922,6 @@
                         "type": "station"
                     }
                 ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    882,
-                    -1127
-                ]
-            },
-            "properties": {
-                "type": "note",
-                "x": 882,
-                "y": 1127,
-                "text": "Одно из самый опасных мест в Тихой Гавани. Более чем полностью Бухта заселена лиловыми сцифозоями."
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1779,
-                    -179
-                ]
-            },
-            "properties": {
-                "type": "quest",
-                "x": 1779,
-                "y": 179,
-                "caption": "Тайна Эльны",
-                "link": "library\/myst\/eln",
-                "tip": "Здесь вы можете приобрести Тайну Эльны за 30 000 дублонов."
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1729,
-                    -1211
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 1729,
-                "y": 1211,
-                "caption": "Логово",
-                "class": "logovo"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1075,
-                    -567
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 1075,
-                "y": 567,
-                "caption": "Улей",
-                "class": "uley"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1133,
-                    -464
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 1133,
-                "y": 464,
-                "caption": "Улей",
-                "class": "uley"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    865,
-                    -951
-                ]
-            },
-            "properties": {
-                "type": "hole",
-                "x": 865,
-                "y": 951,
-                "region": "tg",
-                "map": "luzhayka",
-                "caption": "Цветочная Лужайка",
-                "goto": {
-                    "x": 196,
-                    "y": 200
-                }
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1779,
-                    -620
-                ]
-            },
-            "properties": {
-                "type": "hole",
-                "x": 1779,
-                "y": 620,
-                "region": "tg",
-                "map": "labirint1",
-                "caption": "Лабиринт Облаков, ур.1",
-                "goto": {
-                    "x": 107,
-                    "y": 121
-                }
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1884,
-                    -268
-                ]
-            },
-            "properties": {
-                "type": "hole",
-                "x": 1884,
-                "y": 268,
-                "region": "tg",
-                "map": "promzona",
-                "caption": "Старая промзона",
-                "goto": {
-                    "x": 215,
-                    "y": 496
-                }
             }
         }
     ]

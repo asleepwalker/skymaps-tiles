@@ -14,17 +14,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    248,
-                    -865
+                    852,
+                    -92
                 ]
             },
             "properties": {
-                "type": "npc",
-                "x": 248,
-                "y": 865,
-                "caption": "Дом Шваббаха",
-                "npc": "Инженер Шваббах",
-                "link": "library\/npc\/pf\/shvabbah"
+                "type": "hole",
+                "x": 852,
+                "y": 92
             }
         },
         {
@@ -32,17 +29,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    480,
-                    -728
+                    110,
+                    -91
                 ]
             },
             "properties": {
-                "type": "npc",
-                "x": 480,
-                "y": 728,
-                "caption": "Дом Академика Фисуниса",
-                "npc": "Академик Фисунис",
-                "link": "library\/npc\/pf\/fisunis"
+                "type": "hole",
+                "x": 110,
+                "y": 91
             }
         },
         {
@@ -50,17 +44,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    166,
-                    -308
+                    760,
+                    -732
                 ]
             },
             "properties": {
-                "type": "master",
-                "x": 166,
-                "y": 308,
-                "list": [
-                    "Реагенты"
-                ]
+                "type": "boss",
+                "x": 760,
+                "y": 732,
+                "caption": "Мощная цитадель",
+                "class": "tsitadel"
             }
         },
         {
@@ -68,16 +61,77 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    219,
-                    -805
+                    350,
+                    -262
                 ]
             },
             "properties": {
-                "type": "quest",
-                "x": 219,
-                "y": 805,
-                "caption": "Сбор тайны \"Загадочная лаборатория\"",
-                "tip": "Здесь находится часть тайны загадочной лаборатории НПК."
+                "type": "boss",
+                "x": 350,
+                "y": 262,
+                "caption": "Мощная цитадель",
+                "class": "tsitadel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    590,
+                    -262
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 590,
+                "y": 262,
+                "caption": "Главный летанк",
+                "class": "letank"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    604,
+                    -89
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 604,
+                "y": 89,
+                "region": "pf",
+                "map": "npksvalka",
+                "caption": "НПК, Свалка",
+                "goto": {
+                    "x": 858,
+                    "y": 861
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    361,
+                    -91
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 361,
+                "y": 91,
+                "region": "pf",
+                "map": "npk1",
+                "caption": "НПК, Производственный уровень 1",
+                "goto": {
+                    "x": 407,
+                    "y": 373
+                }
             }
         },
         {
@@ -96,6 +150,45 @@
                 "list": [
                     "Хитрый клапан"
                 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    861,
+                    -886
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 861,
+                "y": 886,
+                "region": "pf",
+                "map": "npkkpp",
+                "caption": "НПК, КПП",
+                "goto": {
+                    "x": 501,
+                    "y": 159
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    219,
+                    -805
+                ]
+            },
+            "properties": {
+                "type": "quest",
+                "x": 219,
+                "y": 805,
+                "caption": "Сбор тайны \"Загадочная лаборатория\"",
+                "tip": "Здесь находится часть тайны загадочной лаборатории НПК."
             }
         },
         {
@@ -137,16 +230,17 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    590,
-                    -262
+                    166,
+                    -308
                 ]
             },
             "properties": {
-                "type": "boss",
-                "x": 590,
-                "y": 262,
-                "caption": "Главный летанк",
-                "class": "letank"
+                "type": "master",
+                "x": 166,
+                "y": 308,
+                "list": [
+                    "Реагенты"
+                ]
             }
         },
         {
@@ -154,16 +248,17 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    350,
-                    -262
+                    480,
+                    -728
                 ]
             },
             "properties": {
-                "type": "boss",
-                "x": 350,
-                "y": 262,
-                "caption": "Мощная цитадель",
-                "class": "tsitadel"
+                "type": "npc",
+                "x": 480,
+                "y": 728,
+                "caption": "Дом Академика Фисуниса",
+                "npc": "Академик Фисунис",
+                "link": "library\/npc\/pf\/fisunis"
             }
         },
         {
@@ -171,16 +266,17 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    760,
-                    -732
+                    248,
+                    -865
                 ]
             },
             "properties": {
-                "type": "boss",
-                "x": 760,
-                "y": 732,
-                "caption": "Мощная цитадель",
-                "class": "tsitadel"
+                "type": "npc",
+                "x": 248,
+                "y": 865,
+                "caption": "Дом Шваббаха",
+                "npc": "Инженер Шваббах",
+                "link": "library\/npc\/pf\/shvabbah"
             }
         },
         {
@@ -208,102 +304,6 @@
                         "type": "station"
                     }
                 ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    110,
-                    -91
-                ]
-            },
-            "properties": {
-                "type": "hole",
-                "x": 110,
-                "y": 91
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    361,
-                    -91
-                ]
-            },
-            "properties": {
-                "type": "hole",
-                "x": 361,
-                "y": 91,
-                "region": "pf",
-                "map": "npk1",
-                "caption": "НПК, Производственный уровень 1",
-                "goto": {
-                    "x": 407,
-                    "y": 373
-                }
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    604,
-                    -89
-                ]
-            },
-            "properties": {
-                "type": "hole",
-                "x": 604,
-                "y": 89,
-                "region": "pf",
-                "map": "npksvalka",
-                "caption": "НПК, Свалка",
-                "goto": {
-                    "x": 858,
-                    "y": 861
-                }
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    852,
-                    -92
-                ]
-            },
-            "properties": {
-                "type": "hole",
-                "x": 852,
-                "y": 92
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    861,
-                    -886
-                ]
-            },
-            "properties": {
-                "type": "hole",
-                "x": 861,
-                "y": 886,
-                "region": "pf",
-                "map": "npkkpp",
-                "caption": "НПК, КПП",
-                "goto": {
-                    "x": 501,
-                    "y": 159
-                }
             }
         }
     ]

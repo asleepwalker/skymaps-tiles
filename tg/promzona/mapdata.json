@@ -14,6 +14,50 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    195,
+                    -476
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 195,
+                "y": 476,
+                "region": "tg",
+                "map": "index",
+                "caption": "Тихая Гавань",
+                "goto": {
+                    "x": 1904,
+                    "y": 288
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    816,
+                    -429
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 816,
+                "y": 429,
+                "region": "tg",
+                "map": "labirint1",
+                "caption": "Лабиринт Облаков, ур.1",
+                "goto": {
+                    "x": 107,
+                    "y": 121
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     175,
                     -174
                 ]
@@ -33,14 +77,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    765,
-                    -379
+                    813,
+                    -207
                 ]
             },
             "properties": {
                 "type": "fish",
-                "x": 765,
-                "y": 379,
+                "x": 813,
+                "y": 207,
                 "list": [
                     "Коралловый сиган",
                     "Золотой летринус"
@@ -52,14 +96,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    813,
-                    -207
+                    765,
+                    -379
                 ]
             },
             "properties": {
                 "type": "fish",
-                "x": 813,
-                "y": 207,
+                "x": 765,
+                "y": 379,
                 "list": [
                     "Коралловый сиган",
                     "Золотой летринус"
@@ -107,50 +151,6 @@
                         "type": "station"
                     }
                 ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    195,
-                    -476
-                ]
-            },
-            "properties": {
-                "type": "hole",
-                "x": 195,
-                "y": 476,
-                "region": "tg",
-                "map": "index",
-                "caption": "Тихая Гавань",
-                "goto": {
-                    "x": 1904,
-                    "y": 288
-                }
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    816,
-                    -429
-                ]
-            },
-            "properties": {
-                "type": "hole",
-                "x": 816,
-                "y": 429,
-                "region": "tg",
-                "map": "labirint1",
-                "caption": "Лабиринт Облаков, ур.1",
-                "goto": {
-                    "x": 107,
-                    "y": 121
-                }
             }
         }
     ]

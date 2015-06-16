@@ -19,212 +19,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    407,
-                    -299
+                    233,
+                    -554
                 ]
             },
             "properties": {
-                "type": "beacon",
-                "x": 407,
-                "y": 299,
-                "link": "library\/coins\/oskolki"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    218,
-                    -522
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 218,
-                "y": 522,
-                "caption": "Хламкистодоры",
-                "class": "hlamk"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    580,
-                    -82
-                ]
-            },
-            "properties": {
-                "type": "npc",
-                "x": 580,
-                "y": 82,
-                "caption": "Рухлядь-маркет Мамуны",
-                "npc": "Мамуна",
-                "link": "library\/npc\/os\/mamuna"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    36,
-                    -165
-                ]
-            },
-            "properties": {
-                "type": "maphole",
-                "x": 36,
-                "y": 165,
-                "region": "os",
-                "map": "rudniykray",
-                "caption": "Рудный край",
-                "goto": {
-                    "x": 937,
-                    "y": 73
-                }
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    559,
-                    -540
-                ]
-            },
-            "properties": {
-                "type": "master",
-                "x": 559,
-                "y": 540,
-                "list": [
-                    "Молоко небесных коров"
+                "type": "factory",
+                "x": 233,
+                "y": 554,
+                "caption": "Второй МФ-завод Осколков",
+                "production": [
+                    "Зеленый МФ комплект V",
+                    "Оранжевый МФ комплект V",
+                    "Розовый МФ комплект V",
+                    "Черный МФ комплект V"
                 ],
-                "link": "library\/masters\/oskolki"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    275,
-                    -141
-                ]
-            },
-            "properties": {
-                "type": "master",
-                "x": 275,
-                "y": 141,
-                "list": [
-                    "Электрические угри"
-                ],
-                "link": "library\/masters\/oskolki"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    166,
-                    -215
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 166,
-                "y": 215,
-                "caption": "Хламкистодоры",
-                "class": "hlamk"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    28,
-                    -537
-                ]
-            },
-            "properties": {
-                "type": "maphole",
-                "x": 28,
-                "y": 537,
-                "region": "os",
-                "map": "rudniykray",
-                "caption": "Рудный край",
-                "goto": {
-                    "x": 942,
-                    "y": 539
-                }
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    559,
-                    -488
-                ]
-            },
-            "properties": {
-                "type": "fish",
-                "x": 559,
-                "y": 488,
-                "list": [
-                    "Залётный хариус",
-                    "Ветряной жерех"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    64,
-                    -78
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 64,
-                "y": 78,
-                "caption": "Хламкистодоры",
-                "class": "hlamk"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    113,
-                    -413
-                ]
-            },
-            "properties": {
-                "type": "station",
-                "x": 113,
-                "y": 413,
-                "caption": "Северо-Восточная",
-                "size": 55,
-                "list": [
-                    {
-                        "caption": "Кавардак",
-                        "region": "os",
-                        "map": "index",
-                        "x": 474,
-                        "y": 339,
-                        "type": "station"
-                    }
-                ]
+                "link": "library\/factories\/oskolki"
             }
         },
         {
@@ -249,16 +59,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    827,
-                    -308
+                    64,
+                    -78
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 827,
-                "y": 308,
-                "caption": "Кадавр",
-                "class": "kadavr"
+                "x": 64,
+                "y": 78,
+                "caption": "Хламкистодоры",
+                "class": "hlamk"
             }
         },
         {
@@ -266,22 +76,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    233,
-                    -554
+                    43,
+                    -351
                 ]
             },
             "properties": {
-                "type": "factory",
-                "x": 233,
-                "y": 554,
-                "caption": "Второй МФ-завод Осколков",
-                "production": [
-                    "Зеленый МФ комплект V",
-                    "Оранжевый МФ комплект V",
-                    "Розовый МФ комплект V",
-                    "Черный МФ комплект V"
-                ],
-                "link": "library\/factories\/oskolki"
+                "type": "maphole",
+                "x": 43,
+                "y": 351
             }
         },
         {
@@ -289,20 +91,20 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    872,
-                    -114
+                    28,
+                    -537
                 ]
             },
             "properties": {
-                "type": "hole",
-                "x": 872,
-                "y": 114,
+                "type": "maphole",
+                "x": 28,
+                "y": 537,
                 "region": "os",
-                "map": "ikarsa",
-                "caption": "Лабиринт икаров А",
+                "map": "rudniykray",
+                "caption": "Рудный край",
                 "goto": {
-                    "x": 458,
-                    "y": 89
+                    "x": 942,
+                    "y": 539
                 }
             }
         },
@@ -399,14 +201,212 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    43,
-                    -351
+                    166,
+                    -215
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 166,
+                "y": 215,
+                "caption": "Хламкистодоры",
+                "class": "hlamk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    275,
+                    -141
+                ]
+            },
+            "properties": {
+                "type": "master",
+                "x": 275,
+                "y": 141,
+                "list": [
+                    "Электрические угри"
+                ],
+                "link": "library\/masters\/oskolki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    559,
+                    -540
+                ]
+            },
+            "properties": {
+                "type": "master",
+                "x": 559,
+                "y": 540,
+                "list": [
+                    "Молоко небесных коров"
+                ],
+                "link": "library\/masters\/oskolki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    872,
+                    -114
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 872,
+                "y": 114,
+                "region": "os",
+                "map": "ikarsa",
+                "caption": "Лабиринт икаров А",
+                "goto": {
+                    "x": 458,
+                    "y": 89
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36,
+                    -165
                 ]
             },
             "properties": {
                 "type": "maphole",
-                "x": 43,
-                "y": 351
+                "x": 36,
+                "y": 165,
+                "region": "os",
+                "map": "rudniykray",
+                "caption": "Рудный край",
+                "goto": {
+                    "x": 937,
+                    "y": 73
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    827,
+                    -308
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 827,
+                "y": 308,
+                "caption": "Кадавр",
+                "class": "kadavr"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    218,
+                    -522
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 218,
+                "y": 522,
+                "caption": "Хламкистодоры",
+                "class": "hlamk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    407,
+                    -299
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 407,
+                "y": 299,
+                "link": "library\/coins\/oskolki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    580,
+                    -82
+                ]
+            },
+            "properties": {
+                "type": "npc",
+                "x": 580,
+                "y": 82,
+                "caption": "Рухлядь-маркет Мамуны",
+                "npc": "Мамуна",
+                "link": "library\/npc\/os\/mamuna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    559,
+                    -488
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 559,
+                "y": 488,
+                "list": [
+                    "Залётный хариус",
+                    "Ветряной жерех"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113,
+                    -413
+                ]
+            },
+            "properties": {
+                "type": "station",
+                "x": 113,
+                "y": 413,
+                "caption": "Северо-Восточная",
+                "size": 55,
+                "list": [
+                    {
+                        "caption": "Кавардак",
+                        "region": "os",
+                        "map": "index",
+                        "x": 474,
+                        "y": 339,
+                        "type": "station"
+                    }
+                ]
             }
         }
     ]

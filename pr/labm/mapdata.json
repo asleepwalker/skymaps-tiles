@@ -23,56 +23,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    828,
-                    -822
-                ]
-            },
-            "properties": {
-                "type": "beacon",
-                "x": 828,
-                "y": 822,
-                "link": "library\/coins\/reef"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    107,
-                    -536
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 107,
-                "y": 536,
-                "caption": "Мусорог-губитель Полковник",
-                "class": "musorog"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    778,
-                    -765
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 778,
-                "y": 765,
-                "caption": "Логово Нарушителей Всего",
-                "class": "logovo"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     809,
                     -438
                 ]
@@ -83,23 +33,6 @@
                 "y": 438,
                 "caption": "Цитадель механоидов",
                 "class": "tsitadel"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    310,
-                    -322
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 310,
-                "y": 322,
-                "caption": "Великий Кроволёт Барон",
-                "class": "airship"
             }
         },
         {
@@ -144,6 +77,73 @@
                     "x": 598,
                     "y": 566
                 }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    778,
+                    -765
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 778,
+                "y": 765,
+                "caption": "Логово Нарушителей Всего",
+                "class": "logovo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107,
+                    -536
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 107,
+                "y": 536,
+                "caption": "Мусорог-губитель Полковник",
+                "class": "musorog"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    310,
+                    -322
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 310,
+                "y": 322,
+                "caption": "Великий Кроволёт Барон",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    828,
+                    -822
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 828,
+                "y": 822,
+                "link": "library\/coins\/reef"
             }
         }
     ]
