@@ -105,28 +105,32 @@
                         "region": "pf",
                         "map": "index",
                         "x": 2472,
-                        "y": 1439
+                        "y": 1439,
+                        "type": "station"
                     },
                     {
                         "caption": "\"Радость Труда\"",
                         "region": "pf",
                         "map": "labl",
                         "x": 824,
-                        "y": 161
+                        "y": 161,
+                        "type": "station"
                     },
                     {
                         "caption": "\"Триумф Старателей\"",
                         "region": "pf",
                         "map": "labt",
                         "x": 186,
-                        "y": 820
+                        "y": 820,
+                        "type": "station"
                     },
                     {
                         "caption": "Платформа 47 км",
                         "region": "pf",
                         "map": "labu",
                         "x": 189,
-                        "y": 801
+                        "y": 801,
+                        "type": "station"
                     }
                 ]
             }

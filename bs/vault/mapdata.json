@@ -47,14 +47,16 @@
                         "region": "bs",
                         "map": "tehlord_easy",
                         "x": 20,
-                        "y": 20
+                        "y": 20,
+                        "type": "sky"
                     },
                     {
                         "caption": "\"Техлорд Нангум\" (сложный)",
                         "region": "bs",
                         "map": "tehlord_hard",
                         "x": 20,
-                        "y": 20
+                        "y": 20,
+                        "type": "sky"
                     }
                 ]
             }
@@ -80,14 +82,16 @@
                         "region": "bs",
                         "map": "index",
                         "x": 162,
-                        "y": 676
+                        "y": 676,
+                        "type": "station"
                     },
                     {
                         "caption": "\"Благодать\"",
                         "region": "bs",
                         "map": "razriv3",
                         "x": 627,
-                        "y": 618
+                        "y": 618,
+                        "type": "station"
                     }
                 ]
             }

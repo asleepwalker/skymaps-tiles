@@ -708,14 +708,16 @@
                         "region": "tg",
                         "map": "index",
                         "x": 553,
-                        "y": 384
+                        "y": 384,
+                        "type": "station"
                     },
                     {
                         "caption": "Платформа №13",
                         "region": "tg",
                         "map": "promzona",
                         "x": 543,
-                        "y": 466
+                        "y": 466,
+                        "type": "station"
                     }
                 ]
             }
@@ -741,28 +743,32 @@
                         "region": "tg",
                         "map": "promzona",
                         "x": 543,
-                        "y": 466
+                        "y": 466,
+                        "type": "station"
                     },
                     {
                         "caption": "Платформа Новогвинеево",
                         "region": "tg",
                         "map": "index",
                         "x": 1882,
-                        "y": 748
+                        "y": 748,
+                        "type": "station"
                     },
                     {
                         "caption": "Медовая Платформа",
                         "region": "tg",
                         "map": "medoviy2",
                         "x": 454,
-                        "y": 153
+                        "y": 153,
+                        "type": "station"
                     },
                     {
                         "caption": "Опасный Район",
                         "region": "tg",
                         "map": "opasniyrayon",
                         "x": 400,
-                        "y": 320
+                        "y": 320,
+                        "type": "station"
                     }
                 ]
             }

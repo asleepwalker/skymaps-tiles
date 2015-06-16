@@ -123,14 +123,16 @@
                         "region": "os",
                         "map": "index",
                         "x": 474,
-                        "y": 339
+                        "y": 339,
+                        "type": "station"
                     },
                     {
                         "caption": "Дремучая Станция",
                         "region": "os",
                         "map": "zarosli3",
                         "x": 460,
-                        "y": 415
+                        "y": 415,
+                        "type": "station"
                     }
                 ]
             }

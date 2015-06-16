@@ -393,21 +393,24 @@
                         "region": "pr",
                         "map": "tropa",
                         "x": 20,
-                        "y": 20
+                        "y": 20,
+                        "type": "sky"
                     },
                     {
                         "caption": "Пепельная горелка",
                         "region": "pr",
                         "map": "pepelgor",
                         "x": 20,
-                        "y": 20
+                        "y": 20,
+                        "type": "sky"
                     },
                     {
                         "caption": "Логово Синезуба",
                         "region": "pr",
                         "map": "sinezub",
                         "x": 1020,
-                        "y": 1020
+                        "y": 1020,
+                        "type": "sky"
                     }
                 ]
             }
@@ -811,35 +814,40 @@
                         "region": "pr",
                         "map": "buhta",
                         "x": 386,
-                        "y": 1165
+                        "y": 1165,
+                        "type": "station"
                     },
                     {
                         "caption": "Пиратская станция",
                         "region": "pr",
                         "map": "goreliy3",
                         "x": 198,
-                        "y": 814
+                        "y": 814,
+                        "type": "station"
                     },
                     {
                         "caption": "\"Голубая Даль\"",
                         "region": "pr",
                         "map": "bezdna2",
                         "x": 313,
-                        "y": 323
+                        "y": 323,
+                        "type": "station"
                     },
                     {
                         "caption": "Фейра-ди-Сантана",
                         "region": "pr",
                         "map": "labb",
                         "x": 498,
-                        "y": 770
+                        "y": 770,
+                        "type": "station"
                     },
                     {
                         "caption": "Пирасикаба",
                         "region": "pr",
                         "map": "labv",
                         "x": 805,
-                        "y": 365
+                        "y": 365,
+                        "type": "station"
                     }
                 ]
             }

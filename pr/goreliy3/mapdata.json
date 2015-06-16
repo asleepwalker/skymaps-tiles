@@ -155,7 +155,8 @@
                         "region": "pr",
                         "map": "index",
                         "x": 1022,
-                        "y": 1001
+                        "y": 1001,
+                        "type": "station"
                     }
                 ]
             }

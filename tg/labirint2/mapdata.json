@@ -64,14 +64,16 @@
                         "region": "tg",
                         "map": "promzona",
                         "x": 543,
-                        "y": 466
+                        "y": 466,
+                        "type": "station"
                     },
                     {
                         "caption": "Платформа Ветеранов",
                         "region": "tg",
                         "map": "labirint4",
                         "x": 589,
-                        "y": 196
+                        "y": 196,
+                        "type": "station"
                     }
                 ]
             }

@@ -123,21 +123,24 @@
                         "region": "bs",
                         "map": "index",
                         "x": 162,
-                        "y": 676
+                        "y": 676,
+                        "type": "station"
                     },
                     {
                         "caption": "Равелин Праведниц",
                         "region": "bs",
                         "map": "chervinie2",
                         "x": 486,
-                        "y": 542
+                        "y": 542,
+                        "type": "station"
                     },
                     {
                         "caption": "Платформа Чарли",
                         "region": "bs",
                         "map": "krovaviy2",
                         "x": 190,
-                        "y": 805
+                        "y": 805,
+                        "type": "station"
                     }
                 ]
             }

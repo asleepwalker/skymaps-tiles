@@ -56,28 +56,32 @@
                         "region": "pf",
                         "map": "labi",
                         "x": 785,
-                        "y": 224
+                        "y": 224,
+                        "type": "station"
                     },
                     {
                         "caption": "Станция добытчиков",
                         "region": "pf",
                         "map": "labe",
                         "x": 171,
-                        "y": 832
+                        "y": 832,
+                        "type": "station"
                     },
                     {
                         "caption": "\"Честный Чиновник\"",
                         "region": "pf",
                         "map": "labs",
                         "x": 824,
-                        "y": 827
+                        "y": 827,
+                        "type": "station"
                     },
                     {
                         "caption": "Чкаловская",
                         "region": "pf",
                         "map": "labo",
                         "x": 574,
-                        "y": 842
+                        "y": 842,
+                        "type": "station"
                     }
                 ]
             }

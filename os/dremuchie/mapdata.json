@@ -158,7 +158,8 @@
                         "region": "os",
                         "map": "index",
                         "x": 474,
-                        "y": 339
+                        "y": 339,
+                        "type": "station"
                     }
                 ]
             }

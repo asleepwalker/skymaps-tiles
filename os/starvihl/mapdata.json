@@ -82,14 +82,16 @@
                         "region": "os",
                         "map": "index",
                         "x": 474,
-                        "y": 339
+                        "y": 339,
+                        "type": "station"
                     },
                     {
                         "caption": "Станция Хламовая",
                         "region": "os",
                         "map": "starvihi",
                         "x": 276,
-                        "y": 778
+                        "y": 778,
+                        "type": "station"
                     }
                 ]
             }

@@ -204,7 +204,8 @@
                         "region": "pf",
                         "map": "index",
                         "x": 1607,
-                        "y": 762
+                        "y": 762,
+                        "type": "station"
                     }
                 ]
             }

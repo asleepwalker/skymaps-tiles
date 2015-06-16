@@ -352,49 +352,56 @@
                         "region": "bs",
                         "map": "til",
                         "x": 333,
-                        "y": 329
+                        "y": 329,
+                        "type": "sky"
                     },
                     {
                         "caption": "Форпост Сульрата",
                         "region": "bs",
                         "map": "chervinie5",
                         "x": 876,
-                        "y": 922
+                        "y": 922,
+                        "type": "sky"
                     },
                     {
                         "caption": "Равелин Праведниц",
                         "region": "bs",
                         "map": "chervinie2",
                         "x": 486,
-                        "y": 542
+                        "y": 542,
+                        "type": "station"
                     },
                     {
                         "caption": "Платформа Чарли",
                         "region": "bs",
                         "map": "krovaviy2",
                         "x": 190,
-                        "y": 805
+                        "y": 805,
+                        "type": "station"
                     },
                     {
                         "caption": "\"Благодать\"",
                         "region": "bs",
                         "map": "razriv3",
                         "x": 627,
-                        "y": 618
+                        "y": 618,
+                        "type": "station"
                     },
                     {
                         "caption": "Святых Заступниц",
                         "region": "bs",
                         "map": "zabitiy2",
                         "x": 282,
-                        "y": 171
+                        "y": 171,
+                        "type": "station"
                     },
                     {
                         "caption": "\"Оплот Святости\"",
                         "region": "bs",
                         "map": "labd",
                         "x": 484,
-                        "y": 501
+                        "y": 501,
+                        "type": "station"
                     }
                 ]
             }
@@ -419,14 +426,16 @@
                         "region": "bs",
                         "map": "nizverg_easy",
                         "x": 20,
-                        "y": 20
+                        "y": 20,
+                        "type": "sky"
                     },
                     {
                         "caption": "&quot;Низверг&quot; (сложный)",
                         "region": "bs",
                         "map": "nizverg_hard",
                         "x": 20,
-                        "y": 20
+                        "y": 20,
+                        "type": "sky"
                     }
                 ]
             }
@@ -451,14 +460,16 @@
                         "region": "bs",
                         "map": "valkirie_easy",
                         "x": 20,
-                        "y": 20
+                        "y": 20,
+                        "type": "sky"
                     },
                     {
                         "caption": "&quot;Валькирии&quot; (сложный)",
                         "region": "bs",
                         "map": "valkirie_hard",
                         "x": 20,
-                        "y": 20
+                        "y": 20,
+                        "type": "sky"
                     }
                 ]
             }

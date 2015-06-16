@@ -72,28 +72,32 @@
                         "region": "pf",
                         "map": "labi",
                         "x": 785,
-                        "y": 224
+                        "y": 224,
+                        "type": "station"
                     },
                     {
                         "caption": "\"Честный Чиновник\"",
                         "region": "pf",
                         "map": "labs",
                         "x": 824,
-                        "y": 827
+                        "y": 827,
+                        "type": "station"
                     },
                     {
                         "caption": "\"Триумф Старателей\"",
                         "region": "pf",
                         "map": "labt",
                         "x": 186,
-                        "y": 820
+                        "y": 820,
+                        "type": "station"
                     },
                     {
                         "caption": "\"Небесная Жесть\"",
                         "region": "pf",
                         "map": "labch",
                         "x": 167,
-                        "y": 196
+                        "y": 196,
+                        "type": "station"
                     }
                 ]
             }

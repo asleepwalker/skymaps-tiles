@@ -144,6 +144,7 @@
 						$item['map'] = $target['map'];
 						$item['x'] = (int)$target['var1'];
 						$item['y'] = (int)$target['var2'];
+						$item['type'] = ($target['type'] != 'station') ? 'sky' : 'station';
 						$items[] = $item;
 					}
 				}
@@ -175,6 +176,7 @@
 							$item['map'] = $target['map'];
 							$item['x'] = (int)$target['goX'] + 20;
 							$item['y'] = (int)$target['goY'] + 20;
+							$item['type'] = ($target['type'] != 'station') ? 'sky' : 'station';
 							$items[] = $item;
 						}
 					}

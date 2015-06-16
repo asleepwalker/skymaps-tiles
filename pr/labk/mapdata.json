@@ -73,14 +73,16 @@
                         "region": "pr",
                         "map": "bezdna2",
                         "x": 313,
-                        "y": 323
+                        "y": 323,
+                        "type": "station"
                     },
                     {
                         "caption": "\"Жара\"",
                         "region": "pr",
                         "map": "labp",
                         "x": 810,
-                        "y": 761
+                        "y": 761,
+                        "type": "station"
                     }
                 ]
             }

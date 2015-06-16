@@ -48,7 +48,8 @@
                         "region": "tg",
                         "map": "index",
                         "x": 553,
-                        "y": 384
+                        "y": 384,
+                        "type": "station"
                     }
                 ]
             }

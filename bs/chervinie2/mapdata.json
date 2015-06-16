@@ -121,14 +121,16 @@
                         "region": "bs",
                         "map": "index",
                         "x": 162,
-                        "y": 676
+                        "y": 676,
+                        "type": "station"
                     },
                     {
                         "caption": "Св.Кападастины",
                         "region": "bs",
                         "map": "chervinie4",
                         "x": 220,
-                        "y": 574
+                        "y": 574,
+                        "type": "station"
                     }
                 ]
             }

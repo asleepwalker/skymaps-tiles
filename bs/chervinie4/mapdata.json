@@ -123,28 +123,32 @@
                         "region": "bs",
                         "map": "chervinie2",
                         "x": 486,
-                        "y": 542
+                        "y": 542,
+                        "type": "station"
                     },
                     {
                         "caption": "\"Святой Заслон\"",
                         "region": "bs",
                         "map": "chervinie9",
                         "x": 116,
-                        "y": 893
+                        "y": 893,
+                        "type": "station"
                     },
                     {
                         "caption": "\"Dies Irae\"",
                         "region": "bs",
                         "map": "chervinie10",
                         "x": 499,
-                        "y": 465
+                        "y": 465,
+                        "type": "station"
                     },
                     {
                         "caption": "Заоблачный Острог",
                         "region": "bs",
                         "map": "chervinie11",
                         "x": 158,
-                        "y": 131
+                        "y": 131,
+                        "type": "station"
                     }
                 ]
             }

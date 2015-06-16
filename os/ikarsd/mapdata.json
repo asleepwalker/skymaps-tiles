@@ -117,14 +117,16 @@
                         "region": "os",
                         "map": "index",
                         "x": 474,
-                        "y": 339
+                        "y": 339,
+                        "type": "station"
                     },
                     {
                         "caption": "Трактир \"Пьяный Икар\"",
                         "region": "os",
                         "map": "ikarsb",
                         "x": 368,
-                        "y": 186
+                        "y": 186,
+                        "type": "station"
                     }
                 ]
             }

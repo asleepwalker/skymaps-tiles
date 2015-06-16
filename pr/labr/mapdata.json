@@ -72,14 +72,16 @@
                         "region": "pr",
                         "map": "labzh",
                         "x": 160,
-                        "y": 160
+                        "y": 160,
+                        "type": "station"
                     },
                     {
                         "caption": "\"Изабель\"",
                         "region": "pr",
                         "map": "labi",
                         "x": 855,
-                        "y": 300
+                        "y": 300,
+                        "type": "station"
                     }
                 ]
             }

@@ -62,14 +62,16 @@
                         "region": "pf",
                         "map": "labe",
                         "x": 171,
-                        "y": 832
+                        "y": 832,
+                        "type": "station"
                     },
                     {
                         "caption": "\"Радость Труда\"",
                         "region": "pf",
                         "map": "labl",
                         "x": 824,
-                        "y": 161
+                        "y": 161,
+                        "type": "station"
                     }
                 ]
             }

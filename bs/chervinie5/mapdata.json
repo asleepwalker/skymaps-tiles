@@ -244,28 +244,32 @@
                         "region": "bs",
                         "map": "plods_easy",
                         "x": 20,
-                        "y": 20
+                        "y": 20,
+                        "type": "sky"
                     },
                     {
                         "caption": "Плодильщики (сложный)",
                         "region": "bs",
                         "map": "plods_hard",
                         "x": 20,
-                        "y": 20
+                        "y": 20,
+                        "type": "sky"
                     },
                     {
                         "caption": "Монолит (лёгкий)",
                         "region": "bs",
                         "map": "monolit_easy",
                         "x": 20,
-                        "y": 20
+                        "y": 20,
+                        "type": "sky"
                     },
                     {
                         "caption": "Монолит (сложный)",
                         "region": "bs",
                         "map": "monolit_hard",
                         "x": 20,
-                        "y": 20
+                        "y": 20,
+                        "type": "sky"
                     }
                 ]
             }

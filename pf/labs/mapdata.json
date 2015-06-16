@@ -40,21 +40,24 @@
                         "region": "pf",
                         "map": "labl",
                         "x": 824,
-                        "y": 161
+                        "y": 161,
+                        "type": "station"
                     },
                     {
                         "caption": "\"Небесная Жесть\"",
                         "region": "pf",
                         "map": "labch",
                         "x": 167,
-                        "y": 196
+                        "y": 196,
+                        "type": "station"
                     },
                     {
                         "caption": "Платформа 47 км",
                         "region": "pf",
                         "map": "labu",
                         "x": 189,
-                        "y": 801
+                        "y": 801,
+                        "type": "station"
                     }
                 ]
             }

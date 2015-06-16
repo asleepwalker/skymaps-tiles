@@ -30,14 +30,16 @@
                         "region": "os",
                         "map": "index",
                         "x": 474,
-                        "y": 339
+                        "y": 339,
+                        "type": "station"
                     },
                     {
                         "caption": "Платформа \"Мусорный Ветер\"",
                         "region": "os",
                         "map": "starvihl",
                         "x": 203,
-                        "y": 390
+                        "y": 390,
+                        "type": "station"
                     }
                 ]
             }

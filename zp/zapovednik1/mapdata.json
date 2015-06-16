@@ -243,7 +243,8 @@
                         "region": "zp",
                         "map": "zapovednik3",
                         "x": 757,
-                        "y": 768
+                        "y": 768,
+                        "type": "station"
                     }
                 ]
             }

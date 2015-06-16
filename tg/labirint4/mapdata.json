@@ -50,14 +50,16 @@
                         "region": "tg",
                         "map": "index",
                         "x": 553,
-                        "y": 384
+                        "y": 384,
+                        "type": "station"
                     },
                     {
                         "caption": "Старая платформа",
                         "region": "tg",
                         "map": "labirint2",
                         "x": 517,
-                        "y": 556
+                        "y": 556,
+                        "type": "station"
                     }
                 ]
             }

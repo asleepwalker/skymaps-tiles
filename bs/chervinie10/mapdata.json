@@ -107,7 +107,8 @@
                         "region": "bs",
                         "map": "chervinie4",
                         "x": 220,
-                        "y": 574
+                        "y": 574,
+                        "type": "station"
                     }
                 ]
             }

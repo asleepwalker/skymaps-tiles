@@ -70,7 +70,8 @@
                         "region": "pf",
                         "map": "laba",
                         "x": 524,
-                        "y": 828
+                        "y": 828,
+                        "type": "station"
                     }
                 ]
             }

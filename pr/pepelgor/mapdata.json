@@ -147,14 +147,16 @@
                         "region": "pr",
                         "map": "proverka",
                         "x": 20,
-                        "y": 20
+                        "y": 20,
+                        "type": "sky"
                     },
                     {
                         "caption": "Коварный путь",
                         "region": "pr",
                         "map": "kovarnyput",
                         "x": 20,
-                        "y": 20
+                        "y": 20,
+                        "type": "sky"
                     }
                 ]
             }

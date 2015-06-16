@@ -112,91 +112,104 @@
                         "region": "os",
                         "map": "nizini",
                         "x": 666,
-                        "y": 254
+                        "y": 254,
+                        "type": "station"
                     },
                     {
                         "caption": "Северо-Западная",
                         "region": "os",
                         "map": "bespredel",
                         "x": 447,
-                        "y": 159
+                        "y": 159,
+                        "type": "station"
                     },
                     {
                         "caption": "Северо-Восточная",
                         "region": "os",
                         "map": "goriruhladi",
                         "x": 113,
-                        "y": 413
+                        "y": 413,
+                        "type": "station"
                     },
                     {
                         "caption": "Юго-Восточная",
                         "region": "os",
                         "map": "dremuchie",
                         "x": 797,
-                        "y": 242
+                        "y": 242,
+                        "type": "station"
                     },
                     {
                         "caption": "Дремучая Станция",
                         "region": "os",
                         "map": "zarosli3",
                         "x": 460,
-                        "y": 415
+                        "y": 415,
+                        "type": "station"
                     },
                     {
                         "caption": "Старая Станция",
                         "region": "os",
                         "map": "starvihb",
                         "x": 741,
-                        "y": 554
+                        "y": 554,
+                        "type": "station"
                     },
                     {
                         "caption": "Ржавая Платформа",
                         "region": "os",
                         "map": "starvihd",
                         "x": 273,
-                        "y": 734
+                        "y": 734,
+                        "type": "station"
                     },
                     {
                         "caption": "Трактир \"Пьяный Икар\"",
                         "region": "os",
                         "map": "ikarsb",
                         "x": 368,
-                        "y": 186
+                        "y": 186,
+                        "type": "station"
                     },
                     {
                         "caption": "Платформа икаров",
                         "region": "os",
                         "map": "ikarsd",
                         "x": 554,
-                        "y": 513
+                        "y": 513,
+                        "type": "station"
                     },
                     {
                         "caption": "Сердце Чащи",
                         "region": "os",
                         "map": "heart",
                         "x": 495,
-                        "y": 775
+                        "y": 775,
+                        "type": "sky"
                     },
                     {
                         "caption": "Притон Аллера Анрича",
                         "region": "os",
                         "map": "bespredel",
                         "x": 107,
-                        "y": 101
+                        "y": 101,
+                        "type": "sky"
                     },
                     {
                         "caption": "Хламомаркет Мамуны",
                         "region": "os",
                         "map": "goriruhladi",
                         "x": 619,
-                        "y": 101
+                        "y": 101,
+                        "type": "sky"
                     },
                     {
                         "caption": "Экспедиция Ивы",
                         "region": "os",
                         "map": "razruha",
                         "x": 583,
-                        "y": 383
+                        "y": 383,
+                        "type": "sky"
                     }
                 ]
             }

@@ -138,14 +138,16 @@
                         "region": "bs",
                         "map": "karcer",
                         "x": 20,
-                        "y": 20
+                        "y": 20,
+                        "type": "sky"
                     },
                     {
                         "caption": "&quot;Карцер&quot; (схемы охраны)",
                         "region": "bs",
                         "map": "karcer_scheme",
                         "x": 20,
-                        "y": 20
+                        "y": 20,
+                        "type": "sky"
                     }
                 ]
             }

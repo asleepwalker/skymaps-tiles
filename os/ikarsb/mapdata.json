@@ -99,14 +99,16 @@
                         "region": "os",
                         "map": "index",
                         "x": 474,
-                        "y": 339
+                        "y": 339,
+                        "type": "station"
                     },
                     {
                         "caption": "Платформа икаров",
                         "region": "os",
                         "map": "ikarsd",
                         "x": 554,
-                        "y": 513
+                        "y": 513,
+                        "type": "station"
                     }
                 ]
             }

@@ -1048,14 +1048,16 @@
                         "region": "pf",
                         "map": "index",
                         "x": 1607,
-                        "y": 762
+                        "y": 762,
+                        "type": "station"
                     },
                     {
                         "caption": "\"Летучий Богатырь\"",
                         "region": "pf",
                         "map": "labi",
                         "x": 785,
-                        "y": 224
+                        "y": 224,
+                        "type": "station"
                     }
                 ]
             }
@@ -1081,14 +1083,16 @@
                         "region": "pf",
                         "map": "index",
                         "x": 1607,
-                        "y": 762
+                        "y": 762,
+                        "type": "station"
                     },
                     {
                         "caption": "Великих Вождей",
                         "region": "pf",
                         "map": "laba",
                         "x": 524,
-                        "y": 828
+                        "y": 828,
+                        "type": "station"
                     }
                 ]
             }
@@ -1114,56 +1118,64 @@
                         "region": "pf",
                         "map": "okrug",
                         "x": 252,
-                        "y": 402
+                        "y": 402,
+                        "type": "station"
                     },
                     {
                         "caption": "\"Слава Бургомистра\"",
                         "region": "pf",
                         "map": "lezhbishe",
                         "x": 219,
-                        "y": 219
+                        "y": 219,
+                        "type": "station"
                     },
                     {
                         "caption": "\"50 лет Памфри\"",
                         "region": "pf",
                         "map": "musorozhye",
                         "x": 218,
-                        "y": 481
+                        "y": 481,
+                        "type": "station"
                     },
                     {
                         "caption": "\"Радушная\"",
                         "region": "pf",
                         "map": "alcogolicovo",
                         "x": 204,
-                        "y": 496
+                        "y": 496,
+                        "type": "station"
                     },
                     {
                         "caption": "Западная платформа",
                         "region": "pf",
                         "map": "index",
                         "x": 419,
-                        "y": 1143
+                        "y": 1143,
+                        "type": "station"
                     },
                     {
                         "caption": "Восточная платформа",
                         "region": "pf",
                         "map": "index",
                         "x": 2472,
-                        "y": 1439
+                        "y": 1439,
+                        "type": "station"
                     },
                     {
                         "caption": "Платформа Хиггса",
                         "region": "pf",
                         "map": "npkcenter",
                         "x": 500,
-                        "y": 534
+                        "y": 534,
+                        "type": "station"
                     },
                     {
                         "caption": "Исследовательская платформа",
                         "region": "pf",
                         "map": "zhiloy",
                         "x": 504,
-                        "y": 487
+                        "y": 487,
+                        "type": "station"
                     }
                 ]
             }

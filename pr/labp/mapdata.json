@@ -56,14 +56,16 @@
                         "region": "pr",
                         "map": "labk",
                         "x": 631,
-                        "y": 168
+                        "y": 168,
+                        "type": "station"
                     },
                     {
                         "caption": "Папайа Джус",
                         "region": "pr",
                         "map": "labl",
                         "x": 269,
-                        "y": 776
+                        "y": 776,
+                        "type": "station"
                     }
                 ]
             }

@@ -72,14 +72,16 @@
                         "region": "pr",
                         "map": "labb",
                         "x": 498,
-                        "y": 770
+                        "y": 770,
+                        "type": "station"
                     },
                     {
                         "caption": "\"Пелотас\"",
                         "region": "pr",
                         "map": "labr",
                         "x": 209,
-                        "y": 509
+                        "y": 509,
+                        "type": "station"
                     }
                 ]
             }

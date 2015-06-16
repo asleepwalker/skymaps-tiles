@@ -38,21 +38,24 @@
                         "region": "pf",
                         "map": "labch",
                         "x": 167,
-                        "y": 196
+                        "y": 196,
+                        "type": "station"
                     },
                     {
                         "caption": "\"Летучий Богатырь\"",
                         "region": "pf",
                         "map": "labi",
                         "x": 785,
-                        "y": 224
+                        "y": 224,
+                        "type": "station"
                     },
                     {
                         "caption": "Платформа 47 км",
                         "region": "pf",
                         "map": "labu",
                         "x": 189,
-                        "y": 801
+                        "y": 801,
+                        "type": "station"
                     }
                 ]
             }

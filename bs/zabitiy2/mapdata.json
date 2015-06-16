@@ -104,7 +104,8 @@
                         "region": "bs",
                         "map": "index",
                         "x": 162,
-                        "y": 676
+                        "y": 676,
+                        "type": "station"
                     }
                 ]
             }

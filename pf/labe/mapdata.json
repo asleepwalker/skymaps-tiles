@@ -88,21 +88,24 @@
                         "region": "pf",
                         "map": "laba",
                         "x": 524,
-                        "y": 828
+                        "y": 828,
+                        "type": "station"
                     },
                     {
                         "caption": "Чкаловская",
                         "region": "pf",
                         "map": "labo",
                         "x": 574,
-                        "y": 842
+                        "y": 842,
+                        "type": "station"
                     },
                     {
                         "caption": "\"Радость Труда\"",
                         "region": "pf",
                         "map": "labl",
                         "x": 824,
-                        "y": 161
+                        "y": 161,
+                        "type": "station"
                     }
                 ]
             }

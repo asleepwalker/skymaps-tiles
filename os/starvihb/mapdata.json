@@ -81,14 +81,16 @@
                         "region": "os",
                         "map": "index",
                         "x": 474,
-                        "y": 339
+                        "y": 339,
+                        "type": "station"
                     },
                     {
                         "caption": "Ржавая Платформа",
                         "region": "os",
                         "map": "starvihd",
                         "x": 273,
-                        "y": 734
+                        "y": 734,
+                        "type": "station"
                     }
                 ]
             }

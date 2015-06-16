@@ -107,21 +107,24 @@
                         "region": "pr",
                         "map": "index",
                         "x": 1022,
-                        "y": 1001
+                        "y": 1001,
+                        "type": "station"
                     },
                     {
                         "caption": "\"Фернанда\"",
                         "region": "pr",
                         "map": "labzh",
                         "x": 160,
-                        "y": 160
+                        "y": 160,
+                        "type": "station"
                     },
                     {
                         "caption": "Папайа Джус",
                         "region": "pr",
                         "map": "labl",
                         "x": 269,
-                        "y": 776
+                        "y": 776,
+                        "type": "station"
                     }
                 ]
             }

@@ -124,21 +124,24 @@
                         "region": "bs",
                         "map": "index",
                         "x": 162,
-                        "y": 676
+                        "y": 676,
+                        "type": "station"
                     },
                     {
                         "caption": "Убежище Ксении",
                         "region": "bs",
                         "map": "vault",
                         "x": 498,
-                        "y": 500
+                        "y": 500,
+                        "type": "station"
                     },
                     {
                         "caption": "\"Луч Света\"",
                         "region": "bs",
                         "map": "razriv4",
                         "x": 136,
-                        "y": 608
+                        "y": 608,
+                        "type": "station"
                     }
                 ]
             }

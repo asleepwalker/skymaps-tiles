@@ -115,14 +115,16 @@
                         "region": "os",
                         "map": "index",
                         "x": 474,
-                        "y": 339
+                        "y": 339,
+                        "type": "station"
                     },
                     {
                         "caption": "Старая Станция",
                         "region": "os",
                         "map": "starvihb",
                         "x": 741,
-                        "y": 554
+                        "y": 554,
+                        "type": "station"
                     }
                 ]
             }

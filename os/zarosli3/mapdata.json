@@ -154,14 +154,16 @@
                         "region": "os",
                         "map": "index",
                         "x": 474,
-                        "y": 339
+                        "y": 339,
+                        "type": "station"
                     },
                     {
                         "caption": "Платформа Дремучая",
                         "region": "os",
                         "map": "zarosli6",
                         "x": 777,
-                        "y": 789
+                        "y": 789,
+                        "type": "station"
                     }
                 ]
             }

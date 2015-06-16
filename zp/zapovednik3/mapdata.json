@@ -198,7 +198,8 @@
                         "region": "zp",
                         "map": "zapovednik1",
                         "x": 783,
-                        "y": 190
+                        "y": 190,
+                        "type": "station"
                     }
                 ]
             }
