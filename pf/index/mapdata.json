@@ -507,15 +507,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    348,
+                    346,
                     -388
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 348,
+                "x": 346,
                 "y": 388,
-                "caption": "Логово подлых пиратов",
+                "caption": "Логово бандитов",
                 "class": "logovo"
             }
         },
@@ -675,7 +675,7 @@
                 "type": "boss",
                 "x": 104,
                 "y": 106,
-                "caption": "Редкий Мегаёж",
+                "caption": "Мегаёж",
                 "class": "zloboezh"
             }
         },
@@ -1782,7 +1782,41 @@
                 "y": 740,
                 "caption": "Вышино",
                 "npc": "Бургомистр Памфри",
-                "link": "library\/npc\/pf\/pamfri"
+                "link": "library\/npc\/pf\/pamfri",
+                "quests": [
+                    {
+                        "caption": "Помощь из Переферии",
+                        "url": "quests\/script1\/labs\/help"
+                    },
+                    {
+                        "caption": "Разрешение на работу",
+                        "url": "quests\/script2\/work\/permit"
+                    },
+                    {
+                        "caption": "На борьбу с вредителями!",
+                        "url": "quests\/script2\/work\/pests"
+                    },
+                    {
+                        "caption": "Бумажная волокита",
+                        "url": "quests\/script2\/work\/papers"
+                    },
+                    {
+                        "caption": "Визит к бургомистру",
+                        "url": "quests\/script2\/carrier\/visit"
+                    },
+                    {
+                        "caption": "Вертикаль власти",
+                        "url": "quests\/script2\/carrier\/powerty"
+                    },
+                    {
+                        "caption": "Покушение на Шиалу",
+                        "url": "quests\/script2\/carrier\/attempt"
+                    },
+                    {
+                        "caption": "Борьба с терроризмом",
+                        "url": "quests\/script2\/carrier\/counterterrorism"
+                    }
+                ]
             }
         },
         {
@@ -1800,7 +1834,33 @@
                 "y": 1259,
                 "caption": "Фабрика Валерия Волдо",
                 "npc": "Валерий Волдо",
-                "link": "library\/npc\/pf\/waldo"
+                "link": "library\/npc\/pf\/waldo",
+                "quests": [
+                    {
+                        "caption": "Предприимчивый Волдо",
+                        "url": "quests\/script2\/avenger\/woldo"
+                    },
+                    {
+                        "caption": "Баш на баш",
+                        "url": "quests\/script2\/avenger\/swap"
+                    },
+                    {
+                        "caption": "Тародел для Волдо",
+                        "url": "quests\/script2\/avenger\/tarodel"
+                    },
+                    {
+                        "caption": "Время собирать камни",
+                        "url": "quests\/script2\/avenger\/stones"
+                    },
+                    {
+                        "caption": "Таможенные хлопоты",
+                        "url": "quests\/script2\/avenger\/custom"
+                    },
+                    {
+                        "caption": "Обратно к Дулли",
+                        "url": "quests\/script2\/pirats\/comeback"
+                    }
+                ]
             }
         },
         {
@@ -1856,7 +1916,65 @@
                 "y": 1082,
                 "caption": "Мастерская Кулинби",
                 "npc": "Джон Кулинби",
-                "link": "library\/npc\/pf\/kulinbi"
+                "link": "library\/npc\/pf\/kulinbi",
+                "quests": [
+                    {
+                        "caption": "Гений-самоучка",
+                        "url": "quests\/script2\/help\/genius"
+                    },
+                    {
+                        "caption": "Тяжелый металл",
+                        "url": "quests\/script2\/help\/heavymetal"
+                    },
+                    {
+                        "caption": "Отпугиватель злобоежей",
+                        "url": "quests\/script2\/help\/repeller"
+                    },
+                    {
+                        "caption": "Мегаёж",
+                        "url": "quests\/script2\/help\/megahedge"
+                    },
+                    {
+                        "caption": "Патент Кулинби",
+                        "url": "quests\/script2\/help\/patent"
+                    },
+                    {
+                        "caption": "Тародел для Волдо",
+                        "url": "quests\/script2\/avenger\/tarodel"
+                    },
+                    {
+                        "caption": "Тародел для Барбаша",
+                        "url": "quests\/script2\/carrier\/tarodel"
+                    },
+                    {
+                        "caption": "Поведение дровосеков",
+                        "url": "quests\/script2\/stormproblem\/behavior"
+                    },
+                    {
+                        "caption": "Программист-отшельник",
+                        "url": "quests\/script2\/stormproblem\/developer"
+                    },
+                    {
+                        "caption": "Истребление дровосеков-убийц",
+                        "url": "quests\/script2\/stormproblem\/killers"
+                    },
+                    {
+                        "caption": "Истребление дровосеков-расчленителей",
+                        "url": "quests\/script2\/stormproblem\/dismantler"
+                    },
+                    {
+                        "caption": "Истребление дровосеков-мясников",
+                        "url": "quests\/script2\/stormproblem\/butchers"
+                    },
+                    {
+                        "caption": "Лечение изнутри",
+                        "url": "quests\/script2\/stormproblem\/treatment"
+                    },
+                    {
+                        "caption": "Барахлятор",
+                        "url": "quests\/script5\/genome\/junker"
+                    }
+                ]
             }
         },
         {
@@ -1874,7 +1992,37 @@
                 "y": 696,
                 "caption": "Форт Капрала Дулли",
                 "npc": "Капрал Дулли",
-                "link": "library\/npc\/pf\/dully"
+                "link": "library\/npc\/pf\/dully",
+                "quests": [
+                    {
+                        "caption": "Помощь из Переферии",
+                        "url": "quests\/script1\/labs\/help"
+                    },
+                    {
+                        "caption": "Капрал Дулли",
+                        "url": "quests\/script2\/work\/dully"
+                    },
+                    {
+                        "caption": "Железяки",
+                        "url": "quests\/script2\/work\/metal"
+                    },
+                    {
+                        "caption": "Бунтарка",
+                        "url": "quests\/script2\/work\/rebel"
+                    },
+                    {
+                        "caption": "Обратно к Дулли",
+                        "url": "quests\/script2\/pirats\/comeback"
+                    },
+                    {
+                        "caption": "Пиратский произвол",
+                        "url": "quests\/script2\/pirats\/outrage"
+                    },
+                    {
+                        "caption": "Пиратские главари",
+                        "url": "quests\/script2\/pirats\/bosses"
+                    }
+                ]
             }
         },
         {
@@ -1892,7 +2040,45 @@
                 "y": 354,
                 "caption": "Бухгалтерия",
                 "npc": "Марфа Лаврентьевна Потихонечку",
-                "link": "library\/npc\/pf\/marfa"
+                "link": "library\/npc\/pf\/marfa",
+                "quests": [
+                    {
+                        "caption": "Бумажная волокита",
+                        "url": "quests\/script2\/work\/papers"
+                    },
+                    {
+                        "caption": "Взыскание долгов",
+                        "url": "quests\/script2\/work\/debts"
+                    },
+                    {
+                        "caption": "За семью печатями",
+                        "url": "quests\/script2\/work\/sevenprints"
+                    },
+                    {
+                        "caption": "Капрал Дулли",
+                        "url": "quests\/script2\/work\/dully"
+                    },
+                    {
+                        "caption": "Патент Кулинби",
+                        "url": "quests\/script2\/help\/patent"
+                    },
+                    {
+                        "caption": "Алкоквота",
+                        "url": "quests\/script2\/help\/alcoquota"
+                    },
+                    {
+                        "caption": "Время собирать камни",
+                        "url": "quests\/script2\/avenger\/stones"
+                    },
+                    {
+                        "caption": "Энергетический кризис",
+                        "url": "quests\/script2\/carrier\/crisis"
+                    },
+                    {
+                        "caption": "Барбаш вызывает",
+                        "url": "quests\/script2\/carrier\/barbashcalls"
+                    }
+                ]
             }
         },
         {
@@ -1910,7 +2096,53 @@
                 "y": 1762,
                 "caption": "Спиртотрон",
                 "npc": "Пан Барбаш",
-                "link": "library\/npc\/pf\/barbash"
+                "link": "library\/npc\/pf\/barbash",
+                "quests": [
+                    {
+                        "caption": "Алкоквота",
+                        "url": "quests\/script2\/help\/alcoquota"
+                    },
+                    {
+                        "caption": "Пить или не пить?",
+                        "url": "quests\/script2\/help\/choice"
+                    },
+                    {
+                        "caption": "Зелень для змия",
+                        "url": "quests\/script2\/carrier\/drugs"
+                    },
+                    {
+                        "caption": "Алкомаркетинг",
+                        "url": "quests\/script2\/carrier\/marketing"
+                    },
+                    {
+                        "caption": "Смерть алконавтам!",
+                        "url": "quests\/script2\/carrier\/killer"
+                    },
+                    {
+                        "caption": "Тародел для Барбаша",
+                        "url": "quests\/script2\/carrier\/tarodel"
+                    },
+                    {
+                        "caption": "Визит к бургомистру",
+                        "url": "quests\/script2\/carrier\/visit"
+                    },
+                    {
+                        "caption": "Барбаш вызывает",
+                        "url": "quests\/script2\/carrier\/barbashcalls"
+                    },
+                    {
+                        "caption": "Труба зовёт",
+                        "url": "quests\/script2\/carrier\/pipe"
+                    },
+                    {
+                        "caption": "Мусорог-капитан",
+                        "url": "quests\/script2\/carrier\/musorog"
+                    },
+                    {
+                        "caption": "Не винный завод",
+                        "url": "quests\/script2\/carrier\/vinefactory"
+                    }
+                ]
             }
         },
         {
@@ -1948,7 +2180,25 @@
                 "y": 238,
                 "caption": "Вытрезвитель Амры",
                 "npc": "Сестра Амра",
-                "link": "library\/npc\/pf\/amra"
+                "link": "library\/npc\/pf\/amra",
+                "quests": [
+                    {
+                        "caption": "Дурной дурман",
+                        "url": "quests\/script2\/avenger\/drugs"
+                    },
+                    {
+                        "caption": "Лекарство от пьянства",
+                        "url": "quests\/script2\/avenger\/medicine"
+                    },
+                    {
+                        "caption": "Пора трезветь!",
+                        "url": "quests\/script2\/avenger\/sober"
+                    },
+                    {
+                        "caption": "Опять к Шиале",
+                        "url": "quests\/script2\/avenger\/comeback"
+                    }
+                ]
             }
         },
         {
@@ -1984,7 +2234,53 @@
                 "y": 1510,
                 "caption": "База повстанцев",
                 "npc": "Шиала",
-                "link": "library\/npc\/pf\/shiala"
+                "link": "library\/npc\/pf\/shiala",
+                "quests": [
+                    {
+                        "caption": "Бунтарка",
+                        "url": "quests\/script2\/work\/rebel"
+                    },
+                    {
+                        "caption": "Испытание Шиалы",
+                        "url": "quests\/script2\/help\/test"
+                    },
+                    {
+                        "caption": "Гений-самоучка",
+                        "url": "quests\/script2\/help\/genius"
+                    },
+                    {
+                        "caption": "Опять к Шиале",
+                        "url": "quests\/script2\/avenger\/comeback"
+                    },
+                    {
+                        "caption": "Рекламные боты",
+                        "url": "quests\/script2\/avenger\/adbots"
+                    },
+                    {
+                        "caption": "Рекламная цитадель",
+                        "url": "quests\/script2\/avenger\/stronghold"
+                    },
+                    {
+                        "caption": "Короткое замыкание",
+                        "url": "quests\/script2\/avenger\/shortcircuit"
+                    },
+                    {
+                        "caption": "Трубный яд",
+                        "url": "quests\/script2\/avenger\/poison"
+                    },
+                    {
+                        "caption": "Предприимчивый Волдо",
+                        "url": "quests\/script2\/avenger\/woldo"
+                    },
+                    {
+                        "caption": "Великий Фисунис",
+                        "url": "quests\/script2\/npk\/phisunis"
+                    },
+                    {
+                        "caption": "Плохие новости",
+                        "url": "quests\/script2\/npk\/badnews"
+                    }
+                ]
             }
         },
         {

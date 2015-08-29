@@ -56,14 +56,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    335,
-                    -396
+                    354,
+                    -415
                 ]
             },
             "properties": {
                 "type": "flager",
-                "x": 335,
-                "y": 396,
+                "x": 354,
+                "y": 415,
                 "easy": "Цикламеновый бандит (35)",
                 "hard": "Алкобарон",
                 "link": "library\/flagers\/rimland"

@@ -24,6 +24,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    840,
+                    -841
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 840,
+                "y": 841,
+                "caption": "Ужасающее Логово",
+                "class": "logovo",
+                "mode": "rare"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     229,
                     -414
                 ]
@@ -144,6 +162,8 @@
                 "type": "beacon",
                 "x": 784,
                 "y": 836,
+                "mobs": "Минёр-мастер (5)",
+                "coins": "2",
                 "link": "library\/coins\/reef"
             }
         }

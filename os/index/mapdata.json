@@ -24,6 +24,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    482,
+                    -398
+                ]
+            },
+            "properties": {
+                "type": "",
+                "x": 482,
+                "y": 398
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     60,
                     -192
                 ]
@@ -446,7 +461,69 @@
                 "y": 317,
                 "caption": "Кавардак",
                 "npc": "Искандер",
-                "link": "library\/npc\/os\/iskander"
+                "link": "library\/npc\/os\/iskander",
+                "quests": [
+                    {
+                        "caption": "Торговец Мамуна",
+                        "url": "quests\/script5\/debris\/mamuna"
+                    },
+                    {
+                        "caption": "Ива",
+                        "url": "quests\/script5\/debris\/iva"
+                    },
+                    {
+                        "caption": "Аллер Анрич",
+                        "url": "quests\/script5\/debris\/anrich"
+                    },
+                    {
+                        "caption": "Импульсор",
+                        "url": "quests\/script5\/impulsor\/intro"
+                    },
+                    {
+                        "caption": "Импульсор закончен!",
+                        "url": "quests\/script5\/impulsor\/done"
+                    },
+                    {
+                        "caption": "Адаптатор",
+                        "url": "quests\/script5\/adaptator\/intro"
+                    },
+                    {
+                        "caption": "Адаптатор закончен!",
+                        "url": "quests\/script5\/adaptator\/done"
+                    },
+                    {
+                        "caption": "Девиатор",
+                        "url": "quests\/script5\/deviator\/intro"
+                    },
+                    {
+                        "caption": "Девиатор закончен!",
+                        "url": "quests\/script5\/deviator\/done"
+                    },
+                    {
+                        "caption": "Сеятели",
+                        "url": "quests\/script5\/genome\/seeders"
+                    },
+                    {
+                        "caption": "Барахлятор",
+                        "url": "quests\/script5\/genome\/junker"
+                    },
+                    {
+                        "caption": "Геногенератор",
+                        "url": "quests\/script5\/genome\/generator"
+                    },
+                    {
+                        "caption": "Непроницаемый кожух",
+                        "url": "quests\/script5\/genome\/casing"
+                    },
+                    {
+                        "caption": "Генетическая палитра",
+                        "url": "quests\/script5\/genome\/palette"
+                    },
+                    {
+                        "caption": "Семиняник",
+                        "url": "quests\/script5\/seeder\/seeder"
+                    }
+                ]
             }
         },
         {
@@ -536,14 +613,6 @@
                         "x": 554,
                         "y": 513,
                         "type": "station"
-                    },
-                    {
-                        "caption": "Сердце Чащи",
-                        "region": "os",
-                        "map": "heart",
-                        "x": 495,
-                        "y": 775,
-                        "type": "sky"
                     },
                     {
                         "caption": "Притон Аллера Анрича",

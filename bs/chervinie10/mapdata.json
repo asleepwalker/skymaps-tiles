@@ -22,6 +22,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    86,
+                    -903
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 86,
+                "y": 903,
+                "caption": "Ужасающий Кишкодав",
+                "class": "kishkodav",
+                "mode": "rare"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     400,
                     -72
                 ]

@@ -14,14 +14,49 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    115,
-                    -865
+                    443,
+                    -160
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 443,
+                "y": 160,
+                "caption": "Ужасающий Гипнобосс",
+                "class": "gipno",
+                "mode": "rare"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    186,
+                    -872
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 186,
+                "y": 872,
+                "caption": "Борзый хламкистодор",
+                "class": "hlamk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102,
+                    -875
                 ]
             },
             "properties": {
                 "type": "fish",
-                "x": 115,
-                "y": 865,
+                "x": 102,
+                "y": 875,
                 "list": [
                     "Залётный хариус",
                     "Ветряной жерех"
@@ -33,14 +68,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    710,
-                    -162
+                    704,
+                    -261
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 710,
-                "y": 162,
+                "x": 704,
+                "y": 261,
                 "caption": "Бета-гипнобосс",
                 "class": "gipno"
             }
@@ -50,14 +85,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    710,
-                    -702
+                    774,
+                    -876
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 710,
-                "y": 702,
+                "x": 774,
+                "y": 876,
                 "caption": "Жестокий хламкистодор",
                 "class": "hlamk"
             }

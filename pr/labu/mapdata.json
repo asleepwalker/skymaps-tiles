@@ -260,6 +260,8 @@
                 "type": "beacon",
                 "x": 535,
                 "y": 129,
+                "mobs": "Синерог-потрошитель (5)",
+                "coins": "3",
                 "link": "library\/coins\/reef"
             }
         }

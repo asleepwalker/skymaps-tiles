@@ -22,6 +22,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    472,
+                    -79
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 472,
+                "y": 79,
+                "caption": "Ужасающий Цербер",
+                "class": "tserber",
+                "mode": "rare"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     810,
                     -92
                 ]
@@ -47,7 +65,7 @@
                 "type": "boss",
                 "x": 440,
                 "y": 282,
-                "caption": "Барбазоид",
+                "caption": "Кишкодав-страж",
                 "class": "kishkodav"
             }
         },
@@ -64,7 +82,7 @@
                 "type": "boss",
                 "x": 800,
                 "y": 582,
-                "caption": "Барбазоид",
+                "caption": "Кишкодав-мститель",
                 "class": "kishkodav"
             }
         },
@@ -81,7 +99,7 @@
                 "type": "boss",
                 "x": 580,
                 "y": 402,
-                "caption": "Кишкодав",
+                "caption": "Штурм-кишкодав",
                 "class": "kishkodav"
             }
         },
@@ -98,7 +116,7 @@
                 "type": "boss",
                 "x": 810,
                 "y": 242,
-                "caption": "Барбазоид",
+                "caption": "Кишкодав-мститель",
                 "class": "kishkodav"
             }
         },
@@ -132,7 +150,7 @@
                 "type": "boss",
                 "x": 110,
                 "y": 582,
-                "caption": "Барбазоид",
+                "caption": "Кишкодав-мститель",
                 "class": "kishkodav"
             }
         },
@@ -149,7 +167,7 @@
                 "type": "boss",
                 "x": 113,
                 "y": 604,
-                "caption": "Барбазоид",
+                "caption": "Кишкодав-мститель",
                 "class": "kishkodav"
             }
         },
@@ -183,7 +201,7 @@
                 "type": "boss",
                 "x": 320,
                 "y": 882,
-                "caption": "Барбазоид",
+                "caption": "Кишкодав-страж",
                 "class": "kishkodav"
             }
         },
@@ -200,7 +218,7 @@
                 "type": "boss",
                 "x": 828,
                 "y": 273,
-                "caption": "Барбазоид",
+                "caption": "Кишкодав-мститель",
                 "class": "kishkodav"
             }
         },

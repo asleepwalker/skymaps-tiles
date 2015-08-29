@@ -22,6 +22,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    185,
+                    -230
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 185,
+                "y": 230,
+                "caption": "Ужасающий Мухоносец",
+                "class": "muh",
+                "mode": "rare"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     760,
                     -132
                 ]
@@ -122,31 +140,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    113,
-                    -104
+                    272,
+                    -287
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 113,
-                "y": 104,
-                "caption": "Мухоносец",
-                "class": "muh"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    284,
-                    -245
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 284,
-                "y": 245,
+                "x": 272,
+                "y": 287,
                 "caption": "Мухоносец",
                 "class": "muh"
             }
@@ -190,14 +191,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    832,
-                    -616
+                    761,
+                    -597
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 832,
-                "y": 616,
+                "x": 761,
+                "y": 597,
                 "caption": "Предатель Небес Король",
                 "class": "airship"
             }

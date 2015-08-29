@@ -21,6 +21,23 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    61,
+                    -37
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 61,
+                "y": 37,
+                "caption": "Предатель Небес",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     490,
                     -162
                 ]

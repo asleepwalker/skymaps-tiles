@@ -39,16 +39,17 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    60,
+                    61,
                     -842
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 60,
+                "x": 61,
                 "y": 842,
-                "caption": "Фактория мстителей",
-                "class": "faka"
+                "caption": "Ужасающая Фактория",
+                "class": "faka",
+                "mode": "rare"
             }
         },
         {

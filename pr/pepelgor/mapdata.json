@@ -124,7 +124,29 @@
                 "y": 830,
                 "caption": "Командование Пирастата",
                 "npc": "Командование Пирастата",
-                "link": "library\/npc\/pr\/pirastat"
+                "link": "library\/npc\/pr\/pirastat",
+                "quests": [
+                    {
+                        "caption": "Пепельная горелка",
+                        "url": "quests\/script3\/bluetooth\/ashburner"
+                    },
+                    {
+                        "caption": "Отчет о вылазке",
+                        "url": "quests\/script3\/bluetooth\/report"
+                    },
+                    {
+                        "caption": "Свой среди чужих",
+                        "url": "quests\/script3\/bluetooth\/amongstrangers"
+                    },
+                    {
+                        "caption": "Охота поневоле",
+                        "url": "quests\/script3\/bluetooth\/necessarily"
+                    },
+                    {
+                        "caption": "Детали \"Судного дня\"",
+                        "url": "quests\/script3\/bluetooth\/details"
+                    }
+                ]
             }
         },
         {

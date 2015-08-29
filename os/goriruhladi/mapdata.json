@@ -308,7 +308,7 @@
                 "type": "boss",
                 "x": 827,
                 "y": 308,
-                "caption": "Кадавр",
+                "caption": "Кадавр-разведчик",
                 "class": "kadavr"
             }
         },
@@ -360,7 +360,45 @@
                 "y": 82,
                 "caption": "Рухлядь-маркет Мамуны",
                 "npc": "Мамуна",
-                "link": "library\/npc\/os\/mamuna"
+                "link": "library\/npc\/os\/mamuna",
+                "quests": [
+                    {
+                        "caption": "Торговец Мамуна",
+                        "url": "quests\/script5\/debris\/mamuna"
+                    },
+                    {
+                        "caption": "Импульсор",
+                        "url": "quests\/script5\/impulsor\/intro"
+                    },
+                    {
+                        "caption": "Детали импульсора",
+                        "url": "quests\/script5\/impulsor\/details"
+                    },
+                    {
+                        "caption": "Разрядники",
+                        "url": "quests\/script5\/impulsor\/impulse"
+                    },
+                    {
+                        "caption": "Яйца-яйца",
+                        "url": "quests\/script5\/impulsor\/eggs"
+                    },
+                    {
+                        "caption": "Импульсор закончен!",
+                        "url": "quests\/script5\/impulsor\/done"
+                    },
+                    {
+                        "caption": "Жёлтый цветок",
+                        "url": "quests\/script5\/seeder\/yellow"
+                    },
+                    {
+                        "caption": "Синий цветок",
+                        "url": "quests\/script5\/seeder\/blue"
+                    },
+                    {
+                        "caption": "Холодный цветок",
+                        "url": "quests\/script5\/seeder\/cold"
+                    }
+                ]
             }
         },
         {

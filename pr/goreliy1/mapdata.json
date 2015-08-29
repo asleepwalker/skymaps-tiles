@@ -210,6 +210,8 @@
                 "type": "beacon",
                 "x": 512,
                 "y": 495,
+                "mobs": "Пират-барон (3)",
+                "coins": "1",
                 "link": "library\/coins\/reef"
             }
         }

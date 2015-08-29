@@ -161,14 +161,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    479,
-                    -901
+                    374,
+                    -899
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 479,
-                "y": 901,
+                "x": 374,
+                "y": 899,
                 "caption": "Древний мегаёж",
                 "class": "zloboezh"
             }
@@ -237,13 +237,15 @@
                 "type": "Point",
                 "coordinates": [
                     180,
-                    -111
+                    -112
                 ]
             },
             "properties": {
                 "type": "beacon",
                 "x": 180,
-                "y": 111,
+                "y": 112,
+                "mobs": "Пират-барон (3)",
+                "coins": "1",
                 "link": "library\/coins\/reef"
             }
         }

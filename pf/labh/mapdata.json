@@ -25,14 +25,14 @@
                 "type": "Point",
                 "coordinates": [
                     570,
-                    -197
+                    -199
                 ]
             },
             "properties": {
                 "type": "boss",
                 "x": 570,
-                "y": 197,
-                "caption": "Логово бандитов",
+                "y": 199,
+                "caption": "Логово жестоких бандитов",
                 "class": "logovo"
             }
         },

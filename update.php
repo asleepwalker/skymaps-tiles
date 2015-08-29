@@ -81,7 +81,19 @@
 				else if ($object['type'] == 'npc') {
 					$line['caption'] = $object['var3'];
 					if ($object['var4']) $line['npc'] = $object['var4'];
-					if ($object['var5']) $line['link'] = $object['var5'];
+					if ($object['var5']) {
+						$line['link'] = $object['var5'];
+
+						$quests = array();
+						$query = "SELECT `caption`, `url` FROM `as_knows_quests` WHERE `id` IN (SELECT `source` FROM `as_knows_dialogs` WHERE `author` = (SELECT `id` FROM `as_knows_npc` WHERE `region` = '".$map['region']."' AND `url` = '".preg_replace('/library\/npc\/'.$map['region'].'\/(.+)$/', '$1', $line['link'])."') GROUP BY `source`)";
+						$data2 = as_database_query($query);
+						while ($quest = mysql_fetch_assoc($data2)) {
+							$line['quests'][] = $quest;
+						}
+						if (count($quests)) {
+							$line['quests'] = $quests;
+						}
+					}
 				}
 				else if ($object['type'] == 'beacon') {
 					if ($object['var3']) $line['mobs'] = $object['var3'];

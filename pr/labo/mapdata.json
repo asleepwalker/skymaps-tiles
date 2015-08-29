@@ -23,6 +23,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    841,
+                    -835
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 841,
+                "y": 835,
+                "caption": "Ужасающий Мегаёж",
+                "class": "zloboezh",
+                "mode": "rare"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     861,
                     -344
                 ]

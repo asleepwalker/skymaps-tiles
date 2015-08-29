@@ -1055,7 +1055,21 @@
                 "y": 1210,
                 "caption": "Музей славы",
                 "npc": "Брат Альфред",
-                "link": "library\/npc\/bs\/alfred"
+                "link": "library\/npc\/bs\/alfred",
+                "quests": [
+                    {
+                        "caption": "Атака низушников",
+                        "url": "quests\/script4\/cannon\/attack"
+                    },
+                    {
+                        "caption": "Осмотр экспонатов",
+                        "url": "quests\/script4\/cannon\/museum"
+                    },
+                    {
+                        "caption": "Двигатель Легендарного",
+                        "url": "quests\/script4\/cannon\/engine"
+                    }
+                ]
             }
         },
         {
@@ -1073,7 +1087,37 @@
                 "y": 84,
                 "caption": "Склад Милоша",
                 "npc": "Брат Милош",
-                "link": "library\/npc\/bs\/milosh"
+                "link": "library\/npc\/bs\/milosh",
+                "quests": [
+                    {
+                        "caption": "Двигатель Легендарного",
+                        "url": "quests\/script4\/cannon\/engine"
+                    },
+                    {
+                        "caption": "Как ты, Дочурка?",
+                        "url": "quests\/script4\/cannon\/howareyou"
+                    },
+                    {
+                        "caption": "Эх, ядрышко!",
+                        "url": "quests\/script4\/cannon\/kernel"
+                    },
+                    {
+                        "caption": "Низверг",
+                        "url": "quests\/script4\/cannon\/nizverg"
+                    },
+                    {
+                        "caption": "Машина Тьюринга",
+                        "url": "quests\/script4\/past\/turing"
+                    },
+                    {
+                        "caption": "Переговоры",
+                        "url": "quests\/script4\/breakthrough\/negotiation"
+                    },
+                    {
+                        "caption": "Непроницаемый кожух",
+                        "url": "quests\/script5\/genome\/casing"
+                    }
+                ]
             }
         },
         {
@@ -1091,7 +1135,29 @@
                 "y": 1205,
                 "caption": "Аэродром Валькирий",
                 "npc": "Сестра Аврора",
-                "link": "library\/npc\/bs\/avrora"
+                "link": "library\/npc\/bs\/avrora",
+                "quests": [
+                    {
+                        "caption": "Валькирия",
+                        "url": "quests\/script4\/past\/valkyrie"
+                    },
+                    {
+                        "caption": "Полёт с валькириями",
+                        "url": "quests\/script4\/past\/flight"
+                    },
+                    {
+                        "caption": "Заброшенный скрипторий",
+                        "url": "quests\/script4\/past\/scriptory"
+                    },
+                    {
+                        "caption": "Машина Тьюринга",
+                        "url": "quests\/script4\/past\/turing"
+                    },
+                    {
+                        "caption": "Неудобная правда",
+                        "url": "quests\/script4\/past\/truth"
+                    }
+                ]
             }
         },
         {
@@ -1109,7 +1175,53 @@
                 "y": 664,
                 "caption": "Твердыня",
                 "npc": "Сестра Брис",
-                "link": "library\/npc\/bs\/bris"
+                "link": "library\/npc\/bs\/bris",
+                "quests": [
+                    {
+                        "caption": "Атака низушников",
+                        "url": "quests\/script4\/cannon\/attack"
+                    },
+                    {
+                        "caption": "Двигатель Легендарного",
+                        "url": "quests\/script4\/cannon\/engine"
+                    },
+                    {
+                        "caption": "Спасти разведчицу Дайну",
+                        "url": "quests\/script4\/cannon\/helpdaina"
+                    },
+                    {
+                        "caption": "Донесение Дайны",
+                        "url": "quests\/script4\/cannon\/dainareports"
+                    },
+                    {
+                        "caption": "Как ты, Дочурка?",
+                        "url": "quests\/script4\/cannon\/howareyou"
+                    },
+                    {
+                        "caption": "Низверг",
+                        "url": "quests\/script4\/cannon\/nizverg"
+                    },
+                    {
+                        "caption": "Дым вражеских труб",
+                        "url": "quests\/script4\/past\/steam"
+                    },
+                    {
+                        "caption": "Валькирия",
+                        "url": "quests\/script4\/past\/valkyrie"
+                    },
+                    {
+                        "caption": "Неудобная правда",
+                        "url": "quests\/script4\/past\/truth"
+                    },
+                    {
+                        "caption": "Переговоры",
+                        "url": "quests\/script4\/breakthrough\/negotiation"
+                    },
+                    {
+                        "caption": "Славные вести",
+                        "url": "quests\/script4\/breakthrough\/report"
+                    }
+                ]
             }
         },
         {

@@ -14,6 +14,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    548,
+                    -255
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 548,
+                "y": 255,
+                "caption": "Ужасающая Цитадель",
+                "class": "tsitadel",
+                "mode": "rare"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     280,
                     -470
                 ]

@@ -14,6 +14,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    394,
+                    -557
+                ]
+            },
+            "properties": {
+                "type": "instance",
+                "x": 394,
+                "y": 557
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     852,
                     -92
                 ]
@@ -258,7 +273,33 @@
                 "y": 728,
                 "caption": "Дом Академика Фисуниса",
                 "npc": "Академик Фисунис",
-                "link": "library\/npc\/pf\/fisunis"
+                "link": "library\/npc\/pf\/fisunis",
+                "quests": [
+                    {
+                        "caption": "Великий Фисунис",
+                        "url": "quests\/script2\/npk\/phisunis"
+                    },
+                    {
+                        "caption": "Старая гвардия",
+                        "url": "quests\/script2\/npk\/oldguard"
+                    },
+                    {
+                        "caption": "Детали Мехабосса",
+                        "url": "quests\/script2\/npk\/details"
+                    },
+                    {
+                        "caption": "Искра жизни",
+                        "url": "quests\/script2\/npk\/spark"
+                    },
+                    {
+                        "caption": "Испытание Мехабосса",
+                        "url": "quests\/script2\/npk\/test"
+                    },
+                    {
+                        "caption": "Плохие новости",
+                        "url": "quests\/script2\/npk\/badnews"
+                    }
+                ]
             }
         },
         {

@@ -164,6 +164,8 @@
                 "type": "beacon",
                 "x": 623,
                 "y": 149,
+                "mobs": "Редкое злобоёжище (5)",
+                "coins": "2",
                 "link": "library\/coins\/reef"
             }
         }

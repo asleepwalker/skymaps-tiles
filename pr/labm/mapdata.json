@@ -143,6 +143,8 @@
                 "type": "beacon",
                 "x": 828,
                 "y": 822,
+                "mobs": "Минёр-мастер (5)",
+                "coins": "2",
                 "link": "library\/coins\/reef"
             }
         }

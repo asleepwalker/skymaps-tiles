@@ -181,7 +181,57 @@
                 "y": 469,
                 "caption": "Исследовательская платформа",
                 "npc": "Ирэн Розенкрауцер",
-                "link": "library\/npc\/pf\/iren"
+                "link": "library\/npc\/pf\/iren",
+                "quests": [
+                    {
+                        "caption": "Особые ткани",
+                        "url": "quests\/script2\/expedition\/specialtissue"
+                    },
+                    {
+                        "caption": "Таинственный бункер",
+                        "url": "quests\/script2\/expedition\/bunker"
+                    },
+                    {
+                        "caption": "Месть пиратам",
+                        "url": "quests\/script2\/expedition\/revenge"
+                    },
+                    {
+                        "caption": "Собраться с силами",
+                        "url": "quests\/script2\/expedition\/gatherstrength"
+                    },
+                    {
+                        "caption": "Сквард Свирепый",
+                        "url": "quests\/script2\/expedition\/squidward"
+                    },
+                    {
+                        "caption": "Тайная операция",
+                        "url": "quests\/script2\/expedition\/operation"
+                    },
+                    {
+                        "caption": "Осмотр окрестностей",
+                        "url": "quests\/script2\/expedition\/surroundings"
+                    },
+                    {
+                        "caption": "Знания - сила",
+                        "url": "quests\/script2\/expedition\/knowledge"
+                    },
+                    {
+                        "caption": "Продолжение поисков",
+                        "url": "quests\/script2\/expedition\/searching"
+                    },
+                    {
+                        "caption": "Крайние меры",
+                        "url": "quests\/script2\/expedition\/extremeactions"
+                    },
+                    {
+                        "caption": "Цитадель Церкви",
+                        "url": "quests\/script2\/expedition\/stronghold"
+                    },
+                    {
+                        "caption": "Разоблачение",
+                        "url": "quests\/script2\/expedition\/reveal"
+                    }
+                ]
             }
         },
         {

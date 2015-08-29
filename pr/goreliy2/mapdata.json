@@ -157,9 +157,8 @@
                 "type": "boss",
                 "x": 720,
                 "y": 699,
-                "caption": "Мусорог-оборотень",
-                "class": "musorog",
-                "mode": "rare"
+                "caption": "Мусорог-губитель Полковник",
+                "class": "musorog"
             }
         },
         {
@@ -175,9 +174,8 @@
                 "type": "boss",
                 "x": 483,
                 "y": 808,
-                "caption": "Матка Босха",
-                "class": "matka",
-                "mode": "rare"
+                "caption": "Бета-матка",
+                "class": "matka"
             }
         },
         {

@@ -22,6 +22,23 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    787,
+                    -403
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 787,
+                "y": 403,
+                "caption": "Крейсер мстителей",
+                "class": "kreiser"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     170,
                     -392
                 ]
@@ -190,32 +207,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    761,
-                    -596
+                    620,
+                    -477
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 761,
-                "y": 596,
-                "caption": "Белая ярость",
-                "class": "kreiser",
-                "mode": "rare"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    689,
-                    -466
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 689,
-                "y": 466,
+                "x": 620,
+                "y": 477,
                 "caption": "Предатель Небес Король",
                 "class": "airship"
             }
@@ -225,14 +224,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    773,
-                    -425
+                    763,
+                    -442
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 773,
-                "y": 425,
+                "x": 763,
+                "y": 442,
                 "caption": "Кадавр",
                 "class": "kadavr"
             }

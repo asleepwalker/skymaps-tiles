@@ -187,7 +187,25 @@
                 "y": 154,
                 "caption": "Бункер",
                 "npc": "Робот Марк IV",
-                "link": "library\/npc\/pf\/mark4"
+                "link": "library\/npc\/pf\/mark4",
+                "quests": [
+                    {
+                        "caption": "Знания - сила",
+                        "url": "quests\/script2\/expedition\/knowledge"
+                    },
+                    {
+                        "caption": "Продолжение поисков",
+                        "url": "quests\/script2\/expedition\/searching"
+                    },
+                    {
+                        "caption": "Крайние меры",
+                        "url": "quests\/script2\/expedition\/extremeactions"
+                    },
+                    {
+                        "caption": "Разоблачение",
+                        "url": "quests\/script2\/expedition\/reveal"
+                    }
+                ]
             }
         }
     ]

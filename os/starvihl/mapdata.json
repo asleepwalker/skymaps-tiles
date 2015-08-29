@@ -14,6 +14,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    163,
+                    -242
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 163,
+                "y": 242,
+                "caption": "Ужасающий Хламкистадор",
+                "class": "hlamk",
+                "mode": "rare"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     745,
                     -665
                 ]
@@ -33,14 +51,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    175,
-                    -115
+                    284,
+                    -98
                 ]
             },
             "properties": {
                 "type": "fish",
-                "x": 175,
-                "y": 115,
+                "x": 284,
+                "y": 98,
                 "list": [
                     "Рыба-печень",
                     "Скудный лосось"

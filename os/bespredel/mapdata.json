@@ -19,6 +19,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    390,
+                    -350
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 390,
+                "y": 350,
+                "caption": "Ужасающее Скопище лишенцев",
+                "class": "taverna",
+                "mode": "rare"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     450,
                     -482
                 ]
@@ -481,7 +499,53 @@
                 "y": 97,
                 "caption": "Бандитский притон Аллера Анрича",
                 "npc": "Аллер Анрич",
-                "link": "library\/npc\/os\/aller"
+                "link": "library\/npc\/os\/aller",
+                "quests": [
+                    {
+                        "caption": "Аллер Анрич",
+                        "url": "quests\/script5\/debris\/anrich"
+                    },
+                    {
+                        "caption": "Девиатор",
+                        "url": "quests\/script5\/deviator\/intro"
+                    },
+                    {
+                        "caption": "Ботва",
+                        "url": "quests\/script5\/deviator\/haulm"
+                    },
+                    {
+                        "caption": "Мутировавший орган",
+                        "url": "quests\/script5\/deviator\/organ"
+                    },
+                    {
+                        "caption": "Мутаген",
+                        "url": "quests\/script5\/deviator\/mutagene"
+                    },
+                    {
+                        "caption": "Испытание Девиатора",
+                        "url": "quests\/script5\/deviator\/test"
+                    },
+                    {
+                        "caption": "Девиатор закончен!",
+                        "url": "quests\/script5\/deviator\/done"
+                    },
+                    {
+                        "caption": "Генетическая палитра",
+                        "url": "quests\/script5\/genome\/palette"
+                    },
+                    {
+                        "caption": "Красный цветок",
+                        "url": "quests\/script5\/seeder\/red"
+                    },
+                    {
+                        "caption": "Зелёный цветок",
+                        "url": "quests\/script5\/seeder\/green"
+                    },
+                    {
+                        "caption": "Фиолетовый цветок",
+                        "url": "quests\/script5\/seeder\/purple"
+                    }
+                ]
             }
         },
         {

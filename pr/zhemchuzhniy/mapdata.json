@@ -26,6 +26,40 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    382,
+                    -536
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 382,
+                "y": 536,
+                "caption": "Мусорог Полковник",
+                "class": "musorog"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    394,
+                    -502
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 394,
+                "y": 502,
+                "caption": "Мусорог Полковник",
+                "class": "musorog"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     869,
                     -193
                 ]
@@ -52,8 +86,9 @@
                 "type": "boss",
                 "x": 150,
                 "y": 262,
-                "caption": "Мусорог полковник",
-                "class": "musorog"
+                "caption": "Ужасающий мусорог полковник",
+                "class": "musorog",
+                "mode": "rare"
             }
         },
         {
@@ -61,31 +96,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    190,
-                    -212
+                    687,
+                    -161
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 190,
-                "y": 212,
-                "caption": "Мусорог полковник",
-                "class": "musorog"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    699,
-                    -191
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 699,
-                "y": 191,
+                "x": 687,
+                "y": 161,
                 "caption": "Цитадель механоидов",
                 "class": "tsitadel"
             }
@@ -103,7 +121,7 @@
                 "type": "boss",
                 "x": 740,
                 "y": 752,
-                "caption": "Матка Босха",
+                "caption": "Бета-матка",
                 "class": "matka",
                 "mode": "rare"
             }
@@ -153,14 +171,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    135,
-                    -135
+                    150,
+                    -141
                 ]
             },
             "properties": {
                 "type": "fish",
-                "x": 135,
-                "y": 135,
+                "x": 150,
+                "y": 141,
                 "list": [
                     "Рыба-печень"
                 ]

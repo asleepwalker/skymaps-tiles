@@ -23,6 +23,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    149,
+                    -114
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 149,
+                "y": 114,
+                "caption": "Ужасающая Цитадель",
+                "class": "tsitadel",
+                "mode": "rare"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     59,
                     -402
                 ]
@@ -114,7 +132,7 @@
                 "type": "boss",
                 "x": 491,
                 "y": 101,
-                "caption": "Логово Нарушителей Всего",
+                "caption": "Логово жестоких бандитов",
                 "class": "logovo"
             }
         },

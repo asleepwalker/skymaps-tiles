@@ -22,6 +22,23 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    771,
+                    -793
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 771,
+                "y": 793,
+                "caption": "Матка",
+                "class": "matka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     281,
                     -817
                 ]
@@ -109,7 +126,7 @@
                 "type": "boss",
                 "x": 130,
                 "y": 635,
-                "caption": "Альфа-Матка",
+                "caption": "Бета-Матка",
                 "class": "matka"
             }
         },

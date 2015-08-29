@@ -14,14 +14,66 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    185,
+                    237,
+                    -707
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 237,
+                "y": 707,
+                "caption": "Цербер-диверсант",
+                "class": "tserber"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    670,
                     -213
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 185,
+                "x": 670,
                 "y": 213,
+                "caption": "Кишкодав-диверсант",
+                "class": "kishkodav"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    432,
+                    -587
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 432,
+                "y": 587,
+                "caption": "Ужасающий Кадавр",
+                "class": "kadavr",
+                "mode": "rare"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    207,
+                    -207
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 207,
+                "y": 207,
                 "caption": "Мухоносец-диверсант",
                 "class": "muh"
             }
@@ -121,7 +173,7 @@
                 "type": "boss",
                 "x": 684,
                 "y": 759,
-                "caption": "Кадавр",
+                "caption": "Кадавр-диверсант",
                 "class": "kadavr"
             }
         }

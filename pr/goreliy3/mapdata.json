@@ -157,9 +157,8 @@
                 "type": "boss",
                 "x": 347,
                 "y": 182,
-                "caption": "Цитадель негодяев",
-                "class": "tsitadel",
-                "mode": "rare"
+                "caption": "Усиленная Цитадель Механойдов",
+                "class": "tsitadel"
             }
         },
         {
@@ -168,13 +167,15 @@
                 "type": "Point",
                 "coordinates": [
                     791,
-                    -466
+                    -472
                 ]
             },
             "properties": {
                 "type": "beacon",
                 "x": 791,
-                "y": 466,
+                "y": 472,
+                "mobs": "Пират-король (5)",
+                "coins": "2",
                 "link": "library\/coins\/reef"
             }
         },

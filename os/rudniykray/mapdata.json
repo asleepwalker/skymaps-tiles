@@ -19,6 +19,23 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    199,
+                    -179
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 199,
+                "y": 179,
+                "caption": "Гипнобосс",
+                "class": "gipno"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     778,
                     -396
                 ]

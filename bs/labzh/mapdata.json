@@ -22,6 +22,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    459,
+                    -808
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 459,
+                "y": 808,
+                "caption": "Ужасающий Повелитель Небес",
+                "class": "airship",
+                "mode": "rare"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     220,
                     -652
                 ]
@@ -39,14 +57,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    770,
-                    -522
+                    748,
+                    -551
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 770,
-                "y": 522,
+                "x": 748,
+                "y": 551,
                 "caption": "Убер-кадавр",
                 "class": "kadavr"
             }
@@ -64,7 +82,7 @@
                 "type": "boss",
                 "x": 401,
                 "y": 649,
-                "caption": "Барбазоид",
+                "caption": "Кишкодав-мститель",
                 "class": "kishkodav"
             }
         },

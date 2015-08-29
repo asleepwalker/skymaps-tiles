@@ -178,15 +178,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    831,
-                    -210
+                    842,
+                    -224
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 831,
-                "y": 210,
-                "caption": "Кишкодав-страж",
+                "x": 842,
+                "y": 224,
+                "caption": "Кишкодав-мститель",
                 "class": "kishkodav"
             }
         },

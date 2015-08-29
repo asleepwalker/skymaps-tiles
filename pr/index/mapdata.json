@@ -30,6 +30,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    139,
+                    -765
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 139,
+                "y": 765,
+                "caption": "Ужасающий Кроволет",
+                "class": "airship",
+                "mode": "rare"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     345,
                     -1703
                 ]
@@ -1138,7 +1156,53 @@
                 "y": 1365,
                 "caption": "Дом Доктора Сквида",
                 "npc": "Доктор Сквид",
-                "link": "library\/npc\/pr\/squid"
+                "link": "library\/npc\/pr\/squid",
+                "quests": [
+                    {
+                        "caption": "В гости к Сквиду",
+                        "url": "quests\/script3\/fight\/squid"
+                    },
+                    {
+                        "caption": "Разносчики заразы",
+                        "url": "quests\/script3\/fight\/carriers"
+                    },
+                    {
+                        "caption": "Чавча",
+                        "url": "quests\/script3\/fight\/chavcha"
+                    },
+                    {
+                        "caption": "Обратно к Горману",
+                        "url": "quests\/script3\/fight\/comeback"
+                    },
+                    {
+                        "caption": "А котелок-то варит!",
+                        "url": "quests\/script3\/bluetooth\/bowler"
+                    },
+                    {
+                        "caption": "Пепельная горелка",
+                        "url": "quests\/script3\/bluetooth\/ashburner"
+                    },
+                    {
+                        "caption": "Отчет о вылазке",
+                        "url": "quests\/script3\/bluetooth\/report"
+                    },
+                    {
+                        "caption": "Свой среди чужих",
+                        "url": "quests\/script3\/bluetooth\/amongstrangers"
+                    },
+                    {
+                        "caption": "Детали \"Судного дня\"",
+                        "url": "quests\/script3\/bluetooth\/details"
+                    },
+                    {
+                        "caption": "Судный День Синезуба",
+                        "url": "quests\/script3\/bluetooth\/doomsday"
+                    },
+                    {
+                        "caption": "Геногенератор",
+                        "url": "quests\/script5\/genome\/generator"
+                    }
+                ]
             }
         },
         {
@@ -1198,7 +1262,37 @@
                 "y": 936,
                 "caption": "Дом капитана Гормана",
                 "npc": "Капитан Горман",
-                "link": "library\/npc\/pr\/gorman"
+                "link": "library\/npc\/pr\/gorman",
+                "quests": [
+                    {
+                        "caption": "Капитан Горман",
+                        "url": "quests\/script3\/adventures\/horman"
+                    },
+                    {
+                        "caption": "Испорченный отдых",
+                        "url": "quests\/script3\/adventures\/spoiledrest"
+                    },
+                    {
+                        "caption": "Поднёбки",
+                        "url": "quests\/script3\/adventures\/submarines"
+                    },
+                    {
+                        "caption": "Вот зараза!",
+                        "url": "quests\/script3\/adventures\/infection"
+                    },
+                    {
+                        "caption": "В гости к Сквиду",
+                        "url": "quests\/script3\/fight\/squid"
+                    },
+                    {
+                        "caption": "Обратно к Горману",
+                        "url": "quests\/script3\/fight\/comeback"
+                    },
+                    {
+                        "caption": "Капитан Густо",
+                        "url": "quests\/script3\/fight\/gusto"
+                    }
+                ]
             }
         },
         {
@@ -1216,7 +1310,21 @@
                 "y": 640,
                 "caption": "Лаборатория Густо",
                 "npc": "Капитан Густо",
-                "link": "library\/npc\/pr\/gusto"
+                "link": "library\/npc\/pr\/gusto",
+                "quests": [
+                    {
+                        "caption": "Капитан Густо",
+                        "url": "quests\/script3\/fight\/gusto"
+                    },
+                    {
+                        "caption": "Атака на генератор",
+                        "url": "quests\/script3\/fight\/attack"
+                    },
+                    {
+                        "caption": "Небесный волчонок",
+                        "url": "quests\/script3\/fight\/skywolf"
+                    }
+                ]
             }
         },
         {
@@ -1234,7 +1342,33 @@
                 "y": 979,
                 "caption": "Лагуна",
                 "npc": "Марина",
-                "link": "library\/npc\/pr\/marina"
+                "link": "library\/npc\/pr\/marina",
+                "quests": [
+                    {
+                        "caption": "Коктейль-бар",
+                        "url": "quests\/script3\/adventures\/bar"
+                    },
+                    {
+                        "caption": "Кровавая метка",
+                        "url": "quests\/script3\/adventures\/bloodmark"
+                    },
+                    {
+                        "caption": "Капитан Горман",
+                        "url": "quests\/script3\/adventures\/horman"
+                    },
+                    {
+                        "caption": "Небесный волчонок",
+                        "url": "quests\/script3\/fight\/skywolf"
+                    },
+                    {
+                        "caption": "Обитатели Заповедника",
+                        "url": "quests\/script3\/preserve\/inhabitants"
+                    },
+                    {
+                        "caption": "Да придёт Господин",
+                        "url": "quests\/script3\/preserve\/master"
+                    }
+                ]
             }
         },
         {
@@ -1252,7 +1386,25 @@
                 "y": 1364,
                 "caption": "Кабачок",
                 "npc": "Мурана и Винтана",
-                "link": "library\/npc\/pr\/muranavintana"
+                "link": "library\/npc\/pr\/muranavintana",
+                "quests": [
+                    {
+                        "caption": "Коктейль-бар",
+                        "url": "quests\/script3\/adventures\/bar"
+                    },
+                    {
+                        "caption": "Что в миксере тебе моём?",
+                        "url": "quests\/script3\/adventures\/mixer"
+                    },
+                    {
+                        "caption": "Осьминог-дебошир",
+                        "url": "quests\/script3\/adventures\/octopus"
+                    },
+                    {
+                        "caption": "Кровавая метка",
+                        "url": "quests\/script3\/adventures\/bloodmark"
+                    }
+                ]
             }
         },
         {

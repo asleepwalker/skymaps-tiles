@@ -14,14 +14,32 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    690,
-                    -822
+                    551,
+                    -478
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 690,
-                "y": 822,
+                "x": 551,
+                "y": 478,
+                "caption": "Ужасающая Биоспора",
+                "class": "spore",
+                "mode": "rare"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    677,
+                    -788
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 677,
+                "y": 788,
                 "caption": "Хламкистодоры",
                 "class": "hlamk"
             }
@@ -92,14 +110,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    128,
-                    -744
+                    125,
+                    -715
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 128,
-                "y": 744,
+                "x": 125,
+                "y": 715,
                 "caption": "Гамма-гипнобосс",
                 "class": "gipno"
             }
@@ -109,14 +127,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    280,
-                    -532
+                    318,
+                    -554
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 280,
-                "y": 532,
+                "x": 318,
+                "y": 554,
                 "caption": "Гамма-гипнобосс",
                 "class": "gipno"
             }

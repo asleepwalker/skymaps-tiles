@@ -249,14 +249,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    847,
-                    -866
+                    822,
+                    -835
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 847,
-                "y": 866,
+                "x": 822,
+                "y": 835,
                 "caption": "Штурм-крейсер",
                 "class": "kreiser"
             }
@@ -405,13 +405,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    854,
+                    814,
                     -697
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 854,
+                "x": 814,
                 "y": 697,
                 "caption": "Мухоносец-мститель",
                 "class": "muh"

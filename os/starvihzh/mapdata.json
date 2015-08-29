@@ -14,6 +14,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    137,
+                    -139
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 137,
+                "y": 139,
+                "caption": "Ужасающий Вестник Пита",
+                "class": "airship",
+                "mode": "rare"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     115,
                     -625
                 ]

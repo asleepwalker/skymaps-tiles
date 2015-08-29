@@ -1,15 +1,11 @@
 {
     "meta": {
         "caption": "Тихая Гавань",
-        "navigator": "AS_Super",
-        "date": "21.02.2011",
+        "navigator": "neo_max",
+        "date": "26.08.2015",
         "size": {
             "width": 2000,
             "height": 1500
-        },
-        "center": {
-            "x": 550,
-            "y": 390
         },
         "drop": [
             "81_41",
@@ -26,6 +22,173 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    294,
+                    -837
+                ]
+            },
+            "properties": {
+                "type": "note",
+                "x": 294,
+                "y": 837,
+                "text": "Защитите дома мирных жителей от атаки пиратов!"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    440,
+                    -620
+                ]
+            },
+            "properties": {
+                "type": "note",
+                "x": 440,
+                "y": 620,
+                "text": "Здесь можно сделать ставку на Железного иглобрюха или на Грозного кровососа. И посмотреть (и даже поучаствовать!) в их бою!"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    655,
+                    -787
+                ]
+            },
+            "properties": {
+                "type": "quest",
+                "x": 655,
+                "y": 787,
+                "caption": "Говорун Капитана Чикенза",
+                "tip": "Здесь обитает птица Говорун!"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    652,
+                    -677
+                ]
+            },
+            "properties": {
+                "type": "quest",
+                "x": 652,
+                "y": 677,
+                "caption": "Рыбы много не бывает!",
+                "tip": "Бедняк просит нас убить для него 20 рыб в округе.В обмен на рыбку бедняк поделится с вами полезным хламом."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    711,
+                    -643
+                ]
+            },
+            "properties": {
+                "type": "quest",
+                "x": 711,
+                "y": 643,
+                "caption": "Суши или роллы?",
+                "tip": "Нужно выбрать сторону и помочь Самураю-сану или Камикадзе-куну. Суши или роллы?"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    750,
+                    -397
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 750,
+                "y": 397,
+                "link": "library\/coins\/gavane"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    843,
+                    -551
+                ]
+            },
+            "properties": {
+                "type": "quest",
+                "x": 843,
+                "y": 551,
+                "caption": "Пожар в небесах",
+                "tip": "Не стой столбом, попроси помощи на метеостанции неподалеку отсюда!"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    885,
+                    -507
+                ]
+            },
+            "properties": {
+                "type": "quest",
+                "x": 885,
+                "y": 507,
+                "caption": "Небесная буря",
+                "tip": "Найдите среди обломков вокруг метеостанции молниеотводы."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    811,
+                    -345
+                ]
+            },
+            "properties": {
+                "type": "quest",
+                "x": 811,
+                "y": 345,
+                "caption": "Помощь науке!",
+                "tip": "Спасите ученого от мусорогов и помогите добраться до профессора."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    770,
+                    -204
+                ]
+            },
+            "properties": {
+                "type": "quest",
+                "x": 770,
+                "y": 204,
+                "caption": "Благодарный торговец",
+                "tip": "Защитите торговый корабль от нападения. Папуна наградит вас за это."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     1133,
                     -464
                 ]
@@ -34,23 +197,6 @@
                 "type": "boss",
                 "x": 1133,
                 "y": 464,
-                "caption": "Улей",
-                "class": "uley"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1075,
-                    -567
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 1075,
-                "y": 567,
                 "caption": "Улей",
                 "class": "uley"
             }
@@ -398,7 +544,21 @@
                 "y": 105,
                 "caption": "Лавка Торговца Папуны",
                 "npc": "Торговец Папуна",
-                "link": "library\/npc\/tg\/papuna"
+                "link": "library\/npc\/tg\/papuna",
+                "quests": [
+                    {
+                        "caption": "Катастрофа-Матастрофа",
+                        "url": "quests\/script1\/skycalls\/disaster"
+                    },
+                    {
+                        "caption": "Высокие чувства",
+                        "url": "quests\/script1\/lyalya\/highfeelings"
+                    },
+                    {
+                        "caption": "Душистый мёд",
+                        "url": "quests\/script1\/lyalya\/honey"
+                    }
+                ]
             }
         },
         {
@@ -443,14 +603,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    205,
-                    -971
+                    206,
+                    -968
                 ]
             },
             "properties": {
                 "type": "fish",
-                "x": 205,
-                "y": 971,
+                "x": 206,
+                "y": 968,
                 "list": [
                     "Рыба-печень",
                     "Скудный лосось"
@@ -462,14 +622,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    905,
-                    -816
+                    898,
+                    -820
                 ]
             },
             "properties": {
                 "type": "fish",
-                "x": 905,
-                "y": 816,
+                "x": 898,
+                "y": 820,
                 "list": [
                     "Рыба-печень",
                     "Скудный лосось"
@@ -481,13 +641,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    852,
+                    832,
                     -854
                 ]
             },
             "properties": {
                 "type": "fish",
-                "x": 852,
+                "x": 832,
                 "y": 854,
                 "list": [
                     "Коралловый сиган",
@@ -500,14 +660,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    949,
-                    -761
+                    943,
+                    -756
                 ]
             },
             "properties": {
                 "type": "fish",
-                "x": 949,
-                "y": 761,
+                "x": 943,
+                "y": 756,
                 "list": [
                     "Рыба-печень",
                     "Скудный лосось"
@@ -519,14 +679,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    958,
-                    -835
+                    948,
+                    -829
                 ]
             },
             "properties": {
                 "type": "fish",
-                "x": 958,
-                "y": 835,
+                "x": 948,
+                "y": 829,
                 "list": [
                     "Коралловый сиган",
                     "Золотой летринус"
@@ -538,14 +698,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1037,
-                    -763
+                    1029,
+                    -767
                 ]
             },
             "properties": {
                 "type": "fish",
-                "x": 1037,
-                "y": 763,
+                "x": 1029,
+                "y": 767,
                 "list": [
                     "Рыба-печень",
                     "Скудный лосось"
@@ -557,14 +717,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1037,
-                    -817
+                    1046,
+                    -821
                 ]
             },
             "properties": {
                 "type": "fish",
-                "x": 1037,
-                "y": 817,
+                "x": 1046,
+                "y": 821,
                 "list": [
                     "Коралловый сиган",
                     "Золотой летринус"
@@ -576,14 +736,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1084,
-                    -875
+                    1085,
+                    -867
                 ]
             },
             "properties": {
                 "type": "fish",
-                "x": 1084,
-                "y": 875,
+                "x": 1085,
+                "y": 867,
                 "list": [
                     "Тропический центропиг",
                     "Игольчатый марлин"
@@ -596,13 +756,13 @@
                 "type": "Point",
                 "coordinates": [
                     987,
-                    -886
+                    -885
                 ]
             },
             "properties": {
                 "type": "fish",
                 "x": 987,
-                "y": 886,
+                "y": 885,
                 "list": [
                     "Коралловый сиган",
                     "Золотой летринус"
@@ -672,7 +832,45 @@
                 "y": 364,
                 "caption": "Кроссвинд",
                 "npc": "Милента",
-                "link": "library\/npc\/tg\/milenta"
+                "link": "library\/npc\/tg\/milenta",
+                "quests": [
+                    {
+                        "caption": "Поручение Миленты",
+                        "url": "quests\/script1\/skycalls\/milentarequests"
+                    },
+                    {
+                        "caption": "Защита перевала ветров",
+                        "url": "quests\/script1\/skycalls\/crosswind"
+                    },
+                    {
+                        "caption": "Катастрофа-Матастрофа",
+                        "url": "quests\/script1\/skycalls\/disaster"
+                    },
+                    {
+                        "caption": "Адмирал Канонбах",
+                        "url": "quests\/script1\/skycalls\/cannonbach"
+                    },
+                    {
+                        "caption": "Дорога домой",
+                        "url": "quests\/script1\/skycalls\/wayhome"
+                    },
+                    {
+                        "caption": "Небесный волк",
+                        "url": "quests\/script1\/labs\/skywolf"
+                    },
+                    {
+                        "caption": "Рассеянные ученые",
+                        "url": "quests\/script1\/labs\/researchers"
+                    },
+                    {
+                        "caption": "Незваные гости",
+                        "url": "quests\/script1\/labs\/guests"
+                    },
+                    {
+                        "caption": "Помощь из Переферии",
+                        "url": "quests\/script1\/labs\/help"
+                    }
+                ]
             }
         },
         {
@@ -690,7 +888,13 @@
                 "y": 172,
                 "caption": "Приют Странников",
                 "npc": "«Неизвестный» Автор",
-                "link": "library\/npc\/tg\/author"
+                "link": "library\/npc\/tg\/author",
+                "quests": [
+                    {
+                        "caption": "Дуэль",
+                        "url": "quests\/script1\/lyalya\/duel"
+                    }
+                ]
             }
         },
         {
@@ -708,7 +912,37 @@
                 "y": 781,
                 "caption": "Кафедра Военного Дела",
                 "npc": "Адмирал Канонбах",
-                "link": "library\/npc\/tg\/kanonbach"
+                "link": "library\/npc\/tg\/kanonbach",
+                "quests": [
+                    {
+                        "caption": "Адмирал Канонбах",
+                        "url": "quests\/script1\/skycalls\/cannonbach"
+                    },
+                    {
+                        "caption": "Бабахнем!",
+                        "url": "quests\/script1\/skycalls\/strike"
+                    },
+                    {
+                        "caption": "Часовня Муз",
+                        "url": "quests\/script1\/skycalls\/museschapel"
+                    },
+                    {
+                        "caption": "Незваные гости",
+                        "url": "quests\/script1\/labs\/guests"
+                    },
+                    {
+                        "caption": "Бандитское логово",
+                        "url": "quests\/script1\/labs\/bandits"
+                    },
+                    {
+                        "caption": "Помощь из Переферии",
+                        "url": "quests\/script1\/labs\/help"
+                    },
+                    {
+                        "caption": "Как одену портупею",
+                        "url": "quests\/script1\/lyalya\/growstupid"
+                    }
+                ]
             }
         },
         {
@@ -744,7 +978,17 @@
                 "y": 1004,
                 "caption": "Домик Эльны",
                 "npc": "Грустная Эльна",
-                "link": "library\/npc\/tg\/elna"
+                "link": "library\/npc\/tg\/elna",
+                "quests": [
+                    {
+                        "caption": "Грустная Эльна",
+                        "url": "quests\/script1\/skycalls\/sadelna"
+                    },
+                    {
+                        "caption": "Всё хорошо",
+                        "url": "quests\/script1\/skycalls\/allright"
+                    }
+                ]
             }
         },
         {
@@ -762,7 +1006,33 @@
                 "y": 628,
                 "caption": "Дом Отставного Капитана Чикенза",
                 "npc": "Капитан Чикенз",
-                "link": "library\/npc\/tg\/chickens"
+                "link": "library\/npc\/tg\/chickens",
+                "quests": [
+                    {
+                        "caption": "Небесный волк",
+                        "url": "quests\/script1\/labs\/skywolf"
+                    },
+                    {
+                        "caption": "Пушки детям не игрушки",
+                        "url": "quests\/script1\/labs\/notatoy"
+                    },
+                    {
+                        "caption": "Приём! Прием!",
+                        "url": "quests\/script1\/labs\/connection"
+                    },
+                    {
+                        "caption": "Рассеянные ученые",
+                        "url": "quests\/script1\/labs\/researchers"
+                    },
+                    {
+                        "caption": "Высокие чувства",
+                        "url": "quests\/script1\/lyalya\/highfeelings"
+                    },
+                    {
+                        "caption": "Подвиг во имя любви",
+                        "url": "quests\/script1\/lyalya\/feat"
+                    }
+                ]
             }
         },
         {
@@ -780,7 +1050,13 @@
                 "y": 665,
                 "caption": "Суши-бар Комуто Охота",
                 "npc": "Комуто Охота",
-                "link": "library\/npc\/tg\/komuto"
+                "link": "library\/npc\/tg\/komuto",
+                "quests": [
+                    {
+                        "caption": "Поручение Миленты",
+                        "url": "quests\/script1\/skycalls\/milentarequests"
+                    }
+                ]
             }
         },
         {
@@ -807,16 +1083,42 @@
                 "type": "Point",
                 "coordinates": [
                     609,
-                    -1037
+                    -1042
                 ]
             },
             "properties": {
                 "type": "npc",
                 "x": 609,
-                "y": 1037,
+                "y": 1042,
                 "caption": "Часовня Муз",
                 "npc": "Сестра Фиола",
-                "link": "library\/npc\/tg\/fiola"
+                "link": "library\/npc\/tg\/fiola",
+                "quests": [
+                    {
+                        "caption": "Часовня Муз",
+                        "url": "quests\/script1\/skycalls\/museschapel"
+                    },
+                    {
+                        "caption": "Медузья угроза",
+                        "url": "quests\/script1\/skycalls\/medusaattacks"
+                    },
+                    {
+                        "caption": "Грустная Эльна",
+                        "url": "quests\/script1\/skycalls\/sadelna"
+                    },
+                    {
+                        "caption": "Всё хорошо",
+                        "url": "quests\/script1\/skycalls\/allright"
+                    },
+                    {
+                        "caption": "Дорога домой",
+                        "url": "quests\/script1\/skycalls\/wayhome"
+                    },
+                    {
+                        "caption": "Высокие чувства",
+                        "url": "quests\/script1\/lyalya\/highfeelings"
+                    }
+                ]
             }
         },
         {
@@ -852,7 +1154,13 @@
                 "y": 1270,
                 "caption": "Таверна \"Пьяный Ветер\"",
                 "npc": "Эндрю",
-                "link": "library\/npc\/tg\/andrew"
+                "link": "library\/npc\/tg\/andrew",
+                "quests": [
+                    {
+                        "caption": "Лепестки лилии",
+                        "url": "quests\/script1\/lyalya\/petals"
+                    }
+                ]
             }
         },
         {
@@ -870,7 +1178,37 @@
                 "y": 121,
                 "caption": "Лилия",
                 "npc": "Ляля-Дюймовочка",
-                "link": "library\/npc\/tg\/lyalya"
+                "link": "library\/npc\/tg\/lyalya",
+                "quests": [
+                    {
+                        "caption": "Высокие чувства",
+                        "url": "quests\/script1\/lyalya\/highfeelings"
+                    },
+                    {
+                        "caption": "Как одену портупею",
+                        "url": "quests\/script1\/lyalya\/growstupid"
+                    },
+                    {
+                        "caption": "Душистый мёд",
+                        "url": "quests\/script1\/lyalya\/honey"
+                    },
+                    {
+                        "caption": "Лепестки лилии",
+                        "url": "quests\/script1\/lyalya\/petals"
+                    },
+                    {
+                        "caption": "Подвиг во имя любви",
+                        "url": "quests\/script1\/lyalya\/feat"
+                    },
+                    {
+                        "caption": "Похищение невесты",
+                        "url": "quests\/script1\/lyalya\/abduction"
+                    },
+                    {
+                        "caption": "Дуэль",
+                        "url": "quests\/script1\/lyalya\/duel"
+                    }
+                ]
             }
         },
         {

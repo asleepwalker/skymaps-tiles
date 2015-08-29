@@ -22,15 +22,33 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    820,
-                    -662
+                    510,
+                    -828
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 820,
-                "y": 662,
-                "caption": "Кишкодав",
+                "x": 510,
+                "y": 828,
+                "caption": "Ужасающий Кадавр",
+                "class": "kadavr",
+                "mode": "rare"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    864,
+                    -300
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 864,
+                "y": 300,
+                "caption": "Кишкодав-страж",
                 "class": "kishkodav"
             }
         },
@@ -56,15 +74,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    780,
+                    778,
                     -352
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 780,
+                "x": 778,
                 "y": 352,
-                "caption": "Кишкодав",
+                "caption": "Кишкодав-мститель",
                 "class": "kishkodav"
             }
         },

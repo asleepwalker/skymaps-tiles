@@ -14,6 +14,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    681,
+                    -657
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 681,
+                "y": 657,
+                "caption": "Ужасающий Мухоносец",
+                "class": "muh",
+                "mode": "rare"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     530,
                     -120
                 ]
@@ -92,14 +110,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    850,
-                    -852
+                    810,
+                    -832
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 850,
-                "y": 852,
+                "x": 810,
+                "y": 832,
                 "caption": "Гамма-шмель",
                 "class": "shmel"
             }

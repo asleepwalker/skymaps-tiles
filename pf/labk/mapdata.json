@@ -107,15 +107,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    770,
+                    771,
                     -152
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 770,
+                "x": 771,
                 "y": 152,
-                "caption": "Мусорог-потрошитель Капитан",
+                "caption": "Ужасающий мусорог капитан",
                 "class": "musorog"
             }
         },

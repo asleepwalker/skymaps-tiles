@@ -85,7 +85,13 @@
                 "y": 465,
                 "caption": "Храм Хлама",
                 "npc": "Верховный Хламовник",
-                "link": "library\/npc\/os\/hlamovnik"
+                "link": "library\/npc\/os\/hlamovnik",
+                "quests": [
+                    {
+                        "caption": "Красный цветок",
+                        "url": "quests\/script5\/seeder\/red"
+                    }
+                ]
             }
         }
     ]

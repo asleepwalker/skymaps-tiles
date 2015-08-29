@@ -227,6 +227,8 @@
                 "type": "beacon",
                 "x": 351,
                 "y": 532,
+                "mobs": "Пиявка-паразит (5)",
+                "coins": "3",
                 "link": "library\/coins\/reef"
             }
         }

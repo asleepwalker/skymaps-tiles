@@ -14,6 +14,23 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    748,
+                    -498
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 748,
+                "y": 498,
+                "caption": "Альфа-шмель",
+                "class": "shmel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     501,
                     -812
                 ]
@@ -21,7 +38,14 @@
             "properties": {
                 "type": "hole",
                 "x": 501,
-                "y": 812
+                "y": 812,
+                "region": "os",
+                "map": "index",
+                "caption": "Центр",
+                "goto": {
+                    "x": 502,
+                    "y": 418
+                }
             }
         },
         {
@@ -197,14 +221,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    219,
-                    -358
+                    177,
+                    -318
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 219,
-                "y": 358,
+                "x": 177,
+                "y": 318,
                 "caption": "Гамма-шмель",
                 "class": "shmel"
             }
@@ -214,48 +238,48 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    232,
-                    -616
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 232,
-                "y": 616,
-                "caption": "Бета-шмель",
-                "class": "shmel"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    715,
-                    -347
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 715,
-                "y": 347,
-                "caption": "Бета-шмель",
-                "class": "shmel"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     746,
-                    -447
+                    -665
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 746,
+                "y": 665,
+                "caption": "Бета-шмель",
+                "class": "shmel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    193,
+                    -652
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 193,
+                "y": 652,
+                "caption": "Бета-шмель",
+                "class": "shmel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    737,
+                    -452
                 ]
             },
             "properties": {
                 "type": "beacon",
-                "x": 746,
-                "y": 447,
+                "x": 737,
+                "y": 452,
                 "link": "library\/coins\/oskolki"
             }
         },

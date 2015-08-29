@@ -24,6 +24,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    537,
+                    -501
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 537,
+                "y": 501,
+                "caption": "Ужасающее Логово Нарушителей Всего",
+                "class": "logovo",
+                "mode": "rare"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     748,
                     -151
                 ]

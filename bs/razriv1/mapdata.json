@@ -22,14 +22,32 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    230,
-                    -642
+                    169,
+                    -832
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 230,
-                "y": 642,
+                "x": 169,
+                "y": 832,
+                "caption": "Ужасающая Цитадель",
+                "class": "tsitadel",
+                "mode": "rare"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    226,
+                    -658
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 226,
+                "y": 658,
                 "caption": "Убер-фактория",
                 "class": "faka"
             }
@@ -73,14 +91,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    775,
-                    -405
+                    796,
+                    -413
                 ]
             },
             "properties": {
                 "type": "fish",
-                "x": 775,
-                "y": 405
+                "x": 796,
+                "y": 413,
+                "list": [
+                    "Лазурная пеламида",
+                    "Рыба зигзаг"
+                ]
             }
         },
         {

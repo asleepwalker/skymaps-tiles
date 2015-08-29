@@ -19,14 +19,31 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    260,
-                    -471
+                    810,
+                    -301
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 260,
-                "y": 471,
+                "x": 810,
+                "y": 301,
+                "caption": "Осиный улей",
+                "class": "uley"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    273,
+                    -486
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 273,
+                "y": 486,
                 "caption": "Цербер-разведчик",
                 "class": "tserber"
             }
@@ -36,14 +53,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    160,
-                    -329
+                    191,
+                    -309
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 160,
-                "y": 329,
+                "x": 191,
+                "y": 309,
                 "caption": "Мухоносец-разведчик",
                 "class": "muh"
             }
@@ -53,14 +70,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    200,
-                    -453
+                    188,
+                    -462
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 200,
-                "y": 453,
+                "x": 188,
+                "y": 462,
                 "caption": "Кадавр-разведчик",
                 "class": "kadavr"
             }
@@ -247,13 +264,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    486,
+                    529,
                     -509
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 486,
+                "x": 529,
                 "y": 509,
                 "caption": "Мухоносец-разведчик",
                 "class": "muh"
@@ -302,14 +319,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    617,
-                    -623
+                    616,
+                    -612
                 ]
             },
             "properties": {
                 "type": "fish",
-                "x": 617,
-                "y": 623,
+                "x": 616,
+                "y": 612,
                 "list": [
                     "Тропический центропиг",
                     "Игольчатый марлин"

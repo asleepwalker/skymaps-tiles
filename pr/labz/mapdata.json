@@ -22,6 +22,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    812,
+                    -615
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 812,
+                "y": 615,
+                "caption": "Ужасающая Матка",
+                "class": "matka",
+                "mode": "rare"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     271,
                     -514
                 ]
@@ -84,23 +102,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    825,
-                    -466
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 825,
-                "y": 466,
-                "caption": "Мусорог-Полковник",
-                "class": "musorog"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     610,
                     -268
                 ]
@@ -143,8 +144,8 @@
                 "type": "boss",
                 "x": 524,
                 "y": 748,
-                "caption": "Великий кроволёт",
-                "class": "airship"
+                "caption": "Мусорог Полковник",
+                "class": "musorog"
             }
         }
     ]

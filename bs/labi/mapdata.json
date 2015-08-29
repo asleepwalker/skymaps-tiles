@@ -22,6 +22,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    829,
+                    -331
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 829,
+                "y": 331,
+                "caption": "Ужасающий Крейсер",
+                "class": "kreiser",
+                "mode": "rare"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     180,
                     -202
                 ]
@@ -47,7 +65,7 @@
                 "type": "boss",
                 "x": 514,
                 "y": 187,
-                "caption": "Барбазоид",
+                "caption": "Кишкодав-страж",
                 "class": "kishkodav"
             }
         },

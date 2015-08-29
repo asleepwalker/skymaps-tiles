@@ -14,6 +14,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    422,
+                    -498
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 422,
+                "y": 498,
+                "caption": "Ужасающий Кишкодав",
+                "class": "kishkodav",
+                "mode": "rare"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     810,
                     -122
                 ]
@@ -31,14 +49,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    190,
-                    -812
+                    147,
+                    -828
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 190,
-                "y": 812,
+                "x": 147,
+                "y": 828,
                 "caption": "Бета-улей",
                 "class": "uley"
             }
@@ -168,14 +186,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    794,
-                    -573
+                    819,
+                    -534
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 794,
-                "y": 573,
+                "x": 819,
+                "y": 534,
                 "caption": "Гамма-гипнобосс",
                 "class": "gipno"
             }
@@ -202,14 +220,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    176,
-                    -77
+                    231,
+                    -89
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 176,
-                "y": 77,
+                "x": 231,
+                "y": 89,
                 "caption": "Гамма-шмель",
                 "class": "shmel"
             }

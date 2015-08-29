@@ -21,6 +21,23 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    836,
+                    -181
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 836,
+                "y": 181,
+                "caption": "Мусорог-генерал",
+                "class": "musorog"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     860,
                     -152
                 ]

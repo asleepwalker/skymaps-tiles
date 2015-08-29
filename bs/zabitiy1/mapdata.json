@@ -21,6 +21,23 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    736,
+                    -738
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 736,
+                "y": 738,
+                "caption": "Кишкодав",
+                "class": "kishkodav"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     826,
                     -290
                 ]

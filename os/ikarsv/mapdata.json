@@ -14,6 +14,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    835,
+                    -800
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 835,
+                "y": 800,
+                "caption": "Ужасающий Шмель",
+                "class": "shmel",
+                "mode": "rare"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     190,
                     -802
                 ]
@@ -31,14 +49,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    560,
-                    -602
+                    577,
+                    -559
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 560,
-                "y": 602,
+                "x": 577,
+                "y": 559,
                 "caption": "Дельта-гипнобосс",
                 "class": "gipno"
             }
@@ -48,15 +66,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    490,
-                    -293
+                    491,
+                    -302
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 490,
-                "y": 293,
-                "caption": "Хламкистодор",
+                "x": 491,
+                "y": 302,
+                "caption": "Хламкистодоры",
                 "class": "hlamk"
             }
         },
@@ -181,14 +199,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    784,
-                    -321
+                    883,
+                    -258
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 784,
-                "y": 321,
+                "x": 883,
+                "y": 258,
                 "caption": "Гамма-улей",
                 "class": "uley"
             }

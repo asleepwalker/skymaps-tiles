@@ -479,7 +479,37 @@
                 "y": 874,
                 "caption": "Форпост Сульрата",
                 "npc": "Сульрат",
-                "link": "library\/npc\/bs\/sulrath"
+                "link": "library\/npc\/bs\/sulrath",
+                "quests": [
+                    {
+                        "caption": "Переговоры",
+                        "url": "quests\/script4\/breakthrough\/negotiation"
+                    },
+                    {
+                        "caption": "Выживает сильнейший",
+                        "url": "quests\/script4\/breakthrough\/survive"
+                    },
+                    {
+                        "caption": "Цена сотрудничества",
+                        "url": "quests\/script4\/breakthrough\/price"
+                    },
+                    {
+                        "caption": "Плодильщики",
+                        "url": "quests\/script4\/breakthrough\/plods"
+                    },
+                    {
+                        "caption": "Сведение счётов",
+                        "url": "quests\/script4\/breakthrough\/scores"
+                    },
+                    {
+                        "caption": "Финальный удар",
+                        "url": "quests\/script4\/breakthrough\/finalshot"
+                    },
+                    {
+                        "caption": "Славные вести",
+                        "url": "quests\/script4\/breakthrough\/report"
+                    }
+                ]
             }
         },
         {

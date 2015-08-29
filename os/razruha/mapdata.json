@@ -479,7 +479,45 @@
                 "y": 401,
                 "caption": "Археологическая экспедиция Ивы",
                 "npc": "Ива",
-                "link": "library\/npc\/os\/iva"
+                "link": "library\/npc\/os\/iva",
+                "quests": [
+                    {
+                        "caption": "Ива",
+                        "url": "quests\/script5\/debris\/iva"
+                    },
+                    {
+                        "caption": "Адаптатор",
+                        "url": "quests\/script5\/adaptator\/intro"
+                    },
+                    {
+                        "caption": "Сакралон",
+                        "url": "quests\/script5\/adaptator\/sacralone"
+                    },
+                    {
+                        "caption": "Адаптоиды",
+                        "url": "quests\/script5\/adaptator\/adaptoids"
+                    },
+                    {
+                        "caption": "Шок и трепет",
+                        "url": "quests\/script5\/adaptator\/shock"
+                    },
+                    {
+                        "caption": "Адаптатор закончен!",
+                        "url": "quests\/script5\/adaptator\/done"
+                    },
+                    {
+                        "caption": "Оранжевый цветок",
+                        "url": "quests\/script5\/seeder\/orange"
+                    },
+                    {
+                        "caption": "Горячий цветок",
+                        "url": "quests\/script5\/seeder\/hot"
+                    },
+                    {
+                        "caption": "Голубой цветок",
+                        "url": "quests\/script5\/seeder\/lightblue"
+                    }
+                ]
             }
         }
     ]
