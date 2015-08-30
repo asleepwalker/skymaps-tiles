@@ -37,6 +37,36 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    598,
+                    -294
+                ]
+            },
+            "properties": {
+                "type": "tree",
+                "x": 598,
+                "y": 294
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    907,
+                    -58
+                ]
+            },
+            "properties": {
+                "type": "tree",
+                "x": 907,
+                "y": 58
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     450,
                     -482
                 ]
@@ -528,10 +558,6 @@
                     {
                         "caption": "Девиатор закончен!",
                         "url": "quests\/script5\/deviator\/done"
-                    },
-                    {
-                        "caption": "Генетическая палитра",
-                        "url": "quests\/script5\/genome\/palette"
                     },
                     {
                         "caption": "Красный цветок",

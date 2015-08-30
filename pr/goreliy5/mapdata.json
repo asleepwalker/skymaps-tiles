@@ -20,6 +20,36 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    103,
+                    -855
+                ]
+            },
+            "properties": {
+                "type": "tree",
+                "x": 103,
+                "y": 855
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    428,
+                    -872
+                ]
+            },
+            "properties": {
+                "type": "tree",
+                "x": 428,
+                "y": 872
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     844,
                     -712
                 ]

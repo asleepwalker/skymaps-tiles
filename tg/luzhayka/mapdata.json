@@ -20,6 +20,51 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    173,
+                    -278
+                ]
+            },
+            "properties": {
+                "type": "tree",
+                "x": 173,
+                "y": 278
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    679,
+                    -450
+                ]
+            },
+            "properties": {
+                "type": "tree",
+                "x": 679,
+                "y": 450
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    517,
+                    -252
+                ]
+            },
+            "properties": {
+                "type": "tree",
+                "x": 517,
+                "y": 252
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     567,
                     -467
                 ]
@@ -93,13 +138,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    579,
+                    578,
                     -293
                 ]
             },
             "properties": {
                 "type": "master",
-                "x": 579,
+                "x": 578,
                 "y": 293,
                 "list": [
                     "Старые детали"

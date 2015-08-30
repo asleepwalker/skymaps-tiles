@@ -14,6 +14,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    402,
+                    -183
+                ]
+            },
+            "properties": {
+                "type": "master",
+                "x": 402,
+                "y": 183,
+                "list": [
+                    "Старые детали"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     195,
                     -476
                 ]

@@ -5,13 +5,43 @@
         "date": "27.02.2011",
         "size": {
             "width": 1000,
-            "height": 300
+            "height": 500
         },
         "drop": [
             "82_4"
         ]
     },
     "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    879,
+                    -74
+                ]
+            },
+            "properties": {
+                "type": "tree",
+                "x": 879,
+                "y": 74
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    880,
+                    -376
+                ]
+            },
+            "properties": {
+                "type": "tree",
+                "x": 880,
+                "y": 376
+            }
+        },
         {
             "type": "Feature",
             "geometry": {

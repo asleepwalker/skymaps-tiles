@@ -40,6 +40,51 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    304,
+                    -860
+                ]
+            },
+            "properties": {
+                "type": "tree",
+                "x": 304,
+                "y": 860
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    753,
+                    -866
+                ]
+            },
+            "properties": {
+                "type": "tree",
+                "x": 753,
+                "y": 866
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    547,
+                    -529
+                ]
+            },
+            "properties": {
+                "type": "tree",
+                "x": 547,
+                "y": 529
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     220,
                     -652
                 ]

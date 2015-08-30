@@ -20,6 +20,51 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    525,
+                    -159
+                ]
+            },
+            "properties": {
+                "type": "tree",
+                "x": 525,
+                "y": 159
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    142,
+                    -517
+                ]
+            },
+            "properties": {
+                "type": "tree",
+                "x": 142,
+                "y": 517
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    777,
+                    -421
+                ]
+            },
+            "properties": {
+                "type": "tree",
+                "x": 777,
+                "y": 421
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     490,
                     -330
                 ]

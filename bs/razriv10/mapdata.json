@@ -57,6 +57,36 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    503,
+                    -100
+                ]
+            },
+            "properties": {
+                "type": "tree",
+                "x": 503,
+                "y": 100
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    499,
+                    -778
+                ]
+            },
+            "properties": {
+                "type": "tree",
+                "x": 499,
+                "y": 778
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     610,
                     -352
                 ]

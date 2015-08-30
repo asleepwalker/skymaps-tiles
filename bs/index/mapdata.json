@@ -30,6 +30,141 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    355,
+                    -155
+                ]
+            },
+            "properties": {
+                "type": "tree",
+                "x": 355,
+                "y": 155
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78,
+                    -171
+                ]
+            },
+            "properties": {
+                "type": "tree",
+                "x": 78,
+                "y": 171
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    352,
+                    -1103
+                ]
+            },
+            "properties": {
+                "type": "tree",
+                "x": 352,
+                "y": 1103
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            },
+            "properties": {
+                "type": "tree",
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            },
+            "properties": {
+                "type": "tree",
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1416,
+                    -1220
+                ]
+            },
+            "properties": {
+                "type": "tree",
+                "x": 1416,
+                "y": 1220
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1696,
+                    -1217
+                ]
+            },
+            "properties": {
+                "type": "tree",
+                "x": 1696,
+                "y": 1217
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1829,
+                    -1191
+                ]
+            },
+            "properties": {
+                "type": "tree",
+                "x": 1829,
+                "y": 1191
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1666,
+                    -95
+                ]
+            },
+            "properties": {
+                "type": "tree",
+                "x": 1666,
+                "y": 95
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     946,
                     -246
                 ]
@@ -299,24 +434,6 @@
                 "type": "quest",
                 "x": 1257,
                 "y": 576,
-                "caption": "Сбор тайны Блюм Брахниус",
-                "link": "quests\/blum",
-                "tip": "Здесь есть записка сумасшедшего!"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1639,
-                    -66
-                ]
-            },
-            "properties": {
-                "type": "quest",
-                "x": 1639,
-                "y": 66,
                 "caption": "Сбор тайны Блюм Брахниус",
                 "link": "quests\/blum",
                 "tip": "Здесь есть записка сумасшедшего!"
@@ -950,6 +1067,24 @@
                     "Рыба-печень",
                     "Скудный лосось"
                 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1639,
+                    -66
+                ]
+            },
+            "properties": {
+                "type": "quest",
+                "x": 1639,
+                "y": 66,
+                "caption": "Сбор тайны Блюм Брахниус",
+                "link": "quests\/blum",
+                "tip": "Здесь есть записка сумасшедшего!"
             }
         },
         {

@@ -14,6 +14,36 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    474,
+                    -570
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 474,
+                "y": 570
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    521,
+                    -545
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 521,
+                "y": 545
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     490,
                     -406
                 ]

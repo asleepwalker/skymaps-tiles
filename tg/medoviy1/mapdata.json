@@ -51,14 +51,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    224,
-                    -112
+                    207,
+                    -113
                 ]
             },
             "properties": {
                 "type": "npc",
-                "x": 224,
-                "y": 112,
+                "x": 207,
+                "y": 113,
                 "caption": "Дом отшельника Дживса",
                 "npc": "Отшельник Дживс",
                 "link": "library\/npc\/tg\/jeevs"

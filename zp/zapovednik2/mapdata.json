@@ -14,6 +14,36 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    781,
+                    -633
+                ]
+            },
+            "properties": {
+                "type": "tree",
+                "x": 781,
+                "y": 633
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    844,
+                    -685
+                ]
+            },
+            "properties": {
+                "type": "tree",
+                "x": 844,
+                "y": 685
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     690,
                     -307
                 ]

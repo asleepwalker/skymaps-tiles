@@ -14,6 +14,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    302,
+                    -211
+                ]
+            },
+            "properties": {
+                "type": "tree",
+                "x": 302,
+                "y": 211
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     562,
                     -165
                 ]

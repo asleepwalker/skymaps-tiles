@@ -14,6 +14,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    474,
+                    -871
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 474,
+                "y": 871
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     290,
                     -82
                 ]
@@ -48,14 +63,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    815,
-                    -175
+                    808,
+                    -162
                 ]
             },
             "properties": {
                 "type": "fish",
-                "x": 815,
-                "y": 175,
+                "x": 808,
+                "y": 162,
                 "list": [
                     "Залётный хариус",
                     "Ветряной жерех"

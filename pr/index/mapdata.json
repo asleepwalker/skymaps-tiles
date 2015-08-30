@@ -48,6 +48,96 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    1348,
+                    -1801
+                ]
+            },
+            "properties": {
+                "type": "tree",
+                "x": 1348,
+                "y": 1801
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1826,
+                    -1829
+                ]
+            },
+            "properties": {
+                "type": "tree",
+                "x": 1826,
+                "y": 1829
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1624,
+                    -1693
+                ]
+            },
+            "properties": {
+                "type": "tree",
+                "x": 1624,
+                "y": 1693
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1738,
+                    -1600
+                ]
+            },
+            "properties": {
+                "type": "tree",
+                "x": 1738,
+                "y": 1600
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1803,
+                    -1340
+                ]
+            },
+            "properties": {
+                "type": "tree",
+                "x": 1803,
+                "y": 1340
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1742,
+                    -804
+                ]
+            },
+            "properties": {
+                "type": "tree",
+                "x": 1742,
+                "y": 804
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     345,
                     -1703
                 ]

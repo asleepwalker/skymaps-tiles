@@ -14,6 +14,66 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    834,
+                    -553
+                ]
+            },
+            "properties": {
+                "type": "tree",
+                "x": 834,
+                "y": 553
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    449,
+                    -848
+                ]
+            },
+            "properties": {
+                "type": "tree",
+                "x": 449,
+                "y": 848
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    444,
+                    -629
+                ]
+            },
+            "properties": {
+                "type": "tree",
+                "x": 444,
+                "y": 629
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    348,
+                    -287
+                ]
+            },
+            "properties": {
+                "type": "tree",
+                "x": 348,
+                "y": 287
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     630,
                     -390
                 ]

@@ -1,11 +1,15 @@
 {
     "meta": {
         "caption": "Тихая Гавань",
-        "navigator": "neo_max",
-        "date": "26.08.2015",
+        "navigator": "AS_Super",
+        "date": "21.02.2011",
         "size": {
             "width": 2000,
             "height": 1500
+        },
+        "center": {
+            "x": 550,
+            "y": 390
         },
         "drop": [
             "81_41",
@@ -182,6 +186,186 @@
                 "y": 204,
                 "caption": "Благодарный торговец",
                 "tip": "Защитите торговый корабль от нападения. Папуна наградит вас за это."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    915,
+                    -180
+                ]
+            },
+            "properties": {
+                "type": "tree",
+                "x": 915,
+                "y": 180
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1421,
+                    -108
+                ]
+            },
+            "properties": {
+                "type": "tree",
+                "x": 1421,
+                "y": 108
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    220,
+                    -1314
+                ]
+            },
+            "properties": {
+                "type": "tree",
+                "x": 220,
+                "y": 1314
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    531,
+                    -1050
+                ]
+            },
+            "properties": {
+                "type": "tree",
+                "x": 531,
+                "y": 1050
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    684,
+                    -1361
+                ]
+            },
+            "properties": {
+                "type": "tree",
+                "x": 684,
+                "y": 1361
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82,
+                    -805
+                ]
+            },
+            "properties": {
+                "type": "tree",
+                "x": 82,
+                "y": 805
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1129,
+                    -942
+                ]
+            },
+            "properties": {
+                "type": "tree",
+                "x": 1129,
+                "y": 942
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1304,
+                    -1062
+                ]
+            },
+            "properties": {
+                "type": "tree",
+                "x": 1304,
+                "y": 1062
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1811,
+                    -1031
+                ]
+            },
+            "properties": {
+                "type": "tree",
+                "x": 1811,
+                "y": 1031
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1619,
+                    -753
+                ]
+            },
+            "properties": {
+                "type": "tree",
+                "x": 1619,
+                "y": 753
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1672,
+                    -722
+                ]
+            },
+            "properties": {
+                "type": "tree",
+                "x": 1672,
+                "y": 722
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1707,
+                    -762
+                ]
+            },
+            "properties": {
+                "type": "tree",
+                "x": 1707,
+                "y": 762
             }
         },
         {
@@ -822,6 +1006,57 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    553,
+                    -384
+                ]
+            },
+            "properties": {
+                "type": "city",
+                "x": 553,
+                "y": 384,
+                "caption": "Кроссвинд",
+                "size": 362,
+                "list": [
+                    {
+                        "caption": "Платформа №13",
+                        "region": "tg",
+                        "map": "promzona",
+                        "x": 543,
+                        "y": 466,
+                        "type": "station"
+                    },
+                    {
+                        "caption": "Платформа Новогвинеево",
+                        "region": "tg",
+                        "map": "index",
+                        "x": 1882,
+                        "y": 748,
+                        "type": "station"
+                    },
+                    {
+                        "caption": "Медовая Платформа",
+                        "region": "tg",
+                        "map": "medoviy2",
+                        "x": 454,
+                        "y": 153,
+                        "type": "station"
+                    },
+                    {
+                        "caption": "Опасный Район",
+                        "region": "tg",
+                        "map": "opasniyrayon",
+                        "x": 400,
+                        "y": 320,
+                        "type": "station"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     534,
                     -364
                 ]
@@ -1207,57 +1442,6 @@
                     {
                         "caption": "Дуэль",
                         "url": "quests\/script1\/lyalya\/duel"
-                    }
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    553,
-                    -384
-                ]
-            },
-            "properties": {
-                "type": "city",
-                "x": 553,
-                "y": 384,
-                "caption": "Кроссвинд",
-                "size": 362,
-                "list": [
-                    {
-                        "caption": "Платформа №13",
-                        "region": "tg",
-                        "map": "promzona",
-                        "x": 543,
-                        "y": 466,
-                        "type": "station"
-                    },
-                    {
-                        "caption": "Платформа Новогвинеево",
-                        "region": "tg",
-                        "map": "index",
-                        "x": 1882,
-                        "y": 748,
-                        "type": "station"
-                    },
-                    {
-                        "caption": "Медовая Платформа",
-                        "region": "tg",
-                        "map": "medoviy2",
-                        "x": 454,
-                        "y": 153,
-                        "type": "station"
-                    },
-                    {
-                        "caption": "Опасный Район",
-                        "region": "tg",
-                        "map": "opasniyrayon",
-                        "x": 400,
-                        "y": 320,
-                        "type": "station"
                     }
                 ]
             }

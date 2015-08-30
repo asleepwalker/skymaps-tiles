@@ -18,6 +18,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    202,
+                    -563
+                ]
+            },
+            "properties": {
+                "type": "tree",
+                "x": 202,
+                "y": 563
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     348,
                     -275
                 ]
