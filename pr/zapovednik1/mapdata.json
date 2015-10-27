@@ -14,6 +14,78 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    783,
+                    -190
+                ]
+            },
+            "properties": {
+                "type": "station",
+                "x": 783,
+                "y": 190,
+                "caption": "Охотничья платформа",
+                "size": 80,
+                "list": [
+                    {
+                        "caption": "Неименуемая платформа",
+                        "region": "pr",
+                        "map": "zapovednik3",
+                        "x": 757,
+                        "y": 768,
+                        "type": "station"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    445,
+                    -610
+                ]
+            },
+            "properties": {
+                "type": "",
+                "x": 445,
+                "y": 610
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    412,
+                    -416
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 412,
+                "y": 416
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170,
+                    -725
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 170,
+                "y": 725
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     474,
                     -570
                 ]
@@ -52,7 +124,7 @@
                 "type": "hole",
                 "x": 490,
                 "y": 406,
-                "region": "zp",
+                "region": "pr",
                 "map": "zapovednik2",
                 "caption": "Заповедник, уровень 2",
                 "goto": {
@@ -74,7 +146,7 @@
                 "type": "hole",
                 "x": 254,
                 "y": 908,
-                "region": "zp",
+                "region": "pr",
                 "map": "zapovednik2",
                 "caption": "Заповедник, уровень 2",
                 "goto": {
@@ -224,22 +296,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    168,
-                    -718
-                ]
-            },
-            "properties": {
-                "type": "beacon",
-                "x": 168,
-                "y": 718,
-                "link": "library\/coins\/zapovednik"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     410,
                     -166
                 ]
@@ -250,33 +306,6 @@
                 "y": 166,
                 "caption": "Призрачные поиски",
                 "tip": "Для появления Мантиса надо:\n1) Убить 50 Редких скатов;\n2) Убить 25 Особенных скатов."
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    783,
-                    -190
-                ]
-            },
-            "properties": {
-                "type": "station",
-                "x": 783,
-                "y": 190,
-                "caption": "Охотничья платформа",
-                "size": 80,
-                "list": [
-                    {
-                        "caption": "Неименуемая платформа",
-                        "region": "zp",
-                        "map": "zapovednik3",
-                        "x": 757,
-                        "y": 768,
-                        "type": "station"
-                    }
-                ]
             }
         }
     ]

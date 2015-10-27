@@ -42,22 +42,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    440,
-                    -620
-                ]
-            },
-            "properties": {
-                "type": "note",
-                "x": 440,
-                "y": 620,
-                "text": "Здесь можно сделать ставку на Железного иглобрюха или на Грозного кровососа. И посмотреть (и даже поучаствовать!) в их бою!"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     655,
                     -787
                 ]
@@ -102,22 +86,6 @@
                 "y": 643,
                 "caption": "Суши или роллы?",
                 "tip": "Нужно выбрать сторону и помочь Самураю-сану или Камикадзе-куну. Суши или роллы?"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    750,
-                    -397
-                ]
-            },
-            "properties": {
-                "type": "beacon",
-                "x": 750,
-                "y": 397,
-                "link": "library\/coins\/gavane"
             }
         },
         {
@@ -373,6 +341,76 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    444,
+                    -629
+                ]
+            },
+            "properties": {
+                "type": "note",
+                "x": 444,
+                "y": 629,
+                "text": "Здесь можно сделать ставку на Железного иглобрюха или на Грозного кровососа. И посмотреть (и даже поучаствовать!) в их бою!"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    750,
+                    -397
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 750,
+                "y": 397,
+                "mobs": "Пиявка-паразит (2)",
+                "coins": "1",
+                "link": "library\/coins\/gavane"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    460,
+                    -1214
+                ]
+            },
+            "properties": {
+                "type": "note",
+                "x": 460,
+                "y": 1214,
+                "text": "Здесь можно спасти бедолагу Анри Слепняка."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1733,
+                    -1214
+                ]
+            },
+            "properties": {
+                "type": "instance",
+                "x": 1733,
+                "y": 1214,
+                "region": "tg",
+                "map": "skladskoj",
+                "caption": "Складской уровень",
+                "goX": 20,
+                "goY": 20
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     1133,
                     -464
                 ]
@@ -383,23 +421,6 @@
                 "y": 464,
                 "caption": "Улей",
                 "class": "uley"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1729,
-                    -1211
-                ]
-            },
-            "properties": {
-                "type": "boss",
-                "x": 1729,
-                "y": 1211,
-                "caption": "Логово",
-                "class": "logovo"
             }
         },
         {
@@ -425,14 +446,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    882,
-                    -1127
+                    866,
+                    -1129
                 ]
             },
             "properties": {
                 "type": "note",
-                "x": 882,
-                "y": 1127,
+                "x": 866,
+                "y": 1129,
                 "text": "Одно из самый опасных мест в Тихой Гавани. Более чем полностью Бухта заселена лиловыми сцифозоями."
             }
         },
@@ -966,6 +987,8 @@
                 "type": "beacon",
                 "x": 553,
                 "y": 1333,
+                "mobs": "Пиявка-паразит (2)",
+                "coins": "1",
                 "link": "library\/coins\/gavane"
             }
         },
@@ -982,6 +1005,8 @@
                 "type": "beacon",
                 "x": 853,
                 "y": 1384,
+                "mobs": "Злобоёж",
+                "coins": "1",
                 "link": "library\/coins\/gavane"
             }
         },
@@ -998,6 +1023,8 @@
                 "type": "beacon",
                 "x": 1427,
                 "y": 1313,
+                "mobs": "Мусорог",
+                "coins": "1",
                 "link": "library\/coins\/gavane"
             }
         },

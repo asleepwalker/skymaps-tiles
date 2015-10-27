@@ -132,7 +132,7 @@
                 "type": "locationhole",
                 "x": 488,
                 "y": 337,
-                "region": "zp",
+                "region": "pr",
                 "map": "zapovednik1",
                 "caption": "Заповедник",
                 "goto": {

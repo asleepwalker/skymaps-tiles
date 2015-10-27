@@ -1,8 +1,8 @@
 {
     "meta": {
         "caption": "Старая промзона",
-        "navigator": "AS_Super",
-        "date": "29.03.2013",
+        "navigator": "neo_max",
+        "date": "06.09.2015",
         "size": {
             "width": 1000,
             "height": 700
@@ -25,6 +25,23 @@
                 "list": [
                     "Старые детали"
                 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    476,
+                    -223
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 476,
+                "y": 223,
+                "caption": "Шмель",
+                "class": "shmel"
             }
         },
         {

@@ -14,6 +14,51 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    401,
+                    -795
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 401,
+                "y": 795
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    714,
+                    -133
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 714,
+                "y": 133
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    66,
+                    -202
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 66,
+                "y": 202
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     781,
                     -633
                 ]
@@ -52,7 +97,7 @@
                 "type": "hole",
                 "x": 690,
                 "y": 307,
-                "region": "zp",
+                "region": "pr",
                 "map": "zapovednik1",
                 "caption": "Заповедник, уровень 1",
                 "goto": {
@@ -74,7 +119,7 @@
                 "type": "hole",
                 "x": 45,
                 "y": 435,
-                "region": "zp",
+                "region": "pr",
                 "map": "zapovednik1",
                 "caption": "Заповедник, уровень 1",
                 "goto": {
@@ -96,7 +141,7 @@
                 "type": "hole",
                 "x": 378,
                 "y": 246,
-                "region": "zp",
+                "region": "pr",
                 "map": "zapovednik3",
                 "caption": "Заповедник, уровень 3",
                 "goto": {
@@ -118,7 +163,7 @@
                 "type": "hole",
                 "x": 401,
                 "y": 906,
-                "region": "zp",
+                "region": "pr",
                 "map": "zapovednik3",
                 "caption": "Заповедник, уровень 3",
                 "goto": {
@@ -132,14 +177,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    513,
-                    -539
+                    612,
+                    -554
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 513,
-                "y": 539,
+                "x": 612,
+                "y": 554,
                 "caption": "Редкий Мегаёж",
                 "class": "zloboezh"
             }
@@ -243,13 +288,13 @@
                 "type": "Point",
                 "coordinates": [
                     799,
-                    -368
+                    -367
                 ]
             },
             "properties": {
                 "type": "fish",
                 "x": 799,
-                "y": 368
+                "y": 367
             }
         },
         {
@@ -275,47 +320,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    711,
-                    -130
-                ]
-            },
-            "properties": {
-                "type": "beacon",
-                "x": 711,
-                "y": 130,
-                "link": "library\/coins\/zapovednik"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    400,
+                    448,
                     -793
                 ]
             },
             "properties": {
                 "type": "beacon",
-                "x": 400,
+                "x": 448,
                 "y": 793,
-                "link": "library\/coins\/zapovednik"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    66,
-                    -198
-                ]
-            },
-            "properties": {
-                "type": "beacon",
-                "x": 66,
-                "y": 198,
-                "mobs": "Кусачий панцерник (5)",
                 "link": "library\/coins\/zapovednik"
             }
         }

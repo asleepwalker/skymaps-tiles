@@ -37,7 +37,7 @@
                 "type": "hole",
                 "x": 554,
                 "y": 38,
-                "region": "zp",
+                "region": "pr",
                 "map": "zapovednik2",
                 "caption": "Заповедник, уровень 2",
                 "goto": {
@@ -183,15 +183,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    446,
-                    -442
+                    449,
+                    -436
                 ]
             },
             "properties": {
                 "type": "instance",
-                "x": 446,
-                "y": 442,
-                "region": "zp",
+                "x": 449,
+                "y": 436,
+                "region": "pr",
                 "map": "logovo_ktunida",
                 "caption": "Логово Ктунида",
                 "goX": 20,
@@ -232,7 +232,7 @@
                 "list": [
                     {
                         "caption": "Охотничья платформа",
-                        "region": "zp",
+                        "region": "pr",
                         "map": "zapovednik1",
                         "x": 783,
                         "y": 190,
