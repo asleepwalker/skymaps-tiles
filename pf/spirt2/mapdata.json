@@ -1,0 +1,202 @@
+{
+    "meta": {
+        "caption": "Лабиринт под Спиртотроном, ур.2",
+        "navigator": "AS_Super",
+        "date": "27.02.2011",
+        "size": {
+            "width": 1000,
+            "height": 750
+        },
+        "drop": [
+            "81_61",
+            "81_32",
+            "81_31",
+            "81_62"
+        ]
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    244,
+                    -74
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 244,
+                "y": 74,
+                "region": "pf",
+                "map": "spirt1",
+                "caption": "Лабиринт под Спиртотроном, ур.1",
+                "goto": {
+                    "x": 935,
+                    "y": 521
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    885,
+                    -76
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 885,
+                "y": 76,
+                "region": "pf",
+                "map": "spirt3",
+                "caption": "Лабиринт под Спиртотроном, ур.3",
+                "goto": {
+                    "x": 90,
+                    "y": 252
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    758,
+                    -305
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 758,
+                "y": 305,
+                "caption": "Таверна алконавтов-монстров",
+                "class": "taverna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    433,
+                    -200
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 433,
+                "y": 200,
+                "caption": "Усиленная Цитадель",
+                "class": "tsitadel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    67,
+                    -592
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 67,
+                "y": 592,
+                "caption": "Таверна алконавтов-монстров",
+                "class": "taverna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    883,
+                    -635
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 883,
+                "y": 635,
+                "region": "pf",
+                "map": "labi",
+                "caption": "Лабиринт И",
+                "goto": {
+                    "x": 98,
+                    "y": 436
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78,
+                    -79
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 78,
+                "y": 79,
+                "region": "pf",
+                "map": "index",
+                "caption": "Периферия",
+                "goto": {
+                    "x": 1689,
+                    "y": 494
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    734,
+                    -83
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 734,
+                "y": 83,
+                "region": "pf",
+                "map": "index",
+                "caption": "Периферия",
+                "goto": {
+                    "x": 1408,
+                    "y": 542
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    487,
+                    -72
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 487,
+                "y": 72,
+                "region": "pf",
+                "map": "index",
+                "caption": "Периферия",
+                "goto": {
+                    "x": 1711,
+                    "y": 1042
+                }
+            }
+        }
+    ]
+}

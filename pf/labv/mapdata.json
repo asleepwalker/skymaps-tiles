@@ -1,0 +1,138 @@
+{
+    "meta": {
+        "caption": "Лабиринт В",
+        "navigator": "AS_Super",
+        "date": "26.02.2011",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        },
+        "drop": [
+            "81_42",
+            "81_41",
+            "81_32",
+            "81_31",
+            "82_18"
+        ]
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    158,
+                    -829
+                ]
+            },
+            "properties": {
+                "type": "flager",
+                "x": 158,
+                "y": 829,
+                "easy": "Цикламеновый бандит (25)",
+                "hard": "Безбожный гриболет",
+                "link": "library\/flagers\/rimland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    390,
+                    -636
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 390,
+                "y": 636,
+                "caption": "Мусорог Капитан",
+                "class": "musorog"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    391,
+                    -390
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 391,
+                "y": 390,
+                "caption": "Мегаёж",
+                "class": "zloboezh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96,
+                    -93
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 96,
+                "y": 93,
+                "region": "pf",
+                "map": "labe",
+                "caption": "Лабиринт Е",
+                "goto": {
+                    "x": 367,
+                    "y": 892
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    877,
+                    -510
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 877,
+                "y": 510,
+                "region": "pf",
+                "map": "laba",
+                "caption": "Лабиринт А",
+                "goto": {
+                    "x": 904,
+                    "y": 107
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84,
+                    -749
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 84,
+                "y": 749,
+                "region": "pf",
+                "map": "labg",
+                "caption": "Лабиринт Г",
+                "goto": {
+                    "x": 449,
+                    "y": 116
+                }
+            }
+        }
+    ]
+}

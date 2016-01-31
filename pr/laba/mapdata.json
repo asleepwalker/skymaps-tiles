@@ -1,0 +1,209 @@
+{
+    "meta": {
+        "caption": "Лабиринт А",
+        "navigator": "AS_Super",
+        "date": "11.03.2011",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        },
+        "drop": [
+            "82_20",
+            "81_52",
+            "81_51",
+            "81_14",
+            "81_13",
+            "81_12"
+        ]
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82,
+                    -79
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 82,
+                "y": 79,
+                "region": "pr",
+                "map": "index",
+                "caption": "Поющий Риф",
+                "goto": {
+                    "x": 1053,
+                    "y": 94
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    566,
+                    -624
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 566,
+                "y": 624,
+                "region": "pr",
+                "map": "labv",
+                "caption": "Лабиринт В",
+                "goto": {
+                    "x": 186,
+                    "y": 165
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    335,
+                    -627
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 335,
+                "y": 627,
+                "region": "pr",
+                "map": "labb",
+                "caption": "Лабиринт Б",
+                "goto": {
+                    "x": 91,
+                    "y": 530
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    495,
+                    -504
+                ]
+            },
+            "properties": {
+                "type": "master",
+                "x": 495,
+                "y": 504,
+                "list": [
+                    "Кокосовое молоко."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    342,
+                    -440
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 342,
+                "y": 440,
+                "caption": "Древний мегаёж",
+                "class": "zloboezh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    471,
+                    -563
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 471,
+                "y": 563,
+                "caption": "Древний мегаёж",
+                "class": "zloboezh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    854,
+                    -460
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 854,
+                "y": 460,
+                "caption": "Мусорог Полковник",
+                "class": "musorog"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    810,
+                    -803
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 810,
+                "y": 803,
+                "caption": "Великий кроволёт",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    194,
+                    -114
+                ]
+            },
+            "properties": {
+                "type": "master",
+                "x": 194,
+                "y": 114,
+                "list": [
+                    "Производит: Кокосовое молоко."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    452,
+                    -623
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 452,
+                "y": 623,
+                "mobs": "Пират-барон (3)",
+                "coins": "1",
+                "link": "library\/coins\/reef"
+            }
+        }
+    ]
+}

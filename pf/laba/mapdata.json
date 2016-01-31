@@ -1,0 +1,169 @@
+{
+    "meta": {
+        "caption": "Лабиринт А",
+        "navigator": "Barif",
+        "date": "25.02.2011",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        },
+        "drop": [
+            "81_42",
+            "81_41",
+            "81_32",
+            "81_31",
+            "82_18"
+        ]
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    820,
+                    -802
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 820,
+                "y": 802,
+                "caption": "Цитадель",
+                "class": "tsitadel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120,
+                    -802
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 120,
+                "y": 802,
+                "caption": "Мегаёж",
+                "class": "zloboezh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110,
+                    -822
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 110,
+                "y": 822,
+                "caption": "Мегаёж",
+                "class": "zloboezh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    366,
+                    -117
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 366,
+                "y": 117,
+                "caption": "Логово бандитов",
+                "class": "logovo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80,
+                    -118
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 80,
+                "y": 118,
+                "region": "pf",
+                "map": "labb",
+                "caption": "Лабиринт Б",
+                "goto": {
+                    "x": 474,
+                    "y": 554
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84,
+                    -444
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 84,
+                "y": 444,
+                "region": "pf",
+                "map": "burelom2",
+                "caption": "Лабиринт под Буреломом, ур.2",
+                "goto": {
+                    "x": 907,
+                    "y": 210
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    884,
+                    -87
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 884,
+                "y": 87,
+                "region": "pf",
+                "map": "labv",
+                "caption": "Лабиринт В",
+                "goto": {
+                    "x": 897,
+                    "y": 530
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    524,
+                    -828
+                ]
+            },
+            "properties": {
+                "type": "station",
+                "x": 524,
+                "y": 828
+            }
+        }
+    ]
+}

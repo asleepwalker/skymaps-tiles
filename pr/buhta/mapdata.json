@@ -1,0 +1,83 @@
+{
+    "meta": {
+        "caption": "Бухта Барахта",
+        "navigator": "AS_Super",
+        "date": "16.04.2011",
+        "size": {
+            "width": 2000,
+            "height": 1500
+        },
+        "drop": [
+            "81_12",
+            "81_71",
+            "81_52",
+            "81_51",
+            "81_33",
+            "81_32",
+            "81_62",
+            "81_42",
+            "81_63",
+            "81_13"
+        ]
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1097,
+                    -1236
+                ]
+            },
+            "properties": {
+                "type": "tree",
+                "x": 1097,
+                "y": 1236
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    917,
+                    -355
+                ]
+            },
+            "properties": {
+                "type": "npc",
+                "x": 917,
+                "y": 355,
+                "caption": "Отель &quot;Голубая Жемчужина&quot;"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    386,
+                    -1165
+                ]
+            },
+            "properties": {
+                "type": "station",
+                "x": 386,
+                "y": 1165,
+                "caption": "\"Барракуда\"",
+                "size": 168,
+                "list": [
+                    {
+                        "caption": "Лагуна",
+                        "region": "pr",
+                        "map": "index",
+                        "x": 1022,
+                        "y": 1001,
+                        "type": "station"
+                    }
+                ]
+            }
+        }
+    ]
+}

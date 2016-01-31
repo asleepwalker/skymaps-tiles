@@ -1,0 +1,202 @@
+{
+    "meta": {
+        "caption": "Лабиринт Е",
+        "navigator": "AS_Super",
+        "date": "26.02.2011",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        },
+        "drop": [
+            "82_14",
+            "81_61",
+            "81_51",
+            "81_50",
+            "81_62"
+        ]
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    188,
+                    -166
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 188,
+                "y": 166,
+                "caption": "Небесный Блудотворец Барон",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141,
+                    -234
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 141,
+                "y": 234,
+                "caption": "Небесный Блудотворец Барон",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    748,
+                    -364
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 748,
+                "y": 364,
+                "caption": "Логово жестоких бандитов",
+                "class": "logovo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    874,
+                    -147
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 874,
+                "y": 147,
+                "region": "pf",
+                "map": "labz",
+                "caption": "Лабиринт З",
+                "goto": {
+                    "x": 121,
+                    "y": 124
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    347,
+                    -872
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 347,
+                "y": 872,
+                "region": "pf",
+                "map": "labv",
+                "caption": "Лабиринт В",
+                "goto": {
+                    "x": 116,
+                    "y": 113
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    874,
+                    -870
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 874,
+                "y": 870,
+                "region": "pf",
+                "map": "labzh",
+                "caption": "Лабиринт Ж",
+                "goto": {
+                    "x": 444,
+                    "y": 559
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    657,
+                    -109
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 657,
+                "y": 109,
+                "region": "pf",
+                "map": "index",
+                "caption": "Периферия",
+                "goto": {
+                    "x": 1408,
+                    "y": 542
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171,
+                    -832
+                ]
+            },
+            "properties": {
+                "type": "station",
+                "x": 171,
+                "y": 832,
+                "caption": "Станция добытчиков",
+                "size": 88,
+                "list": [
+                    {
+                        "caption": "Великих Вождей",
+                        "region": "pf",
+                        "map": "laba",
+                        "x": 524,
+                        "y": 828,
+                        "type": "station"
+                    },
+                    {
+                        "caption": "Чкаловская",
+                        "region": "pf",
+                        "map": "labo",
+                        "x": 574,
+                        "y": 842,
+                        "type": "station"
+                    },
+                    {
+                        "caption": "\"Радость Труда\"",
+                        "region": "pf",
+                        "map": "labl",
+                        "x": 824,
+                        "y": 161,
+                        "type": "station"
+                    }
+                ]
+            }
+        }
+    ]
+}

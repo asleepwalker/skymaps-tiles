@@ -1,0 +1,313 @@
+{
+    "meta": {
+        "caption": "Кровавый лаз, ур.2",
+        "navigator": "AS_Super",
+        "date": "23.03.2011",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        },
+        "drop": [
+            "81_53",
+            "82_27",
+            "81_52",
+            "81_34",
+            "81_33"
+        ]
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    864,
+                    -68
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 864,
+                "y": 68,
+                "caption": "Крейсер",
+                "class": "kreiser"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    314,
+                    -124
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 314,
+                "y": 124,
+                "caption": "Мусорог-генерал",
+                "class": "musorog"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42,
+                    -37
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 42,
+                "y": 37,
+                "region": "bs",
+                "map": "laba",
+                "caption": "Лабиринт А",
+                "goto": {
+                    "x": 116,
+                    "y": 110
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    928,
+                    -459
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 928,
+                "y": 459,
+                "region": "bs",
+                "map": "krovaviy1",
+                "caption": "Кровавый лаз, ур.1",
+                "goto": {
+                    "x": 87,
+                    "y": 667
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    157,
+                    -654
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 157,
+                "y": 654,
+                "region": "bs",
+                "map": "krovaviy3",
+                "caption": "Кровавый лаз, ур.3",
+                "goto": {
+                    "x": 934,
+                    "y": 306
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    325,
+                    -852
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 325,
+                "y": 852,
+                "caption": "Предатель Небес Барон",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    805,
+                    -806
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 805,
+                "y": 806,
+                "caption": "Предатель Небес",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    817,
+                    -649
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 817,
+                "y": 649,
+                "caption": "Предатель Небес Барон",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    502,
+                    -756
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 502,
+                "y": 756,
+                "caption": "Цитадель низушников",
+                "class": "tsitadel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69,
+                    -284
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 69,
+                "y": 284,
+                "caption": "Предатель Небес Король",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71,
+                    -463
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 71,
+                "y": 463,
+                "link": "library\/coins\/bastion"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    255,
+                    -877
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 255,
+                "y": 877,
+                "link": "library\/coins\/bastion"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    453,
+                    -869
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 453,
+                "y": 869,
+                "link": "library\/coins\/bastion"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    533,
+                    -168
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 533,
+                "y": 168,
+                "link": "library\/coins\/bastion"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    555,
+                    -609
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 555,
+                "y": 609,
+                "caption": "Штурм-цербер",
+                "class": "tserber"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    190,
+                    -805
+                ]
+            },
+            "properties": {
+                "type": "station",
+                "x": 190,
+                "y": 805,
+                "caption": "Платформа Чарли",
+                "size": 129,
+                "list": [
+                    {
+                        "caption": "Твердыня",
+                        "region": "bs",
+                        "map": "index",
+                        "x": 162,
+                        "y": 676,
+                        "type": "station"
+                    }
+                ]
+            }
+        }
+    ]
+}

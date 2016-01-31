@@ -1,0 +1,306 @@
+{
+    "meta": {
+        "caption": "Тыл",
+        "navigator": "AS_Super",
+        "date": "17.05.2011",
+        "size": {
+            "width": 700,
+            "height": 700
+        }
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    604,
+                    -50
+                ]
+            },
+            "properties": {
+                "type": "tree",
+                "x": 604,
+                "y": 50
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56,
+                    -600
+                ]
+            },
+            "properties": {
+                "type": "tree",
+                "x": 56,
+                "y": 600
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    554,
+                    -134
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 554,
+                "y": 134,
+                "list": [
+                    "Залётный хариус",
+                    "Ветряной жерех"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    335,
+                    -332
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 335,
+                "y": 332,
+                "region": "bs",
+                "map": "index",
+                "caption": "Бастион",
+                "goto": {
+                    "x": 324,
+                    "y": 681
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    529,
+                    -54
+                ]
+            },
+            "properties": {
+                "type": "factory",
+                "x": 529,
+                "y": 54,
+                "caption": "Третий МФ-завод Бастиона",
+                "production": [
+                    "Зеленый МФ комплект IV",
+                    "Оранжевый МФ комплект IV",
+                    "Розовый МФ комплект IV",
+                    "Черный МФ комплект IV"
+                ],
+                "link": "library\/factories\/bastion"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    185,
+                    -106
+                ]
+            },
+            "properties": {
+                "type": "factory",
+                "x": 185,
+                "y": 106,
+                "caption": "Пушечный завод Бастиона",
+                "production": [
+                    "Секач I-IV",
+                    "Щелчок I-IV",
+                    "Хищник I-IV"
+                ],
+                "link": "library\/factories\/bastion"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72,
+                    -332
+                ]
+            },
+            "properties": {
+                "type": "factory",
+                "x": 72,
+                "y": 332,
+                "caption": "Второй МФ-завод Бастиона",
+                "production": [
+                    "Зеленый МФ комплект IV",
+                    "Оранжевый МФ комплект IV",
+                    "Розовый МФ комплект IV",
+                    "Черный МФ комплект IV"
+                ],
+                "link": "library\/factories\/bastion"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    158,
+                    -491
+                ]
+            },
+            "properties": {
+                "type": "factory",
+                "x": 158,
+                "y": 491,
+                "caption": "Первый МФ-завод Бастиона",
+                "production": [
+                    "Зеленый МФ комплект IV",
+                    "Оранжевый МФ комплект IV",
+                    "Розовый МФ комплект IV",
+                    "Черный МФ комплект IV"
+                ],
+                "link": "library\/factories\/bastion"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    165,
+                    -607
+                ]
+            },
+            "properties": {
+                "type": "factory",
+                "x": 165,
+                "y": 607,
+                "caption": "Четвёртый МФ-завод Бастиона",
+                "production": [
+                    "Зеленый МФ комплект IV",
+                    "Оранжевый МФ комплект IV",
+                    "Розовый МФ комплект IV",
+                    "Черный МФ комплект IV"
+                ],
+                "link": "library\/factories\/bastion"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    335,
+                    -613
+                ]
+            },
+            "properties": {
+                "type": "factory",
+                "x": 335,
+                "y": 613,
+                "caption": "Бронетаранный завод Бастиона",
+                "production": [
+                    "Клешня I-III",
+                    "Гарпун I-III",
+                    "Освященная броня I-IV"
+                ],
+                "link": "library\/factories\/bastion"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    510,
+                    -493
+                ]
+            },
+            "properties": {
+                "type": "factory",
+                "x": 510,
+                "y": 493,
+                "caption": "Ракетный завод Бастиона",
+                "production": [
+                    "Толстуха I-IV",
+                    "Торпеда I-IV",
+                    "Затвор I-IV"
+                ],
+                "link": "library\/factories\/bastion"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    613,
+                    -334
+                ]
+            },
+            "properties": {
+                "type": "factory",
+                "x": 613,
+                "y": 334,
+                "caption": "Пулеметный завод Бастиона",
+                "production": [
+                    "Козерог I-IV",
+                    "Вертушка I-IV",
+                    "Волынка I-IV"
+                ],
+                "link": "library\/factories\/bastion"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    456,
+                    -106
+                ]
+            },
+            "properties": {
+                "type": "factory",
+                "x": 456,
+                "y": 106,
+                "caption": "Мортирный завод Бастиона",
+                "production": [
+                    "Катушка I-IV",
+                    "Тюльпан I-IV",
+                    "Горгулья I-IV",
+                    "Око I-IV"
+                ],
+                "link": "library\/factories\/bastion"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    593,
+                    -464
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 593,
+                "y": 464,
+                "list": [
+                    "Тропический центропиг",
+                    "Игольчатый марлин"
+                ]
+            }
+        }
+    ]
+}

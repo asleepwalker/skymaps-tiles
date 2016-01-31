@@ -1,0 +1,431 @@
+{
+    "meta": {
+        "caption": "Рудный край",
+        "navigator": "AS_Super",
+        "date": "29.07.2011",
+        "size": {
+            "width": 1000,
+            "height": 750
+        },
+        "drop": [
+            "81_54",
+            "81_53",
+            "81_76"
+        ]
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    199,
+                    -179
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 199,
+                "y": 179,
+                "caption": "Гипнобосс",
+                "class": "gipno"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    778,
+                    -396
+                ]
+            },
+            "properties": {
+                "type": "note",
+                "x": 778,
+                "y": 396,
+                "text": "Воронка самая настоящая: затягивает!"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    460,
+                    -58
+                ]
+            },
+            "properties": {
+                "type": "seyatel",
+                "x": 460,
+                "y": 58
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    536,
+                    -305
+                ]
+            },
+            "properties": {
+                "type": "factory",
+                "x": 536,
+                "y": 305,
+                "caption": "Пушечный завод Осколков",
+                "production": [
+                    "Кардинал I-IV",
+                    "Лимонка I-IV",
+                    "Пульсар I-IV"
+                ],
+                "link": "library\/factories\/oskolki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120,
+                    -529
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 120,
+                "y": 529,
+                "caption": "Хламкистодоры",
+                "class": "hlamk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    508,
+                    -41
+                ]
+            },
+            "properties": {
+                "type": "flager",
+                "x": 508,
+                "y": 41,
+                "easy": "Мозгоглоты",
+                "hard": "Мозгобосс",
+                "link": "library\/flagers\/oskolki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    53,
+                    -252
+                ]
+            },
+            "properties": {
+                "type": "maphole",
+                "x": 53,
+                "y": 252,
+                "region": "os",
+                "map": "bespredel",
+                "caption": "Беспредельщина",
+                "goto": {
+                    "x": 942,
+                    "y": 276
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46,
+                    -92
+                ]
+            },
+            "properties": {
+                "type": "maphole",
+                "x": 46,
+                "y": 92,
+                "region": "os",
+                "map": "bespredel",
+                "caption": "Беспредельщина",
+                "goto": {
+                    "x": 943,
+                    "y": 140
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38,
+                    -552
+                ]
+            },
+            "properties": {
+                "type": "maphole",
+                "x": 38,
+                "y": 552,
+                "region": "os",
+                "map": "bespredel",
+                "caption": "Беспредельщина",
+                "goto": {
+                    "x": 944,
+                    "y": 541
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    313,
+                    -624
+                ]
+            },
+            "properties": {
+                "type": "maphole",
+                "x": 313,
+                "y": 624,
+                "region": "os",
+                "map": "index",
+                "caption": "Центр",
+                "goto": {
+                    "x": 275,
+                    "y": 64
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    490,
+                    -616
+                ]
+            },
+            "properties": {
+                "type": "maphole",
+                "x": 490,
+                "y": 616,
+                "region": "os",
+                "map": "index",
+                "caption": "Центр",
+                "goto": {
+                    "x": 526,
+                    "y": 65
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    788,
+                    -623
+                ]
+            },
+            "properties": {
+                "type": "maphole",
+                "x": 788,
+                "y": 623,
+                "region": "os",
+                "map": "index",
+                "caption": "Центр",
+                "goto": {
+                    "x": 662,
+                    "y": 67
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    915,
+                    -271
+                ]
+            },
+            "properties": {
+                "type": "maphole",
+                "x": 915,
+                "y": 271,
+                "region": "os",
+                "map": "goriruhladi",
+                "caption": "Горы рухляди",
+                "goto": {
+                    "x": 63,
+                    "y": 370
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    922,
+                    -519
+                ]
+            },
+            "properties": {
+                "type": "maphole",
+                "x": 922,
+                "y": 519,
+                "region": "os",
+                "map": "goriruhladi",
+                "caption": "Горы рухляди",
+                "goto": {
+                    "x": 48,
+                    "y": 557
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    769,
+                    -421
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 769,
+                "y": 421,
+                "region": "os",
+                "map": "voronka1",
+                "caption": "Воронка, ур.1",
+                "goto": {
+                    "x": 513,
+                    "y": 902
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    849,
+                    -83
+                ]
+            },
+            "properties": {
+                "type": "master",
+                "x": 849,
+                "y": 83,
+                "list": [
+                    "Молоко небесных коров"
+                ],
+                "link": "library\/masters\/oskolki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    185,
+                    -136
+                ]
+            },
+            "properties": {
+                "type": "master",
+                "x": 185,
+                "y": 136,
+                "list": [
+                    "Электрические угри"
+                ],
+                "link": "library\/masters\/oskolki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    604,
+                    -190
+                ]
+            },
+            "properties": {
+                "type": "quest",
+                "x": 604,
+                "y": 190,
+                "caption": "Редкостные твари",
+                "tip": "Здесь обитает Звезда Смерти."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    917,
+                    -53
+                ]
+            },
+            "properties": {
+                "type": "maphole",
+                "x": 917,
+                "y": 53,
+                "region": "os",
+                "map": "goriruhladi",
+                "caption": "Горы рухляди",
+                "goto": {
+                    "x": 56,
+                    "y": 185
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    485,
+                    -169
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 485,
+                "y": 169,
+                "caption": "Хламкистодоры",
+                "class": "hlamk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    454,
+                    -340
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 454,
+                "y": 340,
+                "link": "library\/coins\/oskolki"
+            }
+        }
+    ]
+}

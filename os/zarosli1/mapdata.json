@@ -1,0 +1,175 @@
+{
+    "meta": {
+        "caption": "Заросли, ур.1",
+        "navigator": "AS_Super",
+        "date": "21.08.2011",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        }
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    806,
+                    -147
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 806,
+                "y": 147,
+                "caption": "Гамма-улей",
+                "class": "uley"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70,
+                    -392
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 70,
+                "y": 392,
+                "caption": "Гамма-шмель",
+                "class": "shmel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    360,
+                    -442
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 360,
+                "y": 442,
+                "caption": "Гамма-шмель",
+                "class": "shmel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    653,
+                    -866
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 653,
+                "y": 866,
+                "caption": "Гамма-шмель",
+                "class": "shmel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    788,
+                    -878
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 788,
+                "y": 878,
+                "caption": "Гамма-шмель",
+                "class": "shmel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    442,
+                    -149
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 442,
+                "y": 149,
+                "caption": "Гамма-шмель",
+                "class": "shmel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    386,
+                    -889
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 386,
+                "y": 889,
+                "region": "os",
+                "map": "nizini",
+                "caption": "Низины",
+                "goto": {
+                    "x": 772,
+                    "y": 638
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    376,
+                    -570
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 376,
+                "y": 570,
+                "region": "os",
+                "map": "zarosli2",
+                "caption": "Заросли, ур.2",
+                "goto": {
+                    "x": 777,
+                    "y": 343
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    501,
+                    -399
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 501,
+                "y": 399,
+                "link": "library\/coins\/oskolki"
+            }
+        }
+    ]
+}

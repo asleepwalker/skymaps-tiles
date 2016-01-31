@@ -1,0 +1,220 @@
+{
+    "meta": {
+        "caption": "Разрыв, ур.1",
+        "navigator": "Pentesiliya",
+        "date": "12.04.2011",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        },
+        "drop": [
+            "82_29",
+            "81_14",
+            "81_16",
+            "81_34",
+            "81_33",
+            "82_33"
+        ]
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169,
+                    -832
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 169,
+                "y": 832,
+                "caption": "Ужасающая Цитадель",
+                "class": "tsitadel",
+                "mode": "rare"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    226,
+                    -658
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 226,
+                "y": 658,
+                "caption": "Убер-фактория",
+                "class": "faka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    60,
+                    -282
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 60,
+                "y": 282,
+                "caption": "Убер-мухоносец",
+                "class": "muh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    660,
+                    -82
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 660,
+                "y": 82,
+                "caption": "Штурм-крейсер",
+                "class": "kreiser"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    796,
+                    -413
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 796,
+                "y": 413,
+                "list": [
+                    "Лазурная пеламида",
+                    "Рыба зигзаг"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70,
+                    -54
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 70,
+                "y": 54,
+                "region": "bs",
+                "map": "razriv2",
+                "caption": "Разрыв, ур.2",
+                "goto": {
+                    "x": 42,
+                    "y": 137
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    910,
+                    -793
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 910,
+                "y": 793,
+                "region": "bs",
+                "map": "index",
+                "caption": "Бастион",
+                "goto": {
+                    "x": 1780,
+                    "y": 723
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    830,
+                    -766
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 830,
+                "y": 766,
+                "caption": "Штурм-кишкодав",
+                "class": "kishkodav"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    92,
+                    -441
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 92,
+                "y": 441,
+                "caption": "Убер-цербер",
+                "class": "tserber"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    640,
+                    -411
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 640,
+                "y": 411,
+                "caption": "Убер-кишкодав",
+                "class": "kishkodav"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    644,
+                    -298
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 644,
+                "y": 298,
+                "link": "library\/coins\/bastion"
+            }
+        }
+    ]
+}

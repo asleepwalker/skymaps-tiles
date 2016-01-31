@@ -1,0 +1,482 @@
+{
+    "meta": {
+        "caption": "Лабиринт Е",
+        "navigator": "Pentesiliya",
+        "date": "01.05.2011",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        },
+        "drop": [
+            "81_34",
+            "81_33",
+            "81_65",
+            "81_63",
+            "82_31"
+        ]
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    820,
+                    -302
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 820,
+                "y": 302,
+                "caption": "Штурм-мухоносец",
+                "class": "muh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104,
+                    -151
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 104,
+                "y": 151,
+                "caption": "Цербер",
+                "class": "tserber"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104,
+                    -172
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 104,
+                "y": 172,
+                "caption": "Цербер",
+                "class": "tserber"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    803,
+                    -131
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 803,
+                "y": 131,
+                "caption": "Штурм-цербер",
+                "class": "tserber"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    803,
+                    -156
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 803,
+                "y": 156,
+                "caption": "Цербер",
+                "class": "tserber"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    803,
+                    -180
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 803,
+                "y": 180,
+                "caption": "Цербер",
+                "class": "tserber"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106,
+                    -128
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 106,
+                "y": 128,
+                "caption": "Штурм-цербер",
+                "class": "tserber"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90,
+                    -85
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 90,
+                "y": 85,
+                "region": "bs",
+                "map": "chervinie2",
+                "caption": "Червиные норы, ур.2",
+                "goto": {
+                    "x": 703,
+                    "y": 370
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    359,
+                    -80
+                ]
+            },
+            "properties": {
+                "type": "wormhole",
+                "x": 359,
+                "y": 80,
+                "goto": {
+                    "x": 603,
+                    "y": 603
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    594,
+                    -77
+                ]
+            },
+            "properties": {
+                "type": "wormhole",
+                "x": 594,
+                "y": 77,
+                "goto": {
+                    "x": 105,
+                    "y": 900
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    879,
+                    -85
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 879,
+                "y": 85,
+                "region": "bs",
+                "map": "labd",
+                "caption": "Лабиринт Д",
+                "goto": {
+                    "x": 907,
+                    "y": 502
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    162,
+                    -377
+                ]
+            },
+            "properties": {
+                "type": "wormhole",
+                "x": 162,
+                "y": 377,
+                "goto": {
+                    "x": 604,
+                    "y": 897
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    490,
+                    -383
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 490,
+                "y": 383,
+                "region": "bs",
+                "map": "labi",
+                "caption": "Лабиринт И",
+                "goto": {
+                    "x": 906,
+                    "y": 903
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    799,
+                    -379
+                ]
+            },
+            "properties": {
+                "type": "wormhole",
+                "x": 799,
+                "y": 379,
+                "goto": {
+                    "x": 105,
+                    "y": 900
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    383,
+                    -582
+                ]
+            },
+            "properties": {
+                "type": "wormhole",
+                "x": 383,
+                "y": 582,
+                "goto": {
+                    "x": 182,
+                    "y": 397
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    583,
+                    -583
+                ]
+            },
+            "properties": {
+                "type": "wormhole",
+                "x": 583,
+                "y": 583,
+                "goto": {
+                    "x": 379,
+                    "y": 100
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85,
+                    -880
+                ]
+            },
+            "properties": {
+                "type": "wormhole",
+                "x": 85,
+                "y": 880,
+                "goto": {
+                    "x": 819,
+                    "y": 399
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    386,
+                    -882
+                ]
+            },
+            "properties": {
+                "type": "wormhole",
+                "x": 386,
+                "y": 882,
+                "goto": {
+                    "x": 604,
+                    "y": 897
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    584,
+                    -877
+                ]
+            },
+            "properties": {
+                "type": "wormhole",
+                "x": 584,
+                "y": 877,
+                "goto": {
+                    "x": 614,
+                    "y": 97
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    880,
+                    -880
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 880,
+                "y": 880,
+                "region": "bs",
+                "map": "labv",
+                "caption": "Лабиринт В",
+                "goto": {
+                    "x": 503,
+                    "y": 904
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    662,
+                    -651
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 662,
+                "y": 651,
+                "caption": "Кишкодав-страж",
+                "class": "kishkodav"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    493,
+                    -207
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 493,
+                "y": 207,
+                "caption": "Убер-кишкодав",
+                "class": "kishkodav"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    236,
+                    -748
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 236,
+                "y": 748,
+                "caption": "Убер-мухоносец",
+                "class": "muh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109,
+                    -604
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 109,
+                "y": 604,
+                "caption": "Мухоносец-страж",
+                "class": "muh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    729,
+                    -750
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 729,
+                "y": 750,
+                "link": "library\/coins\/bastion"
+            }
+        }
+    ]
+}

@@ -1,0 +1,183 @@
+{
+    "meta": {
+        "caption": "Лабиринт Ж",
+        "navigator": "AS_Super",
+        "date": "13.03.2011",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        },
+        "drop": [
+            "81_52",
+            "81_51",
+            "81_64",
+            "81_63",
+            "81_62",
+            "82_21"
+        ]
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    883,
+                    -84
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 883,
+                "y": 84
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    709,
+                    -304
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 709,
+                "y": 304,
+                "caption": "Матка",
+                "class": "matka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    111,
+                    -453
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 111,
+                "y": 453,
+                "caption": "Матка",
+                "class": "matka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    456,
+                    -883
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 456,
+                "y": 883,
+                "region": "pr",
+                "map": "labg",
+                "caption": "Лабиринт Г",
+                "goto": {
+                    "x": 477,
+                    "y": 594
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    805,
+                    -853
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 805,
+                "y": 853,
+                "region": "pr",
+                "map": "labo",
+                "caption": "Лабиринт О",
+                "goto": {
+                    "x": 119,
+                    "y": 752
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    778,
+                    -617
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 778,
+                "y": 617,
+                "caption": "Великий кроволёт",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    426,
+                    -574
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 426,
+                "y": 574,
+                "caption": "Мусорог Полковник",
+                "class": "musorog"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    160,
+                    -160
+                ]
+            },
+            "properties": {
+                "type": "station",
+                "x": 160,
+                "y": 160,
+                "caption": "\"Фернанда\"",
+                "size": 88,
+                "list": [
+                    {
+                        "caption": "Фейра-ди-Сантана",
+                        "region": "pr",
+                        "map": "labb",
+                        "x": 498,
+                        "y": 770,
+                        "type": "station"
+                    },
+                    {
+                        "caption": "\"Пелотас\"",
+                        "region": "pr",
+                        "map": "labr",
+                        "x": 209,
+                        "y": 509,
+                        "type": "station"
+                    }
+                ]
+            }
+        }
+    ]
+}

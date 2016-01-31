@@ -1,0 +1,31 @@
+{
+    "meta": {
+        "caption": "Синяя грядка",
+        "navigator": "падший77",
+        "date": "17.02.2013",
+        "size": {
+            "width": 700,
+            "height": 700
+        }
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    323,
+                    -344
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 323,
+                "y": 344,
+                "caption": "Синий",
+                "class": "flower",
+                "mode": "quest"
+            }
+        }
+    ]
+}

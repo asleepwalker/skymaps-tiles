@@ -1,0 +1,130 @@
+{
+    "meta": {
+        "caption": "Мусорожье",
+        "navigator": "AS_Super",
+        "date": "23.02.2011",
+        "size": {
+            "width": 1000,
+            "height": 700
+        },
+        "drop": [
+            "81_42",
+            "81_41",
+            "81_12",
+            "81_11"
+        ]
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    525,
+                    -159
+                ]
+            },
+            "properties": {
+                "type": "tree",
+                "x": 525,
+                "y": 159
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    142,
+                    -517
+                ]
+            },
+            "properties": {
+                "type": "tree",
+                "x": 142,
+                "y": 517
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    777,
+                    -421
+                ]
+            },
+            "properties": {
+                "type": "tree",
+                "x": 777,
+                "y": 421
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    490,
+                    -330
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 490,
+                "y": 330,
+                "region": "pf",
+                "map": "index",
+                "caption": "Периферия",
+                "goto": {
+                    "x": 2111,
+                    "y": 784
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    710,
+                    -283
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 710,
+                "y": 283,
+                "caption": "Мусорог-губитель Капитан",
+                "class": "musorog"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    218,
+                    -481
+                ]
+            },
+            "properties": {
+                "type": "station",
+                "x": 218,
+                "y": 481,
+                "caption": "\"50 лет Памфри\"",
+                "size": 59,
+                "list": [
+                    {
+                        "caption": "Вышино",
+                        "region": "pf",
+                        "map": "index",
+                        "x": 1607,
+                        "y": 762,
+                        "type": "station"
+                    }
+                ]
+            }
+        }
+    ]
+}

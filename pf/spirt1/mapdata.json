@@ -1,0 +1,148 @@
+{
+    "meta": {
+        "caption": "Лабиринт под Спиртотроном, ур.1",
+        "navigator": "AS_Super",
+        "date": "27.02.2011",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        },
+        "drop": [
+            "81_61",
+            "81_32",
+            "81_31",
+            "81_62"
+        ]
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    236,
+                    -299
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 236,
+                "y": 299,
+                "caption": "Таверна алконавтов",
+                "class": "taverna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    730,
+                    -286
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 730,
+                "y": 286,
+                "caption": "Таверна алконавтов",
+                "class": "taverna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    486,
+                    -236
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 486,
+                "y": 236,
+                "caption": "Цитадель",
+                "class": "tsitadel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    476,
+                    -740
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 476,
+                "y": 740,
+                "caption": "Усиленная Цитадель",
+                "class": "tsitadel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    685,
+                    -661
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 685,
+                "y": 661,
+                "caption": "Таверна алконавтов-монстров",
+                "class": "taverna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    915,
+                    -501
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 915,
+                "y": 501,
+                "region": "pf",
+                "map": "spirt2",
+                "caption": "Лабиринт под Спиртотроном, ур.2",
+                "goto": {
+                    "x": 264,
+                    "y": 94
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57,
+                    -915
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 57,
+                "y": 915,
+                "region": "pf",
+                "map": "index",
+                "caption": "Периферия",
+                "goto": {
+                    "x": 2485,
+                    "y": 1643
+                }
+            }
+        }
+    ]
+}

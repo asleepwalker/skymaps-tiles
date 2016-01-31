@@ -1,0 +1,203 @@
+{
+    "meta": {
+        "caption": "Разрыв, ур.10",
+        "navigator": "Pentesiliya",
+        "date": "18.04.2011",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        },
+        "drop": [
+            "82_33",
+            "82_27",
+            "81_16",
+            "81_43",
+            "81_42",
+            "81_14"
+        ]
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    510,
+                    -828
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 510,
+                "y": 828,
+                "caption": "Ужасающий Кадавр",
+                "class": "kadavr",
+                "mode": "rare"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    864,
+                    -300
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 864,
+                "y": 300,
+                "caption": "Кишкодав-страж",
+                "class": "kishkodav"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    503,
+                    -100
+                ]
+            },
+            "properties": {
+                "type": "tree",
+                "x": 503,
+                "y": 100
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    499,
+                    -778
+                ]
+            },
+            "properties": {
+                "type": "tree",
+                "x": 499,
+                "y": 778
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    610,
+                    -352
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 610,
+                "y": 352,
+                "caption": "Штурм-мухоносец",
+                "class": "muh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    778,
+                    -352
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 778,
+                "y": 352,
+                "caption": "Кишкодав-мститель",
+                "class": "kishkodav"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    860,
+                    -102
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 860,
+                "y": 102,
+                "caption": "Штурм-кадавр",
+                "class": "kadavr"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71,
+                    -143
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 71,
+                "y": 143,
+                "region": "bs",
+                "map": "razriv11",
+                "caption": "Разрыв, ур.11",
+                "goto": {
+                    "x": 86,
+                    "y": 84
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    884,
+                    -905
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 884,
+                "y": 905,
+                "region": "bs",
+                "map": "razriv9",
+                "caption": "Разрыв, ур.9",
+                "goto": {
+                    "x": 80,
+                    "y": 894
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    904,
+                    -383
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 904,
+                "y": 383,
+                "region": "bs",
+                "map": "razriv3",
+                "caption": "Разрыв, ур.3",
+                "goto": {
+                    "x": 569,
+                    "y": 569
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,145 @@
+{
+    "meta": {
+        "caption": "Деревня отшельников",
+        "navigator": "AS_Super",
+        "date": "04.06.2012",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        }
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153,
+                    -810
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 153,
+                "y": 810,
+                "region": "tg",
+                "map": "medoviy2",
+                "caption": "Большой Медовый лабиринт, ур.2",
+                "goto": {
+                    "x": 383,
+                    "y": 889
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    627,
+                    -355
+                ]
+            },
+            "properties": {
+                "type": "quest",
+                "x": 627,
+                "y": 355,
+                "caption": "Тайна летающих рыб",
+                "link": "library\/myst\/riba",
+                "tip": "После уничтожения босса отшельник в доме рассказывает вам часть Тайны летающих рыб."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    502,
+                    -556
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 502,
+                "y": 556,
+                "caption": "Улей",
+                "class": "uley"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    539,
+                    -618
+                ]
+            },
+            "properties": {
+                "type": "quest",
+                "x": 539,
+                "y": 618,
+                "caption": "Алфавит",
+                "tip": "Если обойти жителей деревни в алфавитном порядке (Арвинд, Бранка, Вуглаз и Гаспар), то последний даст опыта и дублонов."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    615,
+                    -299
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 615,
+                "y": 299,
+                "caption": "Улей",
+                "class": "uley"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    484,
+                    -751
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 484,
+                "y": 751,
+                "list": [
+                    "Рыба-зигзаг",
+                    "Лазурная пеламида"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    815,
+                    -812
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 815,
+                "y": 812,
+                "region": "tg",
+                "map": "prostranstvo",
+                "caption": "Пространство Вариантов",
+                "goto": {
+                    "x": 584,
+                    "y": 435
+                }
+            }
+        }
+    ]
+}

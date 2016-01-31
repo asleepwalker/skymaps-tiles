@@ -1,0 +1,280 @@
+{
+    "meta": {
+        "caption": "Разрыв, ур.4",
+        "navigator": "Pentesiliya",
+        "date": "16.04.2011",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        },
+        "drop": [
+            "82_27",
+            "81_53",
+            "81_52",
+            "81_65",
+            "81_63",
+            "82_32"
+        ]
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    740,
+                    -872
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 740,
+                "y": 872,
+                "caption": "Штурм-мухоносец",
+                "class": "muh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    830,
+                    -482
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 830,
+                "y": 482,
+                "caption": "Убер-фактория",
+                "class": "faka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    426,
+                    -333
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 426,
+                "y": 333,
+                "caption": "Штурм-крейсер",
+                "class": "kreiser"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    412,
+                    -367
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 412,
+                "y": 367,
+                "caption": "Штурм-крейсер",
+                "class": "kreiser"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    690,
+                    -242
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 690,
+                "y": 242,
+                "caption": "Убер-цербер",
+                "class": "tserber"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90,
+                    -162
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 90,
+                "y": 162,
+                "caption": "Убер-фактория",
+                "class": "faka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    61,
+                    -292
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 61,
+                "y": 292,
+                "region": "bs",
+                "map": "razriv5",
+                "caption": "Разрыв, ур.5",
+                "goto": {
+                    "x": 351,
+                    "y": 453
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    792,
+                    -87
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 792,
+                "y": 87,
+                "region": "bs",
+                "map": "razriv5",
+                "caption": "Разрыв, ур.5",
+                "goto": {
+                    "x": 351,
+                    "y": 453
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    507,
+                    -581
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 507,
+                "y": 581,
+                "region": "bs",
+                "map": "razriv3",
+                "caption": "Разрыв, ур.3",
+                "goto": {
+                    "x": 848,
+                    "y": 67
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    902,
+                    -843
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 902,
+                "y": 843,
+                "region": "bs",
+                "map": "razriv5",
+                "caption": "Разрыв, ур.5",
+                "goto": {
+                    "x": 351,
+                    "y": 453
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136,
+                    -608
+                ]
+            },
+            "properties": {
+                "type": "station",
+                "x": 136,
+                "y": 608,
+                "caption": "\"Луч Света\"",
+                "size": 95,
+                "list": [
+                    {
+                        "caption": "Твердыня",
+                        "region": "bs",
+                        "map": "index",
+                        "x": 162,
+                        "y": 676,
+                        "type": "station"
+                    },
+                    {
+                        "caption": "\"Благодать\"",
+                        "region": "bs",
+                        "map": "razriv3",
+                        "x": 627,
+                        "y": 618,
+                        "type": "station"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    93,
+                    -865
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 93,
+                "y": 865,
+                "caption": "Убер-мухоносец",
+                "class": "muh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    296,
+                    -824
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 296,
+                "y": 824,
+                "caption": "Цербер",
+                "class": "tserber"
+            }
+        }
+    ]
+}

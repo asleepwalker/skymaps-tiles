@@ -1,0 +1,257 @@
+{
+    "meta": {
+        "caption": "Лабиринт Б",
+        "navigator": "Pentesiliya",
+        "date": "26.04.2011",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        },
+        "drop": [
+            "82_26",
+            "81_43",
+            "81_16",
+            "81_42",
+            "81_14",
+            "82_32"
+        ]
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    185,
+                    -230
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 185,
+                "y": 230,
+                "caption": "Ужасающий Мухоносец",
+                "class": "muh",
+                "mode": "rare"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    760,
+                    -132
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 760,
+                "y": 132,
+                "caption": "Штурм-фактория",
+                "class": "faka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81,
+                    -552
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 81,
+                "y": 552,
+                "region": "bs",
+                "map": "laba",
+                "caption": "Лабиринт А",
+                "goto": {
+                    "x": 895,
+                    "y": 899
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    87,
+                    -884
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 87,
+                "y": 884,
+                "region": "bs",
+                "map": "labv",
+                "caption": "Лабиринт В",
+                "goto": {
+                    "x": 102,
+                    "y": 568
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    880,
+                    -878
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 880,
+                "y": 878,
+                "region": "bs",
+                "map": "labd",
+                "caption": "Лабиринт Д",
+                "goto": {
+                    "x": 484,
+                    "y": 101
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    667,
+                    -872
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 667,
+                "y": 872,
+                "caption": "Штурм-кадавр",
+                "class": "kadavr"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    272,
+                    -287
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 272,
+                "y": 287,
+                "caption": "Мухоносец",
+                "class": "muh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    319,
+                    -173
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 319,
+                "y": 173,
+                "caption": "Предатель Небес Король",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    608,
+                    -403
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 608,
+                "y": 403,
+                "caption": "Штурм-цербер",
+                "class": "tserber"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    761,
+                    -597
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 761,
+                "y": 597,
+                "caption": "Предатель Небес Король",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    451,
+                    -790
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 451,
+                "y": 790,
+                "caption": "Цербер-мститель",
+                "class": "tserber"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    235,
+                    -832
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 235,
+                "y": 832,
+                "caption": "Убер-цербер",
+                "class": "tserber"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    579,
+                    -113
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 579,
+                "y": 113,
+                "link": "library\/coins\/bastion"
+            }
+        }
+    ]
+}

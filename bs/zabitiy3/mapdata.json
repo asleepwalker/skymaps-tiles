@@ -1,0 +1,292 @@
+{
+    "meta": {
+        "caption": "Забытый вихрь, ур.3",
+        "navigator": "AS_Super",
+        "date": "25.03.2011",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        },
+        "drop": [
+            "82_28",
+            "81_53",
+            "81_52",
+            "81_65",
+            "81_63"
+        ]
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    836,
+                    -181
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 836,
+                "y": 181,
+                "caption": "Мусорог-генерал",
+                "class": "musorog"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    700,
+                    -736
+                ]
+            },
+            "properties": {
+                "type": "tree",
+                "x": 700,
+                "y": 736
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    860,
+                    -152
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 860,
+                "y": 152,
+                "caption": "Мусорог-генерал",
+                "class": "musorog"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    597,
+                    -840
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 597,
+                "y": 840,
+                "caption": "Штурм-фактория",
+                "class": "faka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    867,
+                    -866
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 867,
+                "y": 866,
+                "caption": "Штурм-мухоносец",
+                "class": "muh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    836,
+                    -71
+                ]
+            },
+            "properties": {
+                "type": "flager",
+                "x": 836,
+                "y": 71,
+                "easy": "Пожиратель (8)",
+                "hard": "Шиг-Рахан",
+                "link": "library\/flagers\/bastion"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    894,
+                    -911
+                ]
+            },
+            "properties": {
+                "type": "quest",
+                "x": 894,
+                "y": 911,
+                "caption": "Заброшенный скрипторий",
+                "link": "quests\/script",
+                "tip": "По ссылке карта \"лабиринта\" комнат скриптория."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    898,
+                    -352
+                ]
+            },
+            "properties": {
+                "type": "quest",
+                "x": 898,
+                "y": 352,
+                "caption": "Сбор тайны Блюм Брахниус",
+                "link": "quests\/blum",
+                "tip": "Здесь есть записка сумасшедшего!"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88,
+                    -54
+                ]
+            },
+            "properties": {
+                "type": "quest",
+                "x": 88,
+                "y": 54,
+                "caption": "План низушников",
+                "link": "quests\/plan",
+                "tip": "В бортовом компьютере подбитой машины низушников содержится часть секретного плана!"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    60,
+                    -902
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 60,
+                "y": 902,
+                "caption": "Цитадель низушников",
+                "class": "tsitadel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47,
+                    -50
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 47,
+                "y": 50,
+                "region": "bs",
+                "map": "labv",
+                "caption": "Лабиринт В",
+                "goto": {
+                    "x": 906,
+                    "y": 569
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    837,
+                    -917
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 837,
+                "y": 917,
+                "region": "bs",
+                "map": "index",
+                "caption": "Бастион",
+                "goto": {
+                    "x": 324,
+                    "y": 681
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    377,
+                    -230
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 377,
+                "y": 230,
+                "region": "bs",
+                "map": "zabitiy2",
+                "caption": "Забытый вихрь, ур.2",
+                "goto": {
+                    "x": 289,
+                    "y": 84
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    129,
+                    -557
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 129,
+                "y": 557,
+                "caption": "Штурм-кишкодав",
+                "class": "kishkodav"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    337,
+                    -865
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 337,
+                "y": 865,
+                "caption": "Убер-мухоносец",
+                "class": "muh"
+            }
+        }
+    ]
+}

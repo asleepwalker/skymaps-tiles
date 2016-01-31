@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "caption": "Монолит (легкий)",
+        "navigator": "AS_Super",
+        "date": "17.05.2011",
+        "size": {
+            "width": 700,
+            "height": 320
+        }
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    349,
+                    -92
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 349,
+                "y": 92,
+                "caption": "Убер-крейсер",
+                "class": "kreiser"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    534,
+                    -171
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 534,
+                "y": 171,
+                "caption": "Монолит",
+                "class": "monolit",
+                "mode": "quest"
+            }
+        }
+    ]
+}

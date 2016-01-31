@@ -1,0 +1,196 @@
+{
+    "meta": {
+        "caption": "Старый вихрь Е",
+        "navigator": "AS_Super",
+        "date": "11.08.2011",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        }
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    443,
+                    -160
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 443,
+                "y": 160,
+                "caption": "Ужасающий Гипнобосс",
+                "class": "gipno",
+                "mode": "rare"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    186,
+                    -872
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 186,
+                "y": 872,
+                "caption": "Борзый хламкистодор",
+                "class": "hlamk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102,
+                    -875
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 102,
+                "y": 875,
+                "list": [
+                    "Залётный хариус",
+                    "Ветряной жерех"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    704,
+                    -261
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 704,
+                "y": 261,
+                "caption": "Бета-гипнобосс",
+                "class": "gipno"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    774,
+                    -876
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 774,
+                "y": 876,
+                "caption": "Жестокий хламкистодор",
+                "class": "hlamk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    660,
+                    -742
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 660,
+                "y": 742,
+                "caption": "Хламкистодоры",
+                "class": "hlamk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    350,
+                    -672
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 350,
+                "y": 672,
+                "caption": "Хламкистодоры",
+                "class": "hlamk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    490,
+                    -692
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 490,
+                "y": 692,
+                "caption": "Хламкистодоры",
+                "class": "hlamk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    453,
+                    -205
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 453,
+                "y": 205,
+                "region": "os",
+                "map": "starvihd",
+                "caption": "Старый вихрь Д",
+                "goto": {
+                    "x": 901,
+                    "y": 898
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    535,
+                    -774
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 535,
+                "y": 774,
+                "region": "os",
+                "map": "hramhlama",
+                "caption": "Храм Хлама",
+                "goto": {
+                    "x": 133,
+                    "y": 793
+                }
+            }
+        }
+    ]
+}

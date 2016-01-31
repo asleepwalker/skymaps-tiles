@@ -1,0 +1,173 @@
+{
+    "meta": {
+        "caption": "Цветочная Лужайка",
+        "navigator": "AS_Super",
+        "date": "18.02.2011",
+        "size": {
+            "width": 1000,
+            "height": 700
+        },
+        "drop": [
+            "81_41",
+            "81_40",
+            "81_11",
+            "81_10"
+        ]
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173,
+                    -278
+                ]
+            },
+            "properties": {
+                "type": "tree",
+                "x": 173,
+                "y": 278
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    679,
+                    -450
+                ]
+            },
+            "properties": {
+                "type": "tree",
+                "x": 679,
+                "y": 450
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    517,
+                    -252
+                ]
+            },
+            "properties": {
+                "type": "tree",
+                "x": 517,
+                "y": 252
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    567,
+                    -467
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 567,
+                "y": 467,
+                "caption": "Шмель",
+                "class": "shmel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    335,
+                    -320
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 335,
+                "y": 320,
+                "caption": "Улей",
+                "class": "uley"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    645,
+                    -320
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 645,
+                "y": 320,
+                "caption": "Улей",
+                "class": "uley"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    176,
+                    -180
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 176,
+                "y": 180,
+                "region": "tg",
+                "map": "index",
+                "caption": "Тихая Гавань",
+                "goto": {
+                    "x": 885,
+                    "y": 971
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    578,
+                    -293
+                ]
+            },
+            "properties": {
+                "type": "master",
+                "x": 578,
+                "y": 293,
+                "list": [
+                    "Старые детали"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    242,
+                    -422
+                ]
+            },
+            "properties": {
+                "type": "master",
+                "x": 242,
+                "y": 422,
+                "list": [
+                    "Мягкая древесина."
+                ]
+            }
+        }
+    ]
+}

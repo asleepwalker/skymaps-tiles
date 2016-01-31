@@ -1,0 +1,324 @@
+{
+    "meta": {
+        "caption": "Заросли, ур.3",
+        "navigator": "AS_Super",
+        "date": "21.08.2011",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        }
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    474,
+                    -872
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 474,
+                "y": 872,
+                "list": [
+                    "Залётный хариус",
+                    "Ветряной жерех"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    290,
+                    -82
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 290,
+                "y": 82,
+                "caption": "Дельта-биоспора",
+                "class": "spore"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    350,
+                    -142
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 350,
+                "y": 142,
+                "caption": "Гамма-улей",
+                "class": "uley"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    808,
+                    -162
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 808,
+                "y": 162,
+                "list": [
+                    "Залётный хариус",
+                    "Ветряной жерех"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115,
+                    -775
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 115,
+                "y": 775,
+                "list": [
+                    "Рыба-зигзаг",
+                    "Лазурная пеламида"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90,
+                    -772
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 90,
+                "y": 772,
+                "caption": "Дельта-биоспора",
+                "class": "spore"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    149,
+                    -472
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 149,
+                "y": 472,
+                "caption": "Дельта-улей",
+                "class": "uley"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    247,
+                    -241
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 247,
+                "y": 241,
+                "caption": "Бета-шмель",
+                "class": "shmel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    671,
+                    -206
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 671,
+                "y": 206,
+                "caption": "Гамма-шмель",
+                "class": "shmel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    217,
+                    -714
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 217,
+                "y": 714,
+                "caption": "Бета-шмель",
+                "class": "shmel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    885,
+                    -76
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 885,
+                "y": 76,
+                "region": "os",
+                "map": "zarosli2",
+                "caption": "Заросли, ур.2",
+                "goto": {
+                    "x": 181,
+                    "y": 912
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    579,
+                    -886
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 579,
+                "y": 886,
+                "region": "os",
+                "map": "zarosli4",
+                "caption": "Заросли, ур.4",
+                "goto": {
+                    "x": 912,
+                    "y": 911
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    806,
+                    -855
+                ]
+            },
+            "properties": {
+                "type": "instance",
+                "x": 806,
+                "y": 855,
+                "region": "os",
+                "map": "green",
+                "caption": "Зелёная грядка",
+                "goX": 20,
+                "goY": 20
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    736,
+                    -384
+                ]
+            },
+            "properties": {
+                "type": "instance",
+                "x": 736,
+                "y": 384,
+                "region": "os",
+                "map": "yellow",
+                "caption": "Жёлтая грядка",
+                "goX": 20,
+                "goY": 20
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    770,
+                    -522
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 770,
+                "y": 522,
+                "link": "library\/coins\/oskolki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    460,
+                    -415
+                ]
+            },
+            "properties": {
+                "type": "station",
+                "x": 460,
+                "y": 415,
+                "caption": "Дремучая Станция",
+                "size": 103,
+                "list": [
+                    {
+                        "caption": "Кавардак",
+                        "region": "os",
+                        "map": "index",
+                        "x": 474,
+                        "y": 339,
+                        "type": "station"
+                    },
+                    {
+                        "caption": "Платформа Дремучая",
+                        "region": "os",
+                        "map": "zarosli6",
+                        "x": 777,
+                        "y": 789,
+                        "type": "station"
+                    }
+                ]
+            }
+        }
+    ]
+}

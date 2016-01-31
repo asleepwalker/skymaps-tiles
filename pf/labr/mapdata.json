@@ -1,0 +1,153 @@
+{
+    "meta": {
+        "caption": "Лабиринт Р",
+        "navigator": "AS_Super",
+        "date": "01.03.2011",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        },
+        "drop": [
+            "81_50",
+            "81_11",
+            "82_6",
+            "81_15",
+            "81_12",
+            "81_51",
+            "81_13",
+            "82_4"
+        ]
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    803,
+                    -349
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 803,
+                "y": 349,
+                "caption": "Ужасающая Цитадель",
+                "class": "tsitadel",
+                "mode": "rare"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    322,
+                    -197
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 322,
+                "y": 197,
+                "caption": "Небесный Блудотворец Барон",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    405,
+                    -454
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 405,
+                "y": 454,
+                "caption": "Логово жестоких бандитов",
+                "class": "logovo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79,
+                    -548
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 79,
+                "y": 548,
+                "caption": "Усиленная Цитадель",
+                "class": "tsitadel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    355,
+                    -854
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 355,
+                "y": 854,
+                "caption": "Логово жестоких бандитов",
+                "class": "logovo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    584,
+                    -886
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 584,
+                "y": 886,
+                "region": "pf",
+                "map": "labs",
+                "caption": "Лабиринт С",
+                "goto": {
+                    "x": 653,
+                    "y": 783
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    884,
+                    -628
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 884,
+                "y": 628,
+                "region": "pf",
+                "map": "laby",
+                "caption": "Лабиринт Й",
+                "goto": {
+                    "x": 905,
+                    "y": 184
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,304 @@
+{
+    "meta": {
+        "caption": "Лабиринт икаров Е",
+        "navigator": "neo_max",
+        "date": "18.11.2011",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        }
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    422,
+                    -498
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 422,
+                "y": 498,
+                "caption": "Ужасающий Кишкодав",
+                "class": "kishkodav",
+                "mode": "rare"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    87,
+                    -140
+                ]
+            },
+            "properties": {
+                "type": "tree",
+                "x": 87,
+                "y": 140
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    875,
+                    -251
+                ]
+            },
+            "properties": {
+                "type": "tree",
+                "x": 875,
+                "y": 251
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    810,
+                    -122
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 810,
+                "y": 122,
+                "caption": "Гамма-гипнобосс",
+                "class": "gipno"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147,
+                    -828
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 147,
+                "y": 828,
+                "caption": "Бета-улей",
+                "class": "uley"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    412,
+                    -66
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 412,
+                "y": 66,
+                "region": "os",
+                "map": "ikarsd",
+                "caption": "Лабиринт икаров Д",
+                "goto": {
+                    "x": 83,
+                    "y": 86
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105,
+                    -506
+                ]
+            },
+            "properties": {
+                "type": "wormhole",
+                "x": 105,
+                "y": 506,
+                "goto": {
+                    "x": 109,
+                    "y": 689
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    89,
+                    -669
+                ]
+            },
+            "properties": {
+                "type": "wormhole",
+                "x": 89,
+                "y": 669,
+                "goto": {
+                    "x": 125,
+                    "y": 526
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    249,
+                    -597
+                ]
+            },
+            "properties": {
+                "type": "wormhole",
+                "x": 249,
+                "y": 597,
+                "goto": {
+                    "x": 599,
+                    "y": 766
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    579,
+                    -746
+                ]
+            },
+            "properties": {
+                "type": "wormhole",
+                "x": 579,
+                "y": 746,
+                "goto": {
+                    "x": 269,
+                    "y": 617
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    579,
+                    -583
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 579,
+                "y": 583,
+                "region": "os",
+                "map": "ikarszh",
+                "caption": "Лабиринт икаров Ж",
+                "goto": {
+                    "x": 77,
+                    "y": 922
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    819,
+                    -534
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 819,
+                "y": 534,
+                "caption": "Гамма-гипнобосс",
+                "class": "gipno"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    476,
+                    -204
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 476,
+                "y": 204,
+                "caption": "Дельта-гипнобосс",
+                "class": "gipno"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    231,
+                    -89
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 231,
+                "y": 89,
+                "caption": "Гамма-шмель",
+                "class": "shmel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    399,
+                    -566
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 399,
+                "y": 566,
+                "list": [
+                    "Залётный хариус",
+                    "Ветряной жерех"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    371,
+                    -835
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 371,
+                "y": 835,
+                "list": [
+                    "Рыба-печень",
+                    "Скудный лосось"
+                ]
+            }
+        }
+    ]
+}

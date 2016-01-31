@@ -1,0 +1,233 @@
+{
+    "meta": {
+        "caption": "Старый вихрь В",
+        "navigator": "AS_Super",
+        "date": "11.08.2011",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        }
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    125,
+                    -115
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 125,
+                "y": 115,
+                "list": [
+                    "Рыба-печень",
+                    "Скудный лосось"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    200,
+                    -572
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 200,
+                "y": 572,
+                "caption": "Гамма-биоспора",
+                "class": "spore"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    539,
+                    -425
+                ]
+            },
+            "properties": {
+                "type": "flager",
+                "x": 539,
+                "y": 425,
+                "easy": "Камнежуи",
+                "hard": "Шестерейдер",
+                "link": "library\/flagers\/oskolki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    892,
+                    -90
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 892,
+                "y": 90,
+                "region": "os",
+                "map": "starvihb",
+                "caption": "Старый вихрь Б",
+                "goto": {
+                    "x": 518,
+                    "y": 544
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81,
+                    -885
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 81,
+                "y": 885,
+                "region": "os",
+                "map": "starvihg",
+                "caption": "Старый вихрь Г",
+                "goto": {
+                    "x": 898,
+                    "y": 902
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    225,
+                    -544
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 225,
+                "y": 544,
+                "caption": "Гамма-шмель",
+                "class": "shmel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    862,
+                    -216
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 862,
+                "y": 216,
+                "caption": "Дельта-гипнобосс",
+                "class": "gipno"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    578,
+                    -641
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 578,
+                "y": 641,
+                "caption": "Гамма-шмель",
+                "class": "shmel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    465,
+                    -852
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 465,
+                "y": 852,
+                "caption": "Дельта-гипнобосс",
+                "class": "gipno"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    374,
+                    -858
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 374,
+                "y": 858,
+                "list": [
+                    "Коралловый сиган",
+                    "Золотой летринус"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    821,
+                    -101
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 821,
+                "y": 101,
+                "list": [
+                    "Залётный хариус",
+                    "Ветряной жерех"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169,
+                    -113
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 169,
+                "y": 113,
+                "link": "library\/coins\/oskolki"
+            }
+        }
+    ]
+}

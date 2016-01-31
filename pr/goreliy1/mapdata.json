@@ -1,0 +1,234 @@
+{
+    "meta": {
+        "caption": "Горелый омут, ур.1",
+        "navigator": "AS_Super",
+        "date": "06.03.2011",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        },
+        "drop": [
+            "81_33",
+            "81_32",
+            "81_63",
+            "81_62"
+        ]
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    475,
+                    -708
+                ]
+            },
+            "properties": {
+                "type": "tree",
+                "x": 475,
+                "y": 708
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    780,
+                    -863
+                ]
+            },
+            "properties": {
+                "type": "quest",
+                "x": 780,
+                "y": 863,
+                "caption": "\"Безумный компас\"",
+                "link": "quests\/compas",
+                "tip": "В этом месте, с могилы пирата берётся квестовый предмет - компасс. За прохождение квеста дают часть основной тайны региона."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    592,
+                    -125
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 592,
+                "y": 125,
+                "region": "pr",
+                "map": "goreliy2",
+                "caption": "Горелый омут, ур.2",
+                "goto": {
+                    "x": 98,
+                    "y": 119
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78,
+                    -891
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 78,
+                "y": 891,
+                "region": "pr",
+                "map": "index",
+                "caption": "Поющий Риф",
+                "goto": {
+                    "x": 161,
+                    "y": 157
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153,
+                    -704
+                ]
+            },
+            "properties": {
+                "type": "master",
+                "x": 153,
+                "y": 704,
+                "list": [
+                    "Кокосовое молоко"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    179,
+                    -183
+                ]
+            },
+            "properties": {
+                "type": "note",
+                "x": 179,
+                "y": 183,
+                "text": "Россыпь ремонтных наборов и хладагентов."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    479,
+                    -845
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 479,
+                "y": 845,
+                "caption": "Матка",
+                "class": "matka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    335,
+                    -272
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 335,
+                "y": 272,
+                "caption": "Мусорог полковник",
+                "class": "musorog"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    87,
+                    -612
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 87,
+                "y": 612,
+                "caption": "Великий кроволёт",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    819,
+                    -415
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 819,
+                "y": 415,
+                "caption": "Матка",
+                "class": "matka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    247,
+                    -139
+                ]
+            },
+            "properties": {
+                "type": "master",
+                "x": 247,
+                "y": 139,
+                "list": [
+                    "Кокосовое молоко."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    512,
+                    -495
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 512,
+                "y": 495,
+                "mobs": "Пират-барон (3)",
+                "coins": "1",
+                "link": "library\/coins\/reef"
+            }
+        }
+    ]
+}

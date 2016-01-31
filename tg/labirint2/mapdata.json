@@ -1,0 +1,148 @@
+{
+    "meta": {
+        "caption": "Лабиринт Облаков, ур.2",
+        "navigator": "AS_Super",
+        "date": "17.02.2011",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        },
+        "drop": [
+            "81_40"
+        ]
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    89,
+                    -867
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 89,
+                "y": 867,
+                "region": "tg",
+                "map": "labirint1",
+                "caption": "Лабиринт Облаков, ур.1",
+                "goto": {
+                    "x": 903,
+                    "y": 548
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    335,
+                    -264
+                ]
+            },
+            "properties": {
+                "type": "",
+                "x": 335,
+                "y": 264
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    882,
+                    -87
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 882,
+                "y": 87,
+                "region": "tg",
+                "map": "index",
+                "caption": "Тихая Гавань",
+                "goto": {
+                    "x": 1911,
+                    "y": 528
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    514,
+                    -880
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 514,
+                "y": 880,
+                "region": "tg",
+                "map": "labirint3",
+                "caption": "Лабиринт Облаков, ур.3",
+                "goto": {
+                    "x": 201,
+                    "y": 102
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    671,
+                    -123
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 671,
+                "y": 123,
+                "link": "library\/coins\/gavane"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    517,
+                    -556
+                ]
+            },
+            "properties": {
+                "type": "station",
+                "x": 517,
+                "y": 556,
+                "caption": "Старая платформа",
+                "size": 73,
+                "list": [
+                    {
+                        "caption": "Платформа №13",
+                        "region": "tg",
+                        "map": "promzona",
+                        "x": 543,
+                        "y": 466,
+                        "type": "station"
+                    },
+                    {
+                        "caption": "Платформа Ветеранов",
+                        "region": "tg",
+                        "map": "labirint4",
+                        "x": 589,
+                        "y": 196,
+                        "type": "station"
+                    }
+                ]
+            }
+        }
+    ]
+}

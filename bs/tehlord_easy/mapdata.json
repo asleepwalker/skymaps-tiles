@@ -1,0 +1,151 @@
+{
+    "meta": {
+        "caption": "Техлорд Нангум (легкий)",
+        "navigator": "AS_Super",
+        "date": "25.07.2011",
+        "size": {
+            "width": 1000,
+            "height": 311
+        }
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    522,
+                    -138
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 522,
+                "y": 138
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    522,
+                    -171
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 522,
+                "y": 171
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    410,
+                    -138
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 410,
+                "y": 138
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    410,
+                    -171
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 410,
+                "y": 171
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    442,
+                    -208
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 442,
+                "y": 208
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    450,
+                    -103
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 450,
+                "y": 103
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100,
+                    -151
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 100,
+                "y": 151,
+                "caption": "Техлорд Нангум",
+                "class": "tehlord",
+                "mode": "quest"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    482,
+                    -103
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 482,
+                "y": 103
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    483,
+                    -208
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 483,
+                "y": 208
+            }
+        }
+    ]
+}

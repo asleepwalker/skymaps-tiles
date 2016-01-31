@@ -1,0 +1,335 @@
+{
+    "meta": {
+        "caption": "Заповедник, уровень 2",
+        "navigator": "neo_max",
+        "date": "30.04.2015",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        }
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    401,
+                    -795
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 401,
+                "y": 795
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    714,
+                    -133
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 714,
+                "y": 133
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    66,
+                    -202
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 66,
+                "y": 202
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    781,
+                    -633
+                ]
+            },
+            "properties": {
+                "type": "tree",
+                "x": 781,
+                "y": 633
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    844,
+                    -685
+                ]
+            },
+            "properties": {
+                "type": "tree",
+                "x": 844,
+                "y": 685
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    690,
+                    -307
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 690,
+                "y": 307,
+                "region": "pr",
+                "map": "zapovednik1",
+                "caption": "Заповедник, уровень 1",
+                "goto": {
+                    "x": 510,
+                    "y": 426
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45,
+                    -435
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 45,
+                "y": 435,
+                "region": "pr",
+                "map": "zapovednik1",
+                "caption": "Заповедник, уровень 1",
+                "goto": {
+                    "x": 274,
+                    "y": 928
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    378,
+                    -246
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 378,
+                "y": 246,
+                "region": "pr",
+                "map": "zapovednik3",
+                "caption": "Заповедник, уровень 3",
+                "goto": {
+                    "x": 574,
+                    "y": 58
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    401,
+                    -906
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 401,
+                "y": 906,
+                "region": "pr",
+                "map": "zapovednik3",
+                "caption": "Заповедник, уровень 3",
+                "goto": {
+                    "x": 574,
+                    "y": 58
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    612,
+                    -554
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 612,
+                "y": 554,
+                "caption": "Редкий Мегаёж",
+                "class": "zloboezh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    700,
+                    -795
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 700,
+                "y": 795,
+                "caption": "Флагман браконьеров",
+                "class": "airship",
+                "mode": "quest"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    388,
+                    -640
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 388,
+                "y": 640
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    389,
+                    -695
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 389,
+                "y": 695
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    344,
+                    -676
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 344,
+                "y": 676
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    258,
+                    -316
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 258,
+                "y": 316
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    749,
+                    -381
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 749,
+                "y": 381
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    799,
+                    -367
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 799,
+                "y": 367
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    207,
+                    -484
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 207,
+                "y": 484,
+                "caption": "Патриах-панцирник",
+                "class": "panzer",
+                "mode": "quest"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    448,
+                    -793
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 448,
+                "y": 793,
+                "link": "library\/coins\/zapovednik"
+            }
+        }
+    ]
+}

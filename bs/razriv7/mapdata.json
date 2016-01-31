@@ -1,0 +1,306 @@
+{
+    "meta": {
+        "caption": "Разрыв, ур.7",
+        "navigator": "Pentesiliya",
+        "date": "16.04.2011",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        },
+        "drop": [
+            "82_28",
+            "81_65",
+            "81_63",
+            "81_34",
+            "81_33",
+            "82_33"
+        ]
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138,
+                    -496
+                ]
+            },
+            "properties": {
+                "type": "tree",
+                "x": 138,
+                "y": 496
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    791,
+                    -499
+                ]
+            },
+            "properties": {
+                "type": "tree",
+                "x": 791,
+                "y": 499
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    450,
+                    -372
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 450,
+                "y": 372,
+                "caption": "Штурм-кадавр",
+                "class": "kadavr"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    770,
+                    -352
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 770,
+                "y": 352,
+                "caption": "Убер-мухоносец",
+                "class": "muh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56,
+                    -885
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 56,
+                "y": 885,
+                "region": "bs",
+                "map": "razriv6",
+                "caption": "Разрыв, ур.6",
+                "goto": {
+                    "x": 698,
+                    "y": 720
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    892,
+                    -888
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 892,
+                "y": 888,
+                "region": "bs",
+                "map": "razriv8",
+                "caption": "Разрыв, ур.8",
+                "goto": {
+                    "x": 86,
+                    "y": 904
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    801,
+                    -104
+                ]
+            },
+            "properties": {
+                "type": "instances",
+                "x": 801,
+                "y": 104,
+                "caption": "Карцер",
+                "list": [
+                    {
+                        "caption": "\"Карцер\"",
+                        "region": "bs",
+                        "map": "karcer",
+                        "x": 20,
+                        "y": 20,
+                        "type": "sky"
+                    },
+                    {
+                        "caption": "&quot;Карцер&quot; (схемы охраны)",
+                        "region": "bs",
+                        "map": "karcer_scheme",
+                        "x": 20,
+                        "y": 20,
+                        "type": "sky"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151,
+                    -101
+                ]
+            },
+            "properties": {
+                "type": "instance",
+                "x": 151,
+                "y": 101,
+                "region": "bs",
+                "map": "kunahar",
+                "caption": "инстанс \"База Кунахар\"",
+                "goX": 20,
+                "goY": 20
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    471,
+                    -510
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 471,
+                "y": 510,
+                "region": "bs",
+                "map": "razriv3",
+                "caption": "Разрыв, ур.3",
+                "goto": {
+                    "x": 569,
+                    "y": 569
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    284,
+                    -490
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 284,
+                "y": 490,
+                "caption": "Мухоносец-мститель",
+                "class": "muh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    177,
+                    -392
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 177,
+                "y": 392,
+                "caption": "Кишкодав",
+                "class": "kishkodav"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    670,
+                    -479
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 670,
+                "y": 479,
+                "caption": "Мухоносец-мститель",
+                "class": "muh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    677,
+                    -881
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 677,
+                "y": 881,
+                "caption": "Убер-цербер",
+                "class": "tserber"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    672,
+                    -841
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 672,
+                "y": 841,
+                "link": "library\/coins\/bastion"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    433,
+                    -128
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 433,
+                "y": 128,
+                "caption": "Убер-кишкодав",
+                "class": "kishkodav"
+            }
+        }
+    ]
+}

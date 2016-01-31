@@ -1,0 +1,239 @@
+{
+    "meta": {
+        "caption": "Лабиринт Р",
+        "navigator": "AS_Super",
+        "date": "18.03.2011",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        },
+        "drop": [
+            "82_20",
+            "81_52",
+            "81_51",
+            "81_42",
+            "81_71",
+            "82_19"
+        ]
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    307,
+                    -115
+                ]
+            },
+            "properties": {
+                "type": "tree",
+                "x": 307,
+                "y": 115
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    813,
+                    -386
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 813,
+                "y": 386,
+                "caption": "Мусорог полковник",
+                "class": "musorog"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    831,
+                    -602
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 831,
+                "y": 602,
+                "caption": "Логово бандитов",
+                "class": "logovo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    612,
+                    -122
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 612,
+                "y": 122,
+                "region": "pr",
+                "map": "labs",
+                "caption": "Лабиринт С",
+                "goto": {
+                    "x": 422,
+                    "y": 563
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84,
+                    -403
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 84,
+                "y": 403,
+                "region": "pr",
+                "map": "labz",
+                "caption": "Лабиринт З",
+                "goto": {
+                    "x": 207,
+                    "y": 815
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    605,
+                    -851
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 605,
+                "y": 851,
+                "region": "pr",
+                "map": "labt",
+                "caption": "Лабиринт Т",
+                "goto": {
+                    "x": 104,
+                    "y": 417
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    597,
+                    -527
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 597,
+                "y": 527,
+                "caption": "Усиленная Цитадель Механоидов",
+                "class": "tsitadel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86,
+                    -621
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 86,
+                "y": 621,
+                "caption": "Древний мегаёж",
+                "class": "zloboezh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115,
+                    -151
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 115,
+                "y": 151,
+                "caption": "Великий кроволёт",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    280,
+                    -835
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 280,
+                "y": 835,
+                "caption": "Великий Кроволёт Барон",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    209,
+                    -509
+                ]
+            },
+            "properties": {
+                "type": "station",
+                "x": 209,
+                "y": 509,
+                "caption": "\"Пелотас\"",
+                "size": 94,
+                "list": [
+                    {
+                        "caption": "\"Фернанда\"",
+                        "region": "pr",
+                        "map": "labzh",
+                        "x": 160,
+                        "y": 160,
+                        "type": "station"
+                    },
+                    {
+                        "caption": "\"Изабель\"",
+                        "region": "pr",
+                        "map": "labi",
+                        "x": 855,
+                        "y": 300,
+                        "type": "station"
+                    }
+                ]
+            }
+        }
+    ]
+}

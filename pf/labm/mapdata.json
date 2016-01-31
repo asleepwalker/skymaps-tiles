@@ -1,0 +1,200 @@
+{
+    "meta": {
+        "caption": "Лабиринт М",
+        "navigator": "Wond",
+        "date": "01.03.2011",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        },
+        "drop": [
+            "81_15",
+            "81_61",
+            "81_11",
+            "82_6",
+            "81_12",
+            "81_13",
+            "81_62"
+        ]
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    846,
+                    -490
+                ]
+            },
+            "properties": {
+                "type": "flager",
+                "x": 846,
+                "y": 490,
+                "easy": "Плакат Памфри (25)",
+                "hard": "Мусорог майор",
+                "link": "library\/flagers\/rimland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    123,
+                    -838
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 123,
+                "y": 838,
+                "caption": "Небесный Блудотворец Барон",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    835,
+                    -247
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 835,
+                "y": 247,
+                "caption": "Особый Мегаёж",
+                "class": "zloboezh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    758,
+                    -348
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 758,
+                "y": 348,
+                "caption": "Небесный Блудотворец Барон",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    532,
+                    -839
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 532,
+                "y": 839,
+                "region": "pf",
+                "map": "labl",
+                "caption": "Лабиринт Л",
+                "goto": {
+                    "x": 402,
+                    "y": 639
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121,
+                    -177
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 121,
+                "y": 177,
+                "caption": "Небесный Блудотворец Барон",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    863,
+                    -196
+                ]
+            },
+            "properties": {
+                "type": "master",
+                "x": 863,
+                "y": 196,
+                "list": [
+                    "Охладительный узел"
+                ],
+                "link": "library\/masters\/rimland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    428,
+                    -127
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 428,
+                "y": 127,
+                "caption": "Ужасающий Блудотворец",
+                "class": "airship",
+                "mode": "rare"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    655,
+                    -149
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 655,
+                "y": 149,
+                "caption": "Небесный Блудотворец Барон",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141,
+                    -127
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 141,
+                "y": 127,
+                "link": "library\/coins\/rimland"
+            }
+        }
+    ]
+}

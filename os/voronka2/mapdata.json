@@ -1,0 +1,89 @@
+{
+    "meta": {
+        "caption": "Воронка, ур.2",
+        "navigator": "AS_Super",
+        "date": "02.08.2011",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        }
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    652,
+                    -336
+                ]
+            },
+            "properties": {
+                "type": "note",
+                "x": 652,
+                "y": 336,
+                "text": "Чтобы попасть на третий уровень, \"отдайтесь\" течению ровно до этого места, после чего на ускорителях нужно прорваться на внутреннее течение."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    399,
+                    -784
+                ]
+            },
+            "properties": {
+                "type": "note",
+                "x": 399,
+                "y": 784,
+                "text": "Сразу за буйками действует мощнейшее круговое течение по всей карте. Прямо по курсу башни МК5 и МК6, а на десерт - барьеры. Барьеры отметить не удалось, т.к. скорость течения около 2к км\/час."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    367,
+                    -880
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 367,
+                "y": 880,
+                "region": "os",
+                "map": "voronka1",
+                "caption": "Воронка, ур.1",
+                "goto": {
+                    "x": 538,
+                    "y": 413
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    496,
+                    -478
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 496,
+                "y": 478,
+                "region": "os",
+                "map": "voronka3",
+                "caption": "Воронка, ур.3",
+                "goto": {
+                    "x": 434,
+                    "y": 330
+                }
+            }
+        }
+    ]
+}

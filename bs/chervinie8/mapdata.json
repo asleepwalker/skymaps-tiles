@@ -1,0 +1,134 @@
+{
+    "meta": {
+        "caption": "Червиные норы, ур.8",
+        "navigator": "Pentesiliya",
+        "date": "24.04.2011",
+        "size": {
+            "width": 1000,
+            "height": 229
+        },
+        "drop": [
+            "81_53",
+            "81_52",
+            "81_43",
+            "81_42",
+            "82_29"
+        ]
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    61,
+                    -37
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 61,
+                "y": 37,
+                "caption": "Предатель Небес",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    490,
+                    -162
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 490,
+                "y": 162,
+                "caption": "Предатель Небес",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    395,
+                    -40
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 395,
+                "y": 40,
+                "list": [
+                    "Коралловый сиган",
+                    "Золотой летринус"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55,
+                    -167
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 55,
+                "y": 167,
+                "region": "bs",
+                "map": "chervinie11",
+                "caption": "Червиные норы, ур.11",
+                "goto": {
+                    "x": 66,
+                    "y": 106
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    938,
+                    -61
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 938,
+                "y": 61,
+                "region": "bs",
+                "map": "chervinie5",
+                "caption": "Червиные норы, ур.5",
+                "goto": {
+                    "x": 936,
+                    "y": 299
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    733,
+                    -48
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 733,
+                "y": 48,
+                "caption": "Предатель Небес",
+                "class": "airship"
+            }
+        }
+    ]
+}

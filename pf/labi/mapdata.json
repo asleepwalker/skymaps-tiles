@@ -1,0 +1,205 @@
+{
+    "meta": {
+        "caption": "Лабиринт И",
+        "navigator": "AS_Super",
+        "date": "27.02.2011",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        },
+        "drop": [
+            "81_61",
+            "81_42",
+            "81_41",
+            "82_18",
+            "81_62"
+        ]
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    540,
+                    -502
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 540,
+                "y": 502,
+                "caption": "Таверна алконавтов",
+                "class": "taverna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    800,
+                    -552
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 800,
+                "y": 552,
+                "caption": "Мусорог Капитан",
+                "class": "musorog"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    773,
+                    -866
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 773,
+                "y": 866,
+                "caption": "Мусорог-губитель капитан",
+                "class": "musorog"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    887,
+                    -111
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 887,
+                "y": 111,
+                "region": "pf",
+                "map": "laby",
+                "caption": "Лабиринт Й",
+                "goto": {
+                    "x": 180,
+                    "y": 597
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78,
+                    -416
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 78,
+                "y": 416,
+                "region": "pf",
+                "map": "spirt2",
+                "caption": "Лабиринт под Спиртотроном, ур.2",
+                "goto": {
+                    "x": 903,
+                    "y": 655
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81,
+                    -882
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 81,
+                "y": 882,
+                "region": "pf",
+                "map": "labk",
+                "caption": "Лабиринт К",
+                "goto": {
+                    "x": 100,
+                    "y": 241
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100,
+                    -92
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 100,
+                "y": 92,
+                "caption": "Редкий мегаёж",
+                "class": "zloboezh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    785,
+                    -224
+                ]
+            },
+            "properties": {
+                "type": "station",
+                "x": 785,
+                "y": 224,
+                "caption": "\"Летучий Богатырь\"",
+                "size": 94,
+                "list": [
+                    {
+                        "caption": "Восточная платформа",
+                        "region": "pf",
+                        "map": "index",
+                        "x": 2472,
+                        "y": 1439,
+                        "type": "station"
+                    },
+                    {
+                        "caption": "\"Радость Труда\"",
+                        "region": "pf",
+                        "map": "labl",
+                        "x": 824,
+                        "y": 161,
+                        "type": "station"
+                    },
+                    {
+                        "caption": "\"Триумф Старателей\"",
+                        "region": "pf",
+                        "map": "labt",
+                        "x": 186,
+                        "y": 820,
+                        "type": "station"
+                    },
+                    {
+                        "caption": "Платформа 47 км",
+                        "region": "pf",
+                        "map": "labu",
+                        "x": 189,
+                        "y": 801,
+                        "type": "station"
+                    }
+                ]
+            }
+        }
+    ]
+}

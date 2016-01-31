@@ -1,0 +1,231 @@
+{
+    "meta": {
+        "caption": "Лабиринт Ж",
+        "navigator": "AS_Super",
+        "date": "26.02.2011",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        },
+        "drop": [
+            "82_14",
+            "81_61",
+            "81_51",
+            "81_50",
+            "81_62"
+        ]
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    865,
+                    -858
+                ]
+            },
+            "properties": {
+                "type": "flager",
+                "x": 865,
+                "y": 858,
+                "easy": "Плакат Памфри (29)",
+                "hard": "Бешенный Мегаеж",
+                "link": "library\/flagers\/rimland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127,
+                    -145
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 127,
+                "y": 145,
+                "caption": "Редкий Мегаёж",
+                "class": "zloboezh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    278,
+                    -399
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 278,
+                "y": 399,
+                "caption": "Особый Мегаёж",
+                "class": "zloboezh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75,
+                    -596
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 75,
+                "y": 596,
+                "caption": "Особый Мегаёж",
+                "class": "zloboezh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    292,
+                    -863
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 292,
+                "y": 863,
+                "caption": "Редкий Мегаёж",
+                "class": "zloboezh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    724,
+                    -817
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 724,
+                "y": 817,
+                "caption": "Особый Мегаёж",
+                "class": "zloboezh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    724,
+                    -446
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 724,
+                "y": 446,
+                "caption": "Особый Мегаёж",
+                "class": "zloboezh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    444,
+                    -185
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 444,
+                "y": 185,
+                "caption": "Редкий Мегаёж",
+                "class": "zloboezh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    424,
+                    -539
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 424,
+                "y": 539,
+                "region": "pf",
+                "map": "labe",
+                "caption": "Лабиринт Е",
+                "goto": {
+                    "x": 894,
+                    "y": 890
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110,
+                    -114
+                ]
+            },
+            "properties": {
+                "type": "master",
+                "x": 110,
+                "y": 114,
+                "list": [
+                    "Механизм подачи снарядов"
+                ],
+                "link": "library\/masters\/rimland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    802,
+                    -116
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 802,
+                "y": 116,
+                "caption": "Ужасающий Мегаёж",
+                "class": "zloboezh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122,
+                    -743
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 122,
+                "y": 743,
+                "link": "library\/coins\/rimland"
+            }
+        }
+    ]
+}

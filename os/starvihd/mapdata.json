@@ -1,0 +1,194 @@
+{
+    "meta": {
+        "caption": "Старый вихрь Д",
+        "navigator": "AS_Super",
+        "date": "11.08.2011",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        }
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    830,
+                    -422
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 830,
+                "y": 422,
+                "caption": "Рьяный хламкистодор",
+                "class": "hlamk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    839,
+                    -231
+                ]
+            },
+            "properties": {
+                "type": "flager",
+                "x": 839,
+                "y": 231,
+                "easy": "Глазары",
+                "hard": "Гнездо Осиланов",
+                "link": "library\/flagers\/oskolki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81,
+                    -87
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 81,
+                "y": 87,
+                "region": "os",
+                "map": "starvihg",
+                "caption": "Старый вихрь Г",
+                "goto": {
+                    "x": 96,
+                    "y": 453
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    881,
+                    -878
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 881,
+                "y": 878,
+                "region": "os",
+                "map": "starvihe",
+                "caption": "Старый вихрь Е",
+                "goto": {
+                    "x": 473,
+                    "y": 225
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76,
+                    -544
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 76,
+                "y": 544,
+                "caption": "Хламкистодоры",
+                "class": "hlamk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    256,
+                    -310
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 256,
+                "y": 310,
+                "caption": "Борзый хламкистадор",
+                "class": "hlamk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    440,
+                    -209
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 440,
+                "y": 209,
+                "caption": "Борзый хламкистадор",
+                "class": "hlamk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    305,
+                    -197
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 305,
+                "y": 197,
+                "link": "library\/coins\/oskolki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    273,
+                    -734
+                ]
+            },
+            "properties": {
+                "type": "station",
+                "x": 273,
+                "y": 734,
+                "caption": "Ржавая Платформа",
+                "size": 120,
+                "list": [
+                    {
+                        "caption": "Кавардак",
+                        "region": "os",
+                        "map": "index",
+                        "x": 474,
+                        "y": 339,
+                        "type": "station"
+                    },
+                    {
+                        "caption": "Старая Станция",
+                        "region": "os",
+                        "map": "starvihb",
+                        "x": 741,
+                        "y": 554,
+                        "type": "station"
+                    }
+                ]
+            }
+        }
+    ]
+}

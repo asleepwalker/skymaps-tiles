@@ -1,0 +1,183 @@
+{
+    "meta": {
+        "caption": "НПК, Производственный уровень 2",
+        "navigator": "neo_max",
+        "date": "03.06.2012",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        }
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    460,
+                    -482
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 460,
+                "y": 482,
+                "caption": "Летанк",
+                "class": "letank"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    790,
+                    -482
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 790,
+                "y": 482,
+                "caption": "Летанк",
+                "class": "letank"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    760,
+                    -702
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 760,
+                "y": 702,
+                "caption": "Летанк",
+                "class": "letank"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    814,
+                    -107
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 814,
+                "y": 107,
+                "region": "pf",
+                "map": "npkkpp",
+                "caption": "НПК, КПП",
+                "goto": {
+                    "x": 512,
+                    "y": 1141
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114,
+                    -715
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 114,
+                "y": 715,
+                "region": "pf",
+                "map": "npk1",
+                "caption": "НПК, Производственный уровень 1",
+                "goto": {
+                    "x": 892,
+                    "y": 143
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    817,
+                    -868
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 817,
+                "y": 868,
+                "region": "pf",
+                "map": "npksvalka",
+                "caption": "НПК, Свалка",
+                "goto": {
+                    "x": 149,
+                    "y": 499
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    308,
+                    -660
+                ]
+            },
+            "properties": {
+                "type": "master",
+                "x": 308,
+                "y": 660,
+                "list": [
+                    "Часовые механизмы"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    542,
+                    -361
+                ]
+            },
+            "properties": {
+                "type": "quest",
+                "x": 542,
+                "y": 361,
+                "caption": "Сбор тайны \"Загадочная лаборатория\"",
+                "tip": "Здесь находится часть тайны загадочной лаборатории НПК."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    858,
+                    -674
+                ]
+            },
+            "properties": {
+                "type": "master",
+                "x": 858,
+                "y": 674,
+                "list": [
+                    "Железо"
+                ]
+            }
+        }
+    ]
+}

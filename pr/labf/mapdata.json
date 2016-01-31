@@ -1,0 +1,236 @@
+{
+    "meta": {
+        "caption": "Лабиринт Ф",
+        "navigator": "AS_Super",
+        "date": "18.03.2011",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        },
+        "drop": [
+            "82_24",
+            "81_71",
+            "81_14",
+            "81_12",
+            "82_9",
+            "82_22",
+            "81_13",
+            "81_42"
+        ]
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    185,
+                    -827
+                ]
+            },
+            "properties": {
+                "type": "master",
+                "x": 185,
+                "y": 827,
+                "list": [
+                    "Топаз"
+                ],
+                "link": "library\/masters\/reef"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    297,
+                    -848
+                ]
+            },
+            "properties": {
+                "type": "flager",
+                "x": 297,
+                "y": 848,
+                "easy": "Тропосек (17)",
+                "hard": "Злонемон",
+                "link": "library\/flagers\/reef"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80,
+                    -157
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 80,
+                "y": 157,
+                "region": "pr",
+                "map": "labt",
+                "caption": "Лабиринт Т",
+                "goto": {
+                    "x": 415,
+                    "y": 906
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    344,
+                    -145
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 344,
+                "y": 145,
+                "caption": "Альфа-матка",
+                "class": "matka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    210,
+                    -640
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 210,
+                "y": 640,
+                "caption": "Редкий мегаёж",
+                "class": "zloboezh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133,
+                    -612
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 133,
+                "y": 612,
+                "caption": "Редкий мегаёж",
+                "class": "zloboezh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    162,
+                    -802
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 162,
+                "y": 802,
+                "caption": "Особый мегаёж",
+                "class": "zloboezh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    475,
+                    -513
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 475,
+                "y": 513,
+                "caption": "Великий Кроволёт Король",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    745,
+                    -477
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 745,
+                "y": 477,
+                "caption": "Мусорог-потрошитель Полковник",
+                "class": "musorog"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    745,
+                    -524
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 745,
+                "y": 524,
+                "caption": "Мусорог-потрошитель Полковник",
+                "class": "musorog"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    806,
+                    -152
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 806,
+                "y": 152,
+                "caption": "Великий Кроволёт Король",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    351,
+                    -532
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 351,
+                "y": 532,
+                "mobs": "Пиявка-паразит (5)",
+                "coins": "3",
+                "link": "library\/coins\/reef"
+            }
+        }
+    ]
+}

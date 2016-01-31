@@ -1,0 +1,150 @@
+{
+    "meta": {
+        "caption": "Червиные норы, ур.6",
+        "navigator": "Pentesiliya",
+        "date": "01.05.2011",
+        "size": {
+            "width": 1000,
+            "height": 229
+        },
+        "drop": [
+            "81_16",
+            "81_43",
+            "81_42",
+            "81_14",
+            "82_31"
+        ]
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    240,
+                    -42
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 240,
+                "y": 42,
+                "caption": "Убер-крейсер",
+                "class": "kreiser"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    660,
+                    -157
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 660,
+                "y": 157,
+                "caption": "Штурм-крейсер",
+                "class": "kreiser"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    63,
+                    -117
+                ]
+            },
+            "properties": {
+                "type": "flager",
+                "x": 63,
+                "y": 117,
+                "easy": "Гриф-падальщик (14)",
+                "hard": "Громолай",
+                "link": "library\/flagers\/bastion"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    60,
+                    -164
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 60,
+                "y": 164,
+                "region": "bs",
+                "map": "chervinie9",
+                "caption": "Червиные норы, ур.9",
+                "goto": {
+                    "x": 66,
+                    "y": 940
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    938,
+                    -46
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 938,
+                "y": 46,
+                "region": "bs",
+                "map": "chervinie5",
+                "caption": "Червиные норы, ур.5",
+                "goto": {
+                    "x": 131,
+                    "y": 819
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    738,
+                    -43
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 738,
+                "y": 43,
+                "caption": "Убер-цербер",
+                "class": "tserber"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59,
+                    -41
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 59,
+                "y": 41,
+                "caption": "Убер-мухоносец",
+                "class": "muh"
+            }
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "meta": {
+        "caption": "НПК, Свалка",
+        "navigator": "neo_max",
+        "date": "03.06.2012",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        }
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    243,
+                    -523
+                ]
+            },
+            "properties": {
+                "type": "master",
+                "x": 243,
+                "y": 523,
+                "list": [
+                    "Охладительный узел"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    129,
+                    -479
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 129,
+                "y": 479,
+                "region": "pf",
+                "map": "npk2",
+                "caption": "НПК, Производственный уровень 2",
+                "goto": {
+                    "x": 837,
+                    "y": 888
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    762,
+                    -284
+                ]
+            },
+            "properties": {
+                "type": "quest",
+                "x": 762,
+                "y": 284,
+                "caption": "Сбор тайны \"Загадочная лаборатория\"",
+                "tip": "Здесь находится часть тайны загадочной лаборатории НПК."
+            }
+        }
+    ]
+}

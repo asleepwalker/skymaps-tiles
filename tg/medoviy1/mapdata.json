@@ -1,0 +1,86 @@
+{
+    "meta": {
+        "caption": "Большой Медовый лабиринт, ур.1",
+        "navigator": "OrangeHerald",
+        "date": "04.06.2012",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        }
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    441,
+                    -880
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 441,
+                "y": 880
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81,
+                    -85
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 81,
+                "y": 85,
+                "region": "tg",
+                "map": "prostranstvo",
+                "caption": "Пространство Вариантов",
+                "goto": {
+                    "x": 800,
+                    "y": 339
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    207,
+                    -113
+                ]
+            },
+            "properties": {
+                "type": "npc",
+                "x": 207,
+                "y": 113,
+                "caption": "Дом отшельника Дживса",
+                "npc": "Отшельник Дживс",
+                "link": "library\/npc\/tg\/jeevs"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151,
+                    -808
+                ]
+            },
+            "properties": {
+                "type": "npc",
+                "x": 151,
+                "y": 808,
+                "caption": "Дом отшельника Вудса",
+                "npc": "Отшельник Вудс",
+                "link": "library\/npc\/tg\/voods"
+            }
+        }
+    ]
+}

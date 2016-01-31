@@ -1,0 +1,228 @@
+{
+    "meta": {
+        "caption": "Бездна, ур.2",
+        "navigator": "AS_Super",
+        "date": "11.03.2011",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        },
+        "drop": [
+            "81_71",
+            "81_42",
+            "81_14",
+            "81_13",
+            "81_12"
+        ]
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    270,
+                    -832
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 270,
+                "y": 832,
+                "caption": "Великий кроволет",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    250,
+                    -872
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 250,
+                "y": 872,
+                "caption": "Великий кроволет",
+                "class": "airship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    483,
+                    -526
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 483,
+                "y": 526,
+                "region": "pr",
+                "map": "bezdna3",
+                "caption": "Бездна, ур.3",
+                "goto": {
+                    "x": 846,
+                    "y": 185
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    95,
+                    -903
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 95,
+                "y": 903,
+                "region": "pr",
+                "map": "bezdna1",
+                "caption": "Бездна, ур.1",
+                "goto": {
+                    "x": 845,
+                    "y": 850
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86,
+                    -100
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 86,
+                "y": 100,
+                "caption": "Древний мегаёж",
+                "class": "zloboezh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    817,
+                    -838
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 817,
+                "y": 838,
+                "caption": "Древний мегаёж",
+                "class": "zloboezh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    857,
+                    -902
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 857,
+                "y": 902,
+                "caption": "Древний мегаёж",
+                "class": "zloboezh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    635,
+                    -663
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 635,
+                "y": 663,
+                "caption": "Осьминог Ларри",
+                "class": "ostrov",
+                "mode": "rare"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    795,
+                    -126
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 795,
+                "y": 126,
+                "caption": "Осьминог Томми ",
+                "class": "ostrov",
+                "mode": "rare"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    313,
+                    -323
+                ]
+            },
+            "properties": {
+                "type": "station",
+                "x": 313,
+                "y": 323,
+                "caption": "\"Голубая Даль\"",
+                "size": 66,
+                "list": [
+                    {
+                        "caption": "Лагуна",
+                        "region": "pr",
+                        "map": "index",
+                        "x": 1022,
+                        "y": 1001,
+                        "type": "station"
+                    },
+                    {
+                        "caption": "\"Касильда\"",
+                        "region": "pr",
+                        "map": "labk",
+                        "x": 631,
+                        "y": 168,
+                        "type": "station"
+                    },
+                    {
+                        "caption": "Папайа Джус",
+                        "region": "pr",
+                        "map": "labl",
+                        "x": 269,
+                        "y": 776,
+                        "type": "station"
+                    }
+                ]
+            }
+        }
+    ]
+}

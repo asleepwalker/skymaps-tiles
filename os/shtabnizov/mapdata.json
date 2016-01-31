@@ -1,0 +1,181 @@
+{
+    "meta": {
+        "caption": "Штаб Низушников",
+        "navigator": "AS_Super",
+        "date": "02.08.2011",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        }
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    237,
+                    -707
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 237,
+                "y": 707,
+                "caption": "Цербер-диверсант",
+                "class": "tserber"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    670,
+                    -213
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 670,
+                "y": 213,
+                "caption": "Кишкодав-диверсант",
+                "class": "kishkodav"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    432,
+                    -587
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 432,
+                "y": 587,
+                "caption": "Ужасающий Кадавр",
+                "class": "kadavr",
+                "mode": "rare"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    207,
+                    -207
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 207,
+                "y": 207,
+                "caption": "Мухоносец-диверсант",
+                "class": "muh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    458,
+                    -460
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 458,
+                "y": 460
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    529,
+                    -460
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 529,
+                "y": 460
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    458,
+                    -531
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 458,
+                "y": 531
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    529,
+                    -531
+                ]
+            },
+            "properties": {
+                "type": "barrier",
+                "x": 529,
+                "y": 531
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    480,
+                    -482
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 480,
+                "y": 482,
+                "region": "os",
+                "map": "nizini",
+                "caption": "Низины",
+                "goto": {
+                    "x": 272,
+                    "y": 552
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    684,
+                    -759
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 684,
+                "y": 759,
+                "caption": "Кадавр-диверсант",
+                "class": "kadavr"
+            }
+        }
+    ]
+}

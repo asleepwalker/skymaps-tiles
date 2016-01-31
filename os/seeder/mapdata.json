@@ -1,0 +1,31 @@
+{
+    "meta": {
+        "caption": "Цветной бульвар",
+        "navigator": "падший77",
+        "date": "25.04.2013",
+        "size": {
+            "width": 700,
+            "height": 700
+        }
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    307,
+                    -343
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 307,
+                "y": 343,
+                "caption": "Семиняник",
+                "class": "flower",
+                "mode": "quest"
+            }
+        }
+    ]
+}

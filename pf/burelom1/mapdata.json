@@ -1,0 +1,131 @@
+{
+    "meta": {
+        "caption": "Лабиринт под Буреломом, ур.1",
+        "navigator": "Barif",
+        "date": "25.02.2011",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        },
+        "drop": [
+            "82_8",
+            "81_61",
+            "81_42",
+            "81_41",
+            "81_62"
+        ]
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    800,
+                    -136
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 800,
+                "y": 136,
+                "caption": "Мегаёж",
+                "class": "zloboezh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    791,
+                    -398
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 791,
+                "y": 398,
+                "caption": "Мегаёж",
+                "class": "zloboezh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    802,
+                    -669
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 802,
+                "y": 669,
+                "caption": "Логово бандитов",
+                "class": "logovo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88,
+                    -886
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 88,
+                "y": 886,
+                "region": "pf",
+                "map": "index",
+                "caption": "Периферия",
+                "goto": {
+                    "x": 416,
+                    "y": 1673
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    886,
+                    -884
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 886,
+                "y": 884,
+                "region": "pf",
+                "map": "burelom2",
+                "caption": "Лабиринт под Буреломом, ур.2",
+                "goto": {
+                    "x": 488,
+                    "y": 93
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    426,
+                    -874
+                ]
+            },
+            "properties": {
+                "type": "note",
+                "x": 426,
+                "y": 874,
+                "text": "У отшельника будет продолжатся цепочка квестовой линии \"Проблема бурелома\"."
+            }
+        }
+    ]
+}

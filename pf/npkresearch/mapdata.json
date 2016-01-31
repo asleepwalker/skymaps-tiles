@@ -1,0 +1,241 @@
+{
+    "meta": {
+        "caption": "НПК, Исследовательский уровень",
+        "navigator": "neo_max",
+        "date": "03.06.2012",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        }
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    660,
+                    -772
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 660,
+                "y": 772,
+                "caption": "Летанк",
+                "class": "letank"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    790,
+                    -492
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 790,
+                "y": 492,
+                "caption": "Мощная цитадель",
+                "class": "tsitadel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    640,
+                    -432
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 640,
+                "y": 432,
+                "caption": "Мощная цитадель",
+                "class": "tsitadel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    892,
+                    -676
+                ]
+            },
+            "properties": {
+                "type": "quest",
+                "x": 892,
+                "y": 676,
+                "caption": "Сбор тайны \"Загадочная лаборатория\"",
+                "tip": "Здесь находится часть тайны загадочной лаборатории НПК."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86,
+                    -81
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 86,
+                "y": 81,
+                "region": "pf",
+                "map": "npkcenter",
+                "caption": "НПК, Центр разработки",
+                "goto": {
+                    "x": 872,
+                    "y": 112
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    899,
+                    -69
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 899,
+                "y": 69,
+                "region": "pf",
+                "map": "npkadmin",
+                "caption": "НПК, Административный уровень",
+                "goto": {
+                    "x": 885,
+                    "y": 106
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    456,
+                    -910
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 456,
+                "y": 910,
+                "region": "pf",
+                "map": "npkcenter",
+                "caption": "НПК, Центр разработки",
+                "goto": {
+                    "x": 872,
+                    "y": 112
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    534,
+                    -482
+                ]
+            },
+            "properties": {
+                "type": "master",
+                "x": 534,
+                "y": 482,
+                "list": [
+                    "Хитрый клапан"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    336,
+                    -890
+                ]
+            },
+            "properties": {
+                "type": "master",
+                "x": 336,
+                "y": 890,
+                "list": [
+                    "Сломанное орудие"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    810,
+                    -121
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 810,
+                "y": 121,
+                "link": "library\/coins\/rimland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79,
+                    -334
+                ]
+            },
+            "properties": {
+                "type": "npc",
+                "x": 79,
+                "y": 334,
+                "caption": "Дом Гальвани",
+                "npc": "Профессор Гальвани",
+                "link": "library\/npc\/pf\/galvani"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    848,
+                    -232
+                ]
+            },
+            "properties": {
+                "type": "npc",
+                "x": 848,
+                "y": 232,
+                "caption": "Робот Брендер",
+                "npc": "Робот Брендер",
+                "link": "library\/npc\/pf\/brender",
+                "quests": [
+                    {
+                        "caption": "Искра жизни",
+                        "url": "quests\/script2\/npk\/spark"
+                    }
+                ]
+            }
+        }
+    ]
+}

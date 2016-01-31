@@ -1,0 +1,127 @@
+{
+    "meta": {
+        "caption": "Лабиринт под Спиртотроном, ур.3",
+        "navigator": "AS_Super",
+        "date": "27.02.2011",
+        "size": {
+            "width": 1000,
+            "height": 500
+        },
+        "drop": [
+            "81_61",
+            "81_32",
+            "81_31",
+            "81_62"
+        ]
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    377,
+                    -237
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 377,
+                "y": 237,
+                "caption": "Таверна алконавтов-монстров",
+                "class": "taverna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    654,
+                    -171
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 654,
+                "y": 171,
+                "caption": "Таверна алконавтов-монстров",
+                "class": "taverna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70,
+                    -232
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 70,
+                "y": 232,
+                "region": "pf",
+                "map": "spirt2",
+                "caption": "Лабиринт под Спиртотроном, ур.2",
+                "goto": {
+                    "x": 905,
+                    "y": 96
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90,
+                    -132
+                ]
+            },
+            "properties": {
+                "type": "flager",
+                "x": 90,
+                "y": 132,
+                "easy": "Спившийся флягер (13)",
+                "hard": "Алкобарон",
+                "link": "library\/flagers\/rimland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    629,
+                    -320
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 629,
+                "y": 320,
+                "caption": "Таверна алконавтов-монстров",
+                "class": "taverna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    540,
+                    -270
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 540,
+                "y": 270,
+                "caption": "Таверна алконавтов-монстров",
+                "class": "taverna"
+            }
+        }
+    ]
+}

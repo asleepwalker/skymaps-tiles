@@ -1,0 +1,152 @@
+{
+    "meta": {
+        "caption": "Лабиринт З",
+        "navigator": "AS_Super",
+        "date": "18.03.2011",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        },
+        "drop": [
+            "82_24",
+            "81_42",
+            "81_71",
+            "82_19",
+            "81_33",
+            "81_32"
+        ]
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    812,
+                    -615
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 812,
+                "y": 615,
+                "caption": "Ужасающая Матка",
+                "class": "matka",
+                "mode": "rare"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    271,
+                    -514
+                ]
+            },
+            "properties": {
+                "type": "flager",
+                "x": 271,
+                "y": 514,
+                "easy": "Токсичный негодяй (13)",
+                "hard": "Матка Босха",
+                "link": "library\/flagers\/reef"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    317,
+                    -113
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 317,
+                "y": 113,
+                "region": "pr",
+                "map": "labe",
+                "caption": "Лабиринт Е",
+                "goto": {
+                    "x": 790,
+                    "y": 643
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    187,
+                    -795
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 187,
+                "y": 795,
+                "region": "pr",
+                "map": "labr",
+                "caption": "Лабиринт Р",
+                "goto": {
+                    "x": 104,
+                    "y": 423
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    610,
+                    -268
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 610,
+                "y": 268,
+                "caption": "Древний мегаёж",
+                "class": "zloboezh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    440,
+                    -661
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 440,
+                "y": 661,
+                "caption": "Бета-матка",
+                "class": "matka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    524,
+                    -748
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 524,
+                "y": 748,
+                "caption": "Мусорог Полковник",
+                "class": "musorog"
+            }
+        }
+    ]
+}

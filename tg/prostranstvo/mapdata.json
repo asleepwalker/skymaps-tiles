@@ -1,0 +1,72 @@
+{
+    "meta": {
+        "caption": "Пространство Вариантов",
+        "navigator": "OrangeHerald",
+        "date": "04.06.2012",
+        "size": {
+            "width": 1000,
+            "height": 944
+        }
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168,
+                    -320
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 168,
+                "y": 320
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    780,
+                    -319
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 780,
+                "y": 319,
+                "region": "tg",
+                "map": "medoviy1",
+                "caption": "Большой Медовый лабиринт, ур.1",
+                "goto": {
+                    "x": 101,
+                    "y": 105
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    481,
+                    -798
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 481,
+                "y": 798,
+                "region": "tg",
+                "map": "index",
+                "caption": "Тихая Гавань",
+                "goto": {
+                    "x": 1233,
+                    "y": 1333
+                }
+            }
+        }
+    ]
+}

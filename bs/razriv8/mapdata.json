@@ -1,0 +1,270 @@
+{
+    "meta": {
+        "caption": "Разрыв, ур.8",
+        "navigator": "Pentesiliya",
+        "date": "17.04.2011",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        },
+        "drop": [
+            "82_28",
+            "81_65",
+            "81_63",
+            "81_34",
+            "81_33",
+            "82_33"
+        ]
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    472,
+                    -79
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 472,
+                "y": 79,
+                "caption": "Ужасающий Цербер",
+                "class": "tserber",
+                "mode": "rare"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    810,
+                    -92
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 810,
+                "y": 92,
+                "caption": "Убер-фактория",
+                "class": "faka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    440,
+                    -282
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 440,
+                "y": 282,
+                "caption": "Кишкодав-страж",
+                "class": "kishkodav"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    800,
+                    -582
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 800,
+                "y": 582,
+                "caption": "Кишкодав-мститель",
+                "class": "kishkodav"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    580,
+                    -402
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 580,
+                "y": 402,
+                "caption": "Штурм-кишкодав",
+                "class": "kishkodav"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    810,
+                    -242
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 810,
+                "y": 242,
+                "caption": "Кишкодав-мститель",
+                "class": "kishkodav"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    310,
+                    -682
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 310,
+                "y": 682,
+                "caption": "Штурм-кишкодав",
+                "class": "kishkodav"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110,
+                    -582
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 110,
+                "y": 582,
+                "caption": "Кишкодав-мститель",
+                "class": "kishkodav"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113,
+                    -604
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 113,
+                "y": 604,
+                "caption": "Кишкодав-мститель",
+                "class": "kishkodav"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110,
+                    -422
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 110,
+                "y": 422,
+                "caption": "Штурм-фактория",
+                "class": "faka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    320,
+                    -882
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 320,
+                "y": 882,
+                "caption": "Кишкодав-страж",
+                "class": "kishkodav"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    828,
+                    -273
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 828,
+                "y": 273,
+                "caption": "Кишкодав-мститель",
+                "class": "kishkodav"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    66,
+                    -884
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 66,
+                "y": 884,
+                "region": "bs",
+                "map": "razriv7",
+                "caption": "Разрыв, ур.7",
+                "goto": {
+                    "x": 912,
+                    "y": 908
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    899,
+                    -882
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 899,
+                "y": 882,
+                "region": "bs",
+                "map": "razriv9",
+                "caption": "Разрыв, ур.9",
+                "goto": {
+                    "x": 906,
+                    "y": 92
+                }
+            }
+        }
+    ]
+}

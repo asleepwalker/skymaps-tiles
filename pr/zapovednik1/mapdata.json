@@ -1,0 +1,312 @@
+{
+    "meta": {
+        "caption": "Заповедник, уровень 1",
+        "navigator": "neo_max",
+        "date": "30.04.2015",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        }
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    783,
+                    -190
+                ]
+            },
+            "properties": {
+                "type": "station",
+                "x": 783,
+                "y": 190,
+                "caption": "Охотничья платформа",
+                "size": 80,
+                "list": [
+                    {
+                        "caption": "Неименуемая платформа",
+                        "region": "pr",
+                        "map": "zapovednik3",
+                        "x": 757,
+                        "y": 768,
+                        "type": "station"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    445,
+                    -610
+                ]
+            },
+            "properties": {
+                "type": "",
+                "x": 445,
+                "y": 610
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    412,
+                    -416
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 412,
+                "y": 416
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170,
+                    -725
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 170,
+                "y": 725
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    474,
+                    -570
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 474,
+                "y": 570
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    521,
+                    -545
+                ]
+            },
+            "properties": {
+                "type": "fish",
+                "x": 521,
+                "y": 545
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    490,
+                    -406
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 490,
+                "y": 406,
+                "region": "pr",
+                "map": "zapovednik2",
+                "caption": "Заповедник, уровень 2",
+                "goto": {
+                    "x": 710,
+                    "y": 327
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    254,
+                    -908
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 254,
+                "y": 908,
+                "region": "pr",
+                "map": "zapovednik2",
+                "caption": "Заповедник, уровень 2",
+                "goto": {
+                    "x": 65,
+                    "y": 455
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86,
+                    -834
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 86,
+                "y": 834,
+                "caption": "Редкий Мегаёж",
+                "class": "zloboezh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    375,
+                    -643
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 375,
+                "y": 643,
+                "caption": "Шмель",
+                "class": "shmel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    500,
+                    -763
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 500,
+                "y": 763,
+                "caption": "Шмель",
+                "class": "shmel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    599,
+                    -805
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 599,
+                "y": 805,
+                "caption": "Улей",
+                "class": "uley"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    762,
+                    -172
+                ]
+            },
+            "properties": {
+                "type": "npc",
+                "x": 762,
+                "y": 172,
+                "caption": "Охотничья платформа",
+                "npc": "Егерь Буссенар"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    726,
+                    -609
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 726,
+                "y": 609,
+                "caption": "Улей",
+                "class": "uley"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    394,
+                    -146
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 394,
+                "y": 146,
+                "caption": "Мантис",
+                "class": "mantis",
+                "mode": "quest"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    415,
+                    -415
+                ]
+            },
+            "properties": {
+                "type": "beacon",
+                "x": 415,
+                "y": 415,
+                "link": "library\/coins\/zapovednik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    410,
+                    -166
+                ]
+            },
+            "properties": {
+                "type": "quest",
+                "x": 410,
+                "y": 166,
+                "caption": "Призрачные поиски",
+                "tip": "Для появления Мантиса надо:\n1) Убить 50 Редких скатов;\n2) Убить 25 Особенных скатов."
+            }
+        }
+    ]
+}

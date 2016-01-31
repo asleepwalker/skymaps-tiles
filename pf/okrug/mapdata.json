@@ -1,0 +1,152 @@
+{
+    "meta": {
+        "caption": "Особый Муниципальный Округ 4",
+        "navigator": "AS_Super",
+        "date": "15.04.2011",
+        "size": {
+            "width": 1000,
+            "height": 750
+        }
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    404,
+                    -94
+                ]
+            },
+            "properties": {
+                "type": "tree",
+                "x": 404,
+                "y": 94
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106,
+                    -289
+                ]
+            },
+            "properties": {
+                "type": "tree",
+                "x": 106,
+                "y": 289
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    270,
+                    -601
+                ]
+            },
+            "properties": {
+                "type": "tree",
+                "x": 270,
+                "y": 601
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    818,
+                    -420
+                ]
+            },
+            "properties": {
+                "type": "tree",
+                "x": 818,
+                "y": 420
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    749,
+                    -113
+                ]
+            },
+            "properties": {
+                "type": "tree",
+                "x": 749,
+                "y": 113
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    877,
+                    -412
+                ]
+            },
+            "properties": {
+                "type": "tree",
+                "x": 877,
+                "y": 412
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    591,
+                    -127
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 591,
+                "y": 127,
+                "region": "pf",
+                "map": "svalka",
+                "caption": "Свалка",
+                "goto": {
+                    "x": 147,
+                    "y": 347
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    252,
+                    -402
+                ]
+            },
+            "properties": {
+                "type": "station",
+                "x": 252,
+                "y": 402,
+                "caption": "Казенная платформа",
+                "size": 207,
+                "list": [
+                    {
+                        "caption": "Вышино",
+                        "region": "pf",
+                        "map": "index",
+                        "x": 1607,
+                        "y": 762,
+                        "type": "station"
+                    }
+                ]
+            }
+        }
+    ]
+}

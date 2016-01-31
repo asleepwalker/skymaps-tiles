@@ -1,0 +1,92 @@
+{
+    "meta": {
+        "caption": "Храм Хлама",
+        "navigator": "AS_Super",
+        "date": "25.04.2013",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        }
+    },
+    "objects": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    180,
+                    -752
+                ]
+            },
+            "properties": {
+                "type": "boss",
+                "x": 180,
+                "y": 752,
+                "caption": "Жестокий хламкистадор",
+                "class": "hlamk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113,
+                    -773
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 113,
+                "y": 773,
+                "region": "os",
+                "map": "starvihe",
+                "caption": "Старый вихрь Е",
+                "goto": {
+                    "x": 555,
+                    "y": 794
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    186,
+                    -842
+                ]
+            },
+            "properties": {
+                "type": "hole",
+                "x": 186,
+                "y": 842,
+                "region": "os",
+                "map": "starvihl",
+                "caption": "Старый вихрь Л",
+                "goto": {
+                    "x": 523,
+                    "y": 473
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    463,
+                    -465
+                ]
+            },
+            "properties": {
+                "type": "npc",
+                "x": 463,
+                "y": 465,
+                "caption": "Храм Хлама",
+                "npc": "Верховный Хламовник",
+                "link": "library\/npc\/os\/hlamovnik"
+            }
+        }
+    ]
+}
