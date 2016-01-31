@@ -75,36 +75,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    0,
-                    0
-                ]
-            },
-            "properties": {
-                "type": "tree",
-                "x": 0,
-                "y": 0
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0,
-                    0
-                ]
-            },
-            "properties": {
-                "type": "tree",
-                "x": 0,
-                "y": 0
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     1416,
                     -1220
                 ]
